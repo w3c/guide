@@ -202,7 +202,15 @@ Once the Head of W3C Communications (or delegate) has approved the Call for Revi
 
 If there are only very minor changes to a charter resulting from the review, the (future) decision includes the original charter URI and an explanation of the changes and their rationale.
 
-If substantive changes are proposed in response to charter review, the Team Contact must send the charter with proposed changes, the [HTML diff](https://services.w3.org/htmldiff), and an explanation of the changes and their rationale to all who reviewed the charter, copying the [member-charters-review@w3.org](https://lists.w3.org/Archives/Member/member-charters-review/) member-archived mailing list, accompanied by a request for response (with a deadline of a minimum of one week for response time) if reviewers have concerns or if the changes would alter their reviews. If the work continues or derives from an existing group or community effort, the Team Contact should also send the [HTML diff](https://services.w3.org/htmldiff) and a public rationale to that group or community. These communications should note that W3C has not yet approved the charter.
+If substantive changes are proposed in response to charter review, the Team Contact must request a review of the proposed changes to the individuals and organizations who responded to the Call for Review, copying the [member-charters-review@w3.org](https://lists.w3.org/Archives/Member/member-charters-review/) member-archived mailing list. The request must contain:
+
+1. an explanation of the changes and their rationale
+2. a deadline for response (minimum of one week) if reviewers have concerns or if the changes would alter their reviews
+3. the URI for the questionnaire open to the AC
+
+If the work continues or derives from an existing group or community effort, the Team Contact should also send the [HTML diff](https://services.w3.org/htmldiff) and a public rationale to that group or community.
+
+These communications should note that W3C has not yet approved the charter.
 
 > ***Suggested wording:*** *Please let us know by \[date+1 week] if you have concerns or if this change would alter
 your review*.
