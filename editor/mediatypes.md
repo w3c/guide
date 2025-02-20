@@ -28,7 +28,7 @@ This procedure is based on [Media Type Specifications and Registration Procedure
    - Include a pointer to and a plaintext copy (not just an attachment) of the Media Type registration section in your email to [media-types@iana.org](mailto:media-types@iana.org).
    - Make sure you address and reply to comments and questions on [media-types@iana.org](mailto:media-types@iana.org). If you change the registration in your specification as a result of comments on ietf-type (or for any other reason), send the revised version to [media-types@iana.org](mailto:media-types@iana.org).
    - If you are registering an XML-based format, you may want to cc: [ietf-xml-mime@imc.org](mailto:ietf-xml-mime@imc.org).
-   - Note that you need to be [subscribed to the list](https://www.ietf.org/mailman/listinfo/ietf-types) to post to it.
+   - Note that you need to be [subscribed to the list](https://www.ietf.org/mailman/listinfo/media-types) to post to it.
    - To make it easier for your WG to track comments on the Media Type section, you may cross-post the comments list for your specification.
 3. In preparation for Candidate Recommendation:
    
