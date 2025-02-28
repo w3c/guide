@@ -41,3 +41,5 @@ Note that at any step, the whole process might end by the originator by withdraw
 1.  The Council writes a report
 1.  The Council Team Contact ensures that the [W3C Council](https://www.w3.org/about/council/) as well as the FO Dashboard are updated
 1.  The decision is announced to the different parties and the AC
+1.  At some point [TBD], archive the Council Mailing List
+
