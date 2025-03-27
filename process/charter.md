@@ -55,6 +55,7 @@ for details see [how to send advance notice of work to the Advisory Committee](a
 that advance notice has been sent.  
 *Timing:* The exact timing of the advance notice may vary from charter to charter. In practice, if the advance notice would precede the formal call for review by only a short delay, we skip the advance notice.
 
+{:#horizontal-review}
 Request horizontal review
 : Soon after, or in parallel, initiate [horizontal review](../documentreview/#how-to-get-horizontal-review). This is done by adding the "[Horizontal review requested](https://github.com/w3c/strategy/labels/Horizontal%20review%20requested)" label to the issue in the [pipeline](#pipeline).  
 *Timing:* Horizontal reviewers will usually respond within two weeks, though it is wise to allow for additional time. The charter shepherd may use the team-horizontal list to reach all the horizontal reviewers.  
@@ -316,7 +317,7 @@ Team contacts should look at [how to setup a new group](../tools/new-group.md) o
 
 ### 3.6. Announcement of extension  {#announce-extension}
 
-When requesting that the W3C Communications Team announce a charter exension, use the [charter extension template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2Ftemplates&template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fcharter-extension.html&submit=Continue...). If the group is developing a new charter, link to the GitHub repo where a new charter is being developed and to the issues link to raise comments.
+When requesting that the W3C Communications Team announce a charter extension, use the [charter extension template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2Ftemplates&template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fcharter-extension.html&submit=Continue...). If the group is developing a new charter, link to the GitHub repo where a new charter is being developed and to the issues link to raise comments.
 
 The W3C Communications Team then:
 
