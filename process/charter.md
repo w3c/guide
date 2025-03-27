@@ -62,7 +62,7 @@ Request horizontal review
 Horizontal reviews are not required for Groups that do not hold technical discussions, such as the Patents and Standards Interest Group.
 
 Prepare for TiLT Review
-: 
+:
 - *Charter changes*: Horizontal and other reviews may result in changes to the charter, or to objections. The charter shepherd should note in the [request to TiLT](tilt/#request) the horizontal review status (including completed reviews and any timeouts).
 - *Chairs:* Per the [W3C Process](https://www.w3.org/policies/process/#ReqsAllGroups) the W3C Team appoints Working and Interest Group Chairs. It is the responsibility of the charter shepherd to propose one or more Chairs in the request for TiLT approval.
 
@@ -82,10 +82,10 @@ Prepare for AC Review
 Monitor AC Review
 : Once the AC Review is underway, monitor responses and [manage any Formal Objections](../council/council.md). Ensure that the charter receives [sufficient support from the Membership](#baseline-support).  
 *Timing:*
-   
-  - [Per the W3C Process](https://www.w3.org/policies/process/#CharterReview), the review period is at least 28 days.
-  - Any Advisory Committee representative may request an extended review period of any new or substantively modified Working Group charter as part of their response to the Call for Review. In this case the existing charter may need to be extended (see [extension template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2Ftemplates&template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fcharter-extension.html&submit=Continue...)). In case of extended review period, the Team must ensure that the Call for Participation for the work group occurs at least 60 days after the Call for Review of its charter.
-  - The handling of Formal Objections to a charter adds more time.
+
+- [Per the W3C Process](https://www.w3.org/policies/process/#CharterReview), the review period is at least 28 days.
+- Any Advisory Committee representative may request an extended review period of any new or substantively modified Working Group charter as part of their response to the Call for Review. In this case the existing charter may need to be extended (see [extension template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2Ftemplates&template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fcharter-extension.html&submit=Continue...)). In case of extended review period, the Team must ensure that the Call for Participation for the work group occurs at least 60 days after the Call for Review of its charter.
+- The handling of Formal Objections to a charter adds more time.
 
 Manage changes resulting from review
 : As a result of review, make any requested very minor changes (in place) to the charter. If substantive changes are proposed, then initiate review of those proposed changes. In either case, the Team follows a process for [managing changes to charters after review](#manage-changes).
@@ -148,7 +148,7 @@ Generally, the Team will expect to receive reviews for Charter
  of declarations of intent to participate or implement the output of
  the work group.
  {:#review_threshold}
- 
+
 Given the diversity of work underway in the Consortium, including [groups that focus on horizontal reviews](horizontal-groups.md) (e.g., accessibility, security, and internationalization), as well as technologies that are initially focused on by some segment of the Web's stakeholders, there are times where exceptions to this practice may be considered. In those cases, the Team will document reasons why the exception is made.
 
 ### 3.2. Tips to speed up the process  {#speed-tips}
@@ -190,7 +190,7 @@ Once the Head of W3C Communications (or delegate) has approved the Call for Revi
 
 1. Sends the Call for Review to w3c-ac-members@w3.org.
 2. Sends a version of the announcement to public-new-work@w3.org ([archive](https://lists.w3.org/Archives/Public/public-new-work/)). Use this [template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2FTemplates&template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fpublic-charter.html&submit=Continue...) (and see the [example](https://lists.w3.org/Archives/Public/public-new-work/2007Jan/0001.html)). The announcement must include:
-   
+
    - The URI of the (public) charter.
    - The end date of the Member review.
    - That W3C invites public feedback on public-review-comments@w3.org ([archive](https://lists.w3.org/Archives/Public/public-review-comments/)).
@@ -227,24 +227,24 @@ The charter shepherd ensures that the following are done and the following docum
 
 1. TiLT has approved the group, whether or not preceded by an AC Review.
 2. The group exists in the [Groups DB](https://www.w3.org/admin/dashboard).
-   
+
    - If the group does not exist:
-     
+
      Contact the W3C Communications Team to [create the group](https://www.w3.org/admin/dashboard) by sending a mail to [w3t-comm@w3.org](mailto:w3t-comm@w3.org). Note that this requires:
-     
+
      - group name
      - group shortname
      - charter URI
      - homepage URI *(only if you want to use a page different that the automatically generated [group pages](https://www.w3.org/groups/))*
-     
+
      Creating the group will list the group in the drop-down for db-backed groups in the mailing list creation form.
    - If the group already exists:
-     
+
      - For WGs and IGs that are more than mailing lists:
-       
+
        Simply reuse the existing join form; all join pages are available from the [list of groups](https://www.w3.org/groups/).
      - If the group is an IG that is just a mailing list:
-       
+
        Document on the group's home page that to join the group people simply subscribe to the list.
 3. All relevant mailing lists exist. If not, the Team Contact may [create the mailing list(s)](https://www.w3.org/Systems/Mail/Request/).
 4. The main mailing list is associated with the group via the [Group Service Management](https://www.w3.org/2011/04/dbwg/group-services) interface.
@@ -300,7 +300,7 @@ After sending the W3C Decision and Call for Participation:
   
   - [2021-07-12 update](https://lists.w3.org/Archives/Team/w3t-comm/2021Jul/0084.html): associate with a charter the 'W3C document license', the 'W3C software and document license' or both. Which license to be selected is found in the section ‘Licensing’ of the charter. (Rationale: we need to record that bit in the charter admin interface to expose it in our API, in order to check that a document produced by a WG/IG is using the right document license.)
   - 2022-07-19 update: For recharters, deactivate the previous charter when a new charter is valid:
-    
+
     1. add a note to the previous charter indicating:
     > This charter has been replaced by [a newer version](@@@).
     2. if the previous charter hasn't expired when a new charter is installed, deactivate the previous charter by changing its end date via the [Groups DB](https://www.w3.org/admin/dashboard) interface.
