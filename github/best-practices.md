@@ -96,6 +96,11 @@ An exception to this rule is the file [`LICENSE.md`](https://help.github.com/art
 
 See [an example](https://github.com/w3c/validate-repos/blob/main/LICENSE.md).
 
+If these files do not exist GitHub will use the [default
+community health
+files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file),
+for example our [default code of conduct](https://github.com/w3c/.github/blob/main/CODE_OF_CONDUCT.md).
+
 #### W3C-specific metadata {#w3c}
 
 Usually applicable only to repositories containing specs (*not* software).
