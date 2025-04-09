@@ -3,7 +3,8 @@ title: How to transition work from a Community Group to a Working Group
 toc: yes
 ---
 
-From time to time a Community Group that has been [incubating a technology](../incubation.md) seeks to advance it to the W3C Recommendation track in a Working Group. Our goal through this document is to ease that transition.
+From time to time a Community Group that has been [incubating a technology](../incubation.md) seeks to advance it to the W3C Recommendation track in a Working Group. Our goal through this document is to ease that transition. 
+This [document is on GitHub](https://github.com/w3c/guide/blob/main/process/cg-transition.md)
 
 ## Preparation
 
