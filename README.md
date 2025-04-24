@@ -15,7 +15,9 @@ Pull requests are welcome from the Community. This Guide is for you after all.
 
 The general edition of the Guidebook is managed by [@w3c/guidebook](https://github.com/orgs/w3c/teams/guidebook) but many areas are maintained by separate individuals or teams (check out the commits history of a file to see who).
 
-The Guidebook uses the [W3C Jekyll theme](https://github.com/w3c/w3c-jekyll-theme). See the [README](https://github.com/w3c/w3c-jekyll-theme/blob/main/README.md) to run Jekyyl locally.
+The Guidebook uses the [W3C Jekyll theme](https://github.com/w3c/w3c-jekyll-theme). See the [README](https://github.com/w3c/w3c-jekyll-theme/blob/main/README.md) to run Jekyll locally.
+
+Note that latest versions of Ruby might created a [dependency issue]([url](https://github.com/jekyll/jekyll/pull/9392)). It is recommended to use the Ruby version mentioned in the [Github workflow]([url](https://github.com/w3c/guide/blob/1a2821f048c40648a9623ac8bd46056991e30b89/.github/workflows/jekyll-gh-pages.yml#L21)).
 
 ## In this repository
 
