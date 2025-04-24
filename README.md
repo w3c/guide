@@ -15,6 +15,8 @@ Pull requests are welcome from the Community. This Guide is for you after all.
 
 The general edition of the Guidebook is managed by [@w3c/guidebook](https://github.com/orgs/w3c/teams/guidebook) but many areas are maintained by separate individuals or teams (check out the commits history of a file to see who).
 
+The Guidebook uses the [W3C Jekyll theme](https://github.com/w3c/w3c-jekyll-theme). See the [README](https://github.com/w3c/w3c-jekyll-theme/blob/main/README.md) to run Jekyyl locally.
+
 ## In this repository
 
 * [/chair/](chair)
