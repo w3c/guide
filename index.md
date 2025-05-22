@@ -24,7 +24,7 @@ toc: true
 ## Running a Group {#run}
 
 - [W3C Chair Buddy System](chair/buddy.md) (volunteer experienced Chairs can mentor other Chairs)
-- Check out our [Working Groups](https://www.w3.org/PM/Groups/chairboards.html?gtype=working) and [Interest Groups](https://www.w3.org/PM/Groups/chairboards.html?gtype=interest) dashboards to navigate through what we know about them. The Project Management team only maintains a [collection of links and tools](https://www.w3.org/PM/) to keep track.
+- Check out our [Working Groups](https://www.w3.org/PM/Groups/chairboards.html?gtype=working) and [Interest Groups](https://www.w3.org/PM/Groups/chairboards.html?gtype=interest) dashboards to navigate through what we know about them. The Project Management team maintains a [collection of links and tools](https://www.w3.org/PM/) to keep track.
 - [Moderating (Facilitating) Meetings](https://www.w3.org/wiki/Moderating_Meetings)
 - [Creating and delivering effective presentations](https://www.w3.org/wiki/Speaker_Resources)
 - Running a Meeting (especially a teleconference) on [IRC](https://www.w3.org/Project/IRC/) ([Web IRC client](https://webirc.w3.org/)):
