@@ -33,9 +33,9 @@ These settings will allow the group to meet even if the Team Host is not present
 
 Zoom offers a [test meeting service](https://zoom.us/test) for anyone to use to test their connection. You should use it to hear how your own audio is working. This service may only work for Internet (not phone) connections. See also [Zoom's article on Joining a Zoom test meeting](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063307).
 
-## Recordings {#recordings}
+## Recordings and AI Summaries {#recordings}
 
-Zoom provides the ability to make recordings. If this feature is used, it must be with the consent of the meeting participants. Chairs have the responsibility to ensure that participants are aware that they are being recorded whenever this feature is used. Recordings are made available after the end (could take a few hours) using an email notification to the meeting host, and can only be shared by default to individuals with a W3C Zoom account. We're looking into providing additional recommendations to make those videos available through other means.
+Zoom provides the ability to make recordings and create AI summaries. If these features are used, it must be with the consent of the meeting participants. Chairs have the responsibility to ensure that participants are aware that they are being recorded whenever this feature is used. Recordings are made available after the end (could take a few hours) using an email notification to the meeting host, and can only be shared by default to individuals with a W3C Zoom account. We're looking into providing additional recommendations to make those videos available through other means.
 
 Check also the special guidance on [automated meeting transcripts](transcripts.md).
 
