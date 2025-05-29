@@ -172,7 +172,7 @@ The Team Contact:
   - The mailing list must be Team-only.
   - The mailing list must be archived.
   - The mailing list must have at least one subscriber to monitor traffic: the Team Contact.
-  - The mailing list must accept posts from the address [sysbot+wbs@w3.org](mailto:sysbot+wbs@w3.org) to receive questionnaire responses. After the list is created, use the [list administration tool](https://lists.w3.org/admin/manage) to add this address to the accept2 file.
+  - The mailing list must accept posts from the address [noreply+wbs@w3.org](mailto:noreply+wbs@w3.org) to receive questionnaire responses. After the list is created, use the [list administration tool](https://lists.w3.org/admin/manage) to add this address to the accept2 file.
 - Sends a request to the W3C Communications Team ([w3t-comm@w3.org](mailto:w3t-comm@w3.org)) asking that a Call for Review be sent to the AC. The request should be sent **at least three business days before** the anticipated start date of the review. The request must include:
   
   1. A w3.org URI to the proposed charter (not a github.io URI). This charter is public, and must not be altered, during the AC review.
