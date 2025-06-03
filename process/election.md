@@ -117,7 +117,7 @@ During AB and TAG elections, it is appropriate for candidates to campaign and fo
    - List continuing participants.
    - Do **not** report the number of votes for each candidate.
 1. Announce election results on the W3C Home page ([sample](https://www.w3.org/news/2015/w3c-advisory-committee-elects-technical-architecture-group-2/)).
-1. It is customary for the CEO to contact each departing candidate to thank them for participating.
+1. It is customary for the CEO to contact each departing participant to thank them for participating.
 
 ## Welcome new participants  {#welcome}
 
