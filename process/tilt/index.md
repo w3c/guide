@@ -16,7 +16,6 @@ The Technical issues Lead Team is meant to handle all verifications requests for
 - Member submissions
 - Workshops ([1](#note1))
 - Patent Advisory Groups (PAGs)
-- Start of Councils
 - Transition requests ([2](#note2))
 - Anything related to the operational management of developing W3C specs
 

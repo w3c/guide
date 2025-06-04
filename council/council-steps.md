@@ -12,11 +12,9 @@ Note that at any step, the whole process might end by the originator by withdraw
 1.  Formal Objection received
 1.  The Team Contact tries to resolve the Formal Objection before starting the process.
 1.  The FO stands: The Team assigns a "FO Assignee" to handle the Formal Objection. Note that is is not always the Team Contact, but someone having knowledge of the issue raised in the FO.
-1.  The FO Assignee request a Council to [TiLT](https://github.com/w3c/tilt-private/issues) (Team-only link). In parallel:
-  *   The FO Assignee start a Team Report.
+1.  The FO Assignee produces a Team Report:
   *   The Team Report is circulated to the Team for review (one week review time)
   *   The Team Report is circulated (at the same time or after Team review) to both parties.
-1.  TiLT approves the Council
 1.  The FO Assignee updates the [Formal Objection dashboard](https://www.w3.org/Member/wiki/DirectorFOdashboard).
 1.  The Council Team Contact drafts an announcement and call for dismissal reasons with a minimum deadline of two weeks (See this [example](https://lists.w3.org/Archives/Member/w3c-ac-members/2024JanMar/0021.html), and the [Council composition](https://www.w3.org/policies/process/#council-composition)).
   *   Announcement is sent to the AC members list
