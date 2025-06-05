@@ -17,7 +17,7 @@ W3C creates charters for Working and Interest Groups based on W3C community inte
 
 In this document we describe the operational aspects of these phases.
 
-**Note**: Organizing discussions and reviews, building consensus, and handling of formal objections all require time. People working on charters should expect the entire process to take multiple months.
+**Note**: Organizing discussions and reviews, building consensus, and handling of Formal Objections all require time. People working on charters should expect the entire process to take multiple months.
 
 ## 2. Team Decisions
 
@@ -70,7 +70,7 @@ Verify transition readiness
 : For a Working Group charter, review: [W3C Recommendation Track Readiness Best Practices](../standards-track/), [Tips for Getting to Recommendation Faster](https://www.w3.org/2002/05/rec-tips), and [How to transition work from a Community Group to a Working Group](cg-transition.md).
 
 Draft a charter
-: Use the [charter template](https://w3c.github.io/charter-drafts/charter-template.html) to create a public draft charter, [ideally on GitHub](https://w3c.github.io/charter-drafts/). This is where substantive discussion of the charter should take place, including issues and pull requests.
+: Use the [charter template](https://w3c.github.io/charter-drafts/charter-template.html) to create a public charter draft, [ideally on GitHub](https://w3c.github.io/charter-drafts/). This is where substantive discussion of the charter should take place, including issues and pull requests.
 
 Inform the Strategy Team
 : When ready (e.g., after sufficient discussion among stakeholders has taken place), inform the Strategy Team by [creating a new charter issue](https://github.com/w3c/strategy/issues/new?assignees=&labels=Evaluation%3A%20untriaged&template=04-Chartering.md&title=) in their [pipeline](#pipeline).  The Strategy Team uses this issue to provide updates on the charter's progress through the process. Discussions of the charter's content should continue to take place in the charter's own repo.

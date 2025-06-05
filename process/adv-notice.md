@@ -3,7 +3,7 @@ title: Announcing the start of Charter Refinement
 toc: yes
 ---
 
-The W3C Process defines a [charter refinement phase](https://www.w3.org/policies/process/drafts/#charter-initiation) to help ensure that draft charters are mission-aligned, reflect community input and consensus, and have been well-socialized and widely reviewed *before* formal review by the Advisory Committee. 
+The W3C Process defines a [charter refinement phase](https://www.w3.org/policies/process/drafts/#charter-initiation) to help ensure that charter drafts are mission-aligned, reflect community input and consensus, and have been well-socialized and widely reviewed *before* Advisory Committee review.
 
 This document describes how the W3C Communications Team announces the
 start of charter refinement with a *charter review notice*. For
@@ -24,7 +24,7 @@ Per [section 4.1 of the Process Document](https://www.w3.org/policies/process/dr
 
 In addition, the Strategy Team *may* include its own perspectives about the charter in the review notice.
 
-Please use the [advance notice template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2F&amp;template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fcharter-review-notice.html&amp;submit=Continue...) to create an initial draft.
+Please use the [charter review notice template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2F&amp;template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fcharter-review-notice.html&amp;submit=Continue...) to create an initial draft.
 
 # Sending the charter review notice
 
@@ -44,4 +44,4 @@ to:
 
 [Section 4.2 of the Process Document](https://www.w3.org/policies/process/drafts/#charter-development) describes activities during the refinement phase, and in particular the role of the Charter Facilitator to seek consensus and how and when any Formal Objections are handled.
 
-**Note**: Advance notice is not an indication that work *will* necessarily progress to formal Advisory Committee review.
+**Note**: Advance notice is not an indication that work *will* necessarily progress to Advisory Committee review.
