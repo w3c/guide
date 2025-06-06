@@ -17,6 +17,7 @@ toc: true
   - [W3C Team support for W3C Community Groups](https://www.w3.org/2016/04/cg-support/)
   - [W3C Workshops](meetings/workshops.md) for starting incubation
 - [How to transition work from a Community Group to a Working Group](process/cg-transition.md)
+- [how to set up a new group](tools/new-group.md) 
 - [Join a group](https://www.w3.org/get-involved/) (see also [Invited Expert Policy](https://www.w3.org/invited-experts/))
 - If you need a blog, wiki, GitHub repository, or mailing list, ask your team contact.
 - ...more [advice on roles in a group](#roles)
@@ -29,7 +30,6 @@ toc: true
 - [Creating and delivering effective presentations](https://www.w3.org/wiki/Speaker_Resources)
 - Running a Meeting (especially a teleconference) on [IRC](https://www.w3.org/Project/IRC/) ([Web IRC client](https://webirc.w3.org/)):
 
-  - See [how to setup a new group](tools/new-group.md) for general tooling advises
   - [Quick start guide](https://w3c.github.io/scribe2/scribedoc.html) on setting up tools for managing an agenda, generating minutes, and updating issues lists
   - [Scheduling teleconferences](meetings/zoom.md)
   - [Group calendars](meetings/organize.md#calendars)
