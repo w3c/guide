@@ -18,7 +18,9 @@ Per [section 4.1 of the Process Document](https://www.w3.org/policies/process/dr
 
 * A short summary of the proposal.
 * The location of the charter draft, which must be public.
-* How to participate in the discussion of this charter draft and where to file issues.
+* How to participate in the discussion of this charter draft and where to file issues, including:
+   * a link to the Github issues of the associated charter repository for public feedback
+   * a communication channel for Member-only discussions (e.g., w3c-ac-forum)
 * The expected duration of the charter refinement phase, which must not be less than 28 days, and should not be more than 6 months.
 * Who the Chartering Facilitator is.
 
