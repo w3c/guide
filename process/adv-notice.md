@@ -45,6 +45,7 @@ information:
   - A statement welcoming the Members to use w3c-ac-forum for general expressions of interest and support.
   - A request that Members send substantive comments and engage on substantive discussion on a different mailing list or github repository (i.e., **other than w3c-ac-forum**).
   - If applicable, a statement that the archive of this second list is Member-visible.
+  - Where the public can provide feedback on the draft charter, e.g., a pointer to the Github issues of the associated charter repository. 
   - Contact information if people have questions; generally these will be the names of one or more people on the Team.
 
   The advance notice announcement to the Membership SHOULD include this
