@@ -5,7 +5,7 @@ toc: no
  
 The following resources are included in this Guide:
 
-- Running a Meeting with [IRC](https://www.w3.org/Project/IRC/)
+- Running a Meeting with [IRC](irc.md)
   - [Scribe 101](https://www.w3.org/2008/04/scribe.html): Taking meeting minutes using W3C IRC tools
   - [Quick start guide](https://w3c.github.io/scribe2/scribedoc.html) more details on setting up tools for managing an agenda, generating minutes, and updating issues lists
   - Individual IRC tools ("bots"):    
