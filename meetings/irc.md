@@ -7,7 +7,7 @@ toc: true
 
 The easiest way to connect to W3C's IRC server, especially if you're in a hurry, is to point your browser at [https://webirc.w3.org](https://webirc.w3.org/). Just enter your desired nickname and channel, and you'll be talking in no time.
 
-![Screenshot of the Web IRC client connect form with the Nick, Real name and Channels fields](https://www.w3.org/Project/IRC/webirc-w3-org-connect.png)
+![Screenshot of the Web IRC client connect form with the Nick, Real name and Channels fields](webirc-w3-org-connect.png)
 
 ## W3C IRC server details
 
