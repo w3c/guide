@@ -11,7 +11,7 @@ The easiest way to connect to W3C's IRC server, especially if you're in a hurry,
 
 ## W3C IRC server details
 
-If you'd like to use [your own client](#Client) to connect to our server, here are the details you need:
+If you'd like to use [your own client](#where-can-i-find-a-client) to connect to our server, here are the details you need:
 
 Address:
 
@@ -22,7 +22,7 @@ Available ports (choose one):
 : 6667, 6665, 194, 994 (TLS), 6679 (TLS)
 : **W3C staff**: use port 6697; see the [W3C Team IRC documentation](/Systems/Irc/Guide).
 
-Some firewalls block outbound traffic for the traditional IRC ports (6665 through 6669). If you have trouble connecting with one port, try another. If none of them work, [use our web client](#WebClient).
+Some firewalls block outbound traffic for the traditional IRC ports (6665 through 6669). If you have trouble connecting with one port, try another. If none of them work, [use our web client](#w3c-irc-web-client).
 
 **Security note:** Remember that, just as with email, IRC is usually not encrypted. In addition, the W3C IRC servers do not have any access control. Be sure to check who's on your channel when you join and watch who joins during your meeting, particularly if what you're discussing is Member-confidential.
 
@@ -44,11 +44,11 @@ Channels are automatically created on demand so it is very easy to create new ch
 
 ## What is IRC?
 
-IRC is a real-time chat system used around the world to aid in collaboration, support and socializing. IRC consists of two pieces, a [client](#Client) and a [server](#Server). Users launch their client, connect it to an IRC server and can begin chatting. There are two main ways to chat: one-to-one chatting via "private messages" and group chats, which take place in "channels". A good place to learn more about IRC is [irchelp.org](https://www.irchelp.org/), particularly [The IRC Prelude](https://www.irchelp.org/irchelp/new2irc.html), though this page should be enough to get people started using IRC at W3C.
+IRC is a real-time chat system used around the world to aid in collaboration, support and socializing. IRC consists of two pieces, a [client](#w3c-irc-web-client) and a [server](#w3c-irc-server-details). Users launch their client, connect it to an IRC server and can begin chatting. There are two main ways to chat: one-to-one chatting via "private messages" and group chats, which take place in "channels". A good place to learn more about IRC is [irchelp.org](https://www.irchelp.org/), particularly [The IRC Prelude](https://www.irchelp.org/irchelp/new2irc.html), though this page should be enough to get people started using IRC at W3C.
 
 ## Why use IRC?
 
-IRC is more immediate than email: it's almost like having a conversation. IRC is very useful when used in conjunction with a teleconference as it makes it easy to share information like URIs or code (be careful though, there is a [length limitation](#hints)).
+IRC is more immediate than email: it's almost like having a conversation. IRC is very useful when used in conjunction with a teleconference as it makes it easy to share information like URIs or code (be careful though, there is a [length limitation](#hints-and-workarounds)).
 
 At W3C we use IRC during meetings in order to take and review minutes, share URLs, monitor the speaker queue, get systems support and even just socialize. IRC has become a core part of our workflow, and while it can be overwhelming at first, it quickly becomes indispensable. Taking notes on IRC during a phone call or conference, and then mailing the log to the participants (possibly after editing it), has proven to be a pretty effective collaboration technique.
 
@@ -113,7 +113,7 @@ Get a room!
 
 Out of band or off the record comments
 
-: W3C house style is to use "action" messages to denote out-of-band or off-the-record comments. Most IRC clients have a command called `/me` that generates this type of message. Clients generally display these messages in a different style from normal messages. For example, the irc command "/me waves" might result in the discussion window showing the text "* Ralph waves". The [RRSAgent](/2002/03/RRSAgent) logging tool excludes these messages from the web log.
+: W3C house style is to use "action" messages to denote out-of-band or off-the-record comments. Most IRC clients have a command called `/me` that generates this type of message. Clients generally display these messages in a different style from normal messages. For example, the irc command "/me waves" might result in the discussion window showing the text "* Ralph waves". The [RRSAgent](rrsagent.md) logging tool excludes these messages from the web log.
 
 : When IRC is used to keep meeting minutes it is important to distinguish what was actually said in the meeting from side conversations that were not heard by all (i.e., on a teleconference). [Ralph](/staff/#rswick) encourages the use of square brackets around messages that are intended to be side comments for the log; e.g. "\[Ralph agrees]".
 
@@ -149,7 +149,7 @@ Line lengths and pasting
 
 Timestamps in mIRC
 
-: To add timestamps to your display of discussions in the [mIRC](https://www.mirc.co.uk/) client, use File -&gt; Options, go to the IRC section, Messages subsection, and check the "Timestamp events" box. The time that is displayed will be the local time from your machine; others might therefore not see the same timestamps that you see.
+: To add timestamps to your display of discussions in the [mIRC](https://www.mirc.co.uk/) client, use File → Options, go to the IRC section, Messages subsection, and check the "Timestamp events" box. The time that is displayed will be the local time from your machine; others might therefore not see the same timestamps that you see.
 
 Making UTF-8 work in mIRC
 
