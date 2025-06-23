@@ -27,7 +27,7 @@ When an incident arises it is important for everyone involved to know what will 
 How an incident is handled will depend on a number of factors including the type of incident, severity, frequency, and contributing factors. For example, has anyone been involved in incidents before? Is there a pattern?
 
 The procedure for addressing an incident will include some or all of the following:
-1. Incident is addressed directly with the parties involved, if appropriate.
+1. Incident may be addressed directly with the parties involved, if appropriate.
 2. A community member may report an incident to a Chair, Ombuds, member of Team or through an anonymous report where allowable by law. 
 3. Incident is discussed by the reporter, parties involved, and those reported to. Impact is shared and a resolution is proposed.
 4. Ombuds will respond within two business days. 
