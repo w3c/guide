@@ -70,7 +70,7 @@ To avoid leaving people wondering what happened, the Team should post a response
 
 If resolution is not possible in the allocated time frame, the assignee must refer the Formal Objection to the W3C Council for decision. The steps for that are as follows:
 
-- The assignee writes a report for the W3C Council summarizing the decision and the objection.
+- The assignee writes a report for the W3C Council that includes the decision and the objection.
   
   - The document is typically public.
   - If there are limited portions of the document which are confidential, there may be pointers to a separate confidential document. These may be summarized in the main document without compromising confidential information.
@@ -81,7 +81,7 @@ If resolution is not possible in the allocated time frame, the assignee must ref
 - The report should be available for review by the relevant groups and objectors.
   
   - If any participant feels that their viewpoint is not fairly represented, a limited time effort should be made to get all relevant information into the document.
-  - If at the end of the allocated time the Team determines that it is not possible to get agreement on the summary document, then the Team publishes their summary and notes which participants believe that it is not a fair summary. Those participants may write up their own viewpoints.
+  - If at the end of the allocated time the Team determines that it is not possible to get agreement on the report, then the Team publishes findings about which participants believe that it is not a fair report. Those participants may write up their own viewpoints.
   - The assignee should indicate an explicit team contact (which can be the assignee) for comments on the draft document.
 - The W3C Council determines who will rule on this objection and who will chair the Council.
   
@@ -90,7 +90,7 @@ If resolution is not possible in the allocated time frame, the assignee must ref
 - In extraordinary circumstances, the W3C Council may vote to [delegate](https://www.w3.org/policies/process/#council-delegation) or [short-circuit](https://www.w3.org/policies/process/#council-short-circuit) its decision.
 - The W3C Council [deliberates and reaches a decision](https://www.w3.org/policies/process/#council-deliberations) to sustain or overrule the original decision.
   
-  - If the W3C Council members deem that the written summaries are sufficient, they are not required to discuss with participants further, although they may do so if they wish. They may consult with deciders and objectors if they wish. See thoroughness and fairness below.
+  - If the W3C Council members deem that the written reports are sufficient, they are not required to discuss with participants further, although they may do so if they wish. They may consult with deciders and objectors if they wish. See thoroughness and fairness below.
   - Once consultations are completed, the Chair of the W3C Council assesses the consensus of the Council, or if consensus cannot be found, calls for a vote of the W3C Council to sustain or overrule the Formal Objection.
   - If there is disagreement within the Council about the meaning of those sections of the Process that govern the Council itself, in a way that interferes with its ability to discuss the substance of the case, the Chair should try to resolve this by consensus, and should seek advice from the Team contact on how to interpret the Process. If consensus cannot be found, the chair should make a determination, possibly through a vote, to allow the deliberations to move on. Any such point of procedural contention should be covered in the Council Report.
   - The W3C Council [publishes its decision and its rationale](https://www.w3.org/policies/process/#council-decision).
