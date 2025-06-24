@@ -24,6 +24,7 @@ Note that at any step, the whole process might end by the originator by withdraw
 1.  The Council Team contact circulates the collected dismissal reasons to the Potential Council (1 week to amend or answer)
 1.  The Council Team contact circulates the Team Report while point above is discussed, if available
 1.  The Council Team contact create a WBS for dismissal, with the option to self-recuse, and accept the Chair, if found; if not ask for chairs.
+  * The results of the WBS should not be visible
 1.  If the Team Report contains a Team Recommendation that can resolve the FO:
   *   The Council Team contact create a WBS for an [Unanimous Short Ciruit](https://www.w3.org/policies/process/#council-short-circuit)
   *   TAG and AB Team contact to ensure that _everyone_ is voting
