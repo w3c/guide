@@ -73,7 +73,7 @@ The meaning of "Long enough" depends on how many changes there are, how clearly 
 <dl>
 <dt>Accessibility</dt>
 <dd>
-  <span class="step">Work through <a rel="nofollow" class="external text" href="https://w3c.github.io/apa/fast/checklist.html">this questionnaire</a></span> then
+  <span class="step">Work through <a rel="nofollow" class="external text" href="https://w3c.github.io/fast/checklist.html">this questionnaire</a></span> then
   <span class="step"><a rel="nofollow" class="external text" href="https://github.com/w3c/a11y-request/issues/new/choose">request a review via GitHub</a> from <a rel="nofollow" class="external text" href="https://www.w3.org/WAI/about/groups/apawg/">APA</a></span>
 <details>
 <summary>Show useful links</summary>
