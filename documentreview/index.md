@@ -123,12 +123,12 @@ The meaning of "Long enough" depends on how many changes there are, how clearly 
 <dt>Privacy</dt>
 <dd>
   <span class="step">Write a "Privacy Considerations" section for your document, taking into account the <a rel="nofollow" class="external text" href="https://www.w3.org/TR/security-privacy-questionnaire/">Self-Review Questionnaire: Security and Privacy</a>, <a rel="nofollow" class="external text" href="https://www.w3.org/TR/fingerprinting-guidance/">Mitigating Browser Fingerprinting in Web Specifications</a>, and <a rel="nofollow" class="external text" href="https://www.rfc-editor.org/rfc/rfc6973.html">RFC6973</a></span> then
-  <span class="step"><a rel="nofollow" class="external text" href="https://github.com/w3cping/privacy-request/issues/new/choose">request a review via GitHub</a> from the <a rel="nofollow" class="external text" href="https://www.w3.org/groups/ig/privacy/">Privacy Interest Group</a></span>.
+  <span class="step"><a rel="nofollow" class="external text" href="https://github.com/w3cping/privacy-request/issues/new/choose">request a review via GitHub</a> from the <a rel="nofollow" class="external text" href="https://www.w3.org/groups/wg/privacy/">Privacy Working Group</a></span>.
 <details>
 <summary>Show useful links</summary>
 <ul>
 <li>groups
-<ul><li> <a rel="nofollow" class="external text" href="https://www.w3.org/groups/ig/privacy/">Privacy Interest Group</a>; <a rel="nofollow" class="external text" href="https://lists.w3.org/Archives/Public/public-privacy/">public-privacy</a></li></ul></li>
+<ul><li> <a rel="nofollow" class="external text" href="https://www.w3.org/groups/wg/privacy/">Privacy Working Group</a>; <a rel="nofollow" class="external text" href="https://lists.w3.org/Archives/Public/public-privacy/">public-privacy</a></li></ul></li>
 <li>links
 <ul>
 <li><a rel="nofollow" class="external text" href="https://www.w3.org/TR/security-privacy-questionnaire/"><cite>Self-Review Questionnaire: Security and Privacy</cite>, published by the TAG and PING</a></li>
