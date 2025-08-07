@@ -1,5 +1,5 @@
 ---
-title: SmartList Remote Maintainers Guide
+title: Mailing list maintenance
 toc: true
 ---
 
@@ -7,57 +7,37 @@ W3C's mailing lists are managed using a customized version of SmartList.
 
 ## E-mail command interface
 
-Many W3C lists allow people to sub and unsub using an [e-mail command interface](https://www.w3.org/email/).
+Many W3C lists allow people to subscribe and unsubscribe using an [e-mail command interface](https://www.w3.org/email/).
 
 ## Web interface
 
-The [List admin tool](https://lists.w3.org/admin/manage) allows list maintainers to add or remove subscribers, view info about the list's config, and view recent log entries.
+The [List management tool](https://lists.w3.org/admin/manage) allows list maintainers to add or remove subscribers, view info about the list's configuration, and view recent log entries.
 
-If you need more info about a list that is not provided by the list admin tool, please contact [sysreq@w3.org](mailto:sysreq@w3.org).
+If you need more info about a list that is not provided by the list management tool, please contact [sysreq@w3.org](mailto:sysreq@w3.org).
 
-## Handling \[Moderator Action] messages
+## Moderating messages
 
-If your mailing list has posting restrictions enabled and a previously unknown address sends mail to the list, you will receive a message with `[Moderator Action]` prepended to the Subject, e.g.:
+Some mailing lists restrict posting to a specific set of addresses, for example subscribers to the list or addresses previously authorized to post to a W3C list. See [accept lists](#accept-lists) below for more details. Messages from unknown addresses or messages that exceed the list's size limit are queued for manual approval by a moderator.
 
-> `Subject: [Moderator Action] original subject`
+Mailing list maintainers can review and approve or reject messages using the [Mailing list moderation](https://lists.w3.org/admin/moderate) tool.
 
-If this is a legitimate message for your list, you should approve it through to the list using the [Moderator action queue review](https://lists.w3.org/admin/moderate) web interface or your mail client's "bounce", "resend", or "redirect" feature. Smartlist will remove the `[Moderator Action]` prefix and the message will appear to come from the original sender (and not from you). Some custom headers may be added to indicate you forwarded the mail, for example `Resent-From`.
+If you would like someone to be able to post directly to a given list without having their messages queued for moderation, use the [List management tool](https://lists.w3.org/admin/manage) to add their email address to the "accept2" file for the list in question. Future messages from their address will be distributed directly to the list without needing to be moderated. This happens automatically when messages are approved using the [Mailing list moderation](https://lists.w3.org/admin/moderate) tool.
 
-If a message was sent to multiple mailing lists, the easiest way to figure out which list(s) caused the moderator action, is to display / view the `X-Envelope-To` header.
+## Accept lists
 
-Here are some notes on how to handle these messages in various mail clients:
+Most mailing lists are configured to accept mail from subscribers to that list, at a minumum. Many lists also accept mail from a list of extra addresses, referred to in the [List management tool](https://lists.w3.org/admin/manage) as `accept2`.
 
-- For Thunderbird you need the [Simple Mail Redirection extension](https://addons.thunderbird.net/en-US/thunderbird/addon/simple-mail-redirection/). Although it doesn't allow you to edit the subject line, so it will still say `[Moderator Action]` on the outward-going mail, as pointed out above the W3C servers strip it off.
-- For Mac Mail, hit `shift+cmd+e`, or use the "Redirect" button that you can add to your Toolbar
-- [Outlook 2000](https://web.archive.org/web/20030720050852/spamassassin.taint.org/faq/index.cgi?req=show&file=faq03.003.htp)
-- For Gmail, see [Bouncing a message from Gmail](https://intertwingly.net/blog/2011/04/03/Bouncing-a-message-from-Gmail) by Sam Ruby.
-- For mutt, type '`b`' to bounce then enter the list's address.
+In addition to these primary accept lists, a list can be configured to use one of our global accept lists:
 
-## Handling \[Moderator Action (size limit exceeded)] messages
+- all addresses authorized to post to team lists (`accept.team`)
+- all addresses authorized to post to team and member lists (`accept.member`)
+- all addresses authorized to post to any of our lists (`accept.all`)
 
-You can find the size limit in the "configuration" information of a mailing list, available from the right-hand side after searching it via the [List admin tool](https://lists.w3.org/admin/manage).
+Details about which accept list(s) are in place for a given mailing list are in the *Accept lists* section of the [List management tool](https://lists.w3.org/admin/manage).
 
-A message may be stuck because of an attachment that is too large, and the list moderator may not bypass a list's size limit. Here's how to proceed in this case:
+## Related links
 
-1. Forward to an archive mailing list (see below for guidance)
-1. Find the link of the attachment(s) in the list web archive
-1. Go back to your mailer:
-   
-   1. strip the attachment(s) from the mail to moderate
-   1. type somewhere e.g., at the top, that the attachment(s) is/are archived elsewhere and paste the link
-   1. redirect
+- [General info on mailing lists at W3C](https://www.w3.org/email/)
+- [Email guidelines and policies](https://www.w3.org/email/#policies)
+- [Mailing list policies](https://www.w3.org/policies/email/)
 
-Guidance for which archive mailing list to choose depending on the confidentiality-level of the target list:
-
-member-visible: w3c-archive@w3.org (indicative size limit: 25971520 bytes)
-: cf. [https://lists.w3.org/Archives/Member/w3c-archive/](https://lists.w3.org/Archives/Member/w3c-archive/)
-
-team-only: w3t-archive@w3.org (indicative size limit: 41943040 bytes)
-: cf. [https://lists.w3.org/Archives/Team/w3t-archive/](https://lists.w3.org/Archives/Team/w3t-archive/)
-
-public: www-archive@w3.org (indicative size limit: 41943040 bytes)
-: cf. [https://lists.w3.org/Archives/Public/www-archive/](https://lists.w3.org/Archives/Public/www-archive/)
-
-If you have useful info not listed above, please contribute it by [editing this page](https://github.com/w3c/guide/blob/master/teamcontact/remote-maintainers.md) or by sending email to [sysreq@w3.org](mailto:sysreq@w3.org).
-
-If you would like someone to be able to post directly to a given list without having their messages flagged for `[Moderator action]`, use the [list admin tool](https://lists.w3.org/admin/manage) to add their email address to the "accept2" file for the list in question. Future messages from their address will be distributed directly to the list without needing to be moderated.

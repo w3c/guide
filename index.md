@@ -108,8 +108,7 @@ toc: true
 - [Mailing Lists archives](https://lists.w3.org/Archives/Public/)
 - [Mailing Lists Search service](https://www.w3.org/Search/Mail/)
 - [Your Mailing List subscriptions](https://lists.w3.org/admin/subscriptions)
-- [SmartList Remote Maintainers Guide](teamcontact/remote-maintainers.md)
-- [Spam filtering options](https://www.w3.org/2002/11/spam-filtering)
+- [Mailing list maintenance](teamcontact/remote-maintainers.md)
 
 ### Guidelines and Policies {#policies}
 
