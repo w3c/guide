@@ -210,19 +210,19 @@ content? See also <a href="https://www.w3.org/WAI/test-evaluate/">evaluation too
 <p>Internationalization specifications use (and we recommend the use of) this template for character references:</p>
 
 <pre>
-&lt;span class="codepoint" translate="no">&lt;bdi lang="??">&#xXXXX;&lt;/bdi> 
-[&lt;code class="uname">U+XXXX Unicode_character_name&lt;/code>]&lt;/span>
+&lt;span class="codepoint" translate="no">&lt;bdi lang="??">&#xXXXX;&lt;/bdi>
+&lt;code class="uname">U+XXXX Unicode_character_name&lt;/code>&lt;/span>
 </pre>
 
 <aside class="example" title="Example of a character reference">
 <p>Filling in the above template like this:</p>
 
 <pre>
-&lt;span class="codepoint" translate="no">&lt;bdi lang="fr">&#x00E9;&lt;/bdi> 
-[&lt;code class="uname">U+00E9 LATIN SMALL LETTER E WITH ACUTE&lt;/code>]&lt;/span>
+&lt;span class="codepoint" translate="no">&lt;bdi lang="fr">&#x00E9;&lt;/bdi>
+&lt;code class="uname">U+00E9 LATIN SMALL LETTER E WITH ACUTE&lt;/code>&lt;/span>
 </pre>
 
-<p>Produces output in the page like this: <span class="codepoint" translate="no"><bdi lang="fr">é</bdi> [<code class="uname">U+00E9 LATIN SMALL LETTER E WITH ACUTE</code>]</span>.</p>
+<p>Produces output in the page like this: <span class="codepoint" translate="no"><bdi lang="fr">é</bdi><code class="uname">U+00E9 LATIN SMALL LETTER E WITH ACUTE</code></span>.</p>
 </aside>
 
 <p>Some notes about the markup used. The <code translate=no>bdi</code> element is used to ensure that example characters that are [=right-to-left=] do not interfere with the layout of the page. The <code translate=no>lang</code> attribute should be filled in with the most appropriate [[BCP47]] [=language tag=] to get the correct font selection (and other processing) for a given context. Examples in East Asian languages (such as Chinese, Japanese, or Korean) or in the Arabic script can sometimes require greater care in choosing a language tag.</p>
