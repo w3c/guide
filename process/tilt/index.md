@@ -19,19 +19,19 @@ The Technical issues Lead Team is meant to handle all verifications requests for
 - Transition requests ([2](#note2))
 - Anything related to the operational management of developing W3C specs
 
-*(1) Those requests still need W3C Management approval in parallel.*
+*(1) Those requests still need W3C Senior Leadership team (SLT) approval in parallel.*
 {:#note1}
 
-*(2) TiLT delegates its authority for transition requests.*
+*(2) TiLT delegates its authority to the transitions team ([@w3c/transitions](https://github.com/orgs/w3c/teams/transitions)) for transition requests.*
 {:#note2}
 
 ### Out of Scope {#out}
 
-The TiLT is “internal to the Team”; it does not have Membership- or community-facing activities. Generally speaking, project management and strategy roles carry out these Membership-and community-facing activities. However, asking approval from TiLT is a signal that can be exposed to the outside.
+The TiLT is “internal to the Team”; it does not have Membership- or community-facing activities. Generally speaking, project &amp; process and technical strategy roles carry out these Membership-and community-facing activities. However, asking approval from TiLT is a signal that can be exposed to the outside.
 
-TiLT does not replace the Strategy Function (e.g., what Workshops W3C should organize). Note, however, that the TiLT does play a role for related decisions (e.g., Workshop approval).
+TiLT does not replace the Technical Strategy Function (e.g., what Workshops W3C should organize). Note, however, that the TiLT does play a role for related decisions (e.g., Workshop approval).
 
-TiLT does not replace Board of Directors nor W3C Management functions. For example, the TiLT does not establish a budget, but through its decisions (e.g., Workshop approval), there are likely to be budgetary impacts (e.g., Workshop costs, human resources for Team Contacts, etc.). Thus, TiLT may be asked to provide input to budget discussions.
+TiLT does not replace Board of Directors nor W3C Senior Leadership team (SLT) functions. For example, the TiLT does not establish a budget, but through its decisions (e.g., Workshop approval), there are likely to be budgetary impacts (e.g., Workshop costs, human resources for Team Contacts, etc.). Thus, TiLT may be asked to provide input to budget discussions.
 
 ## Composition {#composition}
 
@@ -64,7 +64,7 @@ This composition is reflected in the Github team [@w3c/tilt](https://github.com/
 
 ## Meetings {#meetings}
 
-The W3C Technical Lead Team (TiLT) decides whether to meet synchronously. Currently, TiLT meets every Monday, at 9am Boston time (IRC: &tilt).
+The W3C Technical Lead Team (TiLT) decides whether to meet synchronously. Currently, TiLT meets (rarely) every Monday, at 9am Boston time (IRC: &tilt).
 
 The entire W3C team has an open invitation to observe the discussion, including attending calls. (contact plh for that)
 
@@ -91,7 +91,7 @@ TiLT will only approve requests where there are:
 
 TiLT participants use +1, -1, and 0 respectively to mean support, do not support, abstain. TiLT participants register their responses as a comment in the tilt-private Github issue (last comment takes precedence).
 
-**Note:** Comments about charter, workshop proposals, etc. (e.g., a link is broken) should be made directly in the relevant repository (e.g., strategy) unless the comment is Team-only, in which case the TiLT repo is appropriate.
+**Note:** Comments about charter, workshop proposals, etc. (e.g., a link is broken) should be made directly in the relevant repository (e.g., [w3c/strategy](https://github.com/w3c/strategy/)) unless the comment is Team-only, in which case the TiLT repo is appropriate.
 
 ### Timing of responses {#timing}
 
@@ -117,7 +117,7 @@ As part of the W3C Team, the recommended way to communicate with TiLT is through
 
 If you're not part of the W3C Team, the recommended way to communicate with TiLT is [@w3c/tilt](https://github.com/orgs/w3c/teams/tilt).
 
-For any request sent to TiLT, Team input is welcome in the Strategy repository. Keep in mind the Team etiquette when posting publicly. For Team confidential discussion, input is welcome in the tilt-private Github repository. Note that any +1/-1/other from non-TiLT is NOT counted to reach TiLT approval but any TiLT member may put a hold on a decision based on non-TiLT opinions.
+For any request sent to TiLT, Team input is welcome in the [w3c/strategy](https://github.com/w3c/strategy/) repository. Keep in mind the Team etiquette when posting publicly. For Team confidential discussion, input is welcome in the [w3c/tilt-private](https://github.com/w3c/tilt-private/) Github repository. Note that any +1/-1/other from non-TiLT is NOT counted to reach TiLT approval but any TiLT member may put a hold on a decision based on non-TiLT opinions.
 
 TiLT MUST provide a weekly digest of its activities to W3M.
 

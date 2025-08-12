@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 205 120">
+<title aria-hidden="true">174 days to W3C Recommendation</title>
+
+
+<style>
+text { font-family: sans-serif; fill: black;}
+text.label { font-size: 5px; fill:white; text-anchor:middle;}
+text.title { font-size: 7.5px; text-anchor:middle;}
+text.day { font-size: 2.5px;fill:#89a02c; text-anchor:middle;}
+text.item { font-size:3.75px; }
+#w3c-transitions, #w3c-transitions text.item { fill:#ff6600; }
+#ac-review, #ac-review text.item { fill:#ff9955; }
+#steps, #steps text.item { fill:#0000ff; }
+#pp, #pp text.item { fill:#ff2a2a; }
+</style>
+
+<g>
+<text class='title' role="heading" aria-level="2"><tspan x="100" y="7">174 days to W3C Recommendation</tspan></text>
+
+<g role="list">
+
+<g aria-hidden="true" id='w3c-recommendation' transform="translate(15,10)">
+<title id='w3c-recommendation-title'>Day 1 to Day 174 to do a W3C Recommendation</title>
+<rect style="fill:black;" width="174" height="10" aria-labelledby="w3c-recommendation-title" />
+<text class='label'><tspan x="87" y="7">W3C Recommendation track</tspan></text>
+<text class='day'><tspan x="0" y="-0.5">1</tspan></text>
+<text class='day'><tspan x="174" y="-0.5">174</tspan></text>
+</g>
+
+<g id='w3c-transitions' transform="translate(15,35)" role="listitem"
+aria-labelledby="w3c-transitions-title">
+<title id="w3c-transitions-title">Team verifications</title>
+<text class='item'><tspan x="-13" y="-5">Team verifications: 1 week (x4)</tspan></text>
+
+<g role="list">
+<rect role="listitem" width="7" height="5" x="0" y="0" aria-label="Days 1 to 7: Team verification to FPWD"/>
+<rect role="listitem" width="7" height="5" x="90" y="0" aria-label="Days 90 to 97: Team verification to CR"/>
+<rect role="listitem" width="7" height="5" x="132" y="0" aria-label="Days 132 to 139: Team verification to PR"/>
+<rect role="listitem" width="7" height="5" x="167" y="0" aria-label="Days 167 to 174: Team verification to Rec"/>
+</g>
+
+<text aria-hidden="true" class='day'><tspan x="0" y="-0.5">1</tspan></text>
+<text aria-hidden="true" class='day'><tspan x="7" y="-0.5">7</tspan></text>
+<text aria-hidden="true" class='day'><tspan x="90" y="-0.5">90</tspan></text>
+<text aria-hidden="true" class='day'><tspan x="97" y="-0.5">97</tspan></text>
+<text aria-hidden="true" class='day'><tspan x="132" y="-0.5">132</tspan></text>
+<text aria-hidden="true" class='day'><tspan x="139" y="-0.5">139</tspan></text>
+<text aria-hidden="true" class='day'><tspan x="167" y="-0.5">167</tspan></text>
+<text aria-hidden="true" class='day'><tspan x="174" y="-0.5">174</tspan></text>
+</g>
+
+<g id='ac-review' transform="translate(15,55)" role="listitem" aria-labelledby="ac-review-title">
+<title id="ac-review-title">Advisory Committee Review</title>
+<text class='item'><tspan x="-13" y="-5">Advisory Committee Review: 4 weeks</tspan></text>
+
+<g role="list">
+<rect role="listitem" width="28" height="5" x="139" y="0" aria-label="Days 139 to 167: AC review"/>
+</g>
+
+<text aria-hidden="true" id="ac-review-label" class='label'><tspan x="153" y="4.5">Review</tspan></text>
+<text aria-hidden="true" class='day'><tspan x="139" y="-0.5">139</tspan></text>
+<text aria-hidden="true" class='day'><tspan x="167" y="-0.5">167</tspan></text>
+</g>
+
+<g id='steps' transform="translate(15,70)" role="listitem"
+aria-labelledby="steps-title">
+<title id="steps-title">W3C Recommendation track: Steps</title>
+<text class='item'><tspan x="-13" y="-5">W3C Recommendation track: 3 maturity levels</tspan></text>
+
+<g role="list">
+<rect role="listitem" width="90" height="5" x="7" y="0" aria-label="Days 7 to 97: WD (including FPWD on day 7"/>
+<rect role="listitem" width="77" height="5" x="97" y="5"  aria-label="Days 97 to 174: CR"/>
+<path role="listitem" d="m 174,10 h 15 l -2,5 h -13 z" aria-label="Day 174: Rec"/>
+</g>
+
+<text aria-hidden="true" id="fpwd" class='item' style='text-anchor:middle;'><tspan x="7" y="9.5">FPWD</tspan></text>
+<text aria-hidden="true" id="wd" class='label'><tspan x="52" y="4.5">WD</tspan></text>
+<text aria-hidden="true" id="cr" class='label'><tspan x="138" y="9.5">CR</tspan></text>
+<text aria-hidden="true" id="rec" class='label'><tspan x="181" y="14.5">REC</tspan></text>
+<text aria-hidden="true" class='day'><tspan x="7" y="-0.5">7</tspan></text>
+<text aria-hidden="true" class='day'><tspan x="97" y="-0.5">97</tspan></text>
+<text aria-hidden="true" class='day'><tspan x="174" y="4.5">174</tspan></text>
+</g>
+
+<g id='pp' transform="translate(15,100)" role="listitem"
+aria-labelledby="pp-title">
+<title id="pp-title">Patent Policy: Calls for Exclusion</title>
+<text class='item'><tspan x="-13" y="-5">Patent Policy: 2 Calls for Exclusion</tspan></text>
+
+<g role="list">
+<rect role="listitem" width="150" height="5" x="7" y="0" aria-label="Days 7 to 157: first CFE (based on most recent WD)"/>
+<rect role="listitem" width="60" height="5" x="97" y="10"  aria-label="Days 97 to 157: second CFE (based on most recent WD)"/>
+<rect aria-hidden="true" style="fill: black; opacity: 0.2;" width="90" height="5" x="7" y="0"
+aria-label="Latest working draft will be the Reference Draft"/>
+</g>
+
+<text aria-hidden="true" id="cfe1" class='label'><tspan x="127" y="4.1">Exclusion period</tspan></text>
+<text aria-hidden="true" id="cfe2" class='label'><tspan x="127" y="14.1">Exclusion period</tspan></text>
+<text aria-hidden="true" class='day'><tspan x="7" y="-0.5">7</tspan></text>
+<text aria-hidden="true" class='day'><tspan x="157" y="-0.5">157</tspan></text>
+<text aria-hidden="true" class='day'><tspan x="97" y="9.5">97</tspan></text>
+<text aria-hidden="true" class='day'><tspan x="157" y="9.5">157</tspan></text>
+</g>
+</g>
+</g>
+</svg>
+
