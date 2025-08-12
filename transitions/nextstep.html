@@ -43,13 +43,13 @@ toc: false
 <h2 id='resources'>Other resources</h2>
 <ul>
 	<li><a href=".">Organize a Technical Report Transition</a></li>
-	<li><a href="https://w3c.github.io/spec-releases/milestones/">Milestones planning</a></li>
-	<li><a href="https://w3c.github.io/spec-releases/timeline.svg">174 days to W3C Recommendation</a></li>
+	<li><a href="milestones.html">Milestones planning</a></li>
+	<li><a href="timeline.svg">174 days to W3C Recommendation</a></li>
 	<li><a href="https://www.w3.org/policies/process/#Reports">Recommendation Track Process</a></li>
 </ul>
 
 <script type="module">
-import { fetchW3C } from 'https://w3c.github.io/gargantua/fetch-utils.js';
+import { fetchW3C } from 'https://www.w3.org/PM/Groups/fetch-utils.js';
 
 function getLatestSpec(shortname) {
 	return fetchW3C("https://api.w3.org/specifications/" + shortname).then(spec => {
@@ -134,7 +134,7 @@ function findShortname(s) {
 	}
 }
 
-let BASE = "https://www.w3.org/guide/transitions/";
+let BASE = "./";
 let INPLACE = "<li><a href='https://www.w3.org/guide/standards-track/republishing/'>In-place modification of W3C Technical Reports</a></li>";
 function listItem(text, query) {
 	return "<li><a href='" + BASE + '?' + query + "'>" + text + "</a></li>";
@@ -166,27 +166,23 @@ function nextSteps(spec) {
 			let sToday = today.getUTCFullYear() + "-" + formatNumber(today.getUTCMonth()) + "-" + formatNumber(today.getUTCDate());
 			if (sToday === spec.date) WD = INPLACE; // same day only
 		}
-		list.innerHTML = WD + listItem("Update the Working Draft", "profile=WD")
+		list.innerHTML = WD + listItem("Revise the Working Draft", "profile=WD")
 			+ listItem("Advance to Candidate Recommendation", "profile=CR&cr=new")
 			+ listItem("Publish as a Discontinued Draft", "profile=DISC");
 	} else if (spec.status === "Candidate Recommendation") {
-		list.innerHTML = listItem("Update the Candidate Recommendation Draft", "profile=CR&cr=draft")
-			+ listItem("Update as a Candidate Recommendation Snapshot", "profile=CR&cr=snapshot")
-			+ listItem("Advance to Proposed Recommendation", "profile=PR")
+		list.innerHTML = listItem("Revise the Candidate Recommendation Draft", "profile=CR&cr=draft")
+			+ listItem("Revise as a Candidate Recommendation Snapshot", "profile=CR&cr=snapshot")
+			+ listItem("Advance to Recommendation", "profile=PR")
 			+ listItem("Return to Working Draft", "profile=WD&returning=true")
 			+ listItem("Publish as a Discontinued Draft", "profile=DISC");
 	} else if (spec.status === "Candidate Recommendation Draft" || spec.status === "Candidate Recommendation Snapshot") {
-		list.innerHTML = listItem("Update the Candidate Recommendation Draft", "profile=CR&cr=draft")
-			+ listItem("Update as a Candidate Recommendation Snapshot", "profile=CR&cr=snapshot")
-			+ listItem("Advance to Proposed Recommendation", "profile=PR")
-			+ listItem("Return to Working Draft", "profile=WD&returning=true")
-			+ listItem("Publish as a Discontinued Draft", "profile=DISC");
-	} else if (spec.status === "Proposed Recommendation") {
-		list.innerHTML = listItem("Advance to Recommendation", "profile=REC&rec=new")
+		list.innerHTML = listItem("Revise the Candidate Recommendation Draft", "profile=CR&cr=draft")
+			+ listItem("Revise as a Candidate Recommendation Snapshot", "profile=CR&cr=snapshot")
+			+ listItem("Advance to Recommendation", "profile=PR")
 			+ listItem("Return to Working Draft", "profile=WD&returning=true")
 			+ listItem("Publish as a Discontinued Draft", "profile=DISC");
 	} else if (spec.status === "Recommendation") {
-		list.innerHTML = INPLACE + listItem("Update the Recommendation with only editorial changes", "profile=REC&rec=editorial")
+		list.innerHTML = INPLACE + listItem("Revise the Recommendation with only editorial changes", "profile=REC&rec=editorial")
 			+ listItem("Publish as a Recommendation with candidate corrections (substantive changes)", "profile=REC&cr=candidate-corrections")
 			+ listItem("Publish as a Recommendation with candidate additions (new features)", "profile=REC&cr=candidate-additions")
 			+ listItem("Incorporate candidate corrections (substantive changes)", "profile=REC&cr=substantive")
@@ -195,36 +191,32 @@ function nextSteps(spec) {
 			+ listItem("Propose to rescind the Recommendation", "profile=PR-RSCND")
 			+ listItem("Propose to obsolete or supersede the Recommendation", "profile=PR-OBSL");
 	} else if (spec.status === "Draft Registry") {
-		list.innerHTML = listItem("Update the Draft Registry", "profile=DRAFT-REGISTRY")
+		list.innerHTML = listItem("Revise the Draft Registry", "profile=DRAFT-REGISTRY")
 		 + listItem("Advance to Candidate Registry", "profile=CRY&cr=new")
 		 + listItem("Publish as a Note (which you may mark as retired)", "profile=WG-NOTE");
 	} else if (spec.status === "Candidate Registry") {
-		list.innerHTML = listItem("Update the Candidate Registry Draft", "profile=CRY&cr=draft")
-			+ listItem("Update as a Candidate Registry Snapshot", "profile=CRY&cr=snapshot")
-			+ listItem("Advance to Registry", "profile=RY&rec=new")
+		list.innerHTML = listItem("Revise the Candidate Registry Draft", "profile=CRY&cr=draft")
+			+ listItem("Revise as a Candidate Registry Snapshot", "profile=CRY&cr=snapshot")
+			+ listItem("Request an Advisory Committee Review", "profile=RY&rec=new")
 			+ listItem("Return to Draft Registry", "profile=DRAFT-REGISTRY&returning=true")
 			+ listItem("Publish as a Note (which you may mark as retired)", "profile=WG-NOTE");
 	} else if (spec.status === "Candidate Registry Draft" || spec.status === "Candidate Registry Snapshot") {
-		list.innerHTML = listItem("Update the Candidate Registry Draft", "profile=CRY&cr=draft")
-			+ listItem("Update as a Candidate Registry Snapshot", "profile=CRY&cr=snapshot")
-			+ listItem("Advance to Registry", "profile=RY&rec=new")
-			+ listItem("Return to Draft Registry", "profile=DRAFT-REGISTRY&returning=true")
-			+ listItem("Publish as a Note (which you may mark as retired)", "profile=WG-NOTE");
-	} else if (spec.status === "Proposed Registry") {
-		list.innerHTML = listItem("Advance to Registry", "profile=RY&rec=new")
+		list.innerHTML = listItem("Revise the Candidate Registry Draft", "profile=CRY&cr=draft")
+			+ listItem("Revise as a Candidate Registry Snapshot", "profile=CRY&cr=snapshot")
+			+ listItem("Request an Advisory Committee Review", "profile=RY&rec=new")
 			+ listItem("Return to Draft Registry", "profile=DRAFT-REGISTRY&returning=true")
 			+ listItem("Publish as a Note (which you may mark as retired)", "profile=WG-NOTE");
 	} else if (spec.status === "Registry") {
-		list.innerHTML = INPLACE + listItem("Update the Registry", "profile=RY&rec=update")
+		list.innerHTML = INPLACE + listItem("Revise the Registry", "profile=RY&rec=update")
 			+ listItem("Propose to obsolete or supersede the Registry", "profile=PRY-OBSL");
 	} else if (spec.status === "Draft Note") {
-		list.innerHTML = listItem("Update the Draft Note", "profile=DRAFT-NOTE")
+		list.innerHTML = listItem("Revise the Draft Note", "profile=DRAFT-NOTE")
 			+ listItem("Publish as a Note (which you may mark as retired)", "profile=WG-NOTE");
 	} else if (spec.status === "Group Note" || spec.status === "Note") {
 		list.innerHTML = INPLACE
 			+ listItem("Return to Draft Note", "profile=DRAFT-NOTE")
 			+ listItem("Advance to W3C Statement", "profile=STMT")
-			+ listItem("Update the Note (which you may mark as retired)", "profile=WG-NOTE");
+			+ listItem("Revise the Note (which you may mark as retired)", "profile=WG-NOTE");
 	} else if (spec.status === "Retired") {
 		list.innerHTML = listItem("Propose to restore the Recommendation", "");
 	} else {

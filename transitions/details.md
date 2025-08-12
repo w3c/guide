@@ -31,11 +31,11 @@ Chair
 {:#Chair}
 
 Document Contact
-: The _Document Contact_ is either the Team Contact, the Chair, or the document editor of the Working Group or Interest Group requesting publication. If there is no Working Group nor Interest Group, the [Maintainer Contact](#MaintainerContact) becomes the _Document Contact_. Consult the [W3C Project Management Lead](mailto:team-project@w3.org) if you're not sure who is the relevant Document Contact.
+: The _Document Contact_ is either the Team Contact, the Chair, or the document editor of the Working Group or Interest Group requesting publication. If there is no Working Group nor Interest Group, the [Maintainer Contact](#MaintainerContact) becomes the _Document Contact_. Consult the [W3C Project &amp; Process Director](mailto:team-project@w3.org) if you're not sure who is the relevant Document Contact.
 {:#DocContact}
 
 Maintainer Contact
-: The _Maintainer Contact_ is a designated individual tasked with requesting Team's approval in order to publish a Recommendation without a Working Group. Consult the [W3C Project Management Lead](mailto:team-project@w3.org) if you're not sure who is the relevant Maintainer Contact. (Note: as of January 2018, the maintainer contact is [plh](mailto:plh@w3.org))
+: The _Maintainer Contact_ is a designated individual tasked with requesting Team's approval in order to publish a Recommendation without a Working Group. Consult the [W3C Project &amp; Process Director](mailto:team-project@w3.org) if you're not sure who is the relevant Maintainer Contact. (Note: as of January 2018, the maintainer contact is [plh](mailto:plh@w3.org))
 {:#MaintainerContact}
 
 See also the [W3C Editor's Home Page](../editor/) and the Guidebook documentation of the [Chair's role](../chair/role.md) and [Team Contact's role](../teamcontact/role.md).
