@@ -7,7 +7,7 @@ The W3C Process defines a [charter refinement phase](https://www.w3.org/policies
 
 This document describes how the W3C Communications Team announces the
 start of charter refinement with a *charter review notice*. For
-information about when the Strategy Team may request that the W3C Communications
+information about when the Technical Strategy Team may request that the W3C Communications
 Team send this announcement and activities following this
 announcement, see [How to create a Working Group or Interest
 Group](charter.md).
@@ -24,7 +24,7 @@ Per [section 4.1 of the Process Document](https://www.w3.org/policies/process/dr
 * The expected duration of the charter refinement phase, which must not be less than 28 days, and should not be more than 6 months.
 * Who the Chartering Facilitator is.
 
-In addition, the Strategy Team *may* include its own perspectives about the charter in the review notice.
+In addition, the Technical Strategy Team *may* include its own perspectives about the charter in the review notice.
 
 Please use the [charter review notice template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2F&amp;template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fcharter-review-notice.html&amp;submit=Continue...) to create an initial draft.
 

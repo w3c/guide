@@ -27,23 +27,23 @@ Within the chartering process, the following are [Team Decisions](https://www.w3
 * Whether or not to initiate the charter refinement phase.
 * Whether or not to initiate Advisory Committee review (or, "AC Review").
 
-### 2.1 Strategy Team role {#strategy-team-role}
+### 2.1 Technical Strategy Team role {#strategy-team-role}
 
-In practice, the Team delegates these Team Decisions to the Strategy Team, which manages the charter development process, including allocation of staff resources.
+In practice, the Team delegates these Team Decisions to the Technical Strategy Team, which manages the charter development process, including allocation of staff resources.
 
-The Strategy Team tracks charters through the process via the [Strategy Team's Technical Strategy Pipeline](https://github.com/orgs/w3c/projects/97) (or "pipeline" in this document).
+The Technical Strategy Team tracks charters through the process via the [Strategy Team's Technical Strategy Pipeline](https://github.com/orgs/w3c/projects/97) (or "pipeline" in this document).
 {:#pipeline}
 
 ### 2.2 Chartering Facilitator
 
-The Strategy Team Lead chooses (and may replace) a *Chartering Facilitator* to shepherd a given charter through the process. The Chartering Facilitator is typically from the Staff but is not required to be from the Staff. In the case of rechartering it is common to name the group's [Team Contact](../teamcontact/role.md) as the Chartering Facilitator.
+The Technical Strategy Team Lead chooses (and may replace) a *Chartering Facilitator* to shepherd a given charter through the process. The Chartering Facilitator is typically from the Staff but is not required to be from the Staff. In the case of rechartering it is common to name the group's [Team Contact](../teamcontact/role.md) as the Chartering Facilitator.
 
-**Note:** If the Strategy Team Lead cannot identify a Chartering Facilitator, there may be delays in advancing the charter through the process.
+**Note:** If the Technical Strategy Team Lead cannot identify a Chartering Facilitator, there may be delays in advancing the charter through the process.
 {:#chartering-facilitator}
 
 ### 2.3 Charter assessment criteria
 
-The Strategy Team considers the following when deciding whether to initiate charter refinement or AC review of a charter. The more these criteria are not met, the more likely it is the Strategy Team will not initiate charter refinement or AC review. In any decision not to initiate refinement or AC review, the Strategy Team grounds its rationale in these criteria.
+The Technical Strategy Team considers the following when deciding whether to initiate charter refinement or AC review of a charter. The more these criteria are not met, the more likely it is the Technical Strategy Team will not initiate charter refinement or AC review. In any decision not to initiate refinement or AC review, the Technical Strategy Team grounds its rationale in these criteria.
 
 * Does the charter align with the W3C mission and/or principles (and in particular [W3C Statements](https://www.w3.org/TR/?filter-tr-name=&status%5B%5D=stmt))?
 * Does the charter align with established web architecture?
@@ -55,8 +55,8 @@ The Strategy Team considers the following when deciding whether to initiate char
 Please note:
 
 * Some of these criteria will be easier to evaluate after charter refinement (e.g., once there has been horizontal review).
-* The Strategy Team may still decide not to initiate refinement or AC review even if the criteria are met, but must provide rationale for the decision.
-* The Strategy Team may still decide to initiate refinement or AC review even if the criteria are not met, otherwise W3C might not be able to make progress in some scenarios (e.g., when there are multiple competing charters). Similarly, the Strategy Team must provide rationale for the decision.
+* The Technical Strategy Team may still decide not to initiate refinement or AC review even if the criteria are met, but must provide rationale for the decision.
+* The Technical Strategy Team may still decide to initiate refinement or AC review even if the criteria are not met, otherwise W3C might not be able to make progress in some scenarios (e.g., when there are multiple competing charters). Similarly, the Technical Strategy Team must provide rationale for the decision.
 
 ## 3. Chartering new groups  {#new-charters}
 
@@ -72,37 +72,37 @@ Verify transition readiness
 Draft a charter
 : Use the [charter template](https://w3c.github.io/charter-drafts/charter-template.html) to create a public charter draft, [ideally on GitHub](https://w3c.github.io/charter-drafts/). This is where substantive discussion of the charter should take place, including issues and pull requests.
 
-Inform the Strategy Team
-: When ready (e.g., after sufficient discussion among stakeholders has taken place), inform the Strategy Team by [creating a new charter issue](https://github.com/w3c/strategy/issues/new?assignees=&labels=Evaluation%3A%20untriaged&template=04-Chartering.md&title=) in their [pipeline](#pipeline).  The Strategy Team uses this issue to provide updates on the charter's progress through the process. Discussions of the charter's content should continue to take place in the charter's own repo.
+Inform the Technical Strategy Team
+: When ready (e.g., after sufficient discussion among stakeholders has taken place), inform the Technical Strategy Team by [creating a new charter issue](https://github.com/w3c/strategy/issues/new?assignees=&labels=Evaluation%3A%20untriaged&template=04-Chartering.md&title=) in their [pipeline](#pipeline).  The Technical Strategy Team uses this issue to provide updates on the charter's progress through the process. Discussions of the charter's content should continue to take place in the charter's own repo.
 
-**Note**: Even prior to the initiation of charter refinement, it is common for the charter proponents and Strategy Team to work together to help prepare charters for broader audiences.
+**Note**: Even prior to the initiation of charter refinement, it is common for the charter proponents and Technical Strategy Team to work together to help prepare charters for broader audiences.
 
 ### 3.2 Initiation of charter refinement {#charter-refinement}
 
-After consideration of the [charter assessment criteria](#charter-assessment-criteria) and a determination that the charter is well-formed (per the template and per Process section "[content of a charter](https://www.w3.org/policies/process/#WGCharter)"), the Strategy Team Lead decides whether to initiate charter refinement.
+After consideration of the [charter assessment criteria](#charter-assessment-criteria) and a determination that the charter is well-formed (per the template and per Process section "[content of a charter](https://www.w3.org/policies/process/#WGCharter)"), the Technical Strategy Team Lead decides whether to initiate charter refinement.
 
-#### 3.2.1 Strategy Team decision to initiate charter refinement
+#### 3.2.1 Technical Strategy Team decision to initiate charter refinement
 
-If the Strategy Team decides to initiate charter refinment, it follows these steps:
+If the Technical Strategy Team decides to initiate charter refinment, it follows these steps:
 
 Select a Chartering Facilitator
-: The Strategy Team Lead selects a [Chartering Facilitator](#chartering-facilitator) and records that appointment in the [pipeline](#pipeline).
+: The Technical Strategy Team Lead selects a [Chartering Facilitator](#chartering-facilitator) and records that appointment in the [pipeline](#pipeline).
 
 Request announcement of initiation of charter refinement
 : The [Chartering Facilitator](#chartering-facilitator) then sends a request to the W3C Communications Team to [announce the initiation of charter refinement](adv-notice.md); that document lists requirements for the announcement. In practice, if the announcement would precede the call for AC review by only a short delay, we skip the refinement phase.
 
 Record start of refinement
-: Once refinement has been announced, the Strategy Team Lead records the initiation of charter refinement in the [pipeline](#pipeline) issue.
+: Once refinement has been announced, the Technical Strategy Team Lead records the initiation of charter refinement in the [pipeline](#pipeline) issue.
 
 Any Formal Objection to a Team Decision to initiate charter refinement is not considered registered until the close of any Advisory Committee Review of that charter, and is registered against that W3C Decision.
 
-#### 3.2.2 Strategy Team decision not to initiate charter refinement
+#### 3.2.2 Technical Strategy Team decision not to initiate charter refinement
 
-If no Advisory Committee representative formally requested that the Strategy Team initiate charter refinement, then no further action is required of the Strategy Team.
+If no Advisory Committee representative formally requested that the Technical Strategy Team initiate charter refinement, then no further action is required of the Technical Strategy Team.
 
-However, if an Advisory Committee representative formally requested that the Strategy Team initiate charter refinement, the Strategy Team may deny such a request if it thinks the proposal is insufficiently mature, does not align with W3C’s scope and mission, or otherwise does not meet the [charter assessment criteria](#charter-assessment-criteria). The Strategy Team must reply with its rationale in the same forum where it received the request (or simply back to the AC representative in the case where only the Strategy Team received the request). 
+However, if an Advisory Committee representative formally requested that the Technical Strategy Team initiate charter refinement, the Technical Strategy Team may deny such a request if it thinks the proposal is insufficiently mature, does not align with W3C’s scope and mission, or otherwise does not meet the [charter assessment criteria](#charter-assessment-criteria). The Technical Strategy Team must reply with its rationale in the same forum where it received the request (or simply back to the AC representative in the case where only the Technical Strategy Team received the request). 
 
-This rejection is a [Team Decision](https://www.w3.org/policies/process/#team-decision). If the requestor so wishes, this decision can be appealed only by 5 or more Members, through their Advisory Committee representative, formally objecting to the decision within 8 weeks of the decision being announced. In this case the Strategy Team must start an [appeal vote](https://www.w3.org/policies/process/#appeal-vote) on whether to overturn the Team Decision. (No action is required to be taken when fewer than 5 Members object.)
+This rejection is a [Team Decision](https://www.w3.org/policies/process/#team-decision). If the requestor so wishes, this decision can be appealed only by 5 or more Members, through their Advisory Committee representative, formally objecting to the decision within 8 weeks of the decision being announced. In this case the Technical Strategy Team must start an [appeal vote](https://www.w3.org/policies/process/#appeal-vote) on whether to overturn the Team Decision. (No action is required to be taken when fewer than 5 Members object.)
 
 > **Note**: We do not expect to include operational details for handling these Formal Objections until we have gained experience.
 
@@ -118,7 +118,7 @@ Ensure issues are formally addressed
 
 ### 3.4 Requesting a TiLT decision
 
-Before the end of the announced duration for the charter refinement phase, The Strategy Team (represented by the Technical Leadership Team, or TiLT and informed by the work of the Chartering Facilitator) must decide which of the following to do:
+Before the end of the announced duration for the charter refinement phase, The Technical Strategy Team (represented by the Technical Leadership Team, or TiLT and informed by the work of the Chartering Facilitator) must decide which of the following to do:
 
 * Complete charter refinement by initiating AC Review of the charter draft.
 * Abandon the proposal.
@@ -142,11 +142,11 @@ TiLT informs the Chartering Facilitator of their decision in the [pipeline](#pip
 
 ### 3.5 Announcement of the TiLT decision
 
-The Strategy Team must announce the TiLT decision with the same visibility as the notice of initiation of refinement, and must include a rationale if they are **not** initiating AC Review. In the case of initiating AC review, see the next section for steps.
+The Technical Strategy Team must announce the TiLT decision with the same visibility as the notice of initiation of refinement, and must include a rationale if they are **not** initiating AC Review. In the case of initiating AC review, see the next section for steps.
 
 Objections to decisions pertaining to the content of the charter, as well as objections to initiating the AC Review, are considered registered at the close of the Advisory Committee Review of the charter, and are registered against that W3C Decision.
 
-Objections to abandoning the proposal or to extending the refinement period can be appealed only if 5 or more Members, through their Advisory Committee representative, formally object to the decision within 8 weeks of the decision. In this case, the Strategy Team must do one of the following:
+Objections to abandoning the proposal or to extending the refinement period can be appealed only if 5 or more Members, through their Advisory Committee representative, formally object to the decision within 8 weeks of the decision. In this case, the Technical Strategy Team must do one of the following:
 
 * Abide by the objectors' request, if they all agree on the alternative course of action (e.g., to abandon, extend, or complete charter refinement).
 * Initiate an [AC Review](https://www.w3.org/policies/process/#advisory-committee-review) to formally solicit the input of the community and take a W3C Decision on the subsequent course of action.
@@ -170,7 +170,7 @@ Monitor AC Review
 - The handling of Formal Objections to a charter adds more time.
 
 Manage changes resulting from review
-: As a result of review, make any requested very minor changes (in place) to the charter. If substantive changes are proposed, then initiate review of those proposed changes. In either case, the Strategy Team follows a process for [managing changes to charters after review](#manage-changes).
+: As a result of review, make any requested very minor changes (in place) to the charter. If substantive changes are proposed, then initiate review of those proposed changes. In either case, the Technical Strategy Team follows a process for [managing changes to charters after review](#manage-changes).
 
 Request approval from TiLT
 : Once the review has ended and [Formal Objections are addressed](../council/council.md), the Chartering Facilitator [requests approval from TiLT](tilt/#request) and records in the [pipeline](#pipeline) issue that a TiLT decision has been requested. TiLT informs the Chartering Facilitator of their decision. Allow approximately 2 weeks, but see [timing of responses from TiLT](tilt/#timing) for details.
@@ -185,7 +185,7 @@ In this section we describe the operational aspects of extending or modifying th
 
 The W3C Process describes the [charter extensions](https://www.w3.org/policies/process/#charter-extension) and when they may occur. No Advisory Committee review is required for short-term extensions.
 
-The Strategy Team expects a charter extension to be no more than 6 months. Otherwise the Group must [recharter](#recharter-request) or justification must be provided to explain the delay.
+The Technical Strategy Team expects a charter extension to be no more than 6 months. Otherwise the Group must [recharter](#recharter-request) or justification must be provided to explain the delay.
 
 Short-term extensions cannot exceed a total of one year from the original charter end date.
 
@@ -215,20 +215,20 @@ Follow process for creating a charter
 
 ## 5. Implementation details  {#implementation-details}
 
-The following sections are mostly intended as instructions to the Strategy Team and are included here for transparency.
+The following sections are mostly intended as instructions to the Technical Strategy Team and are included here for transparency.
 
 ### 5.1 Sufficient Member support for a charter  {#baseline-support}
 
-Generally, the Strategy Team will expect to receive reviews for Charter
+Generally, the Technical Strategy Team will expect to receive reviews for Charter
  proposals from at least 5% of the [Membership](https://www.w3.org/membership/list/). If
  the 5% threshold is not met, the Charter may still be approved, but
  additional scrutiny is warranted, and resource allocation may be
- limited. Additionally, the Strategy Team will continue to consider the number
+ limited. Additionally, the Technical Strategy Team will continue to consider the number
  of declarations of intent to participate or implement the output of
  the work group.
  {:#review_threshold}
 
-Given the diversity of work underway in the Consortium, including [groups that focus on horizontal reviews](horizontal-groups.md) (e.g., accessibility, security, and internationalization), as well as technologies that are initially focused on by some segment of the web's stakeholders, there are times where exceptions to this practice may be considered. In those cases, the Strategy Team will document reasons why the exception is made.
+Given the diversity of work underway in the Consortium, including [groups that focus on horizontal reviews](horizontal-groups.md) (e.g., accessibility, security, and internationalization), as well as technologies that are initially focused on by some segment of the web's stakeholders, there are times where exceptions to this practice may be considered. In those cases, the Technical Strategy Team will document reasons why the exception is made.
 
 ### 5.2 Tips to speed up the process  {#speed-tips}
 
@@ -293,7 +293,7 @@ These communications should note that W3C has not yet approved the charter.
 > ***Suggested wording:*** *Please let us know by \[date+1 week] if you have concerns or if this change would alter
 your review*.
 
-If anyone expresses new concern in response to the re-review, the Strategy Team may attempt to resolve the concern (with re-review), formally open a new AC review, or the [W3C Council](../council/council.md) may treat it as an objection and overrule it.
+If anyone expresses new concern in response to the re-review, the Technical Strategy Team may attempt to resolve the concern (with re-review), formally open a new AC review, or the [W3C Council](../council/council.md) may treat it as an objection and overrule it.
 
 If there are substantive changes, before any announcement, the Team Contact:
 
