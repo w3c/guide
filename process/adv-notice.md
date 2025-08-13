@@ -3,7 +3,7 @@ title: Announcing the start of Charter Refinement
 toc: yes
 ---
 
-The W3C Process defines a [charter refinement phase](https://www.w3.org/policies/process/drafts/#charter-initiation) to help ensure that charter drafts are mission-aligned, reflect community input and consensus, and have been well-socialized and widely reviewed *before* Advisory Committee review.
+The W3C Process defines a [charter refinement phase](https://www.w3.org/policies/process/#charter-initiation) to help ensure that charter drafts are mission-aligned, reflect community input and consensus, and have been well-socialized and widely reviewed *before* Advisory Committee review.
 
 This document describes how the W3C Communications Team announces the
 start of charter refinement with a *charter review notice*. For
@@ -14,7 +14,7 @@ Group](charter.md).
 
 # Drafting the charter review notice
 
-Per [section 4.1 of the Process Document](https://www.w3.org/policies/process/drafts/#charter-initiation) the charter review notice must include the following:
+Per [section 4.1 of the Process Document](https://www.w3.org/policies/process/#charter-initiation) the charter review notice must include the following:
 
 * A short summary of the proposal.
 * The location of the charter draft, which must be public.
@@ -44,6 +44,6 @@ to:
 
 # After the notice has been sent
 
-[Section 4.2 of the Process Document](https://www.w3.org/policies/process/drafts/#charter-development) describes activities during the refinement phase, and in particular the role of the Charter Facilitator to seek consensus and how and when any Formal Objections are handled.
+[Section 4.2 of the Process Document](https://www.w3.org/policies/process/#charter-development) describes activities during the refinement phase, and in particular the role of the Charter Facilitator to seek consensus and how and when any Formal Objections are handled.
 
 **Note**: Advance notice is not an indication that work *will* necessarily progress to Advisory Committee review.
