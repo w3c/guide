@@ -102,7 +102,7 @@ If no Advisory Committee representative formally requested that the Strategy Tea
 
 However, if an Advisory Committee representative formally requested that the Strategy Team initiate charter refinement, the Strategy Team may deny such a request if it thinks the proposal is insufficiently mature, does not align with W3C’s scope and mission, or otherwise does not meet the [charter assessment criteria](#charter-assessment-criteria). The Strategy Team must reply with its rationale in the same forum where it received the request (or simply back to the AC representative in the case where only the Strategy Team received the request). 
 
-This rejection is a [Team Decision](https://www.w3.org/policies/process/#team-decision). If the requestor so wishes, this decision can be appealed only by 5 or more Members, through their Advisory Committee representative, formally objecting to the decision within 8 weeks of the decision being announced. In this case the Strategy Team must start an [appeal vote](https://www.w3.org/policies/process/drafts/#appeal-vote) on whether to overturn the Team Decision. (No action is required to be taken when fewer than 5 Members object.)
+This rejection is a [Team Decision](https://www.w3.org/policies/process/#team-decision). If the requestor so wishes, this decision can be appealed only by 5 or more Members, through their Advisory Committee representative, formally objecting to the decision within 8 weeks of the decision being announced. In this case the Strategy Team must start an [appeal vote](https://www.w3.org/policies/process/#appeal-vote) on whether to overturn the Team Decision. (No action is required to be taken when fewer than 5 Members object.)
 
 > **Note**: We do not expect to include operational details for handling these Formal Objections until we have gained experience.
 
@@ -149,10 +149,10 @@ Objections to decisions pertaining to the content of the charter, as well as obj
 Objections to abandoning the proposal or to extending the refinement period can be appealed only if 5 or more Members, through their Advisory Committee representative, formally object to the decision within 8 weeks of the decision. In this case, the Strategy Team must do one of the following:
 
 * Abide by the objectors' request, if they all agree on the alternative course of action (e.g., to abandon, extend, or complete charter refinement).
-* Initiate an [AC Review](https://www.w3.org/policies/process/drafts/#advisory-committee-review) to formally solicit the input of the community and take a W3C Decision on the subsequent course of action.
-* Convene a [Council](https://www.w3.org/policies/process/drafts/#w3c-council) to decide the subsequent course of action.
+* Initiate an [AC Review](https://www.w3.org/policies/process/#advisory-committee-review) to formally solicit the input of the community and take a W3C Decision on the subsequent course of action.
+* Convene a [Council](https://www.w3.org/policies/process/#w3c-council) to decide the subsequent course of action.
 
-Any other objections are processed normally (see [Addressing Formal Objections](https://www.w3.org/policies/process/drafts/#addressing-fo)).
+Any other objections are processed normally (see [Addressing Formal Objections](https://www.w3.org/policies/process/#addressing-fo)).
 
 ### 3.6 Advisory Committee Review  {#ac-review}
 
