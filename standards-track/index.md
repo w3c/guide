@@ -126,7 +126,7 @@ W3C seeks to issue Recommendations that can be implemented and used on a [Royalt
 
 It is advisable for groups considering Recommendation Track work to consult with the W3C Team early enough in the process for them to advise about potential problems and workarounds, and help draft a formal proposal.
 
-Working Groups and Interest Groups have Team Contacts they can use for this purpose. Community Groups generally do not (see [Team support for CGs](https://www.w3.org/2016/04/cg-support/)), but CG participants are encouraged to reach out to the [W3C staff](https://www.w3.org/staff/) well in advance of proposing a transition to the Recommendation Track.
+Working Groups and Interest Groups have Staff Contacts they can use for this purpose. Community Groups generally do not (see [Team support for CGs](https://www.w3.org/2016/04/cg-support/)), but CG participants are encouraged to reach out to the [W3C staff](https://www.w3.org/staff/) well in advance of proposing a transition to the Recommendation Track.
 
 ## Process Considerations {#process}
 

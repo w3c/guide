@@ -27,18 +27,18 @@ Webmaster
 {:#teamVerification}
 
 Chair
-: Group Chair responsibilities may be carried out by either the Chair or Team Contact.
+: Group Chair responsibilities may be carried out by either the Chair or Staff Contact.
 {:#Chair}
 
 Document Contact
-: The _Document Contact_ is either the Team Contact, the Chair, or the document editor of the Working Group or Interest Group requesting publication. If there is no Working Group nor Interest Group, the [Maintainer Contact](#MaintainerContact) becomes the _Document Contact_. Consult the [W3C Project &amp; Process Director](mailto:team-project@w3.org) if you're not sure who is the relevant Document Contact.
+: The _Document Contact_ is either the Staff Contact, the Chair, or the document editor of the Working Group or Interest Group requesting publication. If there is no Working Group nor Interest Group, the [Maintainer Contact](#MaintainerContact) becomes the _Document Contact_. Consult the [W3C Project &amp; Process Director](mailto:team-project@w3.org) if you're not sure who is the relevant Document Contact.
 {:#DocContact}
 
 Maintainer Contact
 : The _Maintainer Contact_ is a designated individual tasked with requesting Team's approval in order to publish a Recommendation without a Working Group. Consult the [W3C Project &amp; Process Director](mailto:team-project@w3.org) if you're not sure who is the relevant Maintainer Contact. (Note: as of January 2018, the maintainer contact is [plh](mailto:plh@w3.org))
 {:#MaintainerContact}
 
-See also the [W3C Editor's Home Page](../editor/) and the Guidebook documentation of the [Chair's role](../chair/role.md) and [Team Contact's role](../teamcontact/role.md).
+See also the [W3C Editor's Home Page](../editor/) and the Guidebook documentation of the [Chair's role](../chair/role.md) and [Staff Contact's role](../teamcontact/role.md).
 
 ## Interactions with the W3C Communications Team  {#commteam}
 
@@ -48,11 +48,11 @@ At various stages during the Recommendation Track process, the W3C Communication
 - Issuing a press release around a First Public Working Draft, Candidate Recommendation, Recommendation, or other transition (for example, to announce completion of important work or to raise awareness at a conference). The Communications Team generally begins work on a draft press release several weeks in advance of an anticipated release, soliciting review within the Team. The Communications Team may also request Working Group review of a draft press release. In general, the Communications Team strives to make press releases available in English, French, Japanese and Chinese. The W3C Offices translate [W3C press releases](https://www.w3.org/press-releases/) into additional languages.
 - Soliciting testimonials in support of a document, usually more than a month in advance of publication of a Recommendation.
 - Announcing publication to Members and the press.
-- Listing the publication on the W3C home page and in Member publications. In general, the Communications Team drafts home page announcements for publications (see [past news items](https://www.w3.org/news/)). Input from Team Contacts for announcements of First Public Working Drafts is appreciated.
+- Listing the publication on the W3C home page and in Member publications. In general, the Communications Team drafts home page announcements for publications (see [past news items](https://www.w3.org/news/)). Input from Staff Contacts for announcements of First Public Working Drafts is appreciated.
 - Writing speaking points for the press, generally with input from the Working Group.
 - Coordinating spokespeople to answer technical questions from the press.
 
-Please contact the Communications Team at w3t-comm@w3.org (cc'ing the group's Team Contact) if you have any general questions regarding the publications process.
+Please contact the Communications Team at w3t-comm@w3.org (cc'ing the group's Staff Contact) if you have any general questions regarding the publications process.
 
 ## History  {#history}
 

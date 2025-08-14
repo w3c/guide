@@ -31,7 +31,7 @@ The TiLT is “internal to the Team”; it does not have Membership- or communit
 
 TiLT does not replace the Technical Strategy Function (e.g., what Workshops W3C should organize). Note, however, that the TiLT does play a role for related decisions (e.g., Workshop approval).
 
-TiLT does not replace Board of Directors nor W3C Senior Leadership team (SLT) functions. For example, the TiLT does not establish a budget, but through its decisions (e.g., Workshop approval), there are likely to be budgetary impacts (e.g., Workshop costs, human resources for Team Contacts, etc.). Thus, TiLT may be asked to provide input to budget discussions.
+TiLT does not replace Board of Directors nor W3C Senior Leadership team (SLT) functions. For example, the TiLT does not establish a budget, but through its decisions (e.g., Workshop approval), there are likely to be budgetary impacts (e.g., Workshop costs, human resources for Staff Contacts, etc.). Thus, TiLT may be asked to provide input to budget discussions.
 
 ## Composition {#composition}
 
@@ -49,7 +49,7 @@ The TiLT is staffed as follows:
 
 Eligibility:
 
-- By default, all Team Contacts are eligible for either co-chair or regular seats. Individuals from this group are expected to participate but may opt-out. Other W3C Team may opt-in.
+- By default, all Staff Contacts are eligible for either co-chair or regular seats. Individuals from this group are expected to participate but may opt-out. Other W3C Team may opt-in.
 - To fill an open seat, assemble the [randomized list of individuals](https://www.w3.org/2023/08/noncom-random-selection.html) interested in the position, with the outgoing TiLT member at the bottom of the list, go down the list until you fill the seat.
 
 ### Current members {#current}
@@ -72,7 +72,7 @@ The entire W3C team has an open invitation to observe the discussion, including 
 
 For transition requests, TiLT delegates its authority to [@w3c/transitions](https://github.com/orgs/w3c/teams/transitions). Follow [Organize a Technical Report Transition](../../transitions/).
 
-Other requests for approvals MUST be sent as an [open issue](https://github.com/w3c/tilt-private/issues/new/choose) to tilt-private. There are templates for each type of decision request. Each request receives the label “agenda” and remains open until a decision has been reached.
+Other requests for approvals MUST be sent as an [open issue](https://github.com/w3c/tilt-private/issues/new/choose) to tilt-private. There are templates for each type of decision request. Each request receives the label “agenda” and remains open until a decision has been reached. If the request is from a charter facilitator that is not part of the Staff (and therefore does not have proper access), the charter facilitator should request help from the Staff ([team-strat@w3.org](mailto:team-strat@w3.org)).
 
 For sensitive announcement, a draft of the message going to the AC may be needed. If so, use the "Anything else we should think before ..." to include or link to those information.
 

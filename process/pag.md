@@ -19,7 +19,7 @@ This document was reviewed by the W3C [Patents and Standards Interest Group](htt
 
 The following deadlines ("must") and recommended ("should") deadlines are presented relative to the earlier of (a) the time of an exclusion within a WG, and (b) the time that a Chair of a WG requests that a PAG be convened.
 
-- Within 30 days: The Team must initiate discussions with the WG Chair, Team Contact and Members of the WG, as well as the patent holder, to support development of a strategy and plan for subsequent steps. Objectives of these discussions may include:
+- Within 30 days: The Team must initiate discussions with the WG Chair, Staff Contact and Members of the WG, as well as the patent holder, to support development of a strategy and plan for subsequent steps. Objectives of these discussions may include:
   
   - Ascertain the desired schedule for completing the PAG investigation in light of the WG's plans.
   - Seek clarifications regarding the intent and content of the patent(s) from the patent holder. See if they are willing to retract their exclusion and/or offer licensing terms consistent with the Patent Policy. (PAG will likely seek additional data from them later.)
@@ -33,7 +33,7 @@ The following steps must be completed prior to and at the launch of the PAG (lin
 
 1. Development of PAG Charter ([REX PAG, Dec 2006](https://www.w3.org/2006/12/w3c-rex-pag-charter)).
    
-   - Domain Lead and Team Contact are responsible for drafting.
+   - Domain Lead and Staff Contact are responsible for drafting.
    - Seek feedback from the WG, the [Patent and Standards Interest Group](https://www.w3.org/2004/pp/psig/), and others as needed.
    - Secure W3M approval.
 1. Creation of Supporting Systems

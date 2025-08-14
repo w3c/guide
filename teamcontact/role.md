@@ -1,19 +1,19 @@
 ---
-title: Role of the Team Contact
+title: Role of the Staff Contact
 toc: false
 ---
 
-*Note:* W3C designates a Team Contact to monitor the progress of every [Submission request](https://www.w3.org/Project/Submission) and to write a Team Comment which is published as part of the Submission. This document, however, discusses the Team Contact of a Working Group, rather than the Team Contact for a Submission.
+*Note:* W3C designates a Staff Contact to monitor the progress of every [Submission request](https://www.w3.org/Project/Submission) and to write a Team Comment which is published as part of the Submission. This document, however, discusses the Staff Contact of a Working Group, rather than the Staff Contact for a Submission.
 
-W3C designates a Team Contact ("Contact") for every W3C Working Group and Interest Group ("Group"). The Contact helps set the strategic direction of the Group in the chartering phase. Many of the Contact's tasks involve helping the Chair complete his or her [roles](../chair/role.md), such as ensuring that the group runs smoothly, actively aiding consensus building, ensuring wide review of specifications, tracking feedback from implementors, and so forth. The Team Contact reports to the Project Lead.
+W3C designates a Staff Contact (also known as Team Contact) for every W3C Working Group and Interest Group ("Group"). The Contact helps set the strategic direction of the Group in the chartering phase. Many of the Contact's tasks involve helping the Chair complete his or her [roles](../chair/role.md), such as ensuring that the group runs smoothly, actively aiding consensus building, ensuring wide review of specifications, tracking feedback from implementors, and so forth. The Staff Contact reports to the Project Lead.
 
 ## Technical coordination
 
-Coordination and communication is a primary role for the Team Contact, who acts as the interface between the Group Chair ("Chair"), Group Members, other Working Groups, and the W3C Team:
+Coordination and communication is a primary role for the Staff Contact, who acts as the interface between the Group Chair ("Chair"), Group Members, other Working Groups, and the W3C Team:
 
-{% include quote.html content="The team contact role is largely one of communication. This involves becoming as aware as possible of the technical requirements and issues in the group, and simultaneously being aware of the general [architecture of the Web](https://www.w3.org/TR/webarch/) as evolving in the other work of W3C. This is of course a general responsibility of the group - and the chair and group members have this duty too. The staff contact has the benefit of being employed full time in W3C, and having access to other team members. The team contact's existence does not dilute in any way the group's obligation to ensure the technology interoperates with that of other groups. " footer="TimBL 2001-09-11" %}
+{% include quote.html content="The Staff Contact role is largely one of communication. This involves becoming as aware as possible of the technical requirements and issues in the group, and simultaneously being aware of the general [architecture of the Web](https://www.w3.org/TR/webarch/) as evolving in the other work of W3C. This is of course a general responsibility of the group - and the chair and group members have this duty too. The staff contact has the benefit of being employed full time in W3C, and having access to other team members. The Staff Contact's existence does not dilute in any way the group's obligation to ensure the technology interoperates with that of other groups. " footer="TimBL 2001-09-11" %}
 
-The Team Contact is also charged with representing the views of the Team to the Working group. Just as all Members do not have the same views, neither does all the Team. The Team Contact collects the various viewpoints and summarizes them so that the Working Group benefits from the widest range of inputs. Where the Team does not have a single position, it is inappropriate to merely abstain. Instead, the various points of view should be summarized. For a good example of Team input where the Team did not have consensus, see [Team response on the 'canvas' element](https://lists.w3.org/Archives/Public/public-html/2007Nov/0449.html).
+The Staff Contact is also charged with representing the views of the Team to the Working group. Just as all Members do not have the same views, neither does all the Team. The Staff Contact collects the various viewpoints and summarizes them so that the Working Group benefits from the widest range of inputs. Where the Team does not have a single position, it is inappropriate to merely abstain. Instead, the various points of view should be summarized. For a good example of Team input where the Team did not have consensus, see [Team response on the 'canvas' element](https://lists.w3.org/Archives/Public/public-html/2007Nov/0449.html).
 
 ## Assist Group organizers in creating charter and convening Group
 
