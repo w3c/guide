@@ -172,13 +172,13 @@ function nextSteps(spec) {
 	} else if (spec.status === "Candidate Recommendation") {
 		list.innerHTML = listItem("Revise the Candidate Recommendation Draft", "profile=CR&cr=draft")
 			+ listItem("Revise as a Candidate Recommendation Snapshot", "profile=CR&cr=snapshot")
-			+ listItem("Advance to Recommendation", "profile=PR")
+			+ listItem("Advance to Recommendation", "profile=newREC")
 			+ listItem("Return to Working Draft", "profile=WD&returning=true")
 			+ listItem("Publish as a Discontinued Draft", "profile=DISC");
 	} else if (spec.status === "Candidate Recommendation Draft" || spec.status === "Candidate Recommendation Snapshot") {
 		list.innerHTML = listItem("Revise the Candidate Recommendation Draft", "profile=CR&cr=draft")
 			+ listItem("Revise as a Candidate Recommendation Snapshot", "profile=CR&cr=snapshot")
-			+ listItem("Advance to Recommendation", "profile=PR")
+			+ listItem("Advance to Recommendation", "profile=newREC")
 			+ listItem("Return to Working Draft", "profile=WD&returning=true")
 			+ listItem("Publish as a Discontinued Draft", "profile=DISC");
 	} else if (spec.status === "Recommendation") {

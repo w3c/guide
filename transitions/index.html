@@ -290,7 +290,7 @@ interactions with the W3C Communications Team.</p>
 						<span class="transwhen" data-profile="FPWD|FPWG-NOTE|FPIG-NOTE" data-notehistory="notchartered|first">The</span>
 						<a href="details#DocContact">Document Contact</a></span>
 						<span class="transwho" data-profile="FPWD|FPWG-NOTE|FPIG-NOTE|CR|newREC|PR-OBSL|PR-RSCND|REC|OBSL|RCSND" data-cr="new|snapshot" data-notehistory="notchartered|first">
-							creates <span data-profile="CR|REC" data-cr="snapshot" data-rec="substantive|features">an <a href="#updaterequest">update request</a></span><span data-profile="FPWD|CR|newREC|PR-OBSL|PR-RSCND|FPWG-NOTE|FPIG-NOTE|OBSL|RSCND" data-cr="new" data-notehistory="notchartered|first">a <a  href="#transreq">transition request</a></span> in <a href="https://github.com/w3c/transitions/issues">w3c/transitions</a>.
+							creates <span data-profile="CR|REC" data-cr="snapshot" data-rec="substantive|features">an <a href="#transreq">update request</a></span><span data-profile="FPWD|CR|newREC|PR-OBSL|PR-RSCND|FPWG-NOTE|FPIG-NOTE|OBSL|RSCND" data-cr="new" data-notehistory="notchartered|first">a <a  href="#transreq">transition request</a></span>.
 							<span data-profile="CR" data-cr="snapshot" data-echidna="true">For the purpose of the automatic publishing
 								system, it's <strong>important</strong> that the title of the issue ends with the shortname of your
 								specification, thus you will need one single issue for each specification.</span>
@@ -299,9 +299,7 @@ interactions with the W3C Communications Team.</p>
 								approved by the Team.
 							</span>
 						</span>
-						<span>A <a href="https://lists.w3.org/Archives/Public/public-transition-announce/">public archive of
-								transition requests</a> is available.</span>
-					</span></li>
+					</li>
 
 					<li class="transitionmtg" data-profile="FPWD|CR|newREC|PR-OBSL|PR-RSCND|REC|OBSL|RSCND" data-cr="new|snapshot">
 						Following an initial review by the Team, the <a href="details#DocContact">Document Contact</a>
@@ -360,7 +358,7 @@ interactions with the W3C Communications Team.</p>
 		  			    <li id="edrec-webreqmail" data-profile="REC" data-rec="editorial">If an individual made a request to the
 								relevant Working Group, or the <a href="details#MaintainerContact">Maintainer Contact</a>, to update a
 								Recommendation, <strong>and</strong> the request was not answered within 90 days, the individual should
-								create a <a href="#transreq">transition request</a> in <a href="https://github.com/w3c/transitions/issues">w3c/transitions</a> to draw attention.</li>
+								create an issue in <a href="https://github.com/w3c/transitions/issues/new/choose">w3c/transitions</a> to draw attention.</li>
 		
 					<li class="mailinglist-prep" data-profile="REC">
 						The <a href="details#DocContact">Document Contact</a> ensures that
@@ -1004,9 +1002,9 @@ interactions with the W3C Communications Team.</p>
 			<li><em class="rfc2119">must</em> specify the deadline for comments,
 				which <em class="rfc2119">must not</em> be any sooner than 60 days
 				after the publication of the Recommendation, and <em class="rfc2119">should</em> be at least 10 days
-				after the end of the <a href="/2020/06/DRAFT-PP2020.html#sec-Exclusion">Exclusion
+				after the end of the <a href="/policies/patent-policy/#sec-Exclusion">Exclusion
 					Opportunity</a> started by the publication of the Recommendation.
-				<p class="note">The <a href="/pubrules/doc/rules/?profile=PR">publication requirements</a>
+				<p class="note">The <a href="/pubrules/doc/rules/?profile=REC">publication requirements</a>
 					will ensure about this. No need to indicate anything beyond providing the Status of the Document.</p>
 			</li>
 		</ul>
@@ -1244,7 +1242,10 @@ interactions with the W3C Communications Team.</p>
 			</ol>
 		</div>
 
-		<p>To submit a transition request, open a new issue in <a href="https://github.com/w3c/transitions/issues">w3c/transitions</a>.</p>
+		<p>To submit a transition request, open a new issue in 
+			<a href="https://github.com/w3c/transitions/issues">w3c/transitions</a>
+			. A <a href="https://lists.w3.org/Archives/Public/public-transition-announce/">public archive of transition requests</a> is available.</p>
+			</p>
 
 	</div>
 
@@ -1470,7 +1471,7 @@ interactions with the W3C Communications Team.</p>
 					<li class="transreq-dir-approval" data-profile="FPWD|CR|newREC|OBSL|RSCND|FPIG-NOTE|FPWG-NOTE" data-cr="new|snapshot" data-notehistory="notchartered|first">Record of
 						approval of the <a href="#transreq">transition request</a>.</li>
 					<li class="transreq-dir-approval" data-profile="REC" data-rec="features|substantive">Record of approval of the
-						<a href="#updaterequest">update request</a>.</li>
+						<a href="#transreq">update request</a>.</li>
 					<li class="transreq-dir-approval" data-profile="FPIG-NOTE|FPWG-NOTE" data-notehistory="closure">Record of W3M
 						decision to close the group.</li>
 
@@ -1664,7 +1665,7 @@ interactions with the W3C Communications Team.</p>
 			</ol>
 
 
-			<p data-profile="newREC">Please use the <a href="/new-doc-from-template?location=%2FTeam%2F&amp;template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fproposed-rec.html&amp;submit=Continue...">Team-only
+			<p data-profile="newREC">Please use the <a href="/new-doc-from-template?location=%2FTeam%2F&amp;template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fcfr-cr.html&amp;submit=Continue...">Team-only
 					transition
 					announcement template</a> as a starting point.</p>
 
@@ -1780,6 +1781,36 @@ Note: Info about features at risk is required in status section per pubrules
 		<p>
 			The newly published Recommendation must not make any substantive changes to the document compared to the document submitted for AC Review.
 		</p>
+
+		<div class="announcement-contents">
+			<p>A <span class="status-name">STATUS</span> announcement MUST include the following information:</p>
+			<ol>
+				<li>That this is a <span class="status-name">STATUS</span>
+					announcement.</li>
+
+				<li>Document title, URIs.</li>
+
+				<li>A paragraph introducing the work, usually the Abstract.</li>
+
+				<li class="annc-objections">Indication, in general terms,
+					of level of support of Membership.
+					<span class="ac-review-details"><strong>Note:</strong>
+						As a policy, the Team does not announce detailed results (i.e.,
+						numbers of reviews) of a Recommendation review to the
+						Membership or Public, except for information regarding formal
+						objections.</span>
+				</li>
+
+				<li>Information about any Formal Objections.</li>
+
+				<li>Any additional information for companion document(s).</li>
+
+			</ol>
+
+			<p data-profile="newREC">Please use the <a href="/new-doc-from-template?location=%2FTeam%2F&amp;template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Frec-announcement.html&amp;submit=Continue...">Team-only
+				announcement template</a> as a starting point.</p>
+
+		</div>
 
 	</div>
 	<div data-profile="WD|FPWD|CR|REC" data-cr="new|snapshot" data-rec="proposed-corrections|proposed-additions" data-informativeonly="false" data-returning="false">
