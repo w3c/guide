@@ -45,7 +45,7 @@ When a Formal Objection is raised, the Team assigns someone to attempt to resolv
 
 Within the bounds set by the Process, the Team decides how long the assignee has to attempt resolution and to write the report before the decision will be brought to a W3C Council. It is important that not too much time is spent in trying to resolve irreconcilable differences. Appropriate timing will depend on the complexity of the issue, and on the cooperation of the objector(s) and decider(s).
 
-The assignee should be well versed in the topic at hand. The assignee could be the Team Contact for the relevant Working Group, the person that drafted the Charter that is being objected to, or another member of the Team who has familiarity with the situation. It is important that the assignee be perceived as unbiased with respect to the decision under review, and it is extremely important that they execute this task in a way that is as neutral and transparent as possible.
+The assignee should be well versed in the topic at hand. The assignee could be the Staff Contact for the relevant Working Group, the person that drafted the Charter that is being objected to, or another member of the Team who has familiarity with the situation. It is important that the assignee be perceived as unbiased with respect to the decision under review, and it is extremely important that they execute this task in a way that is as neutral and transparent as possible.
 
 The assignee works with all parties to explore whether there is a way to resolve the Formal Objection. If the assignee believes that they have succeeded then the assignee needs ample documentation that the objection is resolved. Resolution requires both the satisfaction of the objectors and ensuring that the proposed resolution does not itself have objectors. Here are some examples:
 
@@ -81,8 +81,8 @@ If resolution is not possible in the allocated time frame, the assignee must ref
 - The report should be available for review by the relevant groups and objectors.
   
   - If any participant feels that their viewpoint is not fairly represented, a limited time effort should be made to get all relevant information into the document.
-  - If at the end of the allocated time the Team determines that it is not possible to get agreement on the report, then the Team publishes findings about which participants believe that it is not a fair report. Those participants may write up their own viewpoints.
-  - The assignee should indicate an explicit team contact (which can be the assignee) for comments on the draft document.
+  - If at the end of the allocated time the Team determines that it is not possible to get agreement on the report, then the Team publishes their findings which participants believe that it is not a fair report. Those participants may write up their own viewpoints.
+  - The assignee should indicate an explicit staff contact (which can be the assignee) for comments on the draft document.
 - The W3C Council determines who will rule on this objection and who will chair the Council.
   
   - See [Council Participation, Dismissal, and Renunciation](https://www.w3.org/policies/process/#council-participation) and [Council Chairing](https://www.w3.org/policies/process/#council-chairing).
@@ -233,7 +233,7 @@ Ongoing communications
 : As the Formal Objection resolution process unfolds, all parties should be apprised of the status.
     There should be no ambiguity about who is responsible for the current step or what that next step is
     (e.g., the Team is writing a report, the Team is waiting for the Objector or deciders to respond to some question,
-    the W3C Council is being convened, the W3C Council is in deliberations, etc.). The W3C Council Team Contact should ensure that
+    the W3C Council is being convened, the W3C Council is in deliberations, etc.). The W3C Council Staff Contact should ensure that
     such communications take place and the process continues to move forward.
 
 ## Revision History

@@ -19,9 +19,9 @@ You can just publish HTML as you normally would simply by setting up [GitHub Pag
 
 W3C projects include W3C staff selected projects as well as W3C Working (Interest) Group projects. It is possible that we decide to assess other group's requests to host a given repository. In any case, a prerequisite would be identifying the owner(s) either by name or by e-mail address. Refer to [the Guidebook for Community Groups](https://www.w3.org/2016/04/cg-support/#what) for more information.
 
-1. Your Team Contact should become (if they're not already) a part of the [Owners Team](https://github.com/organizations/w3c/settings/owners) of the W3C organization. (Ask any of the current owners directly, or ask on &sysreq. This is only for W3C Staff.)
-1. If there is no GitHub team roughly matching the group that will be pushing to that repository, the Team Contact should create a new team for the editors who will be contributing to the document, and give that team push and pull access.
-1. W3C staff (or Team Contacts of the group) create a new repository for each document (each deliverable, it can of course contain multiple resources). Add each such repository to the GitHub team so that the contributors all have push access. Other people can suggest changes by submitting pull requests (in fact, editors can do that too to enable reviewing before commits, if desired), but not every contributor will be given direct commit access.
+1. Your Staff Contact should become (if they're not already) a part of the [Owners Team](https://github.com/organizations/w3c/settings/owners) of the W3C organization. (Ask any of the current owners directly, or ask on &sysreq. This is only for W3C Staff.)
+1. If there is no GitHub team roughly matching the group that will be pushing to that repository, the Staff Contact should create a new team for the editors who will be contributing to the document, and give that team push and pull access.
+1. W3C staff (or Staff Contacts of the group) create a new repository for each document (each deliverable, it can of course contain multiple resources). Add each such repository to the GitHub team so that the contributors all have push access. Other people can suggest changes by submitting pull requests (in fact, editors can do that too to enable reviewing before commits, if desired), but not every contributor will be given direct commit access.
 
 ### Detailed steps for staff contacts to create a repo {#steps}
 

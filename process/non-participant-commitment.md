@@ -5,7 +5,7 @@ toc: no
 
 This is Team guidance for implementation of [Process 6.2.6](https://www.w3.org/policies/process/#contributor-license). If you have any IPR questions, and for substantial contributions, please contact [team-legal](mailto:team-legal @ w3.org).
 
-When a non-Member (or not-yet-identified Member) makes a pull request contribution to a W3C Working Group repository, the repository manager tool flags it for review and sends them an email with [this text](https://github.com/w3c/ash-nazg/blob/master/templates/affiliation-mail.txt) to the contributor, chairs, and team contacts.
+When a non-Member (or not-yet-identified Member) makes a pull request contribution to a W3C Working Group repository, the repository manager tool flags it for review and sends them an email with [this text](https://github.com/w3c/ash-nazg/blob/master/templates/affiliation-mail.txt) to the contributor, chairs, and staff contacts.
 
 1. If the contributor is a Member participating in the WG, link the GitHub account to the Member-affiliated W3C account and re-validate.
 
