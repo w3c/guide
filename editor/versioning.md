@@ -59,7 +59,7 @@ We recommend this syntax for version number URLs:
 
 Those versioned URLs provides quick access to the latest work within a given major version. `N` is a number, not interpreted by the underlying system except for its sequence order. You may use for example `2`, `2.0`, `2018`.
 
-When a Working Group follows this scheme, Director approval of new version number is not required.
+When a Working Group follows this scheme, approval from the [transitions team](https://github.com/orgs/w3c/teams/transitions) of new version number is not required.
 
 Working Groups wishing to adopt this scheme even though they already have allocated their short name should contact webreq@w3.org.
 

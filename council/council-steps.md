@@ -15,7 +15,7 @@ Note that at any step, the whole process might end by the originator by withdraw
 1.  The FO Assignee produces a Team Report:
   *   The Team Report is circulated to the Team for review (one week review time)
   *   The Team Report is circulated (at the same time or after Team review) to both parties.
-1.  The FO Assignee updates the [Formal Objection dashboard](https://www.w3.org/Member/wiki/DirectorFOdashboard).
+1.  The FO Assignee updates the [Formal Objection dashboard](https://www.w3.org/Member/wiki/FOdashboard).
 1.  The Council Staff Contact drafts an announcement and call for dismissal reasons with a minimum deadline of two weeks (See this [example](https://lists.w3.org/Archives/Member/w3c-ac-members/2024JanMar/0021.html), and the [Council composition](https://www.w3.org/policies/process/#council-composition)).
   *   Announcement is sent to the AC members list
 1.  The Council Staff Contact creates a new [Group](https://www.w3.org/admin/othergroups/list) (name should be _Council-YYYY-MM-\<readable shortname>_) in the db, filled with all the potential members of this Potential Council

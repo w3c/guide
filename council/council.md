@@ -53,7 +53,7 @@ The assignee works with all parties to explore whether there is a way to resolve
 - If the resolution causes a change in a technical document, then there must be a Working Group call for consensus on the revised document to which there are no objections.
 - If the resolution causes a change in a proposed charter, then all participants in the AC review of that charter must have had an opportunity to review the revised proposed charter, and not objected.
 
-See also: [Ongoing Team Attempts](https://www.w3.org/Member/wiki/DirectorFOdashboard#Team_is_attempting_to_find_consensus_or_not_ready_to_ask_a_Council)
+See also: [Ongoing Team Attempts](https://www.w3.org/Member/wiki/FOdashboard#Team_is_attempting_to_find_consensus_or_not_ready_to_ask_a_Council)
 
 ### Publishing Formal Objections {#publishing-fos}
 

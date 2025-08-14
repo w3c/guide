@@ -8,13 +8,13 @@ toc: true
 
 This document describes the W3C policy for [XML namespace](https://www.w3.org/TR/xml-names11/) allocation in W3C Technical Reports. This document is part a series of documents that describe W3C Technical Report Publication Policies.
 
-Exceptions to this policy **MAY** be authorized by the Director.
+Exceptions to this policy **MAY** be authorized by the Technical Strategy Lead.
 
 ## Namespace URIs in Recommendation Track Documents, Group Notes, and other Working Drafts  {#allocation}
 
 Groups **SHOULD** use namespace URIs that have the characteristics of uniqueness.
 
-Director approval is **NOT REQUIRED** when a namespace URI in a Technical Report has any of the following forms:
+Technical Strategy Lead approval is **NOT REQUIRED** when a namespace URI in a Technical Report has any of the following forms:
 
 - `http://www.w3.org/ns/ssss`
 - `http://www.w3.org/YYYY/MM/ssss`
@@ -26,13 +26,13 @@ where:
 - `YYYY` and `MM` are decimal digits corresponding to the year and month of URI allocation
 - `ssss` is a short string not causing confusion, alarm, or embarrassment. For instance, the short string should not cause confusion when used in both `http://www.w3.org/TR/ssss` and `http://www.w3.org/ns/ssss` URIs.
 
-A trailing "`/`" **MAY** be used and does not require Director approval.
+A trailing "`/`" **MAY** be used and does not require Technical Strategy Lead approval.
 
 The W3C Webmaster allocates and authorizes namespace URIs having the forms listed above. W3C provides the service of allocating and maintaining persistent URIs so that those URIs remain stable during discussions. Allocation does **not** imply any endorsement by W3C of the related specifications. The [W3C URI persistence policy](https://www.w3.org/policies/uri-persistence/) only applies to URIs of the above forms, and does not apply to other URIs within w3.org (e.g., those for lists.w3.org).
 
-Director approval is **REQUIRED** for all other namespace URIs. In particular:
+Technical Strategy Lead approval is **REQUIRED** for all other namespace URIs. In particular:
 
-- The Director **MAY** authorize a group to use a namespace URI that does not begin with `http://www.w3.org/`. The Director expects the organization that allocates the URI to have a clear persistence policy associated with the URI, to make a commitment to longevity of service, and to provide information about how the URI will be maintained in the event of the demise of the host organization.
+- The Technical Strategy Lead **MAY** authorize a group to use a namespace URI that does not begin with `http://www.w3.org/`. The Technical Strategy Lead expects the organization that allocates the URI to have a clear persistence policy associated with the URI, to make a commitment to longevity of service, and to provide information about how the URI will be maintained in the event of the demise of the host organization.
 
 ### Rationale for the http://www.w3.org/YYYY/MM/ssss syntax  {#syntax-rationale}
 
@@ -87,6 +87,7 @@ Example 5 \[Before CR]
 
 Discussion of this policy is appropriate in the [uri mailing list](https://lists.w3.org/Archives/Public/uri/) , [www-tag](https://lists.w3.org/Archives/Public/www-tag/), and various other lists.
 
+- 20250814: Replace Director with Technical Strategy Lead
 - 20060906: After [discussion on www-tag](https://lists.w3.org/Archives/Public/www-tag/2006Aug/0081.html) and with support from Director, announced http://www.w3.org/ns/. See [announcement to www-tag on 6 Sep](https://lists.w3.org/Archives/Public/www-tag/2006Sep/0039.html).
 - 20050131: Revision announced to Chairs.
 - 19991026: [First revision](https://www.w3.org/1999/10/nsuri) announced to the Chairs ([announcement](https://lists.w3.org/Archives/Member/chairs/1999OctDec/0019.html)).

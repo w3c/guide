@@ -5,7 +5,7 @@ toc: no
 
 ## Charter Review
 
-From time to time a Working Group or Interest Group will not have completed its work prior to the end date of its group charter.  The Director may entertain requests to extend the charter.  The Advisory Board has asked the CEO to monitor charter end dates and group progress more closely and in particular to clarify the status of a group that wishes to continue to work past the end of its charter.
+From time to time a Working Group or Interest Group will not have completed its work prior to the end date of its group charter.  [TiLT](./tilt/index.md) may entertain requests to extend the charter.  The Advisory Board has asked the CEO to monitor charter end dates and group progress more closely and in particular to clarify the status of a group that wishes to continue to work past the end of its charter.
 
 1. On a quaterly basis, [Strategy](https://www.w3.org/staff/strat/) will review the progress of all chartered groups and the Staff Contacts will present a plan for each Group whose charter will have expired prior to the following quarterly review meeting. Staff Contacts are encouraged to look ahead further than the next review meeting and report expectations for groups whose charter expires within six months of each review meeting.
 2. Strategy will review each such plan during the quarterly meetings and reach an approved consensus plan.  The Advisory Board encourages the Team to grant charter extensions sparingly.

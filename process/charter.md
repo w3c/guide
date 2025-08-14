@@ -437,7 +437,7 @@ When a group **Chair** is (re)appointed or resigns, shortly before/after the ann
 
 ## 6. Revision history  {#revision-history}
 
-- **2025-06**: Overhauled to integrate charter refinement introduced in the 2025 Process Document.
+- **2025-08**: Overhauled to integrate charter refinement introduced in the 2025 Process Document.
 - **2024-01**: Public comments and Formal Objections (including from Members) are now to be sent to public-review-comments@w3.org; various editorial changes.
 - **2023-10**: Updated following Process 2023 and reorganized to separate high-level processes from implementation.
 - **2012-08**: Added section 3.4 Horizontal Review following [discussion at May 2012 AC meeting on better integration of horizontal working groups](https://www.w3.org/2012/05/15-ac-minutes#item14) and discussion within the Team and Advisory Board.
