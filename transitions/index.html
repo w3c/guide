@@ -303,7 +303,7 @@ interactions with the W3C Communications Team.</p>
 
 					<li class="transitionmtg" data-profile="FPWD|CR|newREC|PR-OBSL|PR-RSCND|REC|OBSL|RSCND" data-cr="new|snapshot">
 						Following an initial review by the Team, the <a href="details#DocContact">Document Contact</a>
-						<span class="rfc2119">MAY</span> be asked to organize a <a href="#dir-mtg">transition meeting
+						<span class="rfc2119">MAY</span> be asked to organize a <a href="#team-mtg">transition meeting
 							with the Team</a> to discuss the request.
 					</li>
 
@@ -314,7 +314,7 @@ interactions with the W3C Communications Team.</p>
 						<span data-profile="CR|newREC">Approvals are expected to appear as an issue comment <a href="https://github.com/w3c/echidna/blob/master/lib/transition-checker.js#L60">"Transition
 								approved."</a> in <a href="https://github.com/w3c/transitions/issues">w3c/transitions</a>
 							<span data-profile="CR" data-cr="snapshot" data-echidna="true">and
-								the label '<a href="https://github.com/w3c/echidna/blob/master/lib/transition-checker.js#L40">Awaiting
+								the label '<a href="https://github.com/w3c/echidna/blob/master/lib/transition-checker.js#L68">Awaiting
 									Publication</a>' will need to be set</span>.</span>
 						<span class="transitionreq-approvalwho-when" data-profile="CR|newREC|REC|OBSL|RSCND|PR-OBSL|PR-RSCND" data-cr="new|snapshot">
 							In most cases the decision to approve the transition is made on Fridays.
@@ -440,8 +440,8 @@ interactions with the W3C Communications Team.</p>
 					</li>
 					<li data-profile="CR" data-cr="snapshot" data-echidna="true">The Communications Team
 						approves the draft using an issue comment
-						<a href="https://github.com/w3c/echidna/blob/master/lib/transition-checker.js#L32">"Draft transition
-							approved"</a>
+						<a href="https://github.com/w3c/echidna/blob/master/lib/transition-checker.js#L61">"Draft transition
+							received"</a>
 						in <a href="https://github.com/w3c/transitions/issues">w3c/transitions</a>
 					</li>
 				</ul>
@@ -950,7 +950,7 @@ interactions with the W3C Communications Team.</p>
 	</div>
 
 	<div data-profile="REC" data-rec="editorial">
-		<h2 id="publishing-crud">Updating a <span class="status-name">STATUS</span> with editorial changes</h2>
+		<h2 id="publishing-crud-2">Updating a <span class="status-name">STATUS</span> with editorial changes</h2>
 
 		<p>The Working Group:</p>
 		<ul>
@@ -970,7 +970,7 @@ interactions with the W3C Communications Team.</p>
 	</div>
 
 	<div data-profile="REC" data-rec="candidate-corrections|candidate-additions|candidate-corrections|candidate-additions">
-		<h2 id="publishing-crud">Updating a <span class="status-name">STATUS</span> with candidate changes</h2>
+		<h2 id="publishing-crud-3">Updating a <span class="status-name">STATUS</span> with candidate changes</h2>
 
 		<p class="advisement" data-profile="REC" data-rec="candidate-additions">WARNING: If your existing Recommendation was
 			not approved for <a href="/policies/process/20250818/#allow-new-features">accepting new
@@ -989,13 +989,13 @@ interactions with the W3C Communications Team.</p>
 					</p>
 				</div>
 			</li>
-			<li><em class="rfc2119">must</em> identify the specific <a href="/policies/process/20250818/#candidate-change">candidate changes</a> under review as
+			<li><em class="rfc2119">must</em> identify the specific <a href="/policies/process/20250818/#candidate-amendments">candidate changes</a> under review as
 				proposed changes, and
-				<p class="note">Your document contain proper marks/annotations to identify the specific <a href="/policies/process/20250818/#candidate-change">candidate changes</a>, or is providing a
-					list of those <a href="/policies/process/20250818/#candidate-change">candidate changes</a>.</p>
+				<p class="note">Your document contain proper marks/annotations to identify the specific <a href="/policies/process/20250818/#candidate-amendments">candidate changes</a>, or is providing a
+					list of those <a href="/policies/process/20250818/#candidate-amendments">candidate changes</a>.</p>
 			</li>
 			<li> <em class="rfc2119">must not</em> make <a href="/policies/process/20250818/#substantive-change">substantive changes</a> since the previous Recommendation.
-				<p class="note">Your document can only propose <a href="/policies/process/20250818/#candidate-change">candidate changes</a> but cannot apply
+				<p class="note">Your document can only propose <a href="/policies/process/20250818/#candidate-amendments">candidate changes</a> but cannot apply
 					those to the normative content at this time. The W3C Team will ensure
 					no substantive changes.</p>
 			</li>
@@ -1014,7 +1014,7 @@ interactions with the W3C Communications Team.</p>
 	<div data-profile="REC" data-rec="substantive|features">
 		<!-- <h2 id='change-review'>Incroprating cndidate changes in a <span class="status-name">STATUS</span></h2> -->
 		<ul>
-			<li><em class="rfc2119">must</em> only incorporate <em>as is</em> <a href="/policies/process/20250818/#candidate-change">candidate changes</a> proposed in the most
+			<li><em class="rfc2119">must</em> only incorporate <em>as is</em> <a href="/policies/process/20250818/#candidate-amendments">candidate changes</a> proposed in the most
 				recent Recommendation,
 				<div class="note">
 					<ul>
@@ -1338,9 +1338,7 @@ interactions with the W3C Communications Team.</p>
 				In most cases the decision to make the transition
 				is made during the teleconference.
 				However the decision could take up to two weeks if any difficult
-				issues arise during the meeting. The Team may delegate the
-				W3C decision; see <a href="/Project/Reports.html">Team processes for TR
-					publications</a>.</dd>
+				issues arise during the meeting.</dd>
 
 			<dt>Next steps</dt>
 
@@ -1545,7 +1543,7 @@ interactions with the W3C Communications Team.</p>
 				publication request the Webmaster <span class="rfc2119">SHALL</span> make a best effort to verify that the
 				document satisfies the <a href="/pubrules/">pubrules
 					requirements</a> except for the accessibility requirements of <a href="/pubrules/doc/rules/?profile=WD#wcag">section 7</a>. The Webmaster <span class="rfc2119">SHALL</span> publish the document (cf. the
-				<a href="/1999/12/03-publishing">Webmaster's guide</a>) if the following
+				<a href="https://www.w3.org/Systems/Publishing/">Webmaster's guide</a>) if the following
 				conditions have been met:
 			</p>
 
@@ -1561,7 +1559,7 @@ interactions with the W3C Communications Team.</p>
 				publication request the Webmaster <span class="rfc2119">SHALL</span> make a best effort to verify that the
 				document satisfies the minimum of the <a href="/pubrules/">pubrules
 					requirements</a>. The Webmaster <span class="rfc2119">SHALL</span> publish the document (cf. the
-				<a href="/1999/12/03-publishing">Webmaster's guide</a>) if the following
+				<a href="https://www.w3.org/Systems/Publishing/">Webmaster's guide</a>) if the following
 				conditions have been met:
 			</p>
 
@@ -1862,7 +1860,7 @@ Note: Info about features at risk is required in status section per pubrules
 		<p data-profile="REC" data-rec="proposed-corrections|proposed-additions">
 			The Working Group proposes to update the document substantially since the Recommendation and published a
 			<span class="status-name">STATUS</span> with proposed changes. The Team sends a <a href="/policies/patent-policy/#sec-Exclusion">exclusion opportunity</a>. It lasts 60
-			days. Exclusions are with respect to the <a href="/policies/process/20250818/#proposed-change">proposed changes</a> identified in the
+			days. Exclusions are with respect to the <a href="/policies/process/20250818/#proposed-amendments">proposed changes</a> identified in the
 			specification.
 		</p>
 

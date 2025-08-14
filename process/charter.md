@@ -270,9 +270,9 @@ The Staff Contact:
 
 The W3C Communications Team encourages the Chartering Facilitator to include as part of the request, a draft Call for Review, created by using this [template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2FTemplates&template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fcfr.html&submit=Continue...) (even if the URI to the questionnaire may not yet exist).
 
-The W3C Communications Team (or the motivated Staff Contact) builds a [Call for Review questionnaire](https://www.w3.org/2002/09/wbs/33280/apCFRFactory). The URI for the questionnaire is added to the Call for Review announcement to members. In case of renewal of an existing charter, it is also useful to include a diff (you may wish to use the [HTML diff tool](https://services.w3.org/htmldiff)) between current and proposed charters in the Call for Review questionnaire.
+The W3C Communications Team (or the motivated Staff Contact) builds a [Call for Review questionnaire](https://www.w3.org/wbs/33280/new/?template=charter-review). The URI for the questionnaire is added to the Call for Review announcement to members. In case of renewal of an existing charter, it is also useful to include a diff (you may wish to use the [HTML diff tool](https://services.w3.org/htmldiff)) between current and proposed charters in the Call for Review questionnaire.
 
-Note: We should assume some AC Reps may not read email announcements and will only review the questionnaire. Therefore, all unique information relevant to the review that appears in the email announcement must be duplicated in the [Call for Review questionnaire](https://www.w3.org/2002/09/wbs/33280/apCFRFactory).
+Note: We should assume some AC Reps may not read email announcements and will only review the questionnaire. Therefore, all unique information relevant to the review that appears in the email announcement must be duplicated in the [Call for Review questionnaire](https://www.w3.org/wbs/33280/new/?template=charter-review).
 
 Once the Head of W3C Communications (or delegate) has approved the Call for Review and the questionnaire, the W3C Communications Team:
 
@@ -355,7 +355,7 @@ The W3C Communications Team should try to minimize the number of messages sent t
 
 #### 5.5.2 Organizing the W3C Decision, Call for Participation
 
-The Chartering Facilitator sends a draft announcement (combining W3C Decision and Call for Participation) to the W3C Communications Team ([w3t-comm@w3.org](mailto:w3t-comm@w3.org)) (using the [template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2FTemplates&template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fcfp.html&submit=Continue...) as a starting point, or [sample announcement](https://www.w3.org/Search/Mail/Member/search?keywords=&hdr-1-name=subject&hdr-1-query=call%20for%20participation&index-grp=Member__FULL%20Public__FULL&index-type=t&type-index=w3c-ac-members)). The announcement must indicate:
+The Chartering Facilitator sends a draft announcement (combining W3C Decision and Call for Participation) to the W3C Communications Team ([w3t-comm@w3.org](mailto:w3t-comm@w3.org)) (using the [template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2FTemplates&template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fcfp.html&submit=Continue...) as a starting point, or [sample announcement](https://www.w3.org/Search/Mail/Member/search?subject=call+for+participation&lists=w3c-ac-members)). The announcement must indicate:
 
 - Whether the group is approved and its charter end date.
 - The URI of the final charter.
@@ -430,7 +430,7 @@ The Communications Team modifies (or asks the Staff Contact) the Charter in plac
 - The text "Note: The group will document significant changes from this initial schedule on the group home page." is updated with a link to the group's updated milestones (e.g., on the group's site) to say something like "Note: See changes from this initial schedule on the group home page."
 - Fix broken links.
 
-When a group **Chair** is (re)appointed or resigns, shortly before/after the announcement to w3c-ac-members@w3.org \[then forwarded to chairs@w3.org] (sample emails \[[1](https://www.w3.org/Search/Mail/Member/search?keywords=&hdr-1-name=subject&hdr-1-query=appointed&index-grp=Member__FULL%20Public__FULL&index-type=t&type-index=w3c-ac-members)]\[[2](https://www.w3.org/Search/Mail/Member/search?keywords=&hdr-1-name=subject&hdr-1-query=steps%20down&index-grp=Member__FULL%20Public__FULL&index-type=t&type-index=w3c-ac-members)]), The W3C Communications Team (or the Staff Contact) modifies the charter, including:
+When a group **Chair** is (re)appointed or resigns, shortly before/after the announcement to w3c-ac-members@w3.org \[then forwarded to chairs@w3.org] (sample emails \[[1](https://www.w3.org/Search/Mail/Member/search?subject=appointed&lists=w3c-ac-members)]\[[2](https://www.w3.org/Search/Mail/Member/search?subject=steps+down&lists=w3c-ac-members)]), The W3C Communications Team (or the Staff Contact) modifies the charter, including:
 
 - Update the "Chair" in the table at the top.
 - Document changes in "About this charter" section at the bottom.

@@ -42,11 +42,11 @@ The Comm Team prepares announcements, tracks reviews, and publishes the appropri
 
 ## Call for nominations  {#nominations}
 
-1. One form for AC Representatives ([sample](https://www.w3.org/2002/09/wbs/33280/tag-201411/) and see below for summary of [information in a nomination form](#nomination-info))
+1. One form for AC Representatives ([sample](https://www.w3.org/wbs/33280/tag-201411/) and see below for summary of [information in a nomination form](#nomination-info))
    
    - **April 2015 update:** Include information on the nomination form, so that the candidate has more context for what they're writing as *statement*, e.g. link to past public statements. The form should set the expectation that statements are sent to the AC as part of the Call for Votes and is the candidate's biggest chance to communicate.
    - **January 2021 update:** The announcement and form includes guidance on considering diversity when proposing people to run in the election.
-1. One from for nominees ([sample](https://www.w3.org/2002/09/wbs/1/tagnom-201411/))
+1. One from for nominees ([sample](https://www.w3.org/wbs/1/tagnom-201411/))
    
    - At each election, make sure to update the link in the AC form (last section) that refers to the nominee form.
    - **April 2015 update:** Because there is no IPP form for joining the TAG, the team needs to gather commitments via a WBS form. The appointee(s) should fill out the most recent of the nominee forms.
@@ -69,7 +69,7 @@ There should be a single "nominator." In case there are more than one, the nomin
 ## Call for votes  {#votes}
 
 - [STV Meeks](https://en.wikipedia.org/wiki/Meek%27s_method) used as Tabulation system; [OpenSTV 1.7](https://github.com/Conservatory/openstv) used to perform the computation.
-- One form for AC Representatives ([sample](https://www.w3.org/2002/09/wbs/33280/tag-20141201/) and summary of [information in a call for votes form).](#cfv-info)
+- One form for AC Representatives ([sample](https://www.w3.org/wbs/33280/tag-20141201/) and summary of [information in a call for votes form).](#cfv-info)
 - [Sample of email sent to AC](https://lists.w3.org/Archives/Member/w3c-ac-members/2014OctDec/0045.html).
 
 During AB and TAG elections, it is appropriate for candidates to campaign and for AC Representatives to discuss candidates positions on various issues on w3c-ac-forum ([archive](https://lists.w3.org/Archives/Member/w3c-ac-forum/)).

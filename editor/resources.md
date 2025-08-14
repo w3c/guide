@@ -43,7 +43,7 @@ toc: true
 * Zoom:
   * [Zoom](../meetings/zoom.md)
 * Minutes taking by IRC:
-  * [IRC HOWTO](https://www.w3.org/Project/IRC/)
+  * [IRC HOWTO](../meetings/irc.md)
   * [Zakim HOWTO](../meetings/zakim.md)
   * [RRSAgent HOWTO](../meetings/rrsagent.md)
 

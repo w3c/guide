@@ -49,7 +49,7 @@ The following steps must be completed prior to and at the launch of the PAG (lin
    - Add links to mailing lists and PAG pages from the Public ([REX PAG, Dec 2006](https://lists.w3.org/Archives/Team/w3t-archive/2006Dec/0467.html)) and Member home pages of the WG.
 1. Call for Participation
    
-   - Create WBS form for participation ([REX PAG, Dec 2006](https://www.w3.org/2002/09/wbs/33280/REX-PAG/))
+   - Create WBS form for participation ([REX PAG, Dec 2006](https://www.w3.org/wbs/33280/REX-PAG/))
      
      - Make it clear the AC Reps of the Members in the WG are the default participants in the PAG.
      - An AC Rep may designate an alternative are members of the PAG, plus another person if desired (e.g., legal counsel).

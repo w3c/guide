@@ -5,13 +5,14 @@ toc: true
 
 ## Starting a Group {#start}
 
-### Incubation: Community Group
+### Incubation: Community Group and Workshops
 
 - [How to incubate](incubation.md)
   
   - [W3C Community & Business Groups](https://www.w3.org/community/)
-  - [W3C Team support for W3C Community Groups](https://www.w3.org/2016/04/cg-support/)
+  - [W3C Team support for W3C Community Groups](https://www.w3.org/community/about/)
   - [W3C Workshops](meetings/workshops.md) for starting incubation
+- [Exploration Interest Group](https://www.w3.org/groups/ig/exploration/)
 - [How to transition work from a Community Group to a Working Group](process/cg-transition.md)
 
   - [Considerations when transferring a CG Specification for Standardization](https://github.com/w3c/cg-council/blob/main/transfer-considerations.md)
@@ -34,7 +35,7 @@ toc: true
 - Check out our [Working Groups](https://www.w3.org/PM/Groups/chairboards.html?gtype=working) and [Interest Groups](https://www.w3.org/PM/Groups/chairboards.html?gtype=interest) dashboards to navigate through what we know about them. The Project Management team maintains a [collection of links and tools](https://www.w3.org/PM/) to keep track.
 - [Moderating (Facilitating) Meetings](https://www.w3.org/wiki/Moderating_Meetings)
 - [Creating and delivering effective presentations](https://www.w3.org/wiki/Speaker_Resources)
-- Running a Meeting (especially a teleconference) on [IRC](https://www.w3.org/Project/IRC/) ([Web IRC client](https://webirc.w3.org/)):
+- Running a Meeting (especially a teleconference) on [IRC](./meetings/irc.md) ([Web IRC client](https://webirc.w3.org/)):
 
   - [Quick start guide](https://w3c.github.io/scribe2/scribedoc.html) on setting up tools for managing an agenda, generating minutes, and updating issues lists
   - [Scheduling teleconferences](meetings/zoom.md)
@@ -54,7 +55,7 @@ toc: true
 - Issue tracking:
   
   - Use [GitHub](github/) to track issues through mail and the Web
-- [WBS](https://www.w3.org/2002/09/wbs/) for questionnaires
+- [WBS](https://www.w3.org/wbs/) for questionnaires
 - People management
   
   - [HumanDimension](https://www.w3.org/wiki/Guide/HumanDimension) (a Chair training module)
@@ -112,7 +113,7 @@ toc: true
 ### Mailing Lists {#mlistools}
 
 - [Mailing Lists archives](https://lists.w3.org/Archives/Public/)
-- [Mailing Lists Search service](https://www.w3.org/Search/Mail/)
+- [Mailing Lists Search service](https://www.w3.org/Search/Mail/Public/search)
 - [Your Mailing List subscriptions](https://lists.w3.org/admin/subscriptions)
 - [Mailing list maintenance](teamcontact/remote-maintainers.md)
 
