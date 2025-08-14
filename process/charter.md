@@ -41,7 +41,6 @@ The Technical Strategy Team tracks charters through the process via the [W3C Tec
 The Technical Strategy Team Lead chooses (and may replace) a *Chartering Facilitator* to shepherd a given charter through the process. The Chartering Facilitator is typically from the Staff but is not required to be from the Staff. In the case of rechartering it is common to name the group's [Staff Contact](../teamcontact/role.md) as the Chartering Facilitator.
 
 **Note:** If the Technical Strategy Team Lead cannot identify a Chartering Facilitator, there may be delays in advancing the charter through the process.
-{:#chartering-facilitator}
 
 ### 2.3 Charter assessment criteria
 {:#charter-assessment-criteria}
