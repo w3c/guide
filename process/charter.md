@@ -24,7 +24,7 @@ In this document we describe the operational aspects of these phases.
 Within the chartering process, the following are [Team Decisions](https://www.w3.org/policies/process/#team-decision):
 
 * Whether to [initiate the charter refinement phase](https://www.w3.org/policies/process/#charter-initiation), or decline to do so.
-* Appointment or replacement of [Charter Facilitators](https://www.w3.org/policies/process/#charter-development).
+* Appointment or replacement of [Chartering Facilitators](https://www.w3.org/policies/process/#charter-development).
 * Whether to [initiate Advisory Committee review](https://www.w3.org/policies/process/#charter-development) (or, "AC Review"), abandon the proposal, or extend the charter refinement period.
 * Appointment of [Working and Interest Group Chairs](https://www.w3.org/policies/process/#ReqsAllGroups).
 
@@ -36,6 +36,7 @@ The Technical Strategy Team tracks charters through the process via the [W3C Tec
 {:#pipeline}
 
 ### 2.2 Chartering Facilitator
+{:#chartering-facilitator}
 
 The Technical Strategy Team Lead chooses (and may replace) a *Chartering Facilitator* to shepherd a given charter through the process. The Chartering Facilitator is typically from the Staff but is not required to be from the Staff. In the case of rechartering it is common to name the group's [Staff Contact](../teamcontact/role.md) as the Chartering Facilitator.
 
@@ -43,6 +44,7 @@ The Technical Strategy Team Lead chooses (and may replace) a *Chartering Facilit
 {:#chartering-facilitator}
 
 ### 2.3 Charter assessment criteria
+{:#charter-assessment-criteria}
 
 The Technical Strategy Team considers the following when deciding whether to initiate charter refinement or AC review of a charter. The more these criteria are not met, the more likely it is the Technical Strategy Team will not initiate charter refinement or AC review. In any decision not to initiate refinement or AC review, the Technical Strategy Team grounds its rationale in these criteria.
 
@@ -68,7 +70,7 @@ Discussions for new work happen in a variety of venues, including Member discuss
 Any party preparing a charter for a new Working Group or Interest Group follows these steps:
 
 Verify transition readiness
-: For a Working Group charter, review: [W3C Recommendation Track Readiness Best Practices](../standards-track/), [Tips for Getting to Recommendation Faster](https://www.w3.org/2002/05/rec-tips), and [How to transition work from a Community Group to a Working Group](cg-transition.md).
+: For a Working Group charter, review: [W3C Recommendation Track Readiness Best Practices](../standards-track/), [Tips for Getting to Recommendation Faster](../standards-track/rec-tips.md), and [How to transition work from a Community Group to a Working Group](cg-transition.md).
 
 Draft a charter
 : Use the [charter template](https://w3c.github.io/charter-drafts/charter-template.html) to create a public charter draft, [ideally on GitHub](https://w3c.github.io/charter-drafts/). This is where substantive discussion of the charter should take place, including issues and pull requests.
