@@ -15,10 +15,10 @@ If you are a newly appointed editor in your Working Group, here is some advice t
 
 - Get an [idea of the role of an editor](role.md) at W3C
 - Check the most popular editing tools: [Bikeshed](https://speced.github.io/bikeshed/), [respec](https://github.com/speced/respec/wiki)
+- When using Github, check [Using GitHub for Spec Work](../github/specs.md) and [Workflow for editors and other contributors](./github/workflow.md)
+- [How to Organize a Recommendation Track Transition](../transitions/) explains the process to get a document published as a technical report. The [step finder](./transitions/nextstep.md) will help you finding which transition to do next and what the requirements are.
 - Read the [W3C Publication Rules](https://www.w3.org/pubrules/doc/) (often referred as pubrules) and ask advice on the points that are unclear; if your document doesn't comply with these rules, it cannot be published as a W3C technical report.
-- [How to Organize a Recommendation Track Transition](../transitions/) explains the process to get a document published as a technical report.
-- The [Pubrules Checker](https://www.w3.org/pubrules/) is a tool that can help you assess whether or not your document complies with pubrules.
-- Review [WCAG](https://www.w3.org/TR/WCAG/)
+- The [Pubrules Checker](https://www.w3.org/pubrules/) is a tool that can help you assess whether or not your document complies with pubrules. You will still need to keep [WCAG 2.2](https://www.w3.org/TR/WCAG22/) in mind.
 - All W3C editors are invited to join the [publicly archived mailing list &lt;spec-prod@w3.org&gt;](https://lists.w3.org/Archives/Public/spec-prod/) to share and discuss the techniques and tools used to produce W3C specifications.
 
 ## Guidelines on W3C specifications editing {#quality}
@@ -28,7 +28,7 @@ W3C has developed a set of resources giving advices and guidelines on editing W3
 - The [W3C Manual of Style](../manual-of-style/) is a collection of rules you're invited to follow to make your document clearer and adapted to the common style at W3C.
 - Begun in 1992 and only a little out of date, the [Style Guide for online hypertext](https://www.w3.org/Provider/Style/) by Tim Berners-Lee is a good start on writing for the Web; see also Jakob Nielsen's [How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/)
 - The [QA Framework: Specification Guidelines](https://www.w3.org/TR/qaframe-spec/) from the W3C Quality Assurance Activity are a work in progress that became a Candidate Recommendation in November 2003.
-- The Team has guidelines for a [style for group-internal drafts](editors-draft.md) to avoid confusion with documents published on the [TR page](https://www.w3.org/TR/). Please also review the related [Working Group Heartbeat Requirement](https://www.w3.org/policies/process/#revising-wd) of the W3C Process.
+- The Team has guidelines for a [style for group-internal drafts](editors-draft.md) to avoid confusion with documents published on the [TR page](https://www.w3.org/TR/).
 
 [Bert Bos's essay on W3C's design principles](https://www.w3.org/People/Bos/DesignGuide/introduction) and [Tim Berners-Lee's essentials of a specification](https://www.w3.org/1999/09/specification) may also be a useful reading.
 

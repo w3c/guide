@@ -22,7 +22,7 @@ toc: false
    cd reponame
    ```
 1. **Note: this step and the following are not needed if you set up your repository using the W3C Repository Manager as it can create a basic ReSpec document for you**.  
-Now we want to create the spec document itself. I use [ReSpec](https://respec.org/docs/), so I simply copy the content of the [default template](https://respec.org/docs/#getting-started) into an `index.html` page at the root of my repository. And then add it to the repository.
+Now we want to create the spec document itself. I use [ReSpec](https://respec.org/docs/), so I simply copy the content of the [default template](https://respec.org/docs/#getting-started) into an `index.html` page at the root of my repository. And then add it to the repository. See also the requirements for [Group-internal Drafts](../editor/editors-draft.md#reqs).
    
    ```shell
    git add index.html
