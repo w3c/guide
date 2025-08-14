@@ -48,7 +48,7 @@ Do all the [work necessary for any in-person W3C meeting](hosting.md):
 * Provide two sets of screens: one displays the gallery view of as many participants as possible and the other displays only the current speaker
 * Will there be more than one separate group of people in-person (multiple hubs)?  If so, all of the above must be addressed for each
 
-Make sure you identify the local host (if it's not the Group Chair or Team Contact), responsible for the on-site part of the meeting.
+Make sure you identify the local host (if it's not the Group Chair or Staff Contact), responsible for the on-site part of the meeting.
 
 ### Planning the remote side of a hybrid meeting
 
@@ -165,7 +165,7 @@ Essential to have a fall-back video conference option that can be activitied.
 * Put your remote participants on a large display in the meeting room. Maybe one screen for spotlighting and another for gallery. The gallery images should be as close to life-size as feasible.
 * Give your remote participants a "gist" camera view of the whole room. Need at least two cameras in the room; one for gist of the room and one for the person speaking. the remote participants need to be able to see the room. (High value addition that Pluto arranged in Seattle IDIW Workshop)
 * Make sure everyone can be heard clearly in the room and remotely
-* We need to recommend specific AV tech/requirements (specific enough for orders to be placed with an A/V contractor). Can W3C offer a travelling kit that team contacts can bring to their meetings? What kind of constraints can we put on the host?
+* We need to recommend specific AV tech/requirements (specific enough for orders to be placed with an A/V contractor). Can W3C offer a travelling kit that staff contacts can bring to their meetings? What kind of constraints can we put on the host?
 * Pay particular attention to positioning of cameras, screen, and microphones -- especially when communication accommodations including captioning and/or interpreting are in use. Note that the position of the microphone(s) is very likely to need to be separate from the camera view(s).
 * If your agenda includes parallel breakout sessions, make plans in advance for supporting those for remote participants.
 * Make sure everyone can be seen. Room participants should consider using their own laptop video for remote participants to have a direct view of them. (note this will dramatically increase bandwidth consumption).  Encourage all participants to turn on their video, at a minimum when they are speaking, to allow for non-verbal queues

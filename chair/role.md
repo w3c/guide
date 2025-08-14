@@ -28,7 +28,7 @@ Interested parties should visit the dedicated [Chair Buddy System page](buddy.md
 - Maintains close coordination with W3C *Staff Contact.*
 - Maintains coordination with assigned liaisons from other W3C working groups.
 - Participates in the Chairs mailing list ([archive](https://lists.w3.org/Archives/Member/chairs/)) and attends Chairs meetings.
-- Works with the Communications Team and Team Contact in preparing press release.
+- Works with the Communications Team and Staff Contact in preparing press release.
 - Communicates with the press, when necessary and appropriate, and with prior coordination with the communication team, on behalf of the group.
 - *Ensures all participants have proper access to Group data with assistance from Staff Contact.*
 

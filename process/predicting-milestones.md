@@ -17,7 +17,7 @@ If eventual timescales to Recommendation are unpredictable, should milestones be
 
 While the technical work undertaken by W3C is very diverse and hard to generalize, non-technical aspects such as required review periods mandated by the Process Document \[[PROCESS](https://www.w3.org/policies/process/)] or the W3C Patent Policy \[[W3CPP](https://www.w3.org/policies/patent-policy/)] are common to all work. The main focus of this document is therefore on the required periods of time needed for the non-technical work. Understanding these avoids producing initial milestones which are unreasonably short and thus, inevitably destined to 'fail'. Alongside each of these time periods, tips are given on how to minimize delays.
 
-This document aims to collect together some of that experience so that new Chairs, Team Contacts, and Advisory Committee representatives can:
+This document aims to collect together some of that experience so that new Chairs, Staff Contacts, and Advisory Committee representatives can:
 
 - Produce charters with realistic initial milestones
 - Understand how to minimize avoidable delays
@@ -89,7 +89,7 @@ Once review comments from W3M have been incorporated into the charter, it is [se
 Once the decision to start the Working Group has been communicated to the AC, participants can join. This may take some time, particularly if participants need to perform a legal review of the work items (for example, to review their patent portfolio in light of the [W3C Royalty-Free commitment](https://www.w3.org/policies/patent-policy/#sec-Requirements)). In the case of a new group, some or all of the participants may be unfamiliar with W3C processes and tools (such as IRC, phone conferencing, issue tracking, version control). The Chair and Staff Contact take a lead role in getting a new group up to productive speed.
 
 > Time: WG startup
-:  There is no set period after which a Group becomes productive. Experienced participants with a capable Chair and Team Contact, working on a new version of an existing specification, can be productive immediately. A new group with participants new to W3C, working in a new area which is rife with intellectual property concerns, may take several months to become productive.
+:  There is no set period after which a Group becomes productive. Experienced participants with a capable Chair and Staff Contact, working on a new version of an existing specification, can be productive immediately. A new group with participants new to W3C, working in a new area which is rife with intellectual property concerns, may take several months to become productive.
 {:.time}
 
 > Tips: WG startup

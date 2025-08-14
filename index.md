@@ -5,11 +5,7 @@ toc: true
 
 ## Starting a Group {#start}
 
-- [Recommendation Track Readiness Best Practices](standards-track/)
-{:#Recommendation}
-
-- [Create a Charter](process/charter.md)
-{:#Charters}
+### Incubation: Community Group
 
 - [How to incubate](incubation.md)
   
@@ -17,13 +13,23 @@ toc: true
   - [W3C Team support for W3C Community Groups](https://www.w3.org/2016/04/cg-support/)
   - [W3C Workshops](meetings/workshops.md) for starting incubation
 - [How to transition work from a Community Group to a Working Group](process/cg-transition.md)
-- [how to set up a new group](tools/new-group.md) 
+
+  - [Considerations when transferring a CG Specification for Standardization](https://github.com/w3c/cg-council/blob/main/transfer-considerations.md)
+
+### Working and Interest Group 
+
+- [Recommendation Track Readiness Best Practices](standards-track/)
+{:#Recommendation}
+- [How to create a Working Group or Interest Group Charter](process/charter.md)
+{:#Charters}
+- [Charters in development](https://www.w3.org/2024/03/charters-in-dev.html)
 - [Join a group](https://www.w3.org/get-involved/) (see also [Invited Expert Policy](https://www.w3.org/invited-experts/))
-- If you need a blog, wiki, GitHub repository, or mailing list, ask your team contact.
+- If you need a blog, wiki, GitHub repository, or mailing list, ask your Staff Contact.
 - ...more [advice on roles in a group](#roles)
 
 ## Running a Group {#run}
 
+- [how to set up a new group](tools/new-group.md) 
 - [W3C Chair Buddy System](chair/buddy.md) (volunteer experienced Chairs can mentor other Chairs)
 - Check out our [Working Groups](https://www.w3.org/PM/Groups/chairboards.html?gtype=working) and [Interest Groups](https://www.w3.org/PM/Groups/chairboards.html?gtype=interest) dashboards to navigate through what we know about them. The Project Management team maintains a [collection of links and tools](https://www.w3.org/PM/) to keep track.
 - [Moderating (Facilitating) Meetings](https://www.w3.org/wiki/Moderating_Meetings)
@@ -35,11 +41,10 @@ toc: true
   - [Group calendars](meetings/organize.md#calendars)
   - [Holidays wiki](https://www.w3.org/wiki/Holidays) to help planning WG work around recurring holidays
   - Individual IRC tools ("bots"):
-    
+
     - [Zakim](meetings/zakim.md) for queue management, start and end meeting
     - [RRSAgent](meetings/rrsagent.md) for minutes management
     - Hints for [rescuing minutes when RRSAgent is absent](https://w3c.github.io/scribe2/rescue.html)
-- [Predicting milestones](process/predicting-milestones.md), use our [milestones calculator](https://w3c.github.io/spec-releases/milestones/) to help with dates.
 - Face-to-face meetings
   
   - [Host a face-to-face meeting](meetings/hosting.md) and [Standard Venue Arrangements for W3C Events: Conferences, Workshops, and Meetings](https://www.w3.org/2011/06/WorkshopHost.html)
@@ -55,7 +60,6 @@ toc: true
   - [HumanDimension](https://www.w3.org/wiki/Guide/HumanDimension) (a Chair training module)
   - [Code of Conduct](https://www.w3.org/policies/code-of-conduct/) and [Procedures](https://www.w3.org/about/positive-work-environment/#Procedures) to assist all parties when issues arise. We have [guidelines to suspend or remove participants from groups](process/suspension.md). See more on the [Positive Work Environment Home Page](https://www.w3.org/about/positive-work-environment/)
 - [Antitrust and competition policy](https://www.w3.org/policies/antitrust/)
-- [Copyrights for documents, software, tests](https://www.w3.org/copyright/)
 - ...more [advice on meetings, decisions, issue tracking](#mtg-advice)
 
 ## Closing a Group {#close}
@@ -70,11 +74,13 @@ toc: true
   - [W3C Process for Busy People](https://github.com/w3c/wg-effectiveness/blob/master/process.md)
   - [Section 6.3 Technical Reports](https://www.w3.org/policies/process/#rec-advance) of the W3C Process
   - Considerations for [joint deliverables](process/joint-deliverables.md)
-  - [Transition requirements](transitions/) for all W3C maturity levels (First Public Draft, CR, PR, REC, etc.). Try also our [step finder](transitions/nextstep.html) and look at [milestones calculator](https://w3c.github.io/spec-releases/milestones/).
+  - Advancing your document: [Transition requirements](transitions/) for all W3C maturity levels (First Public Draft, CR, PR, REC, etc.). Try also our [step finder](transitions/nextstep.html) and look at [milestones calculator](https://w3c.github.io/spec-releases/milestones/).
+  - [Predicting milestones](process/predicting-milestones.md), use our [milestones calculator](https://w3c.github.io/spec-releases/milestones/) to help with dates.
   - [Request Wide Review](documentreview/) at least *2-3 months before CR*, to allow time for discussion and rework. This includes requesting [horizontal reviews](documentreview/#how-to-get-horizontal-review).
   - [Pubrules](https://www.w3.org/pubrules/) ([publication requirements](https://www.w3.org/pubrules/doc)) and links to related policies (e.g., [namespaces](editor/namespaces.md), [media type registration](editor/mediatypes.md), [version management](editor/versioning.md), and [in-place modifications](standards-track/republishing.md))
     See also [Pubrules issue management](https://github.com/w3c/specberus/issues)
   - **March 2017**: [Obsoleting and Rescinding W3C Specifications](process/obsolete-rescinded-supserseded.md)
+- [Copyrights for documents, software, tests](https://www.w3.org/copyright/)
 - [Normative References](process/tilt/normative-references.md); considerations the Team takes into account when evaluating normative references
 - Addressing formal objections: [best practices to resolve and decide Formal Objections](council/council.md) (aka council guide)
 - Publications can only happen on Tuesdays and Thursdays ([Member-only archive of announcement](https://lists.w3.org/Archives/Member/chairs/2009JanMar/0192.html)), unless you use the [automated publication system](https://github.com/w3c/echidna/wiki)
@@ -163,7 +169,7 @@ toc: true
 
 - [Chair's role](chair/role.md); [Guidance for Multiple Chairs](https://www.w3.org/wiki/MultipleChairs)
 - [Editor's role](editor/role.md), [Editor, Author, Contributor Policies](https://www.w3.org/Signature/Contributor.html)
-- [Team Contact's role](teamcontact/role.md)
+- [Staff Contact's role](teamcontact/role.md)
 - [Liaison's role](teamcontact/liaison-role.md). **Note:** Per [section "Liaisons"](https://www.w3.org/policies/process/#Liaisons) of the Process Document, liaisons MUST be coordinated by the Team due to requirements for public communication; patent, copyright, and other IPR policies; confidentiality agreements; and mutual membership agreements.
 - [Advisory Committee Representative](https://www.w3.org/Member/faq.html) *(Member-only)*
 - [Guidelines for communicating as a member of a W3C elected body](other/elected-body-communication-guidelines.md)
@@ -203,7 +209,7 @@ toc: true
 
 This Guidebook is intended to complement the [W3C Membership Agreement](https://www.w3.org/Consortium/Agreement/Appendix) and the [W3C Process](https://www.w3.org/policies/process/). This page is **Public**, although a small number of resources linked from this page may be visible only to the W3C Membership or Team.
 
-You are expected to be familiar with the parts of this Guidebook that affect your work. Working Group chairs should get a "tour" from their team contact. Then take a look again, for example, if you're going to hold a face-to-face meeting; read the [section on meetings](#mtg-advice) to be sure you understand what's written there, and to record any valuable knowledge you pick up along the way.
+You are expected to be familiar with the parts of this Guidebook that affect your work. Working Group chairs should get a "tour" from their Staff Contact. Then take a look again, for example, if you're going to hold a face-to-face meeting; read the [section on meetings](#mtg-advice) to be sure you understand what's written there, and to record any valuable knowledge you pick up along the way.
 
 As editor of the guidebook, [@w3c/guidebook](https://github.com/orgs/w3c/teams/guidebook) will do its best to see that it gets better over time. This does *not* mean that we do all the editing ourselves!
 

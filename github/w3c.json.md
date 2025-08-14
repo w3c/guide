@@ -70,7 +70,7 @@ The fields that are understood at this point are:
    : Other purposes
 
 `policy`
-: This is essentially a W3C-internal flag. If set to `open`, any W3C Team member should feel empowered to help with the management of this given repository. This can be set to `restricted` to indicate that for whatever reason, it is preferable to let the repository be handled only by team contacts directly associated with it. The default value is `open`.
+: This is essentially a W3C-internal flag. If set to `open`, any W3C Team member should feel empowered to help with the management of this given repository. This can be set to `restricted` to indicate that for whatever reason, it is preferable to let the repository be handled only by staff contacts directly associated with it. The default value is `open`.
 
 `exposed`
 : This flag indicates if a repository gets exposed in the [W3C group pages](https://www.w3.org/groups/). By default, all public repositories will get exposed (`exposed:true`) and all private repositories will not get exposed (`exposed:false`).

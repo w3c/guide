@@ -36,11 +36,11 @@ All group repositories will appear on the 'Tools' page.
 
 ## 4. GitHub Teams {#github}
 
-The W3C system can generate and maintain 2 GitHub teams: Chairs/Team Contacts (***`group-[id]-chairs`***), and all participants (***`group-[id]-members`***). You may give admin access to chairs for the group repositories, and write access for all participants.
+The W3C system can generate and maintain 2 GitHub teams: Chairs/Staff Contacts (***`group-[id]-chairs`***), and all participants (***`group-[id]-members`***). You may give admin access to chairs for the group repositories, and write access for all participants.
 
 ## 5. Calendar {#calendar}
 
-To help W3C participants navigate through the various groups, Chairs and Team Contacts must use the W3C Calendar system rather than using separate tools. By default, recurring meetings must be 'Tentative', confirming only meetings that will actually happen or cancelling them otherwise. For TPAC meetings, the events Team will create specific calendar entries. Each meeting should point to where the agenda and minutes did or will appear.
+To help W3C participants navigate through the various groups, Chairs and Staff Contacts must use the W3C Calendar system rather than using separate tools. By default, recurring meetings must be 'Tentative', confirming only meetings that will actually happen or cancelling them otherwise. For TPAC meetings, the events Team will create specific calendar entries. Each meeting should point to where the agenda and minutes did or will appear.
 
 To use Zoom, see [Scheduling a Zoom Conference](../meetings/zoom.md).
 
@@ -80,11 +80,11 @@ Please add comments to this issue if you have suggestions for agenda items.
 
 ```
 
-## 7. Chairs and Team Contacts {#chairs-and-tcs}
+## 7. Chairs and Staff Contacts {#chairs-and-tcs}
 
-The Team must ensure that Chairs and Team Contacts are appropriately identified in the [Group pages](https://www.w3.org/groups/) (Team should use the [admin](https://www.w3.org/admin/) interface to do so). Chairs and Team Contacts may want to schedule a regular (weekly, bi-weekly, monthly, quaterly?) meeting to sync-up and track group progress.
+The Team must ensure that Chairs and Staff Contacts are appropriately identified in the [Group pages](https://www.w3.org/groups/) (Team should use the [admin](https://www.w3.org/admin/) interface to do so). Chairs and Staff Contacts may want to schedule a regular (weekly, bi-weekly, monthly, quaterly?) meeting to sync-up and track group progress.
 
-Team Contacts should ensure that new Chairs get appropriate onboarding, including from the W3C Project Management Lead.
+Staff Contacts should ensure that new Chairs get appropriate onboarding, including from the W3C Project Management Lead.
 
 See also:
 
@@ -103,7 +103,7 @@ In ***`invited-experts.md`***:
 
 To help with consistency, you should maintain those invited expert expectations in your group administrivia repository so that it can be easily revised or pointed to.
 
-Chairs and Team Contacts should keep track of invited expert applications (accessible from the group participants list) and process them on an ongoing basis.
+Chairs and Staff Contacts should keep track of invited expert applications (accessible from the group participants list) and process them on an ongoing basis.
 
 ## 9. Onboarding {#onboarding}
 
