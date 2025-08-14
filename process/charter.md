@@ -1,5 +1,5 @@
 ---
-title: How to create a Working Group or Interest Group
+title: How to create a Working Group or Interest Group Charter
 toc: yes
 ---
 
@@ -23,20 +23,21 @@ In this document we describe the operational aspects of these phases.
 
 Within the chartering process, the following are [Team Decisions](https://www.w3.org/policies/process/#team-decision):
 
-* Appointment of Working and Interest Group Chairs.
-* Whether or not to initiate the charter refinement phase.
-* Whether or not to initiate Advisory Committee review (or, "AC Review").
+* Whether to [initiate the charter refinement phase](https://www.w3.org/policies/process/#charter-initiation), or decline to do so.
+* Appointment or replacement of [Charter Facilitators](https://www.w3.org/policies/process/#charter-development).
+* Whether to [initiate Advisory Committee review](https://www.w3.org/policies/process/#charter-development) (or, "AC Review"), abandon the proposal, or extend the charter refinement period.
+* Appointment of [Working and Interest Group Chairs](https://www.w3.org/policies/process/#ReqsAllGroups).
 
-### 2.1 Technical Strategy Team role {#strategy-team-role}
+### 2.1 Technical Strategy Team role {#tech-strategy-team-role}
 
-In practice, the Team delegates these Team Decisions to the Technical Strategy Team, which manages the charter development process, including allocation of staff resources.
+In practice, the Team delegates these Team Decisions to the [Technical Strategy Team](https://www.w3.org/staff/strat/), which manages the charter development process, including allocation of staff resources.
 
-The Technical Strategy Team tracks charters through the process via the [Strategy Team's Technical Strategy Pipeline](https://github.com/orgs/w3c/projects/97) (or "pipeline" in this document).
+The Technical Strategy Team tracks charters through the process via the [W3C Technical Strategy Pipeline](https://github.com/orgs/w3c/projects/97/views/2) (or "pipeline" in this document). A dashboard of [Charters in development](https://www.w3.org/2024/03/charters-in-dev.html) is also available.
 {:#pipeline}
 
 ### 2.2 Chartering Facilitator
 
-The Technical Strategy Team Lead chooses (and may replace) a *Chartering Facilitator* to shepherd a given charter through the process. The Chartering Facilitator is typically from the Staff but is not required to be from the Staff. In the case of rechartering it is common to name the group's [Team Contact](../teamcontact/role.md) as the Chartering Facilitator.
+The Technical Strategy Team Lead chooses (and may replace) a *Chartering Facilitator* to shepherd a given charter through the process. The Chartering Facilitator is typically from the Staff but is not required to be from the Staff. In the case of rechartering it is common to name the group's [Staff Contact](../teamcontact/role.md) as the Chartering Facilitator.
 
 **Note:** If the Technical Strategy Team Lead cannot identify a Chartering Facilitator, there may be delays in advancing the charter through the process.
 {:#chartering-facilitator}
@@ -78,6 +79,12 @@ Inform the Technical Strategy Team
 **Note**: Even prior to the initiation of charter refinement, it is common for the charter proponents and Technical Strategy Team to work together to help prepare charters for broader audiences.
 
 ### 3.2 Initiation of charter refinement {#charter-refinement}
+
+An [Advisory Committee representative](https://www.w3.org/policies/process/#charter-initiation) may formally request that the Technical Strategy Team initiate charter refinement. Such request must be sent to the Technical Strategy Team ([team-strat@w3.org](mailto:team-strat@w3.org)), copying ([member-charters-review@w3.org](mailto:member-charters-review@w3.org)).
+
+An existing Working or Interest Group should request their Staff Contact to work with the Technical Strategy Team to initiate charter refinement.
+
+Community Groups interested in transitioning to a Working Group are encouraged to review [Considerations when transferring a CG Specification for Standardization](https://github.com/w3c/cg-council/blob/main/transfer-considerations.md) and to contact the Community Group Leads  ([team-community-process@w3.org](mailto:team-community-process@w3.org)) and/or the [Exploration IG](https://github.com/w3c/exploration-ig/issues).
 
 After consideration of the [charter assessment criteria](#charter-assessment-criteria) and a determination that the charter is well-formed (per the template and per Process section "[content of a charter](https://www.w3.org/policies/process/#WGCharter)"), the Technical Strategy Team Lead decides whether to initiate charter refinement.
 
@@ -138,7 +145,7 @@ The request to TiLT must include additional information as follows:
 
 The Chartering Facilitator records in the [pipeline](#pipeline) issue that a TiLT decision has been requested. 
 
-TiLT informs the Chartering Facilitator of their decision in the [pipeline](#pipeline) issue. This may take up to 2 weeks (but is frequently faster); see [Timing of responses from TiLT](tilt/#timing) for details.
+TiLT informs the Chartering Facilitator of their decision. This may take up to 2 weeks (but is frequently faster); see [Timing of responses from TiLT](tilt/#timing) for details.
 
 ### 3.5 Announcement of the TiLT decision
 
@@ -179,7 +186,7 @@ If approved, the Chartering Facilitator then works with the W3C Communications T
 
 ## 4. Existing groups  {#existing-groups}
 
-In this section we describe the operational aspects of extending or modifying the charter of an existing group. In these processes, a group's [Team Contact](../teamcontact/role.md) typically plays the role of the Chartering Facilitator.
+In this section we describe the operational aspects of extending or modifying the charter of an existing group. In these processes, a group's [Staff Contact](../teamcontact/role.md) typically plays the role of the Chartering Facilitator.
 
 ### 4.1 Request for short-term extension  {#extension-request}
 
@@ -241,16 +248,16 @@ Parallelize where possible:
 
 ### 5.3 Organizing the Call for Review  {#cfr}
 
-**Note:** Team Contacts should ensure that their work group participants are aware there is a review in progress.
+**Note:** Staff Contacts should ensure that their work group participants are aware there is a review in progress.
 
-The Team Contact:
+The Staff Contact:
 
 - Reuses an existing Team-only mailing list (e.g., [w3t-archive@w3.org](https://lists.w3.org/Archives/Team/w3t-archive/)) for the Advisory Committee review (or [creates a new Team-only mailing list](https://www.w3.org/Systems/Mail/Request/).)
   
   - If new, the mailing list should be named team-xxx-review@w3.org (in accordance with the [list name policy](https://www.w3.org/Systems/Mail/Request/#doc-listname)).
   - The mailing list must be Team-only.
   - The mailing list must be archived.
-  - The mailing list must have at least one subscriber to monitor traffic: the Team Contact.
+  - The mailing list must have at least one subscriber to monitor traffic: the Staff Contact.
 - Sends a request to the W3C Communications Team ([w3t-comm@w3.org](mailto:w3t-comm@w3.org)) asking that a Call for Review be sent to the AC. The request should be sent **at least three business days before** the anticipated start date of the review. The request must include:
   
   1. A w3.org URI to the proposed charter (not a github.io URI). This charter is public, and must not be altered, during the AC review.
@@ -262,7 +269,7 @@ The Team Contact:
 
 The W3C Communications Team encourages the Chartering Facilitator to include as part of the request, a draft Call for Review, created by using this [template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2FTemplates&template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fcfr.html&submit=Continue...) (even if the URI to the questionnaire may not yet exist).
 
-The W3C Communications Team (or the motivated Team Contact) builds a [Call for Review questionnaire](https://www.w3.org/2002/09/wbs/33280/apCFRFactory). The URI for the questionnaire is added to the Call for Review announcement to members. In case of renewal of an existing charter, it is also useful to include a diff (you may wish to use the [HTML diff tool](https://services.w3.org/htmldiff)) between current and proposed charters in the Call for Review questionnaire.
+The W3C Communications Team (or the motivated Staff Contact) builds a [Call for Review questionnaire](https://www.w3.org/2002/09/wbs/33280/apCFRFactory). The URI for the questionnaire is added to the Call for Review announcement to members. In case of renewal of an existing charter, it is also useful to include a diff (you may wish to use the [HTML diff tool](https://services.w3.org/htmldiff)) between current and proposed charters in the Call for Review questionnaire.
 
 Once the Head of W3C Communications (or delegate) has approved the Call for Review and the questionnaire, the W3C Communications Team:
 
@@ -280,13 +287,13 @@ Once the Head of W3C Communications (or delegate) has approved the Call for Revi
 
 If there are only very minor changes to a charter resulting from the review, the (future) decision includes the original charter URI and an explanation of the changes and their rationale.
 
-If substantive changes are proposed in response to charter review, the Team Contact must request a review of the proposed changes to the individuals and organizations who responded to the Call for Review, copying the [member-charters-review@w3.org](https://lists.w3.org/Archives/Member/member-charters-review/) member-archived mailing list. The request must contain:
+If substantive changes are proposed in response to charter review, the Staff Contact must request a review of the proposed changes to the individuals and organizations who responded to the Call for Review, copying the [member-charters-review@w3.org](https://lists.w3.org/Archives/Member/member-charters-review/) member-archived mailing list. The request must contain:
 
 1. an explanation of the changes and their rationale
 2. a deadline for response (minimum of one week) if reviewers have concerns or if the changes would alter their reviews
 3. the URI for the questionnaire open to the AC
 
-If the work continues or derives from an existing group or community effort, the Team Contact should also send the [HTML diff](https://services.w3.org/htmldiff) and a public rationale to that group or community.
+If the work continues or derives from an existing group or community effort, the Staff Contact should also send the [HTML diff](https://services.w3.org/htmldiff) and a public rationale to that group or community.
 
 These communications should note that W3C has not yet approved the charter.
 
@@ -295,7 +302,7 @@ your review*.
 
 If anyone expresses new concern in response to the re-review, the Technical Strategy Team may attempt to resolve the concern (with re-review), formally open a new AC review, or the [W3C Council](../council/council.md) may treat it as an objection and overrule it.
 
-If there are substantive changes, before any announcement, the Team Contact:
+If there are substantive changes, before any announcement, the Staff Contact:
 
 1. Mints a new URI for the version of the charter that includes the changes. In the "Charter history" section of the charter, please link to the original (reviewed) charter.
 2. Modifies the original charter in place with the following status sentence at the top:
@@ -332,7 +339,7 @@ The Chartering Facilitator ensures that the following are done and the following
      - If the group is an IG that is just a mailing list:
 
        Document on the group's home page that to join the group people simply subscribe to the list.
-3. All relevant mailing lists exist. If not, the Team Contact may [create the mailing list(s)](https://www.w3.org/Systems/Mail/Request/).
+3. All relevant mailing lists exist. If not, the Staff Contact may [create the mailing list(s)](https://www.w3.org/Systems/Mail/Request/).
 4. The main mailing list is associated with the group via the [Group Service Management](https://www.w3.org/2011/04/dbwg/group-services) interface.
 5. Make sure the charter is public (since 2007, charters are public during AC review) and any final edits (e.g., addition of link to page for joining the group) have been made. If the group already exists, the new charter and the old charter should have two different URLs.
 6. Customize the ["onboarding" message](https://github.com/w3c/onboarding) that will be sent to participants as they join the group.
@@ -352,7 +359,7 @@ The Chartering Facilitator sends a draft announcement (combining W3C Decision an
 - Any substantive changes from the charter that was reviewed. Note: In case of charter renewal, it is useful to include a [HTML diff](https://services.w3.org/htmldiff) between the approved and previous charters.
 - A link to the group's public home page.
 - A link to a page with information about the mechanism used to join the group (e.g., a URI to the "join" page for a group under the W3C Patent Policy).
-- Name and contact information for the Team Contact(s).
+- Name and contact information for the Staff Contact(s).
 - AC review results of the proposed charter.
 - If applicable, the rationale for approving the group despite objections, or despite the fact it did not receive reviews [from at least 5% of the Membership](#review_threshold).
 
@@ -393,11 +400,11 @@ After sending the W3C Decision and Call for Participation:
 - For groups managed under the W3C Patent Policy (formerly IPP), the W3C Communications Team uses the [Groups DB](https://www.w3.org/admin/dashboard) interface to record that a Call for Participation was sent (so that all links via the Groups DB, including the charter one on the join page, are actually live).
 - If the group was "staged", the W3C Communications Team unstages it.
 - The public [list of groups](https://www.w3.org/groups/) is automatically updated from the Groups DB, including a 1-paragraph description.
-- Team Contact marks the chair(s) as such in the Group's admin view (this automatically adds the chair(s) to the [Chairs' group](https://www.w3.org/admin/othergroups/31972/show) which subscribes them to the chairs@w3.org mailing list).
-- Function Lead or Team Contact(s) update the Team's [effort tables](https://www.w3.org/2005/09/manage/).
-- For existing groups, Team Contact(s) ensures that Invited Expert statuses are being [reviewed in coordination with the group chair(s)](https://www.w3.org/invited-experts/#review). Team Contacts with questions about how an Invited Expert joins a group should consult the [Team Policy for Invited Experts](https://www.w3.org/2004/02/invited_expert).
+- Staff Contact marks the chair(s) as such in the Group's admin view (this automatically adds the chair(s) to the [Chairs' group](https://www.w3.org/admin/othergroups/31972/show) which subscribes them to the chairs@w3.org mailing list).
+- Function Lead or Staff Contact(s) update the Team's [effort tables](https://www.w3.org/2005/09/manage/).
+- For existing groups, Staff Contact(s) ensures that Invited Expert statuses are being [reviewed in coordination with the group chair(s)](https://www.w3.org/invited-experts/#review). Staff Contacts with questions about how an Invited Expert joins a group should consult the [Team Policy for Invited Experts](https://www.w3.org/2004/02/invited_expert).
 
-Team contacts should look at [how to setup a new group](../tools/new-group.md) once the call for participation is out.
+Staff Contacts should look at [how to setup a new group](../tools/new-group.md) once the call for participation is out.
 
 **Note:** When we recharter a work group and the charter scope has changed, we enter the CFP into the Group DB, which triggers messages to the group participants that they must rejoin. If the new charter doesn't have new deliverables involving new patent commitment, do not register the new CFP.
 
@@ -412,15 +419,15 @@ The W3C Communications Team then:
 - It is a good practice to forward the extension announcement to the public list of the group, and to follow-up on public-new-work.
 - updates the [list of groups](https://www.w3.org/groups/) accordingly.
 
-The Communications Team modifies (or asks the Team Contact) the Charter in place as follows:
+The Communications Team modifies (or asks the Staff Contact) the Charter in place as follows:
 
 - The "End Date" in the table at the top.
-- Any update to the Chair(s) (e.g., a Chair resigns or their affiliation changed), Team Contact(s) (e.g., names, FTEs), etc.
+- Any update to the Chair(s) (e.g., a Chair resigns or their affiliation changed), Staff Contact(s) (e.g., names, FTEs), etc.
 - The changes including extension history are documented in the "About this charter" section at the bottom and lists each extension dates and the pairs of from/until dates. (Note: If the group is developing a new charter, link to the GitHub repo of where the new charter is being developed).
 - The text "Note: The group will document significant changes from this initial schedule on the group home page." is updated with a link to the group's updated milestones (e.g., on the group's site) to say something like "Note: See changes from this initial schedule on the group home page."
 - Fix broken links.
 
-When a group **Chair** is (re)appointed or resigns, shortly before/after the announcement to w3c-ac-members@w3.org \[then forwarded to chairs@w3.org] (sample emails \[[1](https://www.w3.org/Search/Mail/Member/search?keywords=&hdr-1-name=subject&hdr-1-query=appointed&index-grp=Member__FULL%20Public__FULL&index-type=t&type-index=w3c-ac-members)]\[[2](https://www.w3.org/Search/Mail/Member/search?keywords=&hdr-1-name=subject&hdr-1-query=steps%20down&index-grp=Member__FULL%20Public__FULL&index-type=t&type-index=w3c-ac-members)]), The W3C Communications Team (or the Team Contact) modifies the charter, including:
+When a group **Chair** is (re)appointed or resigns, shortly before/after the announcement to w3c-ac-members@w3.org \[then forwarded to chairs@w3.org] (sample emails \[[1](https://www.w3.org/Search/Mail/Member/search?keywords=&hdr-1-name=subject&hdr-1-query=appointed&index-grp=Member__FULL%20Public__FULL&index-type=t&type-index=w3c-ac-members)]\[[2](https://www.w3.org/Search/Mail/Member/search?keywords=&hdr-1-name=subject&hdr-1-query=steps%20down&index-grp=Member__FULL%20Public__FULL&index-type=t&type-index=w3c-ac-members)]), The W3C Communications Team (or the Staff Contact) modifies the charter, including:
 
 - Update the "Chair" in the table at the top.
 - Document changes in "About this charter" section at the bottom.
