@@ -85,7 +85,6 @@ toc: true
 - [Normative References](process/tilt/normative-references.md); considerations the Team takes into account when evaluating normative references
 - Addressing formal objections: [best practices to resolve and decide Formal Objections](council/council.md) (aka council guide)
 - Publications can only happen on Tuesdays and Thursdays ([Member-only archive of announcement](https://lists.w3.org/Archives/Member/chairs/2009JanMar/0192.html)), unless you use the [automated publication system](https://github.com/w3c/echidna/wiki)
-- **September 2015**: W3C Comm Team no longer post Homepage News stories for regular WDs publications, unless explicitly requested at publication request.
 - [W3C Documents and license related to API definitions, code samples, or examples](process/binding-license.md)
 - Discussion about specifications tooling and versioning on [spec-prod@w3.org](https://lists.w3.org/Archives/Public/spec-prod/)
 - ...more [advice on specification development](#spec-advice)
