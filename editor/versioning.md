@@ -101,7 +101,7 @@ For example, [`/TR/CSP/latest/`](https://www.w3.org/TR/CSP/latest/) points to th
 
 More precisely, the algorithm to determine this URL will return the **first document** found in the following ordered list:
 
-1. the **highest** level being a CR, an Edited CR, a PR, an Edited PR
+1. the **highest** level being a CR, an Edited CR, an Edited PR
 1. a REC that is not obsolete/superceded/rescinded/retired/outdated
 1. the **highest** level being a Note if not retired
 1. the **lowest** level being a WD

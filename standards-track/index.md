@@ -25,7 +25,7 @@ These are offered as guidelines, not a checklist of required items in every prop
 
 The target audience for this document includes:
 
-- The Team and Advisory Committee, when evaluating proposals to create new Working Groups or rechartering existing Working Groups to put new work in scope (e.g. how specs reach maturation before FPWD), and in reviewing Proposed Recommendations;
+- The Team and Advisory Committee, when evaluating proposals to create new Working Groups or rechartering existing Working Groups to put new work in scope (e.g. how specs reach maturation before FPWD), and in reviewing Candidate Recommendations;
 - Working Group Chairs, when determining whether to publish First Public Working Drafts of specs that are in a group's chartered scope,
 
 This document attempts to strike a balance between two classes of criteria:

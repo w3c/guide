@@ -84,9 +84,6 @@ FPWD
 CR
 : Resolve before advancing the spec to [Candidate Recommendation](https://www.w3.org/policies/process/#candidate-rec).
 
-PR
-: Resolve before advancing the spec to [Proposed Recommendation](https://www.w3.org/policies/process/#rec-pr).
-
 REC
 : Resolve before advancing the spec to [Recommendation](https://www.w3.org/policies/process/#rec-publication).
 

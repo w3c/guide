@@ -37,7 +37,7 @@ The Staff Contact is also charged with representing the views of the Team to the
 - *Ensure* that Chair is marked as such in the [group's homepage](https://www.w3.org/groups/) (which subscribes him/her to chairs@w3.org)
 - *Ensure* that Group Members are oriented to W3C Process and their roles when Group convenes or new Group Members join.
 - *Ensure* that Group sets milestones for document development, charter renewals, etc.
-- *Ensure* that Chair understands the different stages of document development (Editor's Drafts, Working Drafts, Candidate Recommendation, Proposed Recommendations, Recommendations), and confidentiality and status issues for each stage.
+- *Ensure* that Chair understands the different stages of document development (Editor's Drafts, Working Drafts, Candidate Recommendation, Recommendations), and confidentiality and status issues for each stage.
 - *Assist* Chair in assessing need for charter renewal and/or closing of the Group.
 - *Ensure* that previous Chair is removed in the [group's homepage](https://www.w3.org/groups/).
 

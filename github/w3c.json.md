@@ -31,7 +31,7 @@ The fields that are understood at this point are:
 : String to identify the type and purpose of the repository, or an array of such strings if the repository holds more than one type of content. The possible values for this field are:  
   
    `rec-track`
-   : [W3C Recommendation Track](https://www.w3.org/policies/process/#rec-track) documents including First Public Working Draft, Working Draft, Candidate Recommendation, Proposed Recommendation and W3C Recommendation
+   : [W3C Recommendation Track](https://www.w3.org/policies/process/#rec-track) documents including First Public Working Draft, Working Draft, Candidate Recommendation, and W3C Recommendation
 
    `note`
    : [W3C Note Track](https://www.w3.org/policies/process/#note-track) documents including Group Draft Note, Group Note and Statement

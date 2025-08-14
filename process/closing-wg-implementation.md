@@ -36,7 +36,7 @@ _This is the Team documentation detailing the various steps when [closing a grou
 
 The Contact:
 
-- Requests publication of any WD, CR, PR, PER as terminating Notes. The document is *very short* with any rationale in the status. (Alternatively, it is also possible for the Webmaster to mark documents as obsolete without republication, but this is an inferior approach. The "stub" approach is intended to be lightweight and address long-term goals of useful "latest version" URIs.)
+- Requests publication of any WD, CR, PER as terminating Notes. The document is *very short* with any rationale in the status. (Alternatively, it is also possible for the Webmaster to mark documents as obsolete without republication, but this is an inferior approach. The "stub" approach is intended to be lightweight and address long-term goals of useful "latest version" URIs.)
 - Ensures the group's home page indicates that it is closed. Point people to useful pages for more information or next steps;
 - Modify the group's charter: end date, a pointer to a closure announcement to the group's mailing list (usually from the public archive);
 - Identifies related groups (e.g. Chairs group, Coordination Group) that should be closed by the Comm team;

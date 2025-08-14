@@ -138,7 +138,7 @@ The First Public Working Draft is an important milestone. It makes concrete the 
 
 ## Test suites  {#test}
 
-The W3C Process does not require tests to be available until exiting Candidate Recommendation. Leaving testing until it is the only thing left holding you back from Proposed Recommendation is, however, unwise. Tests give implementers something to work with, and provide examples for those reviewing the specification. Tests help make concrete the sometimes abstract language of a specification. Tests can show where reasonable interpretations of the same specification text could lead to divergent and non-interoperable implementations.
+The W3C Process does not require tests to be available until exiting Candidate Recommendation. Leaving testing until it is the only thing left holding you back from Recommendation is, however, unwise. Tests give implementers something to work with, and provide examples for those reviewing the specification. Tests help make concrete the sometimes abstract language of a specification. Tests can show where reasonable interpretations of the same specification text could lead to divergent and non-interoperable implementations.
 
 > Tips: Early testing
 : Start writing tests when you start writing the specification.
@@ -232,7 +232,7 @@ Publication of a Candidate Recommendation triggers an Exclusion period on all fe
 
 Exiting the Candidate Recommendation phase can be triggered by:
 
-1. meeting the CR exit criteria (which leads to Proposed Recommendation), or
+1. meeting the CR exit criteria (which leads to Recommendation), or
 2. dropping features which were not marked as 'at risk', or adding new features as a result of implementer feedback (either of which leads to another Candidate Recommendation).
 
 > Time: Post-CR Candidate Recommendation Duration
@@ -251,25 +251,25 @@ Exiting the Candidate Recommendation phase can be triggered by:
   In practice, it is common to get no comments in such a late CR, because the implementers already agreed to drop/add whatever feature triggered the new CR. However, other implementers or dependent groups may have other ideas on the changes.
 {:.tip}
 
-## Proposed Recommendation  {#pr}
+## Recommendation  {#rec}
 
-Following a successful transition call where the CR exit criteria were demonstrated to have been met, the next stage is Proposed Recommendation. This review period is not expected to raise substantive technical issues.
+Following a successful transition call where the CR exit criteria were demonstrated to have been met, the next stage is to propose to move to Recommendation. This review period is intended for the W3C Advisory Committee.
 
-> Time: PR Duration
-: The minimum duration for the PR review period is [four weeks](https://www.w3.org/policies/process/#rec-pr), followed by two weeks for a W3C decision. If the review period spans the July/August or December holiday periods, more time is typically added.
+> Time: Duration
+: The minimum duration for the review period is [four weeks](https://www.w3.org/policies/process/#initiating-rec-review), followed by two weeks for a W3C decision. If the review period spans the July/August or December holiday periods, more time is typically added.
 {:.time}
 
-> Tips: Minimising delay during PR
+> Tips: Minimising delay during AC Review
 : Personally contact the AC representative for each organization on the group (CCing the Group member) to remind them of the review.
 >
-  Prepare an Editors Draft Recommendation, taking a copy of the PR document, and incorporate any changes (assumed editorial, such as out-of-date references, grammatical errors, and rewording of ambiguous paragraphs) that happen as a result of AC review.
+  Prepare an Editors Draft Recommendation, taking a copy of the CR document, and incorporate any changes (assumed editorial, such as out-of-date references, grammatical errors, and rewording of ambiguous paragraphs) that happen as a result of AC review.
 >
-  If the group decides to produce a Press release to accompany the Recommendation, start work on this at the PR transition (or earlier). This allows time for testimonials to be approved and for the release itself to be translated into other languages.
+  If the group decides to produce a Press release to accompany the Recommendation, start work on this at the REC transition (or earlier). This allows time for testimonials to be approved and for the release itself to be translated into other languages.
 >
   Schedule the anticipated publication date of the final Recommendation with the Comm Team (especially if there will be press activity) and the webmaster.
 {:.tip}
 
-## Recommendation  {#rec}
+## After the Advisory Committee  {#rec-after}
 
 Congratulations. Now start collecting [errata](https://www.w3.org/policies/process/#errata) for the Recommendation, and working on v.next.
 

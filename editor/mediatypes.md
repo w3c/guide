@@ -34,7 +34,7 @@ This procedure is based on [Media Type Specifications and Registration Procedure
    
    - Change the introduction to the registration information to say that it is being submitted to the IESG for review, approval, and registration with IANA.
    - Fill the [IANA form](https://www.iana.org/form/media-types), listed in [Media Types](https://www.iana.org/assignments/media-types/media-types.xhtml). The IANA Services Specialist will check with [Philippe Le Hégaret](mailto:plh@w3.org) and [Simone Onofri](mailto:simone@w3.org) to validate the request on behalf ot W3C.
-4. In preparation for Proposed Recommendation and Recommendation:
+4. In preparation for Recommendation:
    
    1. Check on progress of registration, first directly at [IANA](https://www.iana.org/assignments/media-types/), and if your type is not yet registered there, contact [iana-mime-comment](mailto:iana-mime-comment@iana.org).
    1. Update the introduction to the registration information in your specification to say either “registered with IANA at…” or “under review by the IESG…”, as applicable.
