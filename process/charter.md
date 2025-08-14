@@ -265,11 +265,14 @@ The Staff Contact:
   3. In case of renewal of an existing charter, whether the group scope has changed. I.e., are there any new deliverables with licensing obligations under the W3C Patent Policy? The current group participants would need to re-join the group once the revised charter is approved.
   4. A recommended review start date and duration (at least 28 days according to [the Process Document](https://www.w3.org/policies/process/#CharterReview))
   5. A URI to the review of the proposed charter in the [Strategy GitHub repository](https://github.com/w3c/strategy/issues).
-  6. The name of the Team-only mailing list for comments.
+  6. A URI to the disposition of comments if comments were received prior to the AC Review (following the Charter Review Notice).
+  7. The name of the Team-only mailing list for comments.
 
 The W3C Communications Team encourages the Chartering Facilitator to include as part of the request, a draft Call for Review, created by using this [template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2FTemplates&template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fcfr.html&submit=Continue...) (even if the URI to the questionnaire may not yet exist).
 
 The W3C Communications Team (or the motivated Staff Contact) builds a [Call for Review questionnaire](https://www.w3.org/2002/09/wbs/33280/apCFRFactory). The URI for the questionnaire is added to the Call for Review announcement to members. In case of renewal of an existing charter, it is also useful to include a diff (you may wish to use the [HTML diff tool](https://services.w3.org/htmldiff)) between current and proposed charters in the Call for Review questionnaire.
+
+Note: We should assume some AC Reps may not read email announcements and will only review the questionnaire. Therefore, all unique information relevant to the review that appears in the email announcement must be duplicated in the [Call for Review questionnaire](https://www.w3.org/2002/09/wbs/33280/apCFRFactory).
 
 Once the Head of W3C Communications (or delegate) has approved the Call for Review and the questionnaire, the W3C Communications Team:
 
