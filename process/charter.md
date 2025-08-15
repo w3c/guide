@@ -1,5 +1,6 @@
 ---
 title: How to create a Working Group or Interest Group Charter
+submenu: [charter]
 toc: yes
 ---
 

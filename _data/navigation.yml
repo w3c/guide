@@ -1,9 +1,5 @@
 pages:
 
-- title: W3C Guidebook
-  url: /guide/
-  html: /
-
 - title: Buddy System
   url: /guide/chair/buddy.html
   html: /chair/buddy.html
