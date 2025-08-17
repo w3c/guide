@@ -57,7 +57,7 @@ See also: [Ongoing Team Attempts](https://www.w3.org/Member/wiki/FOdashboard#Tea
 
 ### Publishing Formal Objections {#publishing-fos}
 
-Formal Objections must be made public using [public-review-comments](https://lists.w3.org/Archives/Public/public-review-comments/), no later than when the relevant council is initiated. The team should publish formal objections as soon as reasonable within the 90 days investigation and mediation period, with some considerations including:
+A record of each Formal Objection against a decision regarding a publicly-available document must be made publicly available, using [public-review-comments](https://lists.w3.org/Archives/Public/public-review-comments/); likewise, a record of each Formal Objection against a Member-visible decision must be made available to Members. Publication of Formal Objections must be made no later than when the relevant council is initiated. The team should publish formal objections as soon as reasonable within the 90 days investigation and mediation period, with some considerations including:
 
 - all Formal Objections must be published, even those that are expected to be — or have already been — withdrawn.
 - the Formal Objection ought to be made public as soon as it is received if it needs to be discussed by a [W3C Group](https://www.w3.org/groups/).
@@ -97,7 +97,7 @@ If resolution is not possible in the allocated time frame, the assignee must ref
   - Whether the decision is to sustain or overrule, the W3C Council may include additional guidance for any of the participants involved.
   - If the objection is sustained, the relevant group (i.e., Working Group, or Team developing a charter) may resume work to develop a different proposal for their document.
 
-See also: [Ongoing Referrals to W3C Council](#referral)
+See also: [Ongoing Referrals to W3C Council](https://www.w3.org/Member/wiki/FOdashboard#Team_has_determined_consensus_cannot_be_found_and_needs_a_decision)
 
 ## The Nature of W3C Council deliberations {#nature-of-council-deliberations}
 
@@ -217,12 +217,15 @@ Adherence to the W3C Process
 
 This includes:
 
+Publication of W3C Formal Objections
+: See [Publishing Formal Objections](#publishing-fos)
+
 Publication of W3C Council decisions
 : W3C Council decisions form an important part of the public record; especially since they represent the most difficult areas in which
     stakeholders could not reach consensus and the Team could not resolve the impasse.
     Accordingly, it is important that W3C make available for the public record: the Team report, the W3C Council decision, and supporting
     documentation which explain the rationale of the W3C Council decision.
-    (See <a href="https://www.w3.org/about/council/">W3C Council public records</a>.)
+    (See [W3C Council public records](https://www.w3.org/about/council/).)
 
 Perception
 : The W3C Council should clearly exhibit the qualities of fairness, transparency, and thoroughness described above.
