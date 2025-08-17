@@ -1,5 +1,9 @@
 pages:
 
+- title: Guidebook
+  url: /guide/
+  html: /guide/index.html
+
 - title: Buddy System
   url: /guide/chair/buddy.html
   html: /chair/buddy.html
