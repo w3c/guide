@@ -20,7 +20,6 @@ The Group-internal Drafts must follow the licensing as defined in its charter. E
 
 ## Guidelines for Group-Internal Drafts {#guidelines}
 
-1. Use 
 1. Use an appropriate label for the document, as in: 
    ```html
    <h1>Architecture of the World Wide Web, Volume One</h1>
