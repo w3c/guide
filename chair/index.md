@@ -3,6 +3,7 @@ title: Resources for Group Chairs
 toc: false
 ---
 
+> Each group must have a **Chair** (or co-Chairs) to facilitate effective discussion and coordinate the group’s activities. The [Team](https://www.w3.org/policies/process/#team) appoints (and re-appoints) Chairs for all groups. ([Requirements for All Chartered Groups, W3C Process](https://www.w3.org/policies/process/#ReqsAllGroups))
 
 * [W3C Chair Buddy System](buddy.md)
 * [Chairs Meetings](Chairs Meetings)

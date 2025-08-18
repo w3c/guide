@@ -3,6 +3,8 @@ title: W3C Editors' Home Page
 toc: true
 ---
 
+> Every Technical Report published as part of the Technical Report development process is edited by one or more editors appointed by a [Group Chair](../chair/). It is the responsibility of these editors to ensure that the decisions of the Group are correctly reflected in subsequent drafts of the technical report. ([Publication of Technical Reports, W3C Process](https://www.w3.org/policies/process/#publication))
+
 ## Introduction {#intro}
 
 One of the main accomplishments at W3C is to write specifications and create standards out of them. While the Working Groups at large are responsible for building consensus on the technical decisions, the editors have the heavy responsibility of transforming these decisions into actual specifications.

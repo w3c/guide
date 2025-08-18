@@ -8,9 +8,9 @@ pages:
   url: /guide/process/
   html: /process/
 
-- title: Document Review
-  url: /guide/documentreview/
-  html: /documentreview/
+- title: Chairs
+  url: /guide/chair/
+  html: /chairs
 
 - title: Editors
   url: /guide/editor/
@@ -20,6 +20,6 @@ pages:
   url: /guide/meetings/
   html: /meetings/
 
-- title: Chairs
-  url: /guide/chair/
-  html: /chairs
+- title: Document Review
+  url: /guide/documentreview/
+  html: /documentreview/
