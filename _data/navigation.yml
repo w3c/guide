@@ -2,24 +2,24 @@ pages:
 
 - title: Guidebook
   url: /guide/
-  html: /guide/index.html
+  html: index.html
 
-- title: Buddy System
-  url: /guide/chair/buddy.html
-  html: /chair/buddy.html
+- title: W3C Process
+  url: /guide/process/
+  html: /process/
 
 - title: Document Review
   url: /guide/documentreview/
   html: /documentreview/
 
-- title: Manual of style
-  url: /guide/manual-of-style/
-  html: /manual-of-style/
+- title: Editors
+  url: /guide/editor/
+  html: /editors/
 
 - title: Meetings
   url: /guide/meetings/
   html: /meetings/
 
-- title: Standards track
-  url: /guide/standards-track/
-  html: /standards-track/
+- title: Chairs
+  url: /guide/chair/
+  html: /chairs

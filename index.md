@@ -1,5 +1,5 @@
 ---
-title: The Art of Consensus
+title: The Art of Consensus (Guidebook)
 toc: true
 ---
 
