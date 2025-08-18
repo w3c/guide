@@ -4,22 +4,12 @@ pages:
   url: /guide/
   html: index.html
 
-- title: W3C Process
+- title: Process
   url: /guide/process/
   html: /process/
 
-- title: Chairs
-  url: /guide/chair/
-  html: /chairs
+- title: Code of Conduct
+  url: https://www.w3.org/policies/code-of-conduct/
 
-- title: Editors
-  url: /guide/editor/
-  html: /editors/
-
-- title: Meetings
-  url: /guide/meetings/
-  html: /meetings/
-
-- title: Document Review
-  url: /guide/documentreview/
-  html: /documentreview/
+- title: Policies & legal
+  url: https://www.w3.org/policies/

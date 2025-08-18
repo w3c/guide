@@ -17,9 +17,10 @@ If you are a newly appointed editor in your Working Group, here is some advice t
 
 - Get an [idea of the role of an editor](role.md) at W3C
 - Check the most popular editing tools: [Bikeshed](https://speced.github.io/bikeshed/), [respec](https://github.com/speced/respec/wiki)
-- Read the [W3C Publication Rules](https://www.w3.org/pubrules/doc/) (often referred as pubrules) and ask advice on the points that are unclear; if your document doesn't comply with these rules, it cannot be published as a W3C technical report.
+- [Pubrules](https://www.w3.org/pubrules/) ([publication requirements](https://www.w3.org/pubrules/doc)) and links to related policies (e.g., [namespaces](editor/namespaces.md), [media type registration](editor/mediatypes.md), [version management](editor/versioning.md), and [in-place modifications](standards-track/republishing.md))
+    See also [Pubrules issue management](https://github.com/w3c/specberus/issues)
+- Publications can only happen on Tuesdays and Thursdays ([Member-only archive of announcement](https://lists.w3.org/Archives/Member/chairs/2009JanMar/0192.html)), unless you use the [automated publication system](https://github.com/w3c/echidna/wiki)
 - [How to Organize a Recommendation Track Transition](../transitions/) explains the process to get a document published as a technical report.
-- The [Pubrules Checker](https://www.w3.org/pubrules/) is a tool that can help you assess whether or not your document complies with pubrules.
 - Review [WCAG](https://www.w3.org/TR/WCAG/)
 - All W3C editors are invited to join the [publicly archived mailing list &lt;spec-prod@w3.org&gt;](https://lists.w3.org/Archives/Public/spec-prod/) to share and discuss the techniques and tools used to produce W3C specifications.
 

@@ -239,6 +239,8 @@ Ongoing communications
     the W3C Council is being convened, the W3C Council is in deliberations, etc.). The W3C Council Staff Contact should ensure that
     such communications take place and the process continues to move forward.
 
+See also [From Objection to W3C Council](council-steps.md).
+
 ## Revision History
 
 - 2023-03-30: Document created based on a draft by the [AB](https://www.w3.org/2002/ab/).
