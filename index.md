@@ -75,7 +75,7 @@ toc: true
   - [W3C Process for Busy People](https://github.com/w3c/wg-effectiveness/blob/master/process.md)
   - [Section 6.3 Technical Reports](https://www.w3.org/policies/process/#rec-advance) of the W3C Process
   - Considerations for [joint deliverables](process/joint-deliverables.md)
-  - Advancing your document: [Transition requirements](transitions/) for all W3C maturity levels (First Public Draft, CR, PR, REC, etc.). Try also our [step finder](transitions/nextstep.html) and look at [milestones calculator](https://w3c.github.io/spec-releases/milestones/).
+  - Advancing your document: [Transition requirements](transitions/) for all W3C maturity levels (First Public Draft, CR, REC, etc.). Try also our [step finder](transitions/nextstep.html) and look at [milestones calculator](https://w3c.github.io/spec-releases/milestones/).
   - [Predicting milestones](process/predicting-milestones.md), use our [milestones calculator](https://w3c.github.io/spec-releases/milestones/) to help with dates.
   - [Request Wide Review](documentreview/) at least *2-3 months before CR*, to allow time for discussion and rework. This includes requesting [horizontal reviews](documentreview/#how-to-get-horizontal-review).
   - [Pubrules](https://www.w3.org/pubrules/) ([publication requirements](https://www.w3.org/pubrules/doc)) and links to related policies (e.g., [namespaces](editor/namespaces.md), [media type registration](editor/mediatypes.md), [version management](editor/versioning.md), and [in-place modifications](standards-track/republishing.md))
