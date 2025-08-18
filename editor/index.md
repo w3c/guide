@@ -16,7 +16,7 @@ This page tries to gather resources that can help editors do their job: document
 If you are a newly appointed editor in your Working Group, here is some advice that should be useful to get you started.
 
 - Get an [idea of the role of an editor](role.md) at W3C
-- Check the most popular editing tools: [Bikeshed](https://speced.github.io/bikeshed/), [respec](https://github.com/speced/respec/wiki)
+- Check the most popular editing tools: [Bikeshed](https://speced.github.io/bikeshed/), [respec](https://respec.org/docs/)
 - When using Github, check [Using GitHub for Spec Work](../github/specs.md) and [Workflow for editors and other contributors](./github/workflow.md)
 - [How to Organize a Recommendation Track Transition](../transitions/) explains the process to get a document published as a technical report. The [step finder](../transitions/nextstep.md) will help you finding which transition to do next and what the requirements are.
 - [Pubrules](https://www.w3.org/pubrules/) ([publication requirements](https://www.w3.org/pubrules/doc)) and links to related policies (e.g., [namespaces](namespaces.md), [media type registration](mediatypes.md), [version management](versioning.md), and [in-place modifications](standards-track/republishing.md)). See also [Pubrules issue management](https://github.com/w3c/specberus/issues)
