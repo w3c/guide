@@ -11,7 +11,7 @@ The status of a superseded specification remains active under the W3C Patent Pol
 
 If the W3C community discovers at a later date that the reasons for superseding a specification are no longer valid, the process may be reversed.
 
-More information on the process for superseding a specification can be found in [section 6.9 of the W3C Process](https://www.w3.org/policies/process/#rec-rescind).
+More information on the process for superseding a specification can be found in [section 6.3.12.3 of the W3C Process](https://www.w3.org/policies/process/#rec-rescind).
 
 If you think that a specification has been superseded in error, please [contact the W3C](mailto:webreq@w3.org).
 
@@ -23,7 +23,7 @@ The status of an obsolete specification remains active under the W3C Patent Poli
 
 If the W3C community discovers at a later date that the reasons for a specification becoming obsolete are no longer valid, the process may be reversed.
 
-More information on the process for making a specification obsolete can be found in [section 6.9 of the W3C Process](https://www.w3.org/policies/process/#rec-rescind).
+More information on the process for making a specification obsolete can be found in [section 6.3.12.3 of the W3C Process](https://www.w3.org/policies/process/#rec-rescind).
 
 If you think that a specification has been made obsolete in error, please [contact the W3C](mailto:webreq@w3.org).
 
@@ -33,6 +33,6 @@ A rescinded specification is one that the W3C community has decided to withdraw.
 
 When a specification has been rescinded, it is no longer used and no new licenses are granted under the W3C Patent Policy.
 
-More information on the process for rescinding a specification can be found in [section 6.9 of the W3C Process](https://www.w3.org/policies/process/#rec-rescind).
+More information on the process for rescinding a specification can be found in [section 6.3.12.3 of the W3C Process](https://www.w3.org/policies/process/#rec-rescind).
 
 If you think that a specification has been rescinded in error, please [contact the W3C](mailto:webreq@w3.org).
