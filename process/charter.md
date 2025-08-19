@@ -119,11 +119,13 @@ This rejection is a [Team Decision](https://www.w3.org/policies/process/#team-de
 
 The Chartering Facilitator ​is responsible for seeking community consensus among those participating in the refinement process and making decisions reflecting that consensus. The Chartering Facilitator follows these steps during refinement:
 
-Request horizontal review
-: Shortly after the initiation of refinement, request [horizontal review](../documentreview/#how-to-get-horizontal-review). This is done by adding the "[Horizontal review requested](https://github.com/w3c/strategy/labels/Horizontal%20review%20requested)" label to the issue in the [pipeline](#pipeline). Horizontal reviewers will usually respond within two weeks, though it is wise to allow for additional time. The Chartering Facilitator may use the team-horizontal list to reach all the horizontal reviewers. Horizontal reviews are not required for Groups that do not hold technical discussions, such as the Patents and Standards Interest Group.
+#### 3.3.1 Request horizontal review {#horizontal-review}
 
-Ensure issues are formally addressed
-: All issues filed against the charter draft during refinement must be formally addressed by the Chartering Facilitator.
+Shortly after the initiation of refinement, request [horizontal review](../documentreview/#how-to-get-horizontal-review) from the [horizontal groups](horizontal-groups.md). This is done by adding the "[Horizontal review requested](https://github.com/w3c/strategy/labels/Horizontal%20review%20requested)" label to the issue in the [pipeline](#pipeline). Horizontal reviewers will usually respond within two weeks, though it is wise to allow for additional time. The Chartering Facilitator may use the team-horizontal list to reach all the horizontal reviewers. Horizontal reviews are not required for Groups that do not hold technical discussions, such as the Patents and Standards Interest Group.
+
+#### 3.3.2 Ensure issues are formally addressed
+
+All issues filed against the charter draft during refinement must be formally addressed by the Chartering Facilitator.
 
 ### 3.4 Requesting a TiLT decision
 
