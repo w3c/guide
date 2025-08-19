@@ -90,7 +90,7 @@ Community Groups interested in transitioning to a Working Group are encouraged t
 
 After consideration of the [charter assessment criteria](#charter-assessment-criteria) and a determination that the charter is well-formed (per the template and per Process section "[content of a charter](https://www.w3.org/policies/process/#WGCharter)"), the Technical Strategy Team Lead decides whether to initiate charter refinement.
 
-#### 3.2.1 Technical Strategy Team decision to initiate charter refinement
+#### 3.2.1 Technical Strategy Team decision to initiate charter refinement {#cr-acceptance}
 
 If the Technical Strategy Team decides to initiate charter refinment, it follows these steps:
 
@@ -105,7 +105,7 @@ Record start of refinement
 
 Any Formal Objection to a Team Decision to initiate charter refinement is not considered registered until the close of any Advisory Committee Review of that charter, and is registered against that W3C Decision.
 
-#### 3.2.2 Technical Strategy Team decision not to initiate charter refinement
+#### 3.2.2 Technical Strategy Team decision not to initiate charter refinement {#cr-rejection}
 
 If no Advisory Committee representative formally requested that the Technical Strategy Team initiate charter refinement, then no further action is required of the Technical Strategy Team.
 
@@ -115,7 +115,7 @@ This rejection is a [Team Decision](https://www.w3.org/policies/process/#team-de
 
 > **Note**: We do not expect to include operational details for handling these Formal Objections until we have gained experience.
 
-### 3.3 Activities during refinement
+### 3.3 Activities during refinement {#during-refinement}
 
 The Chartering Facilitator ​is responsible for seeking community consensus among those participating in the refinement process and making decisions reflecting that consensus. The Chartering Facilitator follows these steps during refinement:
 
@@ -195,6 +195,8 @@ In this section we describe the operational aspects of extending or modifying th
 ### 4.1 Request for short-term extension  {#extension-request}
 
 The W3C Process describes the [charter extensions](https://www.w3.org/policies/process/#charter-extension) and when they may occur. No Advisory Committee review is required for short-term extensions.
+
+Advisory Committee representatives may initiate an [Advisory Committee Appeal](ac-appeal.md) against a [Team decision](https://www.w3.org/policies/process/#charter-extension) regarding the extension of a Working Group or Interest Group charter.
 
 The Technical Strategy Team expects a charter extension to be no more than 6 months. Otherwise the Group must [recharter](#recharter-request) or justification must be provided to explain the delay.
 
