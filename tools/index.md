@@ -5,7 +5,7 @@ toc: false
 
 > For W3C Groups operating under this Process, a core operating principle is to allow access across disabilities, across country borders, and across time. ([Tooling and Archiving for Discussions and Publications, W3C Process](https://www.w3.org/policies/process/#tooling))
 
-Many of the tools in this section and the previous are in wide use and are supported by the Systems Team (ask for help on [sysreq@w3.org](mailto:sysreq@w3.org)) and Communications Team. For service enhancements or new systems projects, please contact [w3t-sys@w3.org](mailto:w3t-sys@w3.org) with a detailed description of your needs. Outages and scheduled operations appear on the [W3C Systems Status page](https://status.w3.org). See [collected wisdom](#sa34) below for less mature tools.
+Many of the tools in this section and the previous are in wide use and are supported by the Systems Team (ask for help on [sysreq@w3.org](mailto:sysreq@w3.org)) and Communications Team. For service enhancements or new systems projects, please contact [w3t-sys@w3.org](mailto:w3t-sys@w3.org) with a detailed description of your needs. Outages and scheduled operations appear on the [W3C Systems Status page](https://status.w3.org).
 
 ## Tools
 
