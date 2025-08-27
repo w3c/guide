@@ -24,7 +24,7 @@ Many of the tools in this section and the previous are in wide use and are suppo
 - [Mailing Lists archives](https://lists.w3.org/Archives/Public/)
 - [Mailing Lists Search service](https://www.w3.org/Search/Mail/Public/search)
 - [Your Mailing List subscriptions](https://lists.w3.org/admin/subscriptions)
-- [Mailing list maintenance](teamcontact/remote-maintainers.md)
+- [Mailing list maintenance](../teamcontact/remote-maintainers.md)
 
 ## Training Modules {#training}
 
