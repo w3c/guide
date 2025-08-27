@@ -12,6 +12,7 @@ Many of the tools in this section and the previous are in wide use and are suppo
 * [W3C Project Management function tools](https://www.w3.org/PM/)
 - [WBS](https://www.w3.org/wbs/) for online questionnaires
 - [Markup Validators](https://validator.w3.org/), [Link checker](https://validator.w3.org/checklink), [Spell checker](https://www.w3.org/2002/01/spellchecker), [HTML diff tool](https://services.w3.org/htmldiff), [SpecRef](https://www.specref.org/), [normative references checker](https://labs.w3.org/normative-references/), and [more tools](https://www.w3.org/2004/12/wg-tools.html)
+- [Resources about W3C meetings](../meetings/)
 - See also: [Tools Wiki](https://www.w3.org/2006/tools/)and [W3C Editors home page](editor/)
 - [Mailing list archive](https://lists.w3.org/Archives/Member/w3c-tools/) of tools announcements (Member-only)
 - [Edit your contact information or affiliation](https://www.w3.org/users/myprofile/)
