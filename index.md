@@ -14,7 +14,6 @@ A list of [group procedures related to the W3C Process](process/#groups) is avai
 - [How to incubate](incubation.md)
   
   - [W3C Community & Business Groups](https://www.w3.org/community/)
-  - [W3C Team support for W3C Community Groups](https://www.w3.org/community/about/)
   - [W3C Workshops](meetings/workshops.md) for starting incubation
 - [Exploration Interest Group](https://www.w3.org/groups/ig/exploration/)
 - [How to transition work from a Community Group to a Working Group](process/cg-transition.md)
