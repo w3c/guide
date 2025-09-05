@@ -8,38 +8,121 @@ As we engage with one another, incidents can happen. Incidents can take many for
 - Change behaviors that negatively affect other participants in W3C
 - Continue to safely work and contribute to the W3C after an issue has been raised
 
-The Code of Conduct is the standard that all W3C participants are required to follow and is used as the basis for any resolution and disciplinary actions. In exceptional circumstances, individuals may have their W3C participation suspended or withdrawn as a result of a complaint or investigation.
+The Code of Conduct is the standard that all W3C participants are required to follow and is used as the basis for any resolution and disciplinary actions.
 
 All situations are different, and W3C participants are encouraged to use whichever method of incident resolution they feel comfortable with.
 
-Participants are encouraged to try to resolve issues themselves if they feel safe doing so. Participants may contact a chair or team contact for help. However, if participants do not feel comfortable or safe resolving issues on their own or with the help of a team contact, they can get help through an ombud.
-
-Depending on the severity of the situation, it may not be appropriate to attempt to resolve the issue informally or in the context of the group. Participants should report an incident as soon as possible if they feel unsafe or threatened by the behavior or actions of other W3C participants.
-
-Everyone involved in the resolution process is expected to:
-- Show respect for others
-- Work together to resolve the complaint
-- Exercise good judgment, and make reasonable efforts to protect privacy and confidentiality of all participants
-
 ## Incident Resolution Procedures
-When an incident arises it is important for everyone involved to know what will happen and what resources are available to them. Any time a Code of Conduct violation or complaint occurs it is important that those involved, especially the party/parties affected by the incident, feel supported and respected.
+The intent of the incident resolution procedures is to ensure that individuals can continue to participate in W3C activities.
+
+When an incident arises it is important for everyone involved to know what will happen and what resources are available to them. Any time a Code of Conduct violation or complaint occurs it is important that those involved, especially the party/parties affected by the incident, feel supported and respected. 
 
 How an incident is handled will depend on a number of factors including the type of incident, severity, frequency, and contributing factors. For example, has anyone been involved in incidents before? Is there a pattern?
 
-The procedure for addressing an incident will include some or all of the following:
-* Incident may be addressed directly with the parties involved, if appropriate.
-* A community member may report an incident to a Chair, Ombuds, a member of the Team, or through an anonymous report, where allowable by law. 
-* Response to report within two business days. 
-* Incident is discussed by the reporter, parties involved, and those reported to. Impact is shared and a resolution is proposed and discussed.
-* Resolution at the end of the process.
-
 For incidents that have a clear path to resolution and low severity (for example, a harsh criticism in a meeting or inappropriate language), the focus should be on coming to a shared understanding of what happened and agreeing to a path to resolution, such as an apology, agreed understanding for changes, or editing a comment or minutes.
 
+All situations are different, and W3C participants are encouraged to use the method of incident resolution they feel most comfortable with:
+* Participants are encouraged to try to resolve issues themselves if they feel safe doing so
+* Participants may contact a chair or team contact for help
+* Participants may seek guidance from an ombuds
+* As a last resort, participants may escalate to a formal complaint
+
+Participants are encouraged to try to resolve issues themselves if they feel safe doing so. Participants are encouraged to contact an ombuds at tEQuitable for guidance, support, and resources as they navigate an incident and attempt to resolve it directly. tEQuitable is a third-party service offering confidential guidance. They will not report details of an incident back to W3C except in the case of an immediate safety risk. (See tEQuitable FAQ.) Participants may also contact a chair or W3C Staff contact for help, as needed. 
+
+Depending on the severity of the situation, it may not be appropriate to attempt to resolve the issue informally or in the context of the group, with or without the guidance of an ombuds. Participants who choose to raise a formal complaint (add link to formal complaint section) should do so. Report an incident as soon as possible if they feel unsafe or threatened by the behavior or actions of other W3C participants.
+
+Everyone involved in the resolution process is expected to:
+* Show respect for others
+* Work together to resolve the complaint
+* Exercise good judgment, and make reasonable efforts to protect privacy and confidentiality of all participants
+
+
 ## Ombuds
-Ombuds are neutral third party advisors to participants who can provide guidance, advice, and support during the conflict resolution process. Where appropriate, ombuds can help mediate a process, but the role is mostly to help parties navigate next steps.
+Ombuds are neutral third party advisors to participants who can provide guidance, advice, and support during the conflict resolution process. Where appropriate, ombuds can help advise a process, but the role is mostly to help parties navigate next steps.
 
-The ombud positions are currently held by:
-- Catrina Ahlbach catrina@w3.org
-- Christine Gefaell christine@w3.org 
+If a participant is feeling uncomfortable while collaborating or just wants to learn techniques for more effective and respectful collaboration, W3C has partnered with the ombuds service tEQuitable to provide a safe place to get advice. tEQuitable allows participants to privately bring issues forward, acquire new skills, and get guidance on how to address difficult situations in a collaborative environment.
+W3C’s ombuds services can be accessed at [https://w3c.tequitable.com](https://w3c.tequitable.com).
 
-Ombuds can also be reached at ombuds@w3.org. 
+The Ombuds Service is designed to:
+* Help clarify participant concerns
+* Help identify and evaluate resolution options
+* Provide information, policies, resources and coaching
+* Assist in achieving outcomes consistent with fairness, the organization’s values, and the law
+* Act as an early warning system for organization issue trends
+* Identify areas for systemic change and issue prevention
+
+The Ombuds Service is NOT designed to:
+* Make decisions for anyone
+* Make policy or management decisions
+* Accept or receive notice of claims against the company or replace formal communications channels between an employee and their employer
+* Provide legal advice
+* Voluntarily testify with respect to confidential communications or participate in formal or legal proceedings
+* Conduct formal or in-depth investigations
+* Take sides in a dispute or serve as an advocate for any person, point of view or organization
+
+Staff, chairs, and ombuds can recommend actions be taken to resolve incidents. The procedure for addressing an incident may include some or all of the following:
+* A conflict resolution discussion between the affected parties, led by chairs or W3C Staff contacts. tEQuitable provides resources for effective conflict resolution: [https://w3c.tEQuitable.com](ttps://w3c.tEQuitable.com)
+* An official warning. In cases where a participant's CoC violations are frequent or severe, the participant and their employer (if relevant) will be given an official warning by a chair or member of the W3C Staff that their conduct is contrary to the CoC and that they should immediately desist in those behaviors. If they continue, this may result in the removal or suspension of their W3C participation. There is no time limit for the expiry of the warning.
+* A disciplinary meeting. In cases where the participant's actions are frequent or severe, and where greater intervention is needed, the participant and a representative from their place of employment (if relevant) will be asked to attend a meeting with the W3C CEO or designee(s). The participant will be told where their conduct is contrary to the CoC and that they should immediately desist in those behaviors. If they continue, they may result in the removal or suspension of the offender's W3C participation.
+* Temporary removal from a group or as a chair of a group. In cases where the participant’s violations have been frequent and disruptive, or the participant has failed to adhere to agreed-upon actions, the W3C CEO or their designee(s) may suspend the participant from any working groups, interest groups, or chair positions for a period of time agreed on by decision makers in accordance with the [Guidelines to suspend or remove participants from groups](https://www.w3.org/guide/process/suspension.html).
+* Termination of participation. Where there have been egregious or repeated CoC violations, the participant may have their participation in W3C terminated by the CEO or their designee(s). The participant and their employer (if relevant) will receive a letter from W3C outlining the reasons and why termination was warranted.
+
+Where it is beneficial to the continued functioning of W3C, a high-level summary of results and actions from a reported incident may be communicated to the membership, for example if an individual is suspended from a working group or from being a chair in any working group. Otherwise, results and actions should be kept confidential.
+
+## Filing a Formal Complaint
+If a participant feels they have exhausted all other options without sufficient resolution, they may file a formal complaint. Please note that the third-party (or outside) ombuds service (“service”) allows you to remain anonymous to W3C; however, the formal complaint process requires you to contact one or both of the following members of W3C Staff. Please note regardless whether you contact one or both of the following, they collaborate unless you specifically ask them to work alone:
+
+* Christine Gefaell, W3C Director of Legal & Compliance [christine@w3.org](mailto:christine@w3.org)
+* Catrina Ahlbach, W3C Chief of Staff [atrina@w3.org](mailto:catrina@w3.org)
+
+Prepare as much factual detail as you can. You may want to take the time to write down some of the details of the incident ahead of time, to help pull out the objective facts including the date(s) and names of those who may have been involved or witnessed the incident.
+
+### What to expect
+You will receive a response acknowledging receipt of your complaint within 3 business days. Once contact has been established, you may be asked several questions to understand as much as possible about the incident, such as: When did it happen? Where did it happen? Was anyone else present?
+
+Once initial information has been gathered, the Staff might be able to offer immediate help or may need to collect additional information. They may interview additional people, including those who witnessed the situation or who have additional context.
+
+You should expect to hear back from Staff with at minimum a status update within 48 hours. Unless otherwise indicated, this update is not a resolution. 
+
+### What might you hear back after the process?
+Sometimes a report has a quick and simple resolution; however, in some cases it may take additional time.
+
+The staff will keep you informed as much as possible, but depending on the situation, you might not be able to hear as much as you might like. Due to privacy concerns, explicit details may not be shared about any action that might have been taken.
+
+## tEQuitable FAQ
+
+### What is tEQuitable?
+tEQuitable is a safe place to get advice when you are feeling uncomfortable in the workplace. tEQuitable allows you to privately bring issues forward, acquire new skills, and get guidance on how to address difficult situations at work.
+
+tEQuitable is an independent, confidential, impartial and off-the-record resource where you can:
+* Strategize — develop an action plan to best address your situation
+* Learn — access tools for healthy and open communication
+* Talk — schedule an appointment with a professional Ombuds
+* Read — workplace experiences that may be just like yours
+
+tEQuitable’s mission is to help W3C create a safe, inclusive and equitable workplace.
+
+### Who is tEQuitable for?
+We encourage all participants to use tEQuitable whether you've had something happen to you, you've seen something happen to someone else, or you are a chair, ally, or advocate looking to learn how to be an inclusive and equitable leader or teammate.
+
+### What is an Ombuds?
+Ombuds are trained professionals that help participants figure out how to handle workplace conflict. They are independent, confidential, impartial and off-the-record. Ombuds offer conflict-resolution coaching, education, and consultation with a goal of empowering individuals to handle issues directly themselves. They do not advocate for individuals, groups or entities, but rather for the principles of fairness and equity. They do not play a role in formal processes, investigate problems brought to their attention, or represent any side in a dispute. 
+
+### Can I use tEQuitable if I’m not sure what I experienced was really discrimination or harassment?
+Yes. If what you experienced felt inappropriate or made you uncomfortable, tEQuitable can help. Harassment and discrimination can range from subtle, insidious slights to overt and severe incidents. tEQuitable is a great resource for getting in front of issues like microaggressions and preventing them from becoming bigger issues.
+
+### How is my information protected?
+Your privacy is our priority. All of your participation in the platform is confidential and cannot be tracked back to you.
+* We do not store any personally identifiable information
+* We de-identify any information you give us
+* We only report trends based on aggregated and anonymized data, not individual incidents
+* We use industry-standard encryption for all communications between your web client and our servers 
+
+### How does tEQuitable help my organization?
+tEQuitable aggregates and anonymizes behavioral trends so your organization can get in front of issues before they escalate. Trend data cannot be linked to any sole individual.
+Using tEQuitable is like voting with your feet. The more information you provide tEQuitable, the better we can guide your organization to focus on areas that need improvement. 
+
+### If I make an appointment, who do I talk with?
+The person you talk with by phone is a trained Organizational Ombuds. They serve as a neutral party and provide you with conflict resolution and problem-solving resources. They do not advocate for individuals, groups or entities, but rather for the principles of fairness and equity. They do not play a role in formal processes, investigate problems brought to their attention, or represent any side in a dispute. 
+
+Ombuds are independent, confidential, impartial, and off-the-record.
