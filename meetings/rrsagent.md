@@ -185,7 +185,7 @@ The list of action items may be reviewed and modified during the meeting. Action
 
 - [Zakim](zakim.md) is a Semantic Web agent ("swagent") that helps facilitate meetings using IRC.
 
-- [Meeting minute topic scraper](https://www.w3.org/services/meeting-minutes) provides HTML and JSON summaries of meeting minutes published on W3C's site.
+- [Meeting minute browser](https://www.w3.org/services/meeting-minutes/) provides HTML and JSON summaries of meeting minutes published on W3C's site.
 
 ## Change History {#changes}
 
