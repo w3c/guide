@@ -29,7 +29,7 @@ All situations are different, and W3C participants are encouraged to use the met
 
 Participants are encouraged to try to resolve issues themselves if they feel safe doing so. Participants are encouraged to contact an ombuds at tEQuitable for guidance, support, and resources as they navigate an incident and attempt to resolve it directly. tEQuitable is a third-party service offering confidential guidance. They will not report details of an incident back to W3C except in the case of an immediate safety risk. (See tEQuitable FAQ.) Participants may also contact a chair or W3C Staff contact for help, as needed. 
 
-Depending on the severity of the situation, it may not be appropriate to attempt to resolve the issue informally or in the context of the group, with or without the guidance of an ombuds. Participants who choose to raise a formal complaint (add link to formal complaint section) should do so. Report an incident as soon as possible if they feel unsafe or threatened by the behavior or actions of other W3C participants.
+Depending on the severity of the situation, it may not be appropriate to attempt to resolve the issue informally or in the context of the group, with or without the guidance of an ombuds. Participants should report an incident as soon as possible if they feel unsafe or threatened by the behavior or actions of other W3C participants. In cases where other resolution methods have failed or the situation is serious, participants are encouraged to file a [formal complaint](#filing-a-formal-complaint).
 
 Everyone involved in the resolution process is expected to:
 * Show respect for others
