@@ -38,7 +38,7 @@ When communicating a formal decision by the elected body you are a member of:
 
 - Express clearly what was decided and what was not decided.
 - Share the intended message with the rest of the elected body you are a member of, with time for them to review and comment on the message before it is released.
-- If time is limited because the elected body needs to respond urgently, a minimum review period of 24 hours plus review by the Chair(s) of the elected body is required.
+- If time is limited because the elected body needs to respond urgently, a minimum review period of 24 hours plus review by the Chair(s) of the elected body is advised.
 
 When discussing a decision made by the elected body you are a member of:
 
