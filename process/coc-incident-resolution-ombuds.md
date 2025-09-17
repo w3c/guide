@@ -1,6 +1,13 @@
 # Code of Conduct Incident Resolution and Ombuds
 This document is a companion to the [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/). It describes the procedures for handling incidents relating to Code of Conduct violations or complaints.
 
+## Summary - What to do if you need help
+Please read the full document for context and information on these steps, but if you feel that a Code of Conduct violation has taken place and need assistance, you can do the following: 
+1. If you are in immediate danger and your physical safety is at risk, please contact local authorities and reach out to a member of W3C Team as soon as it is safe to do so at [CoC@w3.org](mailto:CoC@w3.org). 
+2. Contact your team contact or any member of W3C Team for assistance. They can assist you with any questions or concerns you may have, or put you in contact with someone who can. 
+3. Go to [https://w3c.tequitable.com](https://w3c.tequitable.com) to get advice or speak with an Ombudsperson about your issue. Contacts with tEQuitable are confidential. 
+4. If you feel that a formal complaint is needed, email [CoC@w3.org](mailto:CoC@w3.org).
+
 ## Introduction
 As we engage with one another, incidents can happen. Incidents can take many forms, but participants have the right to a safe and positive work environment. The goal of this incident resolution process is that participants in W3C can:
 
@@ -60,8 +67,9 @@ The Ombuds Service is NOT designed to:
 * Conduct formal or in-depth investigations
 * Take sides in a dispute or serve as an advocate for any person, point of view or organization
 
+## Possible Actions for Conflict Resolution
 Staff, chairs, and ombuds can recommend actions be taken to resolve incidents. The procedure for addressing an incident may include some or all of the following:
-* A conflict resolution discussion between the affected parties, led by chairs or W3C Staff contacts. tEQuitable provides resources for effective conflict resolution: [https://w3c.tEQuitable.com](ttps://w3c.tEQuitable.com)
+* A conflict resolution discussion between the affected parties, led by chairs or W3C Staff contacts. tEQuitable provides resources for effective conflict resolution: [https://w3c.tEQuitable.com](https://w3c.tEQuitable.com)
 * An official warning. In cases where a participant's CoC violations are frequent or severe, the participant and their employer (if relevant) will be given an official warning by a chair or member of the W3C Staff that their conduct is contrary to the CoC and that they should immediately desist in those behaviors. If they continue, this may result in the removal or suspension of their W3C participation. There is no time limit for the expiry of the warning.
 * A disciplinary meeting. In cases where the participant's actions are frequent or severe, and where greater intervention is needed, the participant and a representative from their place of employment (if relevant) will be asked to attend a meeting with the W3C CEO or designee(s). The participant will be told where their conduct is contrary to the CoC and that they should immediately desist in those behaviors. If they continue, they may result in the removal or suspension of the offender's W3C participation.
 * Temporary removal from a group or as a chair of a group. In cases where the participant’s violations have been frequent and disruptive, or the participant has failed to adhere to agreed-upon actions, the W3C CEO or their designee(s) may suspend the participant from any working groups, interest groups, or chair positions for a period of time agreed on by decision makers in accordance with the [Guidelines to suspend or remove participants from groups](https://www.w3.org/guide/process/suspension.html).
@@ -70,10 +78,10 @@ Staff, chairs, and ombuds can recommend actions be taken to resolve incidents. T
 Where it is beneficial to the continued functioning of W3C, a high-level summary of results and actions from a reported incident may be communicated to the membership, for example if an individual is suspended from a working group or from being a chair in any working group. Otherwise, results and actions should be kept confidential.
 
 ## Filing a Formal Complaint
-If a participant feels they have exhausted all other options without sufficient resolution, they may file a formal complaint. Please note that the third-party (or outside) ombuds service (“service”) allows you to remain anonymous to W3C; however, the formal complaint process requires you to contact one or both of the following members of W3C Staff. Please note regardless whether you contact one or both of the following, they collaborate unless you specifically ask them to work alone:
+After reviewing tEQuitable's resources and directly working with an ombuds, you may feel you have exhausted all options without sufficient resolution. If all options have been explored, you may file a formal complaint with W3C Legal at [CoC@w3.org](mailto:CoC@w3.org). This email is accessible by Christine Gefaell and Catrina Ahlbach only and is not archived. The Legal team may reach out to other members of the Team if deemed beneficial. Please note that the third-party (or outside) ombuds service (“service”) allows you to remain anonymous to W3C; however, the formal complaint process requires you to contact one or both of the following members of W3C Staff. Please note regardless whether you contact one or both of the following, they collaborate unless you specifically ask them to work alone:
 
 * Christine Gefaell, W3C Director of Legal & Compliance [christine@w3.org](mailto:christine@w3.org)
-* Catrina Ahlbach, W3C Chief of Staff [atrina@w3.org](mailto:catrina@w3.org)
+* Catrina Ahlbach, W3C Chief of Staff [catrina@w3.org](mailto:catrina@w3.org)
 
 Prepare as much factual detail as you can. You may want to take the time to write down some of the details of the incident ahead of time, to help pull out the objective facts including the date(s) and names of those who may have been involved or witnessed the incident.
 
