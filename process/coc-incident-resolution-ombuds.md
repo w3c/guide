@@ -1,4 +1,8 @@
-# Code of Conduct Incident Resolution and Ombuds
+---
+title: Code of Conduct Incident Resolution and Ombuds
+toc: no
+---
+
 This document is a companion to the [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/). It describes the procedures for handling incidents relating to Code of Conduct violations or complaints.
 
 ## Summary - What to do if you need help
