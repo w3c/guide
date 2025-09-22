@@ -37,7 +37,7 @@ See also the [W3C Process for Busy People](https://github.com/w3c/wg-effectivene
 - [Patent Advisory Group procedures](pag.md)
 - Participants
   - [Positive Work Environment at W3C: Code of Conduct](https://www.w3.org/policies/code-of-conduct/)
-  - [Incident Resolution and Ombuds](https://github.com/w3c/guide/blob/main/process/coc-incident-resolution-ombuds.md)
+  - [Incident Resolution and Ombuds]([https://github.com/w3c/guide/blob/main/process/coc-incident-resolution-ombuds.md](https://www.w3.org/guide/process/coc-incident-resolution-ombuds.html))
   - [Guidelines to suspend or remove participants from groups](suspension.md)
   - [Antitrust and Competition Guidance](https://www.w3.org/policies/antitrust/)
 
