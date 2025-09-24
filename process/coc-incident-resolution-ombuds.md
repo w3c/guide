@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct Incident Resolution and Ombuds
-toc: no
+toc: false
 ---
 
 This document is a companion to the [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/). It describes the procedures for handling incidents relating to Code of Conduct violations or complaints.
@@ -47,7 +47,6 @@ Everyone involved in the resolution process is expected to:
 * Work together to resolve the complaint
 * Exercise good judgment, and make reasonable efforts to protect privacy and confidentiality of all participants
 
-
 ## Ombuds
 Ombuds are neutral third party advisors to participants who can provide guidance, advice, and support during the conflict resolution process. Where appropriate, ombuds can help advise a process, but the role is mostly to help parties navigate next steps.
 
@@ -73,10 +72,10 @@ The Ombuds Service is NOT designed to:
 
 ## Possible Actions for Conflict Resolution
 Staff, chairs, and ombuds can recommend actions be taken to resolve incidents. The procedure for addressing an incident may include some or all of the following:
-* A conflict resolution discussion between the affected parties, led by chairs or W3C Staff contacts. tEQuitable provides resources for effective conflict resolution: [https://w3c.tEQuitable.com](https://w3c.tEQuitable.com)
+* A conflict resolution discussion between the affected parties, led by chairs or W3C Staff contacts. tEQuitable provides resources for effective conflict resolution: [https://w3c.tequitable.com](https://w3c.tequitable.com)
 * An official warning. In cases where a participant's CoC violations are frequent or severe, the participant and their employer (if relevant) will be given an official warning by a chair or member of the W3C Staff that their conduct is contrary to the CoC and that they should immediately desist in those behaviors. If they continue, this may result in the removal or suspension of their W3C participation. There is no time limit for the expiry of the warning.
 * A disciplinary meeting. In cases where the participant's actions are frequent or severe, and where greater intervention is needed, the participant and a representative from their place of employment (if relevant) will be asked to attend a meeting with the W3C CEO or designee(s). The participant will be told where their conduct is contrary to the CoC and that they should immediately desist in those behaviors. If they continue, they may result in the removal or suspension of the offender's W3C participation.
-* Temporary removal from a group or as a chair of a group. In cases where the participant’s violations have been frequent and disruptive, or the participant has failed to adhere to agreed-upon actions, the W3C CEO or their designee(s) may suspend the participant from any working groups, interest groups, or chair positions for a period of time agreed on by decision makers in accordance with the [Guidelines to suspend or remove participants from groups](https://www.w3.org/guide/process/suspension.html).
+* Temporary removal from a group or as a chair of a group. In cases where the participant’s violations have been frequent and disruptive, or the participant has failed to adhere to agreed-upon actions, the W3C CEO or their designee(s) may suspend the participant from any working groups, interest groups, or chair positions for a period of time agreed on by decision makers in accordance with the [Guidelines to suspend or remove participants from groups](suspension.md).
 * Termination of participation. Where there have been egregious or repeated CoC violations, the participant may have their participation in W3C terminated by the CEO or their designee(s). The participant and their employer (if relevant) will receive a letter from W3C outlining the reasons and why termination was warranted.
 
 Where it is beneficial to the continued functioning of W3C, a high-level summary of results and actions from a reported incident may be communicated to the membership, for example if an individual is suspended from a working group or from being a chair in any working group. Otherwise, results and actions should be kept confidential.
