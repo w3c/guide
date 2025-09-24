@@ -38,7 +38,7 @@ A list of [group procedures related to the W3C Process](process/#groups) is avai
   - [the W3C Process](process/#groups)
 - People management
   - [HumanDimension](https://www.w3.org/wiki/Guide/HumanDimension) (a Chair training module)
-  - [Code of Conduct](https://www.w3.org/policies/code-of-conduct/) and [Procedures](https://github.com/w3c/guide/blob/main/process/coc-incident-resolution-ombuds.md) to assist all parties when issues arise. We have [guidelines to suspend or remove participants from groups](process/suspension.md). See more on the [Positive Work Environment Home Page](https://www.w3.org/about/positive-work-environment/)
+  - [Code of Conduct](https://www.w3.org/policies/code-of-conduct/) and [Procedures](process/coc-incident-resolution-ombuds.md) to assist all parties when issues arise. We have [guidelines to suspend or remove participants from groups](process/suspension.md). See more on the [Positive Work Environment Home Page](https://www.w3.org/about/positive-work-environment/)
 - Check out our [Working Groups](https://www.w3.org/PM/Groups/chairboards.html?gtype=working) and [Interest Groups](https://www.w3.org/PM/Groups/chairboards.html?gtype=interest) dashboards to navigate through what we know about them. The Project Management team maintains a [collection of links and tools](https://www.w3.org/PM/) to keep track.
 
 ### Closing a Group {#close}
