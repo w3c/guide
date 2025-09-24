@@ -1,4 +1,8 @@
-# Code of Conduct Incident Resolution and Ombuds
+---
+title: Code of Conduct Incident Resolution and Ombuds
+toc: false
+---
+
 This document is a companion to the [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/). It describes the procedures for handling incidents relating to Code of Conduct violations or complaints.
 
 ## Summary - What to do if you need help
@@ -42,7 +46,6 @@ Everyone involved in the resolution process is expected to:
 * Show respect for others
 * Work together to resolve the complaint
 * Exercise good judgment, and make reasonable efforts to protect privacy and confidentiality of all participants
-
 
 ## Ombuds
 Ombuds are neutral third party advisors to participants who can provide guidance, advice, and support during the conflict resolution process. Where appropriate, ombuds can help advise a process, but the role is mostly to help parties navigate next steps.
