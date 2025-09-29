@@ -19,7 +19,7 @@ If you need more info about a list that is not provided by the list management t
 
 Some mailing lists restrict posting to a specific set of addresses, for example subscribers to the list or addresses previously authorized to post to a W3C list. See [accept lists](#accept-lists) below for more details. Messages from unknown addresses or messages that exceed the list's size limit are queued for manual approval by a moderator.
 
-Mailing list maintainers can review and approve or reject messages using the [Mailing list moderation](https://lists.w3.org/admin/moderate) tool.
+Mailing list maintainers can review and approve or reject messages using the [Mailing list moderation](https://lists.w3.org/admin/moderate) tool. We expect list maintainers to moderate messages within two business days at most, but messages are typically approved much sooner.
 
 If you would like someone to be able to post directly to a given list without having their messages queued for moderation, use the [List management tool](https://lists.w3.org/admin/manage) to add their email address to the "accept2" file for the list in question. Future messages from their address will be distributed directly to the list without needing to be moderated. This happens automatically when messages are approved using the [Mailing list moderation](https://lists.w3.org/admin/moderate) tool.
 
