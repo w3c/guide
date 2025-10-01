@@ -33,15 +33,15 @@ Within the chartering process, the following are [Team Decisions](https://www.w3
 
 In practice, the Team delegates these Team Decisions to the [Technical Strategy Team](https://www.w3.org/staff/strat/), which manages the charter development process, including allocation of staff resources.
 
-The Technical Strategy Team tracks charters through the process via the [W3C Technical Strategy Pipeline](https://github.com/orgs/w3c/projects/97/views/2) (or "pipeline" in this document). A dashboard of [Charters in development](https://www.w3.org/2024/03/charters-in-dev.html) is also available.
+The [Technical Strategy Team](https://www.w3.org/staff/strat/) and [Project &amp Process Team](https://www.w3.org/staff/project/) track charters through the process via the [W3C Technical Strategy Pipeline](https://github.com/orgs/w3c/projects/97/views/2) (or "pipeline" in this document). A dashboard of [Charters in development](https://www.w3.org/2024/03/charters-in-dev.html) is also available.
 {:#pipeline}
 
 ### 2.2 Chartering Facilitator
 {:#chartering-facilitator}
 
-The Technical Strategy Team Lead chooses (and may replace) a *Chartering Facilitator* to shepherd a given charter through the process. The Chartering Facilitator is typically from the Staff but is not required to be from the Staff. In the case of rechartering it is common to name the group's [Staff Contact](../teamcontact/role.md) as the Chartering Facilitator.
+The [Technical Strategy Team Lead](https://www.w3.org/staff/strat/) and/or [Project &amp Process Team Lead](https://www.w3.org/staff/project/) choose (and may replace) a *Chartering Facilitator* to shepherd a given charter through the process. The Chartering Facilitator is typically from the Staff but is not required to be from the Staff. In the case of rechartering it is common to name the group's [Staff Contact](../teamcontact/role.md) as the Chartering Facilitator.
 
-**Note:** If the Technical Strategy Team Lead cannot identify a Chartering Facilitator, there may be delays in advancing the charter through the process.
+**Note:** If the Team Leads cannot identify a Chartering Facilitator, there may be delays in advancing the charter through the process.
 
 ### 2.3 Charter assessment criteria
 {:#charter-assessment-criteria}
@@ -92,16 +92,16 @@ After consideration of the [charter assessment criteria](#charter-assessment-cri
 
 #### 3.2.1 Technical Strategy Team decision to initiate charter refinement {#cr-acceptance}
 
-If the Technical Strategy Team decides to initiate charter refinment, it follows these steps:
+If the Technical Strategy Team decides to initiate charter refinement, it follows these steps:
 
 Select a Chartering Facilitator
-: The Technical Strategy Team Lead selects a [Chartering Facilitator](#chartering-facilitator) and records that appointment in the [pipeline](#pipeline).
+: For the rechartering of existing groups, the Team Contact is selected by default as Chartering Facilitator and should assign the github issue to themselves. Otherwise, the [Technical Strategy Team Lead](https://www.w3.org/staff/strat/) and/or [Project &amp Process Team Lead](https://www.w3.org/staff/project/) select a [Chartering Facilitator](#chartering-facilitator) and records that appointment in the [pipeline](#pipeline) by assigning github issues.
 
 Request announcement of initiation of charter refinement
-: The [Chartering Facilitator](#chartering-facilitator) then sends a request to the W3C Communications Team to [announce the initiation of charter refinement](adv-notice.md); that document lists requirements for the announcement. In practice, if the announcement would precede the call for AC review by only a short delay, we skip the refinement phase.
+: The [Chartering Facilitator](#chartering-facilitator) then sends a request to the W3C Communications Team to [announce the initiation of charter refinement](adv-notice.md), copying the Technical Strategy Team Lead](https://www.w3.org/staff/strat/) and/or [Project &amp Process Team Lead](https://www.w3.org/staff/project/); that document lists requirements for the announcement. In practice, if the announcement would precede the call for AC review by only a short delay, we skip the refinement phase.
 
 Record start of refinement
-: Once refinement has been announced, the Technical Strategy Team Lead records the initiation of charter refinement in the [pipeline](#pipeline) issue.
+: Once refinement has been announced, the Technical Strategy Team Lead](https://www.w3.org/staff/strat/) or [Project &amp Process Team Lead](https://www.w3.org/staff/project/) records the initiation of charter refinement in the [pipeline](#pipeline) issue.
 
 Any Formal Objection to a Team Decision to initiate charter refinement is not considered registered until the close of any Advisory Committee Review of that charter, and is registered against that W3C Decision.
 
