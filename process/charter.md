@@ -39,7 +39,7 @@ The [Technical Strategy Team](https://www.w3.org/staff/strat/) and [Project &amp
 ### 2.2 Chartering Facilitator
 {:#chartering-facilitator}
 
-The [Technical Strategy Team Lead](https://www.w3.org/staff/strat/) and the [Project &amp Process Team Lead](https://www.w3.org/staff/project/) choose (and may replace) a *Chartering Facilitator* to shepherd a given charter through the process. The Chartering Facilitator is typically from the Staff but is not required to be from the Staff. In the case of rechartering it is common to name the group's [Staff Contact](../teamcontact/role.md) as the Chartering Facilitator.
+The [Technical Strategy Team Lead](https://www.w3.org/staff/strat/) or the [Project &amp Process Team Lead](https://www.w3.org/staff/project/) choose (and may replace) a *Chartering Facilitator* to shepherd a given charter through the process. The Chartering Facilitator is typically from the Staff but is not required to be from the Staff. In the case of rechartering it is common to name the group's [Staff Contact](../teamcontact/role.md) as the Chartering Facilitator.
 
 **Note:** If the Team Leads cannot identify a Chartering Facilitator, there may be delays in advancing the charter through the process.
 
@@ -95,7 +95,7 @@ After consideration of the [charter assessment criteria](#charter-assessment-cri
 If the Technical Strategy Team decides to initiate charter refinement, it follows these steps:
 
 Select a Chartering Facilitator
-: For the rechartering of existing groups, the Team Contact is selected by default as Chartering Facilitator and should assign the github issue to themselves. Otherwise, the [Technical Strategy Team Lead](https://www.w3.org/staff/strat/) and [Project &amp Process Team Lead](https://www.w3.org/staff/project/) select a [Chartering Facilitator](#chartering-facilitator) and records that appointment in the [pipeline](#pipeline) by assigning github issues.
+: For the rechartering of existing groups, the Team Contact is selected by default as Chartering Facilitator and should assign the github issue to themselves. Otherwise, the [Technical Strategy Team Lead](https://www.w3.org/staff/strat/) or [Project &amp Process Team Lead](https://www.w3.org/staff/project/) select a [Chartering Facilitator](#chartering-facilitator) and records that appointment in the [pipeline](#pipeline) by assigning github issues.
 
 Request announcement of initiation of charter refinement
 : The [Chartering Facilitator](#chartering-facilitator) then sends a request to the W3C Communications Team to [announce the initiation of charter refinement](adv-notice.md), copying the Technical Strategy Team Lead](https://www.w3.org/staff/strat/) and the [Project &amp Process Team Lead](https://www.w3.org/staff/project/); that document lists requirements for the announcement. In practice, if the announcement would precede the call for AC review by only a short delay, we skip the refinement phase.
