@@ -30,6 +30,7 @@ See also the [W3C Process for Busy People](https://github.com/w3c/wg-effectivene
   - [How to close a work Group - Implementation](closing-wg-implementation.md)
 - [Horizontal Groups](horizontal-groups.md)
 * Deliverables
+  - [Considerations on the final maturity stage of group deliverables](living-cr-rec.md)
   - [Obsoleting and Rescinding W3C Specifications](obsolete-rescinded-supserseded.md)
   - [Joint deliverables](joint-deliverables.md)
   - [How to license definitions and bindings](binding-license.md)

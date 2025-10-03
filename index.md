@@ -82,6 +82,7 @@ A list of [group procedures related to the W3C Process](process/#groups) is avai
 - [Request Wide Review](documentreview/) at least *2-3 months before CR*, to allow time for discussion and rework. This includes requesting [horizontal reviews](documentreview/#how-to-get-horizontal-review).
 - Addressing formal objections: [best practices to resolve and decide Formal Objections](council/council.md) (aka council guide)
 - [Tips for getting to Recommendation faster](standards-track/rec-tips.md)
+- [Considerations on the final maturity stage of group deliverables](process/living-cr-rec.md)
 
 ### Test Suites {#testsuites}
 
