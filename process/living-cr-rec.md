@@ -3,7 +3,7 @@ title: Considerations on the final maturity stage of group deliverables
 toc: yes
 ---
 
-The W3C Process defines maturity stages on the [Recommendation track](https://www.w3.org/policies/process/#rec-track) - Working Draft, Candidate Recommendation (Snapshot and Draft), Recommendation - and transition requirements for entering each stage.
+The W3C Process defines maturity stages on the [Recommendation track](https://www.w3.org/policies/process/#rec-track) — Working Draft, Candidate Recommendation (Snapshot and Draft), Recommendation — and transition requirements for entering each stage.
 
 Some Working Groups choose to publish the latest state of their work as a Candidate Recommendation (with Snapshots) and set expectations that they do not plan to advance to Recommendation. This document describes practical considerations for Working Groups when choosing between advancing to Recommendation or publishing the latest state of their work as a Candidate Recommendation.
 
