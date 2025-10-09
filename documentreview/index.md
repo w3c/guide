@@ -146,7 +146,7 @@ The meaning of "Long enough" depends on how many changes there are, how clearly 
 <details>
 <summary>Show useful links</summary>
 <ul><li>groups
-<ul><li>None</li></ul></li>
+<ul><li><a rel="nofollow" class="external text" href="https://www.w3.org/groups/ig/security/">Security Interest Group</a>; <a rel="nofollow" class="external text" href="https://lists.w3.org/Archives/Public/public-security/">public-security</a></li></ul></li>
 <li>links
 <ul><li> <a rel="nofollow" class="external text" href="https://www.w3.org/TR/security-privacy-questionnaire/"><cite>Self-Review Questionnaire: Security and Privacy</cite>, published by the TAG and PING</a></li>
 <li><a rel="nofollow" class="external text" href="https://www.w3.org/TR/fingerprinting-guidance/">Mitigating Browser Fingerprinting in Web Specifications</a></li>
