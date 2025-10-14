@@ -15,7 +15,7 @@ Recommendations are endorsed by W3C as standards for the Web. Candidate Recommen
 
 Endorsement by W3C as a standard may be a requirement for others to adopt or otherwise refer to a specification. Regulations, industries such as those that produce consumer electronic products, etc., may require organization-level endorsement, guarantees provided by the standards development process, and commitments to the stability of a technical specification. For example, a W3C specification needs to be a Recommendation to be referred to by an ISO standard, or to become an ISO/IEC standard itself through the [PAS Submission mechanism](https://www.w3.org/2010/04/pasfaq).
 
-On the other hand, some groups may find that the Candidate Recommendation stage aligns more naturally with implementation work that informs the specification development, and with the prioritization mechanisms in multiple (browser) codebases, especially when the expectation is that features will be added to the specification on an ongoing basis. Keep in mind that organizations will still want to refer to these specifications.
+On the other hand, some groups may find that the Candidate Recommendation stage aligns more naturally with implementation work that informs the specification development, and with the prioritization mechanisms in multiple codebases, especially when the expectation is that features will be added to the specification on an ongoing basis. Keep in mind that organizations will still want to refer to these specifications.
 
 
 ### Wide review {#widereview}
