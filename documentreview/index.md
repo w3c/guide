@@ -214,7 +214,7 @@ Is there such a thing as too many reviews?
 Is it possible to make too many requests for review?
 : Yes. To help the review groups, only request updated reviews when substantive changes have been made, and clearly identify the changes since the last review.
 
-  This is also the reason that the Process clearly suggests there should be (TR) Working Drafts published when there are "significant changes that would benefit from review beyond the Working Group", rather than every day or only twice in the life of a spec…
+  This is also the reason that the Process clearly suggests there should be [<abbr title="Technical report">TR</abbr>](https://www.w3.org/TR/) Working Drafts published when there are "significant changes that would benefit from review beyond the Working Group", rather than every day or only twice in the life of a spec…
 
   TR Working Drafts are also useful for reviews since they provide a dated snapshot which can be recovered when the review comments are being discussed. Trying to discuss review comments against a document which has changed out of all recognition can be a frustrating and inefficient experience.
 
@@ -232,23 +232,6 @@ Is it possible to make too many requests for review?
 1. Don't assume that the horizontal group will be able to schedule and complete a review within 2 weeks so that you can proceed to CR.
    
    They may not even be able to find someone with availability to do the review in that time, and then they need a week or two to discuss their response after the review, and then they'll send you comments that may require you to make substantive changes.
-
-## Terminology and abbreviations
-
-pre-CR
-: This is a version of a Working Draft that is created to get wide review.
-
-  > Note that this is a bad way to get review. In general, features should be reviewed as they are developed. Waiting for a "Last Call" for most review means that when reviews suggest changes it is far harder to make them, due to a commonly observed and logical reluctance to break deployed systems or content. -- [Charles McCathie Nevile](https://www.w3.org/wiki/User:Charles) 11:18, 13 October 2014 (UTC)
-
-requesting group
-: a group that is requesting a review
-
-**Abbreviations:**
-* BP = Best Practices
-* CR = Candidate Recommendation
-* RfC = Request for Comments (aka Review Request)
-* [TR](https://www.w3.org/TR/) = Technical Report, i.e. a formal W3C publication.
-* WD = Working Draft
 
 ## Enhancement Requests
 
