@@ -16,7 +16,7 @@ The general edition of the Guidebook is managed by [@w3c/guidebook](https://gith
 
 The Guidebook uses the [W3C Jekyll theme](https://github.com/w3c/w3c-jekyll-theme). See the [README](https://github.com/w3c/w3c-jekyll-theme/blob/main/README.md) to run Jekyll locally.
 
-Note that latest versions of Ruby might create a [dependency issue](https://github.com/jekyll/jekyll/pull/9392). It is recommended to use the Ruby version mentioned in the [Github workflow](https://github.com/w3c/guide/blob/main/.github/workflows/jekyll-gh-pages.yml#L21).
+Note that latest versions of Ruby might create a [dependency issue](https://github.com/jekyll/jekyll/pull/9392). It is recommended to use the Ruby version mentioned in the [GitHub workflow](https://github.com/w3c/guide/blob/main/.github/workflows/jekyll-gh-pages.yml#L24).
 
 ## In this repository
 
