@@ -35,7 +35,7 @@ Note that latest versions of Ruby might create a [dependency issue](https://gith
 * [/manual-of-style/](manual-of-style)
   * The [W3C Manual of Style](https://www.w3.org/guide/manual-of-style/) for editors.
 * [/meetings/](meetings)
-  * [Resources about W3C Meetings](https://www.w3.org/guide/manual-of-style/), including events.
+  * [Resources about W3C Meetings](https://www.w3.org/guide/meetings/), including events.
 * [/process/](process)
   * [Procedures related to the W3C Process](https://www.w3.org/guide/process/).
   * You may involve [@w3c/w3process-editors](https://github.com/orgs/w3c/teams/w3process-editors).
