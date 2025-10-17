@@ -5,7 +5,7 @@ toc: true
 
 > Each group must have a **Chair** (or co-Chairs) to facilitate effective discussion and coordinate the group’s activities. The [Team](https://www.w3.org/policies/process/#team) appoints (and re-appoints) Chairs for all groups. ([Requirements for All Chartered Groups, W3C Process](https://www.w3.org/policies/process/#ReqsAllGroups))
 
-Discussion of issues that groups face take place on the chairs mailing list (Member-only [archive](https://www.w3.org/Archives/Member/chairs/)). You may also find [chairs meetings back to 1997](chair/meetings.md) an interesting source of wisdom.
+Discussion of issues that groups face take place on the chairs mailing list (Member-only [archive](https://www.w3.org/Archives/Member/chairs/)). You may also find [chairs meetings back to 1997](meetings.md) an interesting source of wisdom.
 
 ## Being a Group Chair
 
