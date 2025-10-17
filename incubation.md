@@ -61,7 +61,7 @@ Early review of a new proposal is crucial to success (whether success means furt
 
 ### Create an Explainer
 
-Since the incubated work is by definition novel, it is important to explain what it is, what benefits it would bring, and how it would fit in with the rest of the Open Web Platform. This is the job of an [explainer](https://tag.w3.org/explainers/) document. A good explainer balances conciseness with detail, has many examples, and ideally links to a prototype of the proposed work.
+Since the incubated work is by definition novel, it is important to explain what it is, what benefits it would bring, and how it would fit in with the rest of the Open Web Platform. This is the job of an [explainer](https://www.w3.org/TR/explainer-explainer/) document. A good explainer balances conciseness with detail, has many examples, and ideally links to a prototype of the proposed work.
 
 ### TAG review
 
