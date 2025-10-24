@@ -3,6 +3,8 @@ title: The Art of Consensus (Guidebook)
 toc: true
 ---
 
+This Guidebook provides information for W3C participants about processes and practices that may affect their work at W3C. See [About the Guidebook](#care-and-feeding) for details.
+
 ## Groups
 
 A variety of [W3C Groups](../groups/) enable W3C to pursue its mission through the creation of Web standards, guidelines, and supporting materials.
