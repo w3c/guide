@@ -45,7 +45,7 @@ Three mechanisms may be used to revise a specification that was published as a R
     
 To revise a specification published as a Candidate Recommendation Snapshot:    
 
-1. A Working Group may publish Candidate Recommendation Drafts at any time and without further review. The drafts can integrate changes directly, there is no need to track substantive changes as candidate amendments. Substantive changes still need to be tracked *somehow* to [publish another Candidate Recommendation Snapshot](https://www.w3.org/policies/process/#update-reqs): they must go through wide review and be publicly documented. Publication of a new Candidate Recommendation Snapshot should happen within 24 months of the group making the substantive changes.
+1. A Working Group may publish Candidate Recommendation Drafts at any time and without further review. The drafts can integrate changes directly, there is no need to track substantive changes as candidate amendments. Substantive changes still need to be tracked *somehow* to [publish another Candidate Recommendation Snapshot](https://www.w3.org/policies/process/#update-reqs): they must go through wide review and be publicly documented,  for example through a detailed list of changes (ideally with links from each change to the issue that motivated it). Publication of a new Candidate Recommendation Snapshot should happen within 24 months of the group making the substantive changes.
 
 The Process places no restrictions on the number of revisions that may go through these mechanisms. Feedback from Working Groups that have gone through either of these options is mixed:
 
