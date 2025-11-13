@@ -23,7 +23,7 @@ Since we'll be virtual, a few reminders:
 1. If you plan to make a presentation, we recommend you to record them in advance. Ask the events team for assistance if needed but they require 2 weeks lead time (deadline is October 11). See also our [recording tips](https://www.w3.org/wiki/Virtual_Presentations).
 1. Consider if a breakout session might be useful.
 
-## TPAC Group Meetings {#group}
+## TPAC group meetings {#group}
 
 TPAC meeting is an opportunity for a Working or Interest Group to:
 
