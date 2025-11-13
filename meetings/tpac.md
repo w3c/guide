@@ -7,20 +7,13 @@ The goal of group meetings during a W3C TPAC (Technical Plenary & Advisory Commi
 
 While W3C groups meet throughout the year in a variety of ways (teleconference, F2F), the annual TPAC plays a unique and special role in the annual calendar of a group. What sets these meetings apart is that by having the group together for 2 days (and also adjacent to many other groups), the group can get done that which it cannot normally do - specifically (see below).
 
-## TPAC 2021 {#tpac2021}
-
-With the pandemic, many Groups did not meet for TPAC 2020, and other groups met briefly and did not fully achieve the full goals of a TPAC meeting. That has caused a deficit in meeting the special objectives that we previously have only been able to achieve through TPAC group meetings.
-
-In TPAC 2021, since we are still virtual, it will still be challenging to achieve all of the benefits of a physical meeting. But two years into virtual meetings, it is recommended that groups try to get together to achieve some of these benefits. At a minimum they should consider doing an overview of the state of the Working Group and its deliverables, looking at big challenges ahead, where the priorities should be, and use a different agenda from your regular recurring meetings.
-
-Since we'll be virtual, a few reminders:
+## TPAC generic advice {#advice}
 
 1. Make sure it's easy for outsiders to discover your meeting. Add your meeting to:
-   1. the [TPAC 2021 page](https://www.w3.org/wiki/TPAC/2021/GroupMeetings).
-   1. the [W3C Calendar of the Group](https://www.w3.org/blog/2021/group-calendaring-service-enters-beta-test/).
+   1. the [W3C Calendar of the group](https://www.w3.org/blog/2021/group-calendaring-service-enters-beta-test/).
 1. A distributed meeting is one where most of the attendees are expected to participate from remote locations (see [dealing with timezones](organize.md)).
 1. See our [considerations regarding Zoom](zoom.md), including recordings and automated meeting transcripts.
-1. If you plan to make a presentation, we recommend you to record them in advance. Ask the events team for assistance if needed but they require 2 weeks lead time (deadline is October 11). See also our [recording tips](https://www.w3.org/wiki/Virtual_Presentations).
+1. If you plan to make a presentation, we recommend you to record it in advance. Ask the events team for assistance if needed but try to give them 2 weeks lead time. See also our [recording tips](https://www.w3.org/wiki/Virtual_Presentations).
 1. Consider if a breakout session might be useful.
 
 ## TPAC group meetings {#group}
