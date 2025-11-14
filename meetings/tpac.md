@@ -5,15 +5,14 @@ toc: true
 
 The goal of group meetings during a W3C TPAC (Technical Plenary & Advisory Committee) is to gather the community together, to create momentum and collective brainstorming around challenges faced by the web. The technical plenary is a set of collaborative meetings, bringing together W3C technical groups, the Advisory Board (AB), the Technical Architecture Group (TAG) and the Advisory Committee (AC) for exciting, coordinated work. The benefit of assembling the community for thought-provoking discussions is invaluable.
 
-While W3C groups meet throughout the year in a variety of ways (teleconference, F2F), the annual TPAC plays a unique and special role in the annual calendar of a group. What sets these meetings apart is that by having the group together for 2 days (and also adjacent to many other groups), the group can get done that which it cannot normally do - specifically (see below).
+While W3C groups meet throughout the year in a variety of ways (teleconference, F2F), the annual TPAC plays a unique and special role in the annual calendar of a group. What sets these meetings apart is that by having the group together for 2 days (and also adjacent to many other groups), the group can get done that which it cannot normally do.
 
 ## TPAC generic advice {#advice}
 
-1. Make sure it's easy for outsiders to discover your meeting. Add your meeting to:
-   1. the [W3C Calendar of the group](https://www.w3.org/blog/2021/group-calendaring-service-enters-beta-test/).
-1. A distributed meeting is one where most of the attendees are expected to participate from remote locations (see [dealing with timezones](organize.md)).
+1. Your meeting will be added to the [W3C Calendar of the group](https://www.w3.org/blog/2021/group-calendaring-service-enters-beta-test/) as part of the main TPAC event. Make sure you add to the entry the agenda and any relevant materials.
+1. A hybrid meeting is one where some attendees participate in-person and others from remote locations (see [dealing with timezones](organize.md)).
 1. See our [considerations regarding Zoom](zoom.md), including recordings and automated meeting transcripts.
-1. If you plan to make a presentation, we recommend you to record it in advance. Ask the events team for assistance if needed but try to give them 2 weeks lead time. See also our [recording tips](https://www.w3.org/wiki/Virtual_Presentations).
+1. If you plan to record a presentation, please do it in advance. Ask the events team for assistance if needed but try to give them 2 weeks lead time. See our [recording tips](https://www.w3.org/wiki/Virtual_Presentations).
 1. Consider if a breakout session might be useful.
 
 ## TPAC group meetings {#group}
