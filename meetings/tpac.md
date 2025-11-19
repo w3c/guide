@@ -12,7 +12,8 @@ While W3C groups meet throughout the year in a variety of ways (teleconference, 
 1. Your meeting will be added to the [W3C Calendar of the group](https://www.w3.org/blog/2021/group-calendaring-service-enters-beta-test/) as part of the main TPAC event. Make sure you add the agenda and any other relevant materials to the entry!
 1. A hybrid meeting is one where some attendees participate in-person and others from remote locations (see [dealing with timezones](organize.md)).
 1. See our [considerations regarding Zoom](zoom.md), including recordings and automated meeting transcripts.
-1. If you plan to record a presentation, please do it in advance. Ask the events team for assistance if needed but try to give them 2 weeks lead time. See our [recording tips](https://www.w3.org/wiki/Virtual_Presentations).
+1. If you plan to offer a presentation, please provide links to any slidedeck and other presentation materials as early as possible prior to the meeting, so that local and remote participants may get prepared for the discussion. If possible, it is also best to have these presentation materials available for projection during Q&A sessions during or after the main presentation, and for inclusion within meeting minutes (see [embedding slides](https://w3c.github.io/scribe2/scribedoc.html#slides) if the group takes minutes on IRC).
+1. Similarly, please consider recording your presentation and sharing with the group prior to the meeting, along with captions and a transcript. See our [recording tips](https://www.w3.org/wiki/Virtual_Presentations).
 1. Consider if a breakout session might be useful.
 
 ## TPAC group meetings {#group}
