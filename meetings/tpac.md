@@ -5,7 +5,7 @@ toc: true
 
 The goal of group meetings during a W3C TPAC (Technical Plenary & Advisory Committee) is to gather the community together, to create momentum and collective brainstorming around challenges faced by the web. The technical plenary is a set of collaborative meetings, bringing together W3C technical groups, the Advisory Board (AB), the Technical Architecture Group (TAG) and the Advisory Committee (AC) for exciting, coordinated work. The benefit of assembling the community for thought-provoking discussions is invaluable.
 
-While W3C groups meet throughout the year in a variety of ways (teleconference, F2F), the annual TPAC plays a unique and special role in the annual calendar of a group. What sets these meetings apart is that by having the group together for 2 days (and also adjacent to many other groups), the group can get done that which it cannot normally do.
+While W3C groups meet throughout the year in a variety of ways (teleconference, F2F), the annual TPAC plays a unique and special role in the annual calendar of a group. What sets these meetings apart is that by having the group adjacent to many other groups, the group can achieve much that it cannot without such proximity.
 
 ## TPAC generic advice {#advice}
 
