@@ -9,7 +9,7 @@ While W3C groups meet throughout the year in a variety of ways (teleconference, 
 
 ## TPAC generic advice {#advice}
 
-1. Your meeting will be added to the [W3C Calendar of the group](https://www.w3.org/blog/2021/group-calendaring-service-enters-beta-test/) as part of the main TPAC event. Make sure you add to the entry the agenda and any relevant materials.
+1. Your meeting will be added to the [W3C Calendar of the group](https://www.w3.org/blog/2021/group-calendaring-service-enters-beta-test/) as part of the main TPAC event. Make sure you add the agenda and any other relevant materials to the entry!
 1. A hybrid meeting is one where some attendees participate in-person and others from remote locations (see [dealing with timezones](organize.md)).
 1. See our [considerations regarding Zoom](zoom.md), including recordings and automated meeting transcripts.
 1. If you plan to record a presentation, please do it in advance. Ask the events team for assistance if needed but try to give them 2 weeks lead time. See our [recording tips](https://www.w3.org/wiki/Virtual_Presentations).
