@@ -5,22 +5,15 @@ toc: true
 
 The goal of group meetings during a W3C TPAC (Technical Plenary & Advisory Committee) is to gather the community together, to create momentum and collective brainstorming around challenges faced by the web. The technical plenary is a set of collaborative meetings, bringing together W3C technical groups, the Advisory Board (AB), the Technical Architecture Group (TAG) and the Advisory Committee (AC) for exciting, coordinated work. The benefit of assembling the community for thought-provoking discussions is invaluable.
 
-While W3C groups meet throughout the year in a variety of ways (teleconference, F2F), the annual TPAC plays a unique and special role in the annual calendar of a group. What sets these meetings apart is that by having the group together for 2 days (and also adjacent to many other groups), the group can get done that which it cannot normally do - specifically (see below).
+While W3C groups meet throughout the year in a variety of ways (teleconference, F2F), the annual TPAC plays a unique and special role in the annual calendar of a group. What sets these meetings apart is that by having the group adjacent to many other groups, the group can achieve much that it cannot without such proximity.
 
-## TPAC 2021 {#tpac2021}
+## TPAC generic advice {#advice}
 
-With the pandemic, many Groups did not meet for TPAC 2020, and other groups met briefly and did not fully achieve the full goals of a TPAC meeting. That has caused a deficit in meeting the special objectives that we previously have only been able to achieve through TPAC group meetings.
-
-In TPAC 2021, since we are still virtual, it will still be challenging to achieve all of the benefits of a physical meeting. But two years into virtual meetings, it is recommended that groups try to get together to achieve some of these benefits. At a minimum they should consider doing an overview of the state of the Working Group and its deliverables, looking at big challenges ahead, where the priorities should be, and use a different agenda from your regular recurring meetings.
-
-Since we'll be virtual, a few reminders:
-
-1. Make sure it's easy for outsiders to discover your meeting. Add your meeting to:
-   1. the [TPAC 2021 page](https://www.w3.org/wiki/TPAC/2021/GroupMeetings).
-   1. the [W3C Calendar of the Group](https://www.w3.org/blog/2021/group-calendaring-service-enters-beta-test/).
-1. A distributed meeting is one where most of the attendees are expected to participate from remote locations (see [dealing with timezones](organize.md)).
+1. Your meeting will be added to the [W3C Calendar of the group](https://www.w3.org/blog/2021/group-calendaring-service-enters-beta-test/) as part of the main TPAC event. Make sure you add the agenda and any other relevant materials to the entry!
+1. A hybrid meeting is one where some attendees participate in-person and others from remote locations (see [dealing with timezones](organize.md)).
 1. See our [considerations regarding Zoom](zoom.md), including recordings and automated meeting transcripts.
-1. If you plan to make a presentation, we recommend you to record them in advance. Ask the events team for assistance if needed but they require 2 weeks lead time (deadline is October 11). See also our [recording tips](https://www.w3.org/wiki/Virtual_Presentations).
+1. If you plan to offer a presentation, please provide links to any slidedeck and other presentation materials as early as possible prior to the meeting, so that local and remote participants may get prepared for the discussion. If possible, it is also best to have these presentation materials available for projection during Q&A sessions during or after the main presentation, and for inclusion within meeting minutes (see [embedding slides](https://w3c.github.io/scribe2/scribedoc.html#slides) if the group takes minutes on IRC).
+1. Similarly, please consider recording your presentation and sharing with the group prior to the meeting, along with captions and a transcript. See our [recording tips](https://www.w3.org/wiki/Virtual_Presentations).
 1. Consider if a breakout session might be useful.
 
 ## TPAC group meetings {#group}
