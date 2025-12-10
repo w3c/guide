@@ -54,11 +54,11 @@ Eligibility:
 
 ### Current members {#current}
 
-- [Atsushi Shimono](https://www.w3.org/staff/#himorin) (September 1, 2023)
-- [Chris Lilley](https://www.w3.org/staff/#chris) (May 24, 2023)
+- [Pierre-Antoine Champin](https://www.w3.org/staff/#p20n) (December 10, 2025) (co-chair)
+- [Rigo Wenning](https://www.w3.org/staff/#rigo) (December 10, 2025)
 - [Carine Bournez](https://www.w3.org/staff/#carine) (December 4, 2024) (co-chair)
 - [Dominique Hazaël-Massieux](https://www.w3.org/staff/#dom) (December 4, 2024)
-- [Philippe Le Hegaret](https://www.w3.org/staff/#plehegar) (May 24, 2023) (co-chair)
+- [Daniel Montalvo](https://www.w3.org/staff/#dmontalvo) (December 10, 2025)
 
 This composition is reflected in the Github team [@w3c/tilt](https://github.com/orgs/w3c/teams/tilt).
 
