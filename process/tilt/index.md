@@ -119,6 +119,4 @@ If you're not part of the W3C Team, the recommended way to communicate with TiLT
 
 For any request sent to TiLT, Team input is welcome in the [w3c/strategy](https://github.com/w3c/strategy/) repository. Keep in mind the Team etiquette when posting publicly. For Team confidential discussion, input is welcome in the [w3c/tilt-private](https://github.com/w3c/tilt-private/) Github repository. Note that any +1/-1/other from non-TiLT is NOT counted to reach TiLT approval but any TiLT member may put a hold on a decision based on non-TiLT opinions.
 
-TiLT MUST provide a weekly digest of its activities to W3M.
-
-TiLT was approved by W3M on [May 24, 2023](https://www.w3.org/2023/05/24-w3m-minutes.html#t04).
+The TiLT process is managed by the Technical Strategy and the Project & Process leads.
