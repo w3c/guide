@@ -32,7 +32,7 @@ Those labels are there to facilitate horizontal reviews.
     </dd>
     <dt data-label-group='i18n'>Internationalization</dt>
     <dd>
-      <p>Affects the <a href='https://www.w3.org/International/review-request'>adaptation of Web technologies to different languages or regional differences</a>.</p>
+      <p>Affects the <a href='https://www.w3.org/International/i18n-drafts/pages/review-request.en'>adaptation of Web technologies to different languages or regional differences</a>.</p>
     </dd>
     <dt data-label-group='tag'>Architecture</dt>
     <dd>Affects the <a href='https://www.w3.org/TR/design-principles/'>underlying principles</a> that should be adhered to by all Web technologies.</dd>
