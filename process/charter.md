@@ -48,11 +48,11 @@ The [Technical Strategy Team Lead](https://www.w3.org/staff/strat/) or the [Proj
 
 The Technical Strategy Team considers the following when deciding whether to initiate charter refinement or AC review of a charter. The more these criteria are not met, the more likely it is the Technical Strategy Team will not initiate charter refinement or AC review. In any decision not to initiate refinement or AC review, the Technical Strategy Team grounds its rationale in these criteria.
 
-* Does the charter align with the W3C mission and/or principles (and in particular [W3C Statements](https://www.w3.org/TR/?filter-tr-name=&status%5B%5D=stmt))?
-* Does the charter align with established web architecture?
-* Is there sufficient support for the charter?
-* Is there significant consensus for the charter? One example of lack of consensus is when there are two competing charters and the community has not yet converged.
-* Are there clear signals within the W3C community that the W3C Membership will participate in the work, or that organizations will join to do the work?
+* Does the charter align with the W3C mission and principles (and in particular [W3C Statements](https://www.w3.org/TR/?filter-tr-name=&status%5B%5D=stmt))? Are there any obvious ways in which the work would depart from established Web Architecture?
+* Are there clear signals within the W3C community that the W3C Membership will (continue to) participate in the work, or that organizations will join to do the work?  
+* Are there known areas of dissent about the charter? One example of lack of consensus is when there are two competing charters and the community has not yet converged.
+* Are there known implementations or plans for implementation?
+* If there are implementations, what is the level of adoption by users of the technology?
 * Does the Staff have adequate resources for the group in light of current W3C priorities?
 
 Please note:
