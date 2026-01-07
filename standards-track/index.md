@@ -91,7 +91,7 @@ The key word is "matured", and the key milestone is First Public Working Draft (
 
 ### Is it clear the proposers are not seeking a rubber stamp from W3C?
 
-*Strongly Recommended*: Proposers of Recommendation-track work should be prepared for the Working Group to make substantive changes to the initial draft in response to feedback. A W3C Recommendation signifies that a specification has broad consensus across the membership of W3C. It is particularly important to ensure that a spec both serves a real mainstream need *and* is inclusive of a diverse, worldwide community using different languages, with various levels of ability, and who interact with various levels of trust. Likewise, proposed Recommendation-track work should not promote
+*Strongly Recommended*: Proposers of Recommendation-track work should be prepared for the Working Group to make substantive changes to the initial draft in response to feedback. A W3C Recommendation signifies that a specification has broad consensus across the membership of W3C. It is particularly important to ensure that a spec both serves a real mainstream need *and* is inclusive of a diverse, worldwide community using different languages, with various levels of ability, and who interact with various levels of trust.
 
 ### Are there appropriate expressions of interest?
 
