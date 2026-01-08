@@ -21,7 +21,7 @@ W3C wastes resources, and at worst tarnishes its credibility, when it invests in
 
 W3C should more tightly focus its formal standardization effors on specifications that are most likely to get consensus within the consortium and be used on the real Web. This document proposes to do that by offering a short list of criteria to consider when evaluating proposals to move specification work to the Recommendation track. That includes drafting the Deliverables section of a WG charter, but especially when publishing a FPWD.
 
-These are offered as guidelines, not a checklist of required items in every proposal. Meeting all the guidelines will not guarantee the [W3C decision](https://www.w3.org/policies/process/#def-w3c-decision) for [approval of the charter](https://www.w3.org/policies/process/#cfp), or [advancement to FPWD](https://www.w3.org/policies/process/#maturity-stages), nor will failing to meet some block approval. *The goal of this effort is to add more structure and predictability to Rec track decisions while allowing plenty of room for innovation by WGs and determination of W3C Decisions.*
+These are offered as guidelines, not a checklist of items required to be in every proposal. Meeting all these guidelines will not guarantee a [W3C decision](https://www.w3.org/policies/process/#def-w3c-decision) that [approves the charter](https://www.w3.org/policies/process/#cfp) or [advances any document(s) to FPWD](https://www.w3.org/policies/process/#maturity-stages), nor will failing to meet some of these block approval. *The goal of this effort is to add more structure and predictability to Rec track decisions while allowing plenty of room for innovation by WGs and determination of W3C Decisions.*
 
 The target audience for this document includes:
 
