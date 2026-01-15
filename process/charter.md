@@ -338,6 +338,7 @@ The Chartering Facilitator ensures that the following are done and the following
      - group shortname
      - charter URI
      - homepage URI *(only if you want to use a page different that the automatically generated [group pages](https://www.w3.org/groups/))*
+     - specify which [Business Ecosystem(s)](https://www.w3.org/ecosystems/), if any, the group belongs to
 
      Creating the group will list the group in the drop-down for db-backed groups in the mailing list creation form.
    - If the group already exists:
