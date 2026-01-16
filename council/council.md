@@ -25,8 +25,8 @@ The Team has the responsibility to try to resolve a Formal Objection, or to come
 
 There are different types of Formal Objections and W3C needs to make sure they are all handled properly. Here are some interesting cases:
 
-1. There is a Formal Objection to a decision in a Working Group. The Team as a neutral bystander attempts to resolve the objection. If it succeeds, W3C takes the path recommended by the Team. If it fails, the Team prepares a report for the W3C Council. The W3C Council decides.
-1. The Team proposes a Charter to the W3C Advisory Committee and there are objections. The Team attempts to resolve the objection even though they are not a neutral bystander. If it succeeds, W3C takes the recommended path. If it fails, the Team prepares a report for the W3C Council. The W3C Council decides.
+1. An individual [registered a Formal Objection with the Team](https://www.w3.org/policies/process/#registering-objections) to appeal a [group decision](https://www.w3.org/policies/process/#group-decision). The Team as a neutral bystander [attempts to resolve the objection](https://www.w3.org/policies/process/#team-fo-mediation). If it succeeds, W3C takes the path recommended by the Team. If it fails, the Team prepares a report for the W3C Council. The W3C Council decides.
+1. The Team proposes a Charter to the W3C Advisory Committee and there are objections to the proposed [W3C Decision](https://www.w3.org/policies/process/#def-w3c-decision). The Team attempts to resolve the objection even though they are not a neutral bystander. If it succeeds, W3C takes the recommended path. If it fails, the Team prepares a report for the W3C Council. The W3C Council decides.
 1. The Advisory Board (AB) or Technical Architecture Group (TAG) make a decision (e.g., on a process issue, or in a Statement emanating from a TAG finding) and there are objections.
 
 It is important that even though the Team is an interested party in case 2, and the AB or TAG could be interested parties in case 3, the overall process must provide the objectivity and transparency to give the W3C Community the confidence that such cases are handled fairly.
