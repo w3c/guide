@@ -373,7 +373,7 @@ The Chartering Facilitator sends a draft announcement (combining W3C Decision an
 - AC review results of the proposed charter.
 - If applicable, the rationale for approving the group despite objections, or despite the fact it did not receive reviews [from at least 5% of the Membership](#review_threshold).
 
-In case the scope of a charter changed, it is useful to include a notice that a 45-day grace period is granted to existing participants of the group under the previous charter, who will then need to re-join the group.
+When the scope of a charter changes, it is useful to include a notice that a 45-day grace period is granted to existing participants of the group under the previous charter, who will then need to re-join the group.
 
 In case the scope of a charter did not change, it is useful to clarify that existing participants under the previous charter will not be required to leave/re-join the group.
 
