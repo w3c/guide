@@ -268,7 +268,7 @@ The Staff Contact:
   
   1. A w3.org URI to the proposed charter (not a github.io URI). This charter is public, and must not be altered, during the AC review.
   2. The list of significant changes to a revised charter (per ["Advisory Committee Review of a Working Group or Interest Group Charter"](https://www.w3.org/policies/process/#CharterReview) of the Process Document). It is useful to include a diff between the current and proposed charters (you may wish to use the [HTML diff tool](https://services.w3.org/htmldiff)).
-  3. In case of renewal of an existing charter, whether the current group participants would need to re-join the group once the revised charter is approved. Group participants would need to re-join if the scope changes.
+  3. When renewing an existing charter, whether the current group participants would need to re-join the group once the revised charter is approved. Group participants would need to re-join if the scope changes.
   4. A recommended review start date and duration (at least 28 days according to [the Process Document](https://www.w3.org/policies/process/#CharterReview))
   5. A URI to the review of the proposed charter in the [Strategy GitHub repository](https://github.com/w3c/strategy/issues).
   6. A URI to the disposition of comments if comments were received prior to the AC Review (following the Charter Review Notice).
