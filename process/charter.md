@@ -375,7 +375,7 @@ The Chartering Facilitator sends a draft announcement (combining W3C Decision an
 
 When the scope of a charter changes, it is useful to include a notice that a 45-day grace period is granted to existing participants of the group under the previous charter, who will then need to re-join the group.
 
-In case the scope of a charter did not change, it is useful to clarify that existing participants under the previous charter will not be required to leave/re-join the group.
+When the scope of a charter does not change, it is useful to clarify that existing participants under the previous charter will not be required to leave/re-join the group.
 
 Note: Per the [2021-01-13 W3M resolution](https://www.w3.org/2021/01/13-w3m-minutes#t08) (team-only), the calls for participation should include guidance to consider diversity (available from the [template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2FTemplates&template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fcfp.html&submit=Continue...)):
 
