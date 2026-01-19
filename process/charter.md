@@ -268,7 +268,7 @@ The Staff Contact:
   
   1. A w3.org URI to the proposed charter (not a github.io URI). This charter is public, and must not be altered, during the AC review.
   2. The list of significant changes to a revised charter (per ["Advisory Committee Review of a Working Group or Interest Group Charter"](https://www.w3.org/policies/process/#CharterReview) of the Process Document). It is useful to include a diff between the current and proposed charters (you may wish to use the [HTML diff tool](https://services.w3.org/htmldiff)).
-  3. In case of renewal of an existing charter, whether the group scope has changed. I.e., are there any new deliverables with licensing obligations under the W3C Patent Policy? The current group participants would need to re-join the group once the revised charter is approved.
+  3. When renewing an existing charter, whether the current group participants would need to re-join the group once the revised charter is approved. Group participants would need to re-join if the scope changes.
   4. A recommended review start date and duration (at least 28 days according to [the Process Document](https://www.w3.org/policies/process/#CharterReview))
   5. A URI to the review of the proposed charter in the [Strategy GitHub repository](https://github.com/w3c/strategy/issues).
   6. A URI to the disposition of comments if comments were received prior to the AC Review (following the Charter Review Notice).
@@ -373,9 +373,9 @@ The Chartering Facilitator sends a draft announcement (combining W3C Decision an
 - AC review results of the proposed charter.
 - If applicable, the rationale for approving the group despite objections, or despite the fact it did not receive reviews [from at least 5% of the Membership](#review_threshold).
 
-In case a charter has new deliverables in-scope, it is useful to include a notice that a 45-day grace period is granted to existing participants of the group under the previous charter, who will then need to re-join the group.
+When the scope of a charter changes, it is useful to include a notice that a 45-day grace period is granted to existing participants of the group under the previous charter, who will then need to re-join the group.
 
-In case the new charter doesn't have new deliverables involving new patent commitment, it is useful to clarify that existing participants under the previous charter will not be required to leave/re-join the group.
+When the scope of a charter does not change, it is useful to clarify that existing participants under the previous charter will not be required to leave/re-join the group.
 
 Note: Per the [2021-01-13 W3M resolution](https://www.w3.org/2021/01/13-w3m-minutes#t08) (team-only), the calls for participation should include guidance to consider diversity (available from the [template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2FTemplates&template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fcfp.html&submit=Continue...)):
 
@@ -416,7 +416,7 @@ After sending the W3C Decision and Call for Participation:
 
 Staff Contacts should look at [how to setup a new group](../tools/new-group.md) once the call for participation is out.
 
-**Note:** When we recharter a work group and the charter scope has changed, we enter the CFP into the Group DB, which triggers messages to the group participants that they must rejoin. If the new charter doesn't have new deliverables involving new patent commitment, do not register the new CFP.
+**Note:** When we recharter a work group and the charter scope has changed, we enter the CFP into the Group DB, which triggers messages to the group participants that they must re-join. If the scope did not change in the new charter, we do not register a new CFP.
 
 ### 5.6 Announcement of extension  {#announce-extension}
 
