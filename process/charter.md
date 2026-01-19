@@ -416,7 +416,7 @@ After sending the W3C Decision and Call for Participation:
 
 Staff Contacts should look at [how to setup a new group](../tools/new-group.md) once the call for participation is out.
 
-**Note:** When we recharter a work group and the charter scope has changed, we enter the CFP into the Group DB, which triggers messages to the group participants that they must re-join. If the scope did not change in the new charter, do not register the new CFP.
+**Note:** When we recharter a work group and the charter scope has changed, we enter the CFP into the Group DB, which triggers messages to the group participants that they must re-join. If the scope did not change in the new charter, we do not register a new CFP.
 
 ### 5.6 Announcement of extension  {#announce-extension}
 
