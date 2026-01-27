@@ -224,7 +224,7 @@ Record group decision
 : The group should discuss and record a formal decision to request extension or to recharter.
 
 Follow process for creating a charter
-: The handling of rechartering is almost the same as for [new charters](#new-charters). Note that, in addition to any content changes, the charter may need to be updated if the [charter template](https://w3c.github.io/charter-drafts/charter-template.html) has changed. Furthermore, the template tool will prompt for the inclusion of Patent Policy language and otherwise help you meet the [list of charter requirements in the Process](https://www.w3.org/policies/process/#WGCharter). For existing groups, the [charter assistant](https://w3c.github.io/charter-drafts/charter-assistant.html) helps in producing a draft charter.
+: The handling of rechartering is almost the same as for [new charters](#new-charters). Note that, in addition to any content changes, the charter may need to be updated if the [charter template](https://w3c.github.io/charter-drafts/charter-template.html) has changed. Furthermore, the template tool will prompt for the inclusion of Patent Policy language and otherwise help you meet the [list of charter requirements in the Process](https://www.w3.org/policies/process/#WGCharter). For existing groups, the [charter assistant](https://www.w3.org/PM/Groups/charter-assistant.html) helps in producing a draft charter.
 
 ## 5. Implementation details  {#implementation-details}
 
