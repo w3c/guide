@@ -63,6 +63,7 @@ dependencies.
 
 The reviews provided by the [horizontal groups](../process/horizontal-groups.md), a subset of a full wide review, do receive special attention and much of the rest of this document focuses on how and when to conduct horizontal reviews.
 
+<span id="how_to_get_horizontal_review"><!-- legacy fragment id --></span>
 ## How to get horizontal review
 When you have published a First Public Working Draft, you should work through available "self-review" materials and request review of your results in at least the following areas.
 

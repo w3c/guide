@@ -7,6 +7,7 @@ The goal of group meetings during a W3C TPAC (Technical Plenary & Advisory Commi
 
 While W3C groups meet throughout the year in a variety of ways (teleconference, F2F), the annual TPAC plays a unique and special role in the annual calendar of a group. What sets these meetings apart is that by having the group adjacent to many other groups, the group can achieve much that it cannot without such proximity.
 
+<span id="tpac2021"><!-- legacy fragment id --></span>
 ## TPAC generic advice {#advice}
 
 1. Your meeting will be added to the [W3C Calendar of the group](https://www.w3.org/blog/2021/group-calendaring-service-enters-beta-test/) as part of the main TPAC event. Make sure you add the agenda and any other relevant materials to the entry!
