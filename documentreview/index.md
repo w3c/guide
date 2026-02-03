@@ -72,86 +72,86 @@ When you have published a First Public Working Draft, you should work through av
 The meaning of "Long enough" depends on how many changes there are, how clearly you have explained them, and how much discussion is needed to resolve issues. Pointing to 14 concise points for a small spec means a short time if they are simple fixes, pointing to 900 diffs from commits and hoping people understand them in a 300 page spec means it will take a **long** time to get review, and potentially a long time to also discuss and agree on how to solve the issues. If you have effectively identified issues for review during development and received feedback on them, the review time will probably be shorter. Horizontal review groups sometimes get bogged down; planning in advance is useful.
 
 <dl>
-<dt>Accessibility</dt>
+<dt data-type='a11y'>Accessibility</dt>
 <dd>
-  <span class="step">Work through <a rel="nofollow" class="external text" href="https://w3c.github.io/fast/checklist.html">this questionnaire</a></span> then
-  <span class="step"><a rel="nofollow" class="external text" href="https://github.com/w3c/a11y-request/issues/new/choose">request a review via GitHub</a> from <a rel="nofollow" class="external text" href="https://www.w3.org/WAI/about/groups/apawg/">APA</a></span>
+  <span class="step">Work through <a href="https://w3c.github.io/fast/checklist.html">this questionnaire</a></span> then
+  <span class="step"><a href="https://github.com/w3c/a11y-request/issues/new/choose">request a review via GitHub</a> from <a href="https://www.w3.org/WAI/about/groups/apawg/">APA</a></span>
 <details>
 <summary>Show useful links</summary>
 <ul><li> groups
-<ul><li> <a rel="nofollow" class="external text" href="https://www.w3.org/WAI/about/groups/apawg/">Accessible Platform Architectures Working Group</a>; <a rel="nofollow" class="external text" href="https://lists.w3.org/Archives/Public/public-apa/">public-apa</a>; <a rel="nofollow" class="external text" href="https://www.w3.org/WAI/APA/wiki/Spec_Review">APA Spec Review tracking</a></li>
-<li> <a rel="nofollow" class="external text" href="https://www.w3.org/WAI/about/groups/waiig/">Web Accessibility Interest Group</a>; <a rel="nofollow" class="external text" href="https://lists.w3.org/Archives/Public/w3c-wai-ig/">w3c-wai-ig</a></li></ul></li>
+<ul><li> <a href="https://www.w3.org/WAI/about/groups/apawg/">Accessible Platform Architectures Working Group</a>; <a href="https://lists.w3.org/Archives/Public/public-apa/">public-apa</a>; <a href="https://www.w3.org/WAI/APA/wiki/Spec_Review">APA Spec Review tracking</a></li>
+<li> <a href="https://www.w3.org/WAI/about/groups/waiig/">Web Accessibility Interest Group</a>; <a href="https://lists.w3.org/Archives/Public/w3c-wai-ig/">w3c-wai-ig</a></li></ul></li>
 <li> links
-<ul><li> <a rel="nofollow" class="external text" href="https://w3c.github.io/apa/fast/checklist.html">Framework for Accessibility in the Specification of Technologies Checklist; APA WG</a></li>
-<li> <a rel="nofollow" class="external text" href="https://www.w3.org/TR/media-accessibility-reqs/">Media Accessibility User Requirements; PFWG</a></li></ul></li></ul>
+<ul><li> <a href="https://w3c.github.io/apa/fast/checklist.html">Framework for Accessibility in the Specification of Technologies Checklist; APA WG</a></li>
+<li> <a href="https://www.w3.org/TR/media-accessibility-reqs/">Media Accessibility User Requirements; PFWG</a></li></ul></li></ul>
 </details></dd>
 
-<dt>Architecture</dt>
+<dt data-type='tag'>Architecture</dt>
 <dd>
-  <span class="step">Ask the <a rel="nofollow" class="external text" href="https://www.w3.org/2001/tag/">TAG</a> for review; see <a rel="nofollow" class="external text" href="https://tag.w3.org/workmode/">how to work with the TAG</a></span>.
-  <span class="step">If you are developing javascript APIs you may also want to ask <a rel="nofollow" class="external text" href="mailto:public-script-coord@w3.org">public-script-coord@w3.org</a>, a technical discussion list shared by W3C and ECMA's TC 39</span>.
+  <span class="step">Work through <a href="https://tag.w3.org/workmode/">Specification Design Reviews</a></span> then
+  <span class="step"><a href="https://github.com/w3ctag/design-reviews/issues/new/choose">request a review via GitHub</a> from the <a href="https://www.w3.org/2001/tag/">TAG</a></span>
+  <span class="step">If you are developing javascript APIs you may also want to ask <a href="mailto:public-script-coord@w3.org">public-script-coord@w3.org</a>, a technical discussion list shared by W3C and ECMA's TC 39</span>.
 <details>
 <summary>Show useful links</summary>
 <ul><li>groups
-<ul><li><a rel="nofollow" class="external text" href="https://www.w3.org/2001/tag/">Technical Architecture Group (TAG)</a>; <a rel="nofollow" class="external text" href="https://lists.w3.org/Archives/Public/www-tag/">www-tag</a></li></ul></li>
+<ul><li><a href="https://www.w3.org/2001/tag/">Technical Architecture Group (TAG)</a>; <a href="https://lists.w3.org/Archives/Public/www-tag/">www-tag</a></li></ul></li>
 <li>links
-<ul><li><a rel="nofollow" class="external text" href="https://www.w3.org/2001/tag/doc/webcomponents-design-guidelines/">Guidelines for creating web platform compatible components</a></li>
-<li><a rel="nofollow" class="external text" href="https://www.w3.org/2001/tag/doc/promises-guide">Writing Promise-Using Specifications</a></li>
-<li><a rel="nofollow" class="external text" href="https://www.w3.org/TR/design-principles/">Client-side API Design Principles</a></li>
-<li><a rel="nofollow" class="external text" href="https://www.w3.org/2001/tag/doc/capability-urls/">Good Practices for Capability URLs</a></li>
-<li><a rel="nofollow" class="external text" href="https://github.com/w3ctag/design-reviews">TAG Repository for reviews</a></li></ul></li></ul>
-</details>
-</dd>
+<ul><li><a href="https://www.w3.org/2001/tag/doc/webcomponents-design-guidelines/">Guidelines for creating web platform compatible components</a></li>
+<li><a href="https://www.w3.org/2001/tag/doc/promises-guide">Writing Promise-Using Specifications</a></li>
+<li><a href="https://www.w3.org/TR/design-principles/">Client-side API Design Principles</a></li>
+<li><a href="https://www.w3.org/2001/tag/doc/capability-urls/">Good Practices for Capability URLs</a></li>
+<li><a href="https://github.com/w3ctag/design-reviews">TAG Repository for reviews</a></li></ul></li></ul>
+</details></dd>
 
-<dt>Internationalization</dt>
+<dt data-type='i18n'>Internationalization</dt>
 <dd>
-  <span class="step">Read the <a rel="nofollow" class="external text" href="https://www.w3.org/International/review-request">Request a review</a> page</span>, then
-  <span class="step">work through the <a rel="nofollow" class="external text" href="https://www.w3.org/International/i18n-drafts/techniques/shortchecklist">Short Checklist</a></span>, then
-  <span class="step"><a rel="nofollow" class="external text" href="https://github.com/w3c/i18n-request/issues/new/choose">request a review via GitHub</a></span>.
+  <span class="step">Read the <a href="https://www.w3.org/International/review-request">Request a review</a> page</span>, then
+  <span class="step">work through the <a href="https://www.w3.org/International/i18n-drafts/techniques/shortchecklist">Short Checklist</a></span>, then
+  <span class="step"><a href="https://github.com/w3c/i18n-request/issues/new/choose">request a review via GitHub</a></span>.
 <details>
 <summary>Show useful links</summary>
 <ul><li>groups
-<ul><li><a rel="nofollow" class="external text" href="https://www.w3.org/International/">Internationalization Working Group</a>; <a rel="nofollow" class="external text" href="https://lists.w3.org/Archives/Public/www-international/">www-international</a> Reviews by Internationalization generally also involve the <a rel="nofollow" class="external text" href="https://www.w3.org/International/i18n-activity/i18n-ig/">Interest Group</a>, but are arranged through the WG.</li></ul></li>
+<ul><li><a href="https://www.w3.org/International/">Internationalization Working Group</a>; <a href="https://lists.w3.org/Archives/Public/www-international/">www-international</a> Reviews by Internationalization generally also involve the <a href="https://www.w3.org/International/i18n-activity/i18n-ig/">Interest Group</a>, but are arranged through the WG.</li></ul></li>
 <li>links
-<ul><li><a rel="nofollow" class="external text" href="https://www.w3.org/International/review-request">Request a review</a></li>
-<li><a rel="nofollow" class="external text" href="https://www.w3.org/International/i18n-drafts/techniques/shortchecklist">Self-Review Questionnaire</a>.</li>
-<li><a rel="nofollow" class="external text" href="https://www.w3.org/TR/international-specs/">Internationalization Best Practices for Spec Developers</a></li>
-<li><a rel="nofollow" class="external text" href="https://www.w3.org/International/reviews/projReview.html">A brief overview of the review process</a> (with pictures)</li>
-<li>The <a rel="nofollow" class="external text" href="https://github.com/orgs/w3c/projects/91">I18N Horizontal Review Radar</a> shows the status of open reviews.</li></ul></li></ul>
+<ul><li><a href="https://www.w3.org/International/review-request">Request a review</a></li>
+<li><a href="https://www.w3.org/International/i18n-drafts/techniques/shortchecklist">Self-Review Questionnaire</a>.</li>
+<li><a href="https://www.w3.org/TR/international-specs/">Internationalization Best Practices for Spec Developers</a></li>
+<li><a href="https://www.w3.org/International/reviews/projReview.html">A brief overview of the review process</a> (with pictures)</li>
+<li>The <a href="https://github.com/orgs/w3c/projects/91">I18N Horizontal Review Radar</a> shows the status of open reviews.</li></ul></li></ul>
 </details>
 </dd>
 
-<dt>Privacy</dt>
+<dt data-type='privacy'>Privacy</dt>
 <dd>
-  <span class="step">Write a "Privacy Considerations" section for your document, taking into account the <a rel="nofollow" class="external text" href="https://www.w3.org/TR/security-privacy-questionnaire/">Self-Review Questionnaire: Security and Privacy</a>, <a rel="nofollow" class="external text" href="https://www.w3.org/TR/fingerprinting-guidance/">Mitigating Browser Fingerprinting in Web Specifications</a>, and <a rel="nofollow" class="external text" href="https://www.rfc-editor.org/rfc/rfc6973.html">RFC6973</a></span> then
-  <span class="step"><a rel="nofollow" class="external text" href="https://github.com/w3cping/privacy-request/issues/new/choose">request a review via GitHub</a> from the <a rel="nofollow" class="external text" href="https://www.w3.org/groups/wg/privacy/">Privacy Working Group</a></span>.
+  <span class="step">Write a "Privacy Considerations" section for your document, taking into account the <a href="https://www.w3.org/TR/security-privacy-questionnaire/">Self-Review Questionnaire: Security and Privacy</a>, <a href="https://www.w3.org/TR/fingerprinting-guidance/">Mitigating Browser Fingerprinting in Web Specifications</a>, and <a href="https://www.rfc-editor.org/rfc/rfc6973.html">RFC6973</a></span> then
+  <span class="step"><a href="https://github.com/w3cping/privacy-request/issues/new/choose">request a review via GitHub</a> from the <a href="https://www.w3.org/groups/wg/privacy/">Privacy Working Group</a></span>.
 <details>
 <summary>Show useful links</summary>
 <ul>
 <li>groups
-<ul><li> <a rel="nofollow" class="external text" href="https://www.w3.org/groups/wg/privacy/">Privacy Working Group</a>; <a rel="nofollow" class="external text" href="https://lists.w3.org/Archives/Public/public-privacy/">public-privacy</a></li></ul></li>
+<ul><li> <a href="https://www.w3.org/groups/wg/privacy/">Privacy Working Group</a>; <a href="https://lists.w3.org/Archives/Public/public-privacy/">public-privacy</a></li></ul></li>
 <li>links
 <ul>
-<li><a rel="nofollow" class="external text" href="https://www.w3.org/TR/security-privacy-questionnaire/"><cite>Self-Review Questionnaire: Security and Privacy</cite>, published by the TAG and PING</a></li>
-<li><a rel="nofollow" class="external text" href="https://www.w3.org/TR/fingerprinting-guidance/">Mitigating Browser Fingerprinting in Web Specifications</a></li>
-<li><a rel="nofollow" class="external text" href="https://www.rfc-editor.org/rfc/rfc6973.html">Privacy Considerations for Internet Protocols (RFC6973)</a>, particularly <a rel="nofollow" class="external text" href="https://www.rfc-editor.org/rfc/rfc6973.html#section-7">Section 7</a></li>
-<li><a rel="nofollow" class="external text" href="https://www.rfc-editor.org/rfc/rfc3552.html">Guidelines for Writing RFC Text on Security Considerations (RFC3552)</a>, particularly <a rel="nofollow" class="external text" href="https://www.rfc-editor.org/rfc/rfc3552.html#section-5">Section 5</a></li>
+<li><a href="https://www.w3.org/TR/security-privacy-questionnaire/"><cite>Self-Review Questionnaire: Security and Privacy</cite>, published by the TAG and PING</a></li>
+<li><a href="https://www.w3.org/TR/fingerprinting-guidance/">Mitigating Browser Fingerprinting in Web Specifications</a></li>
+<li><a href="https://www.rfc-editor.org/rfc/rfc6973.html">Privacy Considerations for Internet Protocols (RFC6973)</a>, particularly <a href="https://www.rfc-editor.org/rfc/rfc6973.html#section-7">Section 7</a></li>
+<li><a href="https://www.rfc-editor.org/rfc/rfc3552.html">Guidelines for Writing RFC Text on Security Considerations (RFC3552)</a>, particularly <a href="https://www.rfc-editor.org/rfc/rfc3552.html#section-5">Section 5</a></li>
 </ul></li></ul>
 </details>
 </dd>
 
-<dt>Security</dt>
+<dt data-type='security'>Security</dt>
 <dd>
-  <span class="step">Write a "Security Considerations" section for your document, taking into account the <a rel="nofollow" class="external text" href="https://www.w3.org/TR/security-privacy-questionnaire/">Self-Review Questionnaire: Security and Privacy</a></span>, then
-  <span class="step"><a rel="nofollow" class="external text" href="https://github.com/w3c/security-request/issues/new/choose">request a review via GitHub</a></span>
+  <span class="step">Write a "Security Considerations" section for your document, taking into account the <a href="https://www.w3.org/TR/security-privacy-questionnaire/">Self-Review Questionnaire: Security and Privacy</a></span>, then
+  <span class="step"><a href="https://github.com/w3c/security-request/issues/new/choose">request a review via GitHub</a></span>
 <details>
 <summary>Show useful links</summary>
 <ul><li>groups
-<ul><li><a rel="nofollow" class="external text" href="https://www.w3.org/groups/ig/security/">Security Interest Group</a>; <a rel="nofollow" class="external text" href="https://lists.w3.org/Archives/Public/public-security/">public-security</a></li></ul></li>
+<ul><li><a href="https://www.w3.org/groups/ig/security/">Security Interest Group</a>; <a href="https://lists.w3.org/Archives/Public/public-security/">public-security</a></li></ul></li>
 <li>links
-<ul><li> <a rel="nofollow" class="external text" href="https://www.w3.org/TR/security-privacy-questionnaire/"><cite>Self-Review Questionnaire: Security and Privacy</cite>, published by the TAG and PING</a></li>
-<li><a rel="nofollow" class="external text" href="https://www.w3.org/TR/fingerprinting-guidance/">Mitigating Browser Fingerprinting in Web Specifications</a></li>
-<li><a rel="nofollow" class="external text" href="https://www.rfc-editor.org/rfc/rfc3552.html">Guidelines for Writing RFC Text on Security Considerations (RFC3552)</a>, particularly <a rel="nofollow" class="external text" href="https://www.rfc-editor.org/rfc/rfc3552.html#section-5">Section 5</a></li></ul></li></ul>
+<ul><li> <a href="https://www.w3.org/TR/security-privacy-questionnaire/"><cite>Self-Review Questionnaire: Security and Privacy</cite>, published by the TAG and PING</a></li>
+<li><a href="https://www.w3.org/TR/fingerprinting-guidance/">Mitigating Browser Fingerprinting in Web Specifications</a></li>
+<li><a href="https://www.rfc-editor.org/rfc/rfc3552.html">Guidelines for Writing RFC Text on Security Considerations (RFC3552)</a>, particularly <a href="https://www.rfc-editor.org/rfc/rfc3552.html#section-5">Section 5</a></li></ul></li></ul>
 </details>
 </dd>
 </dl>
@@ -247,4 +247,4 @@ See the [Document Review Dashboard](https://www.w3.org/wiki/Dashboard#Document_R
   background: #e2edfe;
 }
 </style>
-<script src="create-github-issue.js"></script>
+<script src="create-github-issue.js" type="module"></script>
