@@ -45,7 +45,7 @@ W3C editors have developed several types of HTML and XML based grammars to make 
 
 - Check the most popular editing tools: [Bikeshed](https://speced.github.io/bikeshed/), [respec](https://github.com/speced/respec/wiki)
 - Some tips and tricks for API architecture design: [Web API Design Cookbook](https://www.w3.org/TR/api-design/)
-- [Domenic's guide to spec excellence (bikeshed)](https://docs.google.com/document/d/1cRVD1k-hDBGfLVwTG14P_ZqJLM4d5-Z4vpwYFb_4qks/edit?tab=t.0)
+- [Writing Procedural Specs (bikeshed)](https://garykac.github.io/procspec/)
 - Some [WhatWG conventions](https://wiki.whatwg.org/wiki/Specs/howto).
 
 ## Tools {#tools}
