@@ -36,6 +36,11 @@ From [who to ask for review](https://www.w3.org/Guide/documentreview/#who_to_ask
 
 function addGitHubIssueButton() {
   document.querySelector('#githubissue button').addEventListener('click', createGitHubIssue);
+  const params = new URLSearchParams(window.location.search);
+  const repo = params.get('repo');
+  if (repo) {
+    document.getElementById('repository').value = repo;
+  }
   document.getElementById('githubissue').hidden = false;
 }
 
