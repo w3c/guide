@@ -18,12 +18,6 @@ const template = `# Wide review tracker for a specification
 This is a meta issue to track wide review steps for the specification.
 See [How to do wide review](https://www.w3.org/guide/documentreview/#who-to-ask-for-wide-review) for details.
 
->Legend:
->🔴 Review request not submitted
->🟡 Review request submitted
->🔵 Review feedback received
->🟢 Review closed as completed
-
 ## Horizontal groups
 
 An important part of wide review is horizontal review from W3C's [key horizontal groups](https://www.w3.org/guide/documentreview/#how-to-get-horizontal-review) listed below.
@@ -33,7 +27,7 @@ An important part of wide review is horizontal review from W3C's [key horizontal
 
 The [charter](https://www.w3.org/groups/YOURGROUP) contains a list of dependency groups. If you skip one of those, simply provide a rational.
 
-🔴 ?? Group: 
+### ?? Group: 
 
 - [ ] feedback requested
 - [ ] feedback received
@@ -93,14 +87,14 @@ async function generateGitHubIssueBody(repo) {
 throw new Error('Could not find a DD tag after DT in one of the horizontal sections');
     }
 
-    const subContents = [...dd.querySelectorAll('.step')].map(el => `- [ ] ${html2Markdown(el)}`);
+    const subContents = [...dd.querySelectorAll('*[data-step]')].map(el => `- [ ] ${html2Markdown(el)}`);
 
     const after = `- [ ] Address [${horizontal}-needs-resolution](https://github.com/${repo.owner}/${repo.name}/labels/${horizontal}-needs-resolution) issues
 - [ ] Consider [${horizontal}-tracker](https://github.com/${repo.owner}/${repo.name}/labels/${horizontal}-tracker) issues
 - [ ] feedback integrated
 - [ ] Review confirmed completed`;
 
-    return `🔴 **${dt.textContent}**\n\n${subContents.join('\n')}\n${after}\n`;
+    return `### **${dt.textContent}**\n\n${subContents.join('\n')}\n${after}\n`;
   });
   
   const group = await findGroup(repo);

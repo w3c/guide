@@ -74,8 +74,8 @@ The meaning of "Long enough" depends on how many changes there are, how clearly 
 <dl>
 <dt data-type='a11y'>Accessibility</dt>
 <dd>
-  <span class="step">Work through <a href="https://w3c.github.io/fast/checklist.html">this questionnaire</a></span> then
-  <span class="step"><a href="https://github.com/w3c/a11y-request/issues/new/choose">request a review via GitHub</a> from <a href="https://www.w3.org/WAI/about/groups/apawg/">APA</a></span>
+  <span data-step>Work through the <a href="https://w3c.github.io/fast/checklist.html">FAST Checklist</a></span> then
+  <span data-step><a href="https://github.com/w3c/a11y-request/issues/new/choose">request a review via GitHub</a> from <a href="https://www.w3.org/WAI/about/groups/apawg/">APA</a></span>
 <details>
 <summary>Show useful links</summary>
 <ul><li> groups
@@ -88,9 +88,9 @@ The meaning of "Long enough" depends on how many changes there are, how clearly 
 
 <dt data-type='tag'>Architecture</dt>
 <dd>
-  <span class="step">Work through <a href="https://tag.w3.org/workmode/">Specification Design Reviews</a></span> then
-  <span class="step"><a href="https://github.com/w3ctag/design-reviews/issues/new/choose">request a review via GitHub</a> from the <a href="https://www.w3.org/2001/tag/">TAG</a></span>
-  <span class="step">If you are developing javascript APIs you may also want to ask <a href="mailto:public-script-coord@w3.org">public-script-coord@w3.org</a>, a technical discussion list shared by W3C and ECMA's TC 39</span>.
+  <span data-step>Work through <a href="https://tag.w3.org/workmode/">Specification Design Reviews</a></span> then
+  <span data-step><a href="https://github.com/w3ctag/design-reviews/issues/new/choose">request a review via GitHub</a> from the <a href="https://www.w3.org/2001/tag/">TAG</a></span>
+  <span data-step>If you are developing javascript APIs you may also want to ask <a href="mailto:public-script-coord@w3.org">public-script-coord@w3.org</a>, a technical discussion list shared by W3C and ECMA's TC 39</span>.
 <details>
 <summary>Show useful links</summary>
 <ul><li>groups
@@ -105,9 +105,9 @@ The meaning of "Long enough" depends on how many changes there are, how clearly 
 
 <dt data-type='i18n'>Internationalization</dt>
 <dd>
-  <span class="step">Read the <a href="https://www.w3.org/International/review-request">Request a review</a> page</span>, then
-  <span class="step">work through the <a href="https://www.w3.org/International/i18n-drafts/techniques/shortchecklist">Short Checklist</a></span>, then
-  <span class="step"><a href="https://github.com/w3c/i18n-request/issues/new/choose">request a review via GitHub</a></span>.
+  <span data-step>Read the <a href="https://www.w3.org/International/review-request">Request a review</a> page</span>, then
+  <span data-step>work through the <a href="https://www.w3.org/International/i18n-drafts/techniques/shortchecklist">Short Checklist</a></span>, then
+  <span data-step><a href="https://github.com/w3c/i18n-request/issues/new/choose">request a review via GitHub</a></span>.
 <details>
 <summary>Show useful links</summary>
 <ul><li>groups
@@ -123,8 +123,8 @@ The meaning of "Long enough" depends on how many changes there are, how clearly 
 
 <dt data-type='privacy'>Privacy</dt>
 <dd>
-  <span class="step">Write a "Privacy Considerations" section for your document, taking into account the <a href="https://www.w3.org/TR/security-privacy-questionnaire/">Self-Review Questionnaire: Security and Privacy</a>, <a href="https://www.w3.org/TR/fingerprinting-guidance/">Mitigating Browser Fingerprinting in Web Specifications</a>, and <a href="https://www.rfc-editor.org/rfc/rfc6973.html">RFC6973</a></span> then
-  <span class="step"><a href="https://github.com/w3cping/privacy-request/issues/new/choose">request a review via GitHub</a> from the <a href="https://www.w3.org/groups/wg/privacy/">Privacy Working Group</a></span>.
+  <span data-step>Write a "Privacy Considerations" section for your document, taking into account the <a href="https://www.w3.org/TR/security-privacy-questionnaire/">Self-Review Questionnaire: Security and Privacy</a>, <a href="https://www.w3.org/TR/fingerprinting-guidance/">Mitigating Browser Fingerprinting in Web Specifications</a>, and <a href="https://www.rfc-editor.org/rfc/rfc6973.html">RFC6973</a></span> then
+  <span data-step><a href="https://github.com/w3cping/privacy-request/issues/new/choose">request a review via GitHub</a> from the <a href="https://www.w3.org/groups/wg/privacy/">Privacy Working Group</a></span>.
 <details>
 <summary>Show useful links</summary>
 <ul>
@@ -142,8 +142,8 @@ The meaning of "Long enough" depends on how many changes there are, how clearly 
 
 <dt data-type='security'>Security</dt>
 <dd>
-  <span class="step">Write a "Security Considerations" section for your document, taking into account the <a href="https://www.w3.org/TR/security-privacy-questionnaire/">Self-Review Questionnaire: Security and Privacy</a></span>, then
-  <span class="step"><a href="https://github.com/w3c/security-request/issues/new/choose">request a review via GitHub</a></span>
+  <span data-step>Write a "Security Considerations" section for your document, taking into account the <a href="https://www.w3.org/TR/security-privacy-questionnaire/">Self-Review Questionnaire: Security and Privacy</a></span>, then
+  <span data-step><a href="https://github.com/w3c/security-request/issues/new/choose">request a review via GitHub</a></span>
 <details>
 <summary>Show useful links</summary>
 <ul><li>groups
