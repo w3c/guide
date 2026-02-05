@@ -19,8 +19,8 @@ Discussion of issues that groups face take place on the chairs mailing list (Mem
 - [Working Group chair boards](https://www.w3.org/PM/Groups/chairboards.html?gtype=working): Chair dashboard, with various links to additional information, including [issue boards](https://www.w3.org/PM/Groups/issueboards.html?gtype=working) and [agendas](https://www.w3.org/PM/Groups/agendas.html?gtype=working)
 - [Interest Group chair boards](https://www.w3.org/PM/Groups/chairboards.html?gtype=interest): Chair dashboard, with various links to additional information, including [issue boards](https://www.w3.org/PM/Groups/issueboards.html?gtype=interest) and [agendas](https://www.w3.org/PM/Groups/agendas.html?gtype=interest)
 - Deliverables
-  - [Milestones helper](https://w3c.github.io/spec-releases/milestones/): If you need to compute a set of milestones for a specification, use this
-  - [Next steps on the W3C Recommendation track?](https://www.w3.org/guide/transitions/nextstep.html): Using the short name of your specification, we can tell you which next step is available to you in the W3C Recommendation track (eg [hr-time-2](../transitions/nextstep.html?shortname=hr-time-2))
+  - [Milestones helper](../transitions/milestones.html): If you need to compute a set of milestones for a specification
+  - [Next steps on the W3C Recommendation track?](../transitions/nextstep.html): Using the short name of your specification, we can tell you which next step is available to you in the W3C Recommendation track (eg [hr-time-2](../transitions/nextstep.html?shortname=hr-time-2))
   - List of [known specifications](/PM/horizontal/reviews.html) and [issues](/PM/horizontal/) tracked by the horizontal groups.
   - For transitions, see the [transition requirements](../transitions/).
 - You can [blog on the W3C website](https://www.w3.org/blog/wp-login.php?redirect_to=/blog/wp-admin/post-new.php) too!
