@@ -1,3 +1,15 @@
+/**
+ * Script that adds a button to the Document review page that readers may use
+ * to draft a meta issue in the GitHub repository of their choice to track wide
+ * review steps.
+ *
+ * The script expects to find specific anchors in the Document review page,
+ * including a definition list for each horizontal flagged with a `data-type`
+ * attribute whose value matches the prefix used in GitHub labels
+ * `[foo]-needs-resolution` and `[foo]-tracker`, with individual steps flagged
+ * as such.
+ */
+
 const repositories = fetch('https://w3c.github.io/groups/repositories.json').then(res => res.ok ? res.json() : [])
   .catch(() => []);
 
