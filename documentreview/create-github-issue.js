@@ -78,8 +78,7 @@ async function generateGitHubIssueBody(repo) {
     const horizontal = dt.dataset.type || 'unknown';
     const dd = dt.nextElementSibling;
     if (dd.tagName !== 'DD') {
-      console.error('Could not find a DD tag after DT', dt);
-      return;
+throw new Error('Could not find a DD tag after DT in one of the horizontal sections');
     }
 
     const subContents = [...dd.querySelectorAll('.step')].map(el => `- [ ] ${html2Markdown(el)}`);
