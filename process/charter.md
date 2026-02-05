@@ -282,15 +282,16 @@ Note: We should assume some AC Reps may not read email announcements and will on
 
 Once the Head of W3C Communications (or delegate) has approved the Call for Review and the questionnaire, the W3C Communications Team:
 
-1. Sends the Call for Review to w3c-ac-members@w3.org.
-2. Sends a version of the announcement to public-new-work@w3.org ([archive](https://lists.w3.org/Archives/Public/public-new-work/)). Use this [template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2FTemplates&template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fpublic-charter.html&submit=Continue...) (and see the [example](https://lists.w3.org/Archives/Public/public-new-work/2007Jan/0001.html)). The announcement must include:
+1. Sends the Call for Review to w3c-ac-members@w3.org (then forwards it to chairs@w3.org)
+2. Forwards it to the affected group (in the case of a rechartering)
+3. Sends a version of the announcement to public-new-work@w3.org ([archive](https://lists.w3.org/Archives/Public/public-new-work/)). Use this [template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2FTemplates&template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fpublic-charter.html&submit=Continue...) (and see the [example](https://lists.w3.org/Archives/Public/public-new-work/2007Jan/0001.html)). The announcement must include:
 
    - The URI of the (public) charter.
    - The end date of the Member review.
    - That W3C invites public feedback on public-review-comments@w3.org ([archive](https://lists.w3.org/Archives/Public/public-review-comments/)).
    - That we make no guarantees of replying to public comments.
    - That people who work for a Member organization should coordinate their comments through their Advisory Committee Representative.
-3. Send the same email to [new-work@ietf.org](https://www.ietf.org/mailman/listinfo/new-work). **Note:** public-new-work@w3.org used to cc new-work@ietf.org but due to mailing list configuration issues, we stopped that practice.
+4. Send the same email to [new-work@ietf.org](https://www.ietf.org/mailman/listinfo/new-work). **Note:** public-new-work@w3.org used to cc new-work@ietf.org but due to mailing list configuration issues, we stopped that practice.
 
 ### 5.4 Managing changes to charters after review  {#manage-changes}
 
