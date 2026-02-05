@@ -71,7 +71,7 @@ async function generateGitHubIssueBody(repo) {
 
   const dl = document.querySelector('#how-to-get-horizontal-review ~ dl');
   if (!dl) {
-    console.error('Could not find right anchor in "How to get horizontal review" section');
+    throw new Error('Could not find right anchor in "How to get horizontal review" section');
   }
 
   const bullets = [...dl.querySelectorAll('dt')].map(dt => {
