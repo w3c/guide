@@ -65,6 +65,7 @@ The reviews provided by the [horizontal groups](../process/horizontal-groups.md)
 
 <span id="how_to_get_horizontal_review"><!-- legacy fragment id --></span>
 ## How to get horizontal review
+
 When you have published a First Public Working Draft, you should work through available "self-review" materials and request review of your results in at least the following areas.
 
 *Long enough* before you request a transition to CR, you should do the same again, identifying substantive specification changes since the first review. During the [Last Call for Review of Proposed Amendment](https://www.w3.org/policies/process/#change-review), you should also do the same.
@@ -162,17 +163,19 @@ Recognize that horizontal review groups may be resource limited and may only be 
 
 ## Working with Horizontal Review labels
 
+Groups use [github labels](../github/issue-metadata.html#horizontal-reviews) to track horizontal issues.
+
 Applying these labels doesn't replace the need to schedule a review of your spec at an appropriate time. (See [How to Get Horizontal Review](#how-to-get-horizontal-review) above.) Horizontal groups participants can find [detailed process information here](https://w3c.github.io/horizontal-issue-tracker/HOWTO).
 
 ### Day-to-day use of labels
 
-Apply the <span class="tag">\*-tracker</span> label in your own repository to draw a horizontal review group’s attention to an issue in one of your own repositories. Horizontal review groups may also apply the label if they are interested in tracking a particular issue.  Tooling will automatically notify the horizontal group that you attached the label.
+Apply the <span class="tag">[\*-tracker](../github/issue-metadata.html#horizontal-reviews)</span> label in your own repository to draw a horizontal review group’s attention to an issue in one of your own repositories. Horizontal review groups may also apply the label if they are interested in tracking a particular issue.  Tooling will automatically notify the horizontal group that you attached the label.
 
 If you want some specific advice from the horizontal group, describe that request in the issue thread.
 
-Horizontal review groups may apply the <span class="tag">\*-needs-resolution</span> label to issues they expect to be resolved before the specification moves to a new maturity level. Working Groups must not remove or add this label (not even when you close your issue).
+Horizontal review groups may apply the <span class="tag">[\*-needs-resolution](../github/issue-metadata.html#horizontal-reviews)</span> label to issues they expect to be resolved before the specification moves to a new maturity level. Working Groups must not remove or add this label (not even when you close your issue).
 
-If the [horizontal group](../process/horizontal-groups.md) believes that an issue with a <span class="githublabel">\*-tracker</span> label needs to be resolved before a transition, they may apply a <span class="githublabel">\*-needs-resolution</span> label to the issue. Automatic tooling will later remove the <span class="githublabel">\*-tracker</span> label.
+If the [horizontal group](../process/horizontal-groups.md) believes that an issue with a <span class="tag">\*-tracker</span> label needs to be resolved before a transition, they may apply a <span class="tag">\*-needs-resolution</span> label to the issue. Automatic tooling will later remove the <span class="tag">\*-tracker</span> label.
  
 If you close an issue with a <span class="tag">\*-tracker</span> or <span class="tag">\*-needs-resolution</span> label attached, do not remove the label.  Keeping the label maintains the tracking if the issue is reopened, but also provides potentially useful information about what was tracked. (Closed issues in your repository have no effect on tools that check for unresolved issues.)
  
@@ -180,13 +183,12 @@ At the end of a review, and before attempting to transition the spec, you should
  
 Note that the label may be applied by setting it directly on the issue if you have proper rights, or by appending it preceded with a PLUS sign (`+`) in the issue description, `+*-tracker` or `+*-needs-resolution`.
 
+<a id='what-happens-to-unresolved-issues-marked--needs-resolution'></a> <!-- old id -->
 ### What happens with `*-needs-resolution` issues at transition?
 
-When a Working Group requests a new Maturity level, the transition **will not be approved** if a horizontal group has an open `*-needs-resolution` issue showing on the [tracker boards](https://www.w3.org/PM/horizontal/). Note that the tracker monitors the horizontal group's *copy* of the issue. Before requesting a new Maturity level, the Working Group is advised to review the tracker and contact the horizontal group to close any lingering issues.
+An [horizontal group](../process/horizontal-groups.md) may label an horizontal issue as <span class="tag">[\*-needs-resolution](../github/issue-metadata.html#horizontal-reviews)</span>. The open <span class="tag">\*-needs-resolution</span> issue are listed on the [tracker boards](/PM/horizontal/). Note that the tracker monitors the horizontal group's **copy** of the issue. Before requesting a new Maturity level, the Working Group is advised to review the tracker and contact the horizontal group to close any lingering issues.
 
-### What happens to unresolved issues marked `*-needs-resolution`?
-
-As lead technical architect, the W3C Council is tasked (among many things) to assess consensus within W3C for architectural issues and to decide on the outcome of [Formal Objections](https://www.w3.org/policies/process/#FormalObjection). When a horizontal issue gets flagged as `*-needs-resolution` and a Group chooses to request a new Maturity level despite the lack of consensus with the horizontal group, it is the task of the W3C Team to assess the issue and the outcome of the request. A horizontal group MAY choose to elevate an horizontal issue as a Formal Objection to elevate further the importance of an issue per the W3C Process.
+If a Group chooses to [request a new Maturity level](../transitions/) despite the lack of consensus with the horizontal group, it is the task of the W3C Team to assess the issue and the outcome of the request. A horizontal group MAY choose to [register a formal objection](/policies/process/#registering-objections) to appeal the Working Group decision. As lead technical architect, the W3C Council is tasked (among many things) to assess consensus within W3C for architectural issues and to decide on the [outcome of Formal Objections](../council/council.html).
 
 In the case where an horizontal issue hasn’t been addressed and the document was allowed to move forward, it is recommended that the issue remains open in the horizontal group repository (it MAY get closed in the specification repository unless the W3C Team requests otherwise). Some issues may take years to get resolved, but that doesn’t mean those should be forgotten.
 
