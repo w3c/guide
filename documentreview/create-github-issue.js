@@ -66,7 +66,7 @@ async function createGitHubIssue(event) {
   const title = encodeURIComponent('Seek wide review');
   try {
     const body = encodeURIComponent(await generateGitHubIssueBody(repo));
-    window.open(`https://github.com/${repo.owner}/${repo.name}/issues/new?title=${title}&body=${body}`);
+    window.open(`https://github.com/${repo.owner}/${repo.name}/issues/new?title=${title}&body=${body}&labels=w3c,process`);
   } catch (error) {
     console.error('Error creating GitHub issue:', error);
     window.alert('Failed to create GitHub issue. Please try again later.');
