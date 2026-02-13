@@ -14,7 +14,7 @@ toc: false
 	</label>
 	<div class="field-hint" id="hint-shortname">You may use a TR shortname to find out your next step</div>
 	<input type="text" id="shortname" name="shortname" aria-describedby="hint-shortname" class="input-width-40"
-	minlength="3" maxlength="40" pattern="[-a-zA-Z0-9]{3,40}" list="w3ctr">
+	minlength="3" maxlength="40" list="w3ctr">
 	
 	<datalist id='w3ctr'>
 	</datalist>
@@ -60,7 +60,7 @@ toc: false
 	function getLatestSpec(shortname) {
 		return json(`${config.w3cAPI}/specifications/` + shortname).then(spec => {
 			const shortname = spec.shortname;
-			return spec["latest-version"].then(latest => {
+			return json(spec["_links"]["latest-version"].href).then(latest => {
 				latest.shortname = shortname;
 				return latest;
 			});
@@ -74,7 +74,7 @@ toc: false
 			specs.push(item);
 		}
 		return (specs.length > 0) ?
-			specs.map(s => s.shortname)
+			specs.map(s => s.href.split('/').at(-1))
 			: [];
 	}
 	
@@ -114,8 +114,10 @@ toc: false
 				// display a spec if we find one
 				getLatestSpec(s)
 				.then(spec => {
-					return spec.deliverers.then(deliverers => {
+					return json(spec._links.deliverers.href + "?embed=true").then(deliverers => {
+						deliverers = deliverers._embedded.deliverers;
 						spec.isGroupClosed = deliverers.reduce((a, c) => a && c["is_closed"], true);
+						spec.deliverers = deliverers;
 						return spec;
 					});
 				}).then(spec => {
@@ -238,19 +240,18 @@ toc: false
 					const obj = spec[key];
 					if (key === "deliverers") {
 						elt.innerHTML = "";
-						spec.deliverers.then(groups => {
-							for (let index = 0; index < groups.length; index++) {
-								let group = groups[index];
-								let a = document.createElement("a");
-								a.href = group._links.homepage.href;
-								a.textContent = group.name;
-								elt.appendChild(a);
-								if (group["is_closed"]) {
-									elt.appendChild(document.createTextNode(" (closed) "));
-								}
-								elt.appendChild(document.createTextNode(", "));
+						const groups = spec.deliverers
+						for (let index = 0; index < groups.length; index++) {
+							let group = groups[index];
+							let a = document.createElement("a");
+							a.href = group._links.homepage.href;
+							a.textContent = group.name;
+							elt.appendChild(a);
+							if (group["is_closed"]) {
+								elt.appendChild(document.createTextNode(" (closed) "));
 							}
-						});
+							elt.appendChild(document.createTextNode(", "));
+						}						
 					} else if (obj instanceof Promise) {
 						console.log("[Promise] " + key)
 					} else if (obj.startsWith("https://") || obj.startsWith("http://")) {
