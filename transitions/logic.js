@@ -218,6 +218,7 @@
       updateItem(document.getElementById("to-rec"), acEnd, false);
     }
   }
+  const fpwdElements = ['group_fpwd_decision', 'to-fpwd', "fpwd", "first-cfe", "reference-draft"];
   function removeFPWD() {
     trace("Remove FPWD dates");
     config.noFPWD = true;
@@ -225,8 +226,7 @@
     // compute all the dates that are using the REC as a base
     for (var index = 0; index < list.length; index++) {
       let li = list[index];
-      if (li.id === 'to-fpwd' || li.id === "fpwd"
-          || li.id === "first-cfe" || li.id === "reference-draft") {
+      if (fpwdElements.includes(li.id)) {
         li.setAttribute("hidden", "hidden");
       }
     }
@@ -241,8 +241,7 @@
     // compute all the dates that are using the REC as a base
     for (var index = 0; index < list.length; index++) {
       let li = list[index];
-      if (li.id === 'to-fpwd' || li.id === "fpwd"
-          || li.id === "first-cfe" || li.id === "reference-draft") {
+      if (fpwdElements.includes(li.id)) {
         li.removeAttribute("hidden");
       }
     }
@@ -411,11 +410,11 @@
     trace("New shortname " + shortname);
     if (shortname) {
        config.shortname = shortname;
-       document.querySelector("#noFPWD").checked = false;
+       document.querySelector("#noFPWD").checked = true;
        removeFPWD();
      } else {
        config.shortname = undefined;
-       document.querySelector("#noFPWD").checked = true;
+       document.querySelector("#noFPWD").checked = false;
        addFPWD();
      }
      onpushstate();
@@ -434,7 +433,7 @@
 			 }).then(first => {
 				return fetch(first.href).then(res => res.json());
 			}).then(spec => {
-        stext.textContent = spec.status;
+        stext.textContent = `${spec.status} (${spec.date})`;
         updateShortname(s, spec);
       }).catch(err => {
         stext.textContent = err.message;
