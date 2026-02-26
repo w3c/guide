@@ -29,7 +29,147 @@
           href: 'https://lists.w3.org/Archives/Public/spec-prod/'
         }]
       }],
-      xref: [ "i18n-glossary" ]
+      xref: [ "i18n-glossary" ],
+      localBiblio: {
+        "CHECKLINK": {
+          title: "W3C Link Checker",
+          href: "https://validator.w3.org/checklink",
+          publisher: "W3C"
+        },
+        "CHICAGO": {
+          title: "The Chicago Manual of Style",
+          href: "https://www.chicagomanualofstyle.org/home.html",
+          publisher: "The University of Chicago"
+        },
+        "CLICK-HERE": {
+          href: "https://www.w3.org/QA/Tips/noClickHere",
+          title: "Don't use \"click here\" as link text",
+          authors: [
+            "Aaron Swartz"
+          ],
+          publisher: "W3C Quality Assurance Activity",
+          date: "2001"
+        },
+        "CSSVALIDATE": {
+          title: "W3C CSS Validation Service",
+          href: "https://jigsaw.w3.org/css-validator/",
+          publisher: "W3C"
+        },
+        "GREGG": {
+          title: "The Gregg Reference Manual",
+          href: "https://www.mheducation.ca/product/the-gregg-reference-manual-9781264928033-can-group",
+          authors: [
+            "William A. Sabin",
+            "Linda C. Gardner",
+            "G. Wendy Strashok"
+          ],
+          publisher: "McGraw Hill"
+        },
+        "I18N-GUIDELINES": {
+          title: "Editorial guidelines for i18n docs",
+          href: "https://www.w3.org/International/i18n-activity/guidelines/editing"
+        },
+        "IPRFAQ": {
+          href: "https://www.w3.org/copyright/intellectual-rights/",
+          title: "Intellectual Property <abbr title='Frequently Asked Questions list'>FAQ</abbr>",
+          publisher: "W3C",
+          date: "2024"
+        },
+        "ISPELL": {
+          href: "https://www.cs.hmc.edu/~geoff/ispell.html",
+          title: "International Ispell",
+          authors: [
+            "G. Kuenning et al."
+          ]
+        },
+        "M-W": {
+          href: "https://www.merriam-webster.com/",
+          title: "Merriam-Webster's Collegiate Dictionary, Twelfth Edition",
+          publisher: "Merriam-Webster",
+          date: "2025"
+        },
+        "PERSISTENCE": {
+          title: "Persistence Policy",
+          href: "https://www.w3.org/policies/uri-persistence/",
+          authors: [
+            "T. Berners-Lee"
+          ],
+          publisher: "W3C",
+          date: "1999"
+        },
+        "PLURAL": {
+          href: "http://xml.coverpages.org/properSpellingForPluralOfDTD.html",
+          title: "Infrequently Asked Questions Concerning the Proper Spelling of 'DTD' in its Plural Form",
+          authors: [
+            "R. Cover"
+          ],
+          date: "Updated 4 January 2001 or later"
+        },
+        "PUBRULES": {
+          title: "Technical Report Publication Policy",
+          href: "https://www.w3.org/pubrules/doc",
+          authors: [
+            "The W3C Team"
+          ],
+          publisher: "W3C"
+        },
+        "REGISTER-1": {
+          title: "Register an Internet Media Type for a W3C Specification",
+          href: "https://www.w3.org/guide/editor/mediatypes",
+          authors: [
+            "Philippe le Hégaret"
+          ],
+          date: "2019"
+        },
+        "REGISTER-2": {
+          title: "TAG Position on Use of Unregistered Media Types in W3C Recommendations",
+          href: "https://lists.w3.org/Archives/Public/www-tag/2006Aug/0012",
+          authors: [
+            "N. Mendelsohn"
+          ],
+          date: "4 August 2006"
+        },
+        "SPEC-PROD": {
+          title: "Public archives of the <code>spec-prod@w3.org</code> mailing-list",
+          href: "https://lists.w3.org/Archives/Public/"
+        },
+        "STYLE-GUIDE": {
+          title: "Style Guide for Online Hypertext",
+          href: "https://www.w3.org/Provider/Style/",
+          authors: [
+            "T. Berners-Lee"
+          ],
+          publisher: "W3C",
+          date: "1992-1998"
+        },
+        "TITLES": {
+          title: "Please use titles, not addresses, as link text",
+          href: "https://lists.w3.org/Archives/Public/www-html-editor/2000JanMar/0103",
+          authors: [
+            "D. Connolly"
+          ],
+          date: "10 February 2000"
+        },
+        "TR": {
+          title: "W3C standards and drafts",
+          href: "https://www.w3.org/TR/",
+          publisher: "W3C"
+        },
+        "TRANSLATE": {
+          title: "Translations at W3C",
+          href: "https://www.w3.org/Consortium/Translation/",
+          publisher: "W3C"
+        },
+        "VALIDATE": {
+          title: "W3C Markup Validation Service",
+          href: "https://validator.w3.org/",
+          publisher: "W3C"
+        },
+        "WCAG-Overview": {
+          title: "WCAG 2 Overview",
+          href: "https://www.w3.org/WAI/standards-guidelines/wcag/"
+        }
+      }
     };
   </script>
 </head>
@@ -39,8 +179,7 @@
 <section id='abstract'>
 <p>This manual is a guide containing best current practice, written for editors and authors of W3C technical reports. No requirements
 for W3C publications are in this document. All requirements for W3C
-publications are in <a href="https://www.w3.org/pubrules/doc">W3C
-Publication Rules</a>.</p>
+publications are in W3C [[[PUBRULES]]].</p>
 </section>
 
 <section id="sotd">
@@ -50,11 +189,9 @@ Publication Rules</a>.</p>
 <h2>Introduction</h2>
 
 <p>Written for editors and authors of W3C technical reports, this
-document assumes that the reader is familiar with the <cite>Style Guide for Online
-Hypertext</cite> [<cite><a href=
-"#ref-STYLE-GUIDE">STYLE-GUIDE</a></cite>]. It is a companion to the
-REQUIRED <cite>Technical Report Publication
-Policy</cite> [<cite><a href="#ref-PUBRULES">PUBRULES</a></cite>],
+document assumes that the reader is familiar with the
+[[[STYLE-GUIDE]]] [[STYLE-GUIDE]]. It is a companion to the
+mandatory [[[PUBRULES]]] [[PUBRULES]],
 called "pubrules" for short. Following the advice in this manual has
 benefits:</p>
 
@@ -73,10 +210,7 @@ multiple "typo" reports.</li>
 reference material. Readability across a wide variety of browsers and
 platforms is far more important than using jazzy features. At some
 point, what we write becomes history and is preserved on the web
-through the W3C <cite><a href=
-"https://www.w3.org/policies/uri-persistence/">Persistence
-Policy</a></cite> [<cite><a href=
-"#ref-PERSISTENCE">PERSISTENCE</a></cite>].</p>
+through the W3C [[[PERSISTENCE]]] [[PERSISTENCE]].</p>
 </section>
 <section id="Validation">
 <h2>Validation</h2>
@@ -84,36 +218,32 @@ Policy</a></cite> [<cite><a href=
 <ul>
 <li>Make sure there are no broken links in your documents at the time
 of publication. Some services on the web may help you with this,
-including the <cite>W3C Link Checker</cite> [<cite><a href=
-"#ref-CHECKLINK">CHECKLINK</a></cite>]. Append ",checklink" to a W3C
+including the [[[CHECKLINK]]] [[CHECKLINK]]. Append ",checklink" to a W3C
 <abbr title="Uniform Resource Identifier">URI</abbr> to invoke the link
 checker.</li>
 
-<li>Make sure your technical report validates in the <cite>W3C Markup
-Validation Service</cite> [<cite><a href=
-"#ref-VALIDATE">VALIDATE</a></cite>]. Append ",validate" to a W3C
+<li>Make sure your technical report validates in the [[[VALIDATE]]]
+  [[VALIDATE]]. Append ",validate" to a W3C
 <abbr title="Uniform Resource Identifier">URI</abbr> to invoke the
 validator.</li>
 
-<li>Make sure your technical report validates in the <cite>W3C
-<abbr title="Cascading Style Sheets">CSS</abbr> Validation
-Service</cite> [<cite><a href=
-"#ref-CSSVALIDATE">CSSVALIDATE</a></cite>]. Append ",cssvalidate" to a
+<li>Make sure your technical report validates in the [[[CSSVALIDATE]]]
+[[CSSVALIDATE]]. Append ",cssvalidate" to a
 W3C <abbr title="Uniform Resource Identifier">URI</abbr> to invoke the
 <abbr title="Cascading Style Sheets">CSS</abbr> validator.</li>
 
 <li>Make sure any examples in your document validate as well.</li>
 </ul>
 
-<p><strong>Note.</strong> It is the editor's responsibility to ensure
+<p class="note">It is the editor's responsibility to ensure
 that documents are valid before requesting publication.</p>
 </section>
 <section id="Accessibility">
 <h2>Accessibility</h2>
 
 <ul>
-<li>Follow the <cite><a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines</a></cite>
-(<abbr>WCAG</abbr>). Can
+<li>Follow the [[[WCAG]]] [[WCAG]]. See also [[[WCAG-Overview]]]
+  [[WCAG-Overview]] for an introduction to the guidelines. Can
 simpler words express your ideas? Is your text marked up with
 structural elements? Are alternatives provided for auditory and visual
 content? See also <a href="https://www.w3.org/WAI/test-evaluate/">evaluation tools</a>.</li>
@@ -122,9 +252,9 @@ content? See also <a href="https://www.w3.org/WAI/test-evaluate/">evaluation too
 <section id="I18n">
 <h2>Internationalization</h2>
 
-<p>Follow the guidelines in <cite>Internationalization Best Practices for Spec Developers</cite> [[INTERNATIONAL-SPECS]] when producing your specification. You might also find it helpful to complete a <a href="https://www.w3.org/International/i18n-drafts/techniques/shortchecklist">self-review</a> early in the development process. If your specification touches on more complex issues, you can also reach out to the Internationalization Working Group for guidance.</p>
+<p>Follow the guidelines in [[[INTERNATIONAL-SPECS]]] [[INTERNATIONAL-SPECS]] when producing your specification. You might also find it helpful to complete a <a href="https://www.w3.org/International/i18n-drafts/techniques/shortchecklist">self-review</a> early in the development process. If your specification touches on more complex issues, you can also reach out to the Internationalization Working Group for guidance.</p>
 
-<p>Internationalization terminology, particularly terms related to Unicode, can be rather precise. To help avoid problems with the need to define these, import the [[Infra]] standard and [[I18N-GLOSSARY]]. Use the terms found in these documents instead of creating your own and link your use of these terms to the definitions found in these documents. Instructions on how to do this can be found in an appendix of the [[I18N-GLOSSARY]].</p>
+<p>Internationalization terminology, particularly terms related to Unicode, can be rather precise. To help avoid problems with the need to define these, import the [[[Infra]]] [[Infra]] standard and [[[I18N-GLOSSARY]]] [[I18N-GLOSSARY]]. Use the terms found in these documents instead of creating your own and link your use of these terms to the definitions found in these documents. Instructions on how to do this can be found in an appendix of the [[[I18N-GLOSSARY]]].</p>
 
 <section id="general-i18n">
 	<h3>Write for a global audience</h3>
@@ -135,7 +265,7 @@ content? See also <a href="https://www.w3.org/WAI/test-evaluate/">evaluation too
 		<li>Avoid idioms that are U.S.- or English-specific in favor of more descriptive language.</li>
 		<li>Choose examples that reflect a global audience. For example:
 		<ul>
-			<li>When creating user stories or other examples that feature people, choose example names that come from different cultures and regions. You can find suggestions <a href="https://www.w3.org/TR/international-specs/#personal_name_examples">here</a> in [[INTERNATIONAL-SPECS]].</li>
+			<li>When creating user stories or other examples that feature people, choose example names that come from different cultures and regions. You can find <a data-cite="INTERNATIONAL-SPECS#personal_name_examples">example names</a> in [[[INTERNATIONAL-SPECS]]] ([[INTERNATIONAL-SPECS]], section 10.3.5).</li>
 			<li>Choose more generic terms for field names, such as "postal code" instead of (U.S.-specific) "ZIP code" or "given name" instead of "first name".</li>
 		</ul>
 		<li>In general, use [=locale-neutral=] representations of data values, such as dates, numbers, currency values, and so forth.</li>
@@ -145,7 +275,7 @@ content? See also <a href="https://www.w3.org/WAI/test-evaluate/">evaluation too
 		<li id="Dates">For time and date values, choose an unambiguous representation:
 		<ul>
 			<li>For date values that appear in prose, spell out the month (for example, <kbd>6 May 2003</kbd> or <kbd>September 23, 2016</kbd>). All numeric dates such as <kbd translate="no">5/6/03</kbd> or <kbd translate="no">6/5/03</kbd> are ambiguous. Some cultures will read the first example as "June 5" while other cultures will read the second example as that date.</li>
-			<li>For date values that appear in data, use a format derived from ISO8601, such as those found in [[RFC3339]] or those found in <cite><a href="https://www.w3.org/TR/2004/REC-xmlschema-2-20041028/#date" title="Section 3.2.9 of the XML Schema Datatypes">XML Schema Part 2: Datatypes</a></cite> ([[XMLSchema-2]]).</li>
+			<li>For date values that appear in data, use a format derived from [[ISO8601]], such as those found in [[[RFC3339]]] [[RFC3339]] or those found in <a data-cite="XMLSchema-2#date" title="Section 3.2.9 of the XML Schema Datatypes">XML Schema Part 2: Datatypes</a></cite> ([[XMLSchema-2]], section 3.2.9).</li>
 		</ul></li>
 	</ul>
 </section>
@@ -153,7 +283,9 @@ content? See also <a href="https://www.w3.org/WAI/test-evaluate/">evaluation too
 <section id="Unicode">
 <h3>Unicode</h3>
 
-<p>Use <code translate="no">U+XXXX</code> syntax to represent [=Unicode code points=] in the specification. These are space separated when appearing in a sequence. No additional decoration is needed. Note that a [=code point=] may contain four, five, or six hexadecimal digits. When fewer than four digits are needed, the code point number is zero filled.</p>
+<p>Use <code translate="no">U+XXXX</code> syntax to represent [=Unicode code points=] in the specification. These are space separated when appearing in a sequence. No additional decoration is needed.</p>
+
+<p class="note">A [=code point=] may contain four, five, or six hexadecimal digits. When fewer than four digits are needed, the code point number is zero filled.</p>
 
 <aside class="example" title="Code point examples">
 	<table>
@@ -202,10 +334,8 @@ content? See also <a href="https://www.w3.org/WAI/test-evaluate/">evaluation too
 
 <section id="char_ref_template">
 <h5>Character naming template</h5>
-
-	<div class="xref"><span class="seealso">See also</span>
-	<p>[<a href="https://www.w3.org/International/i18n-activity/guidelines/editing#codepoints">I18N Editing Guidelines</a>].</p>
-	</div>
+<p>See also <a data-cite="I18N-GUIDELINES#codepoints">Codepoints</a> in
+[[[I18N-GUIDELINES]]] [[I18N-GUIDELINES]].</p>
 	
 <p>Internationalization specifications use (and we recommend the use of) this template for character references:</p>
 
@@ -225,7 +355,7 @@ content? See also <a href="https://www.w3.org/WAI/test-evaluate/">evaluation too
 <p>Produces output in the page like this: <span class="codepoint" translate="no"><bdi lang="fr">é</bdi><code class="uname">U+00E9 LATIN SMALL LETTER E WITH ACUTE</code></span>.</p>
 </aside>
 
-<p>Some notes about the markup used. The <code translate=no>bdi</code> element is used to ensure that example characters that are [=right-to-left=] do not interfere with the layout of the page. The <code translate=no>lang</code> attribute should be filled in with the most appropriate [[BCP47]] [=language tag=] to get the correct font selection (and other processing) for a given context. Examples in East Asian languages (such as Chinese, Japanese, or Korean) or in the Arabic script can sometimes require greater care in choosing a language tag.</p>
+<p class="note">The <code translate=no>bdi</code> element is used to ensure that example characters that are [=right-to-left=] do not interfere with the layout of the page. The <code translate=no>lang</code> attribute should be filled in with the most appropriate [[BCP47]] [=language tag=] to get the correct font selection (and other processing) for a given context. Examples in East Asian languages (such as Chinese, Japanese, or Korean) or in the Arabic script can sometimes require greater care in choosing a language tag.</p>
 
 </section>
 
@@ -239,22 +369,20 @@ translators and translations.</p>
 
 <ul>
 <li>A central translation page includes links to pages that document
-translations of particular specifications [<cite><a href=
-"#ref-TRANSLATE">TRANSLATE</a></cite>].</li>
+translations of particular specifications [[TRANSLATE]].</li>
 
-<li>Read the <cite>W3C Intellectual Property <abbr title=
-"Frequently Asked Questions list">FAQ</abbr></cite>, <cite><a href=
-"https://www.w3.org/copyright/intellectual-rights/#translate">Can I
-translate one of your specifications into another language?</a></cite>
-and <cite><a href=
-"https://www.w3.org/copyright/intellectual-rights/#official">Can I
-create the "official" translation?</a></cite> ([<cite><a href=
-"#ref-IPRFAQ">IPRFAQ</a></cite>] sections 5.6 and 5.7).</li>
+<li>Read the [[[IPRFAQ]]],
+<a data-cite="IPRFAQ#translate">Can I
+translate one of your specifications into another language?</a>
+and <a data-cite="IPRFAQ#official">Can I
+create the "official" translation?</a> ([[IPRFAQ]], sections 5.6 and 5.7).</li>
 </ul>
 
 
-<p>Make your specification more readable by adding markup to distinguish common words from keywords in your language. Mark up every occurrence. Use <code>translate="no"</code> as an attribute to communicate to translators that the keyword is part of the [=vocabulary=] of a formal language rather than part of the [=natural language=] text of the document. For example:</p>
-<pre class="html">
+<p>Make your specification more readable by adding markup to distinguish common words from keywords in your language. Mark up every occurrence. Use <code>translate="no"</code> as an attribute to communicate to translators that the keyword is part of the [=vocabulary=] of a formal language rather than part of the [=natural language=] text of the document.</p>
+
+<aside class="example" title="Distinguish formal and natural languages">
+<pre>
 &lt;p&gt;The title attribute of these elements may be used 
 to provide the full or expanded form of the expression.
 </pre>
@@ -267,13 +395,14 @@ to provide the full or expanded form of the expression.
 
 <p>A French translator would then know not to translate <em>title</em>
 to <em lang="fr">titre</em>.</p>
+</aside>
 
 <p>Do not invent elements to replace natural language. For example, do
-not use <code>&lt;must/&gt;</code> and a style sheet to render MUST.
+not use <code>&lt;must/&gt;</code> and a style sheet to render <em class="rfc2119">M<!--informative-->UST</em>.
 Other languages may need grammatical agreement with the sentence's
-subject, <span class="not-en">e.g.</span>, in French, MUST will become
-<em xml:lang="fr" lang="fr">DOIT</em> if the subject is singular, or
-<em xml:lang="fr" lang="fr">DOIVENT</em> if it is plural. Use standard
+subject, <span class="not-en">e.g.</span>, in French, <em class="rfc2119">M<!--informative-->UST</em> will become
+<em xml:lang="fr" lang="fr" class="rfc2119">DOIT</em> if the subject is singular, or
+<em xml:lang="fr" lang="fr" class="rfc2119">DOIVENT</em> if it is plural. Use standard
 markup instead.</p>
 </section>
 
@@ -282,22 +411,17 @@ markup instead.</p>
 <section id="Parts">
 <h2>The Parts of a Technical Report</h2>
 
-<p id="Template">As of November 2005, <a href=
-"https://www.w3.org/pubrules/doc">pubrules</a> [<cite><a href=
-"#ref-PUBRULES">PUBRULES</a></cite>] includes a technical report
-template.</p>
-
 <section id="Title">
 <h3>Document Title</h3>
 
 <p>The title of your document in the document head and on the technical
-reports index [<cite><a href="#ref-TR">TR</a></cite>] will read as
+reports index [[TR]] will read as
 follows. Optional elements are in square brackets.</p>
 
 <p>Title [(ACRONYM)] ["Specification"] ["Part" Part_Number] [:
 Subtitle] ["Module"] [(nth "Edition")] ["Version" Version_Number]</p>
 
-<p>See pubrules [<cite><a href="#ref-PUBRULES">PUBRULES</a></cite>] for
+<p>See pubrules [[PUBRULES]] for
 information about the use of "version" and "edition". "Level" and
 "revised" are deprecated. Try not to invent a new titling
 convention.</p>
@@ -353,7 +477,7 @@ audience.</p>
 
 <p>The "Status of This Document" section describes the document status
 and publication context on the publication date. Pubrules
-[<cite><a href="#ref-PUBRULES">PUBRULES</a></cite>] states the
+[[PUBRULES]] states the
 requirements for the status section of each type of technical report
 (<span class="not-en">e.g.</span>, use of customized and boilerplate text).</p>
 
@@ -363,8 +487,7 @@ avoid the word "new"). Indicate the anticipated stability of the
 document while recognizing that the future is unknown. Readers are
 responsible for discovering the latest status information (<span class=
 "not-en">e.g.</span>, by following the latest version link, or visiting
-the W3C standards and drafts index [<cite><a href=
-"#ref-TR">TR</a></cite>].</p>
+the W3C standards and drafts index [[TR]].</p>
 
 <p>The custom paragraph is very important as it actually contains
 information! In it, you should explain where a part of the energy of
@@ -410,7 +533,7 @@ specific version of a Recommendation does not, place the errata page
 <strong>outside</strong> of the <kbd>/TR</kbd> hierarchy. There is an
 expectation that documents in the "<abbr title=
 "technical report">TR</abbr> zone" will not evolve over time
-[<cite><a href="#ref-PERSISTENCE">PERSISTENCE</a></cite>]. For example,
+[[PERSISTENCE]]. For example,
 locate errata pages in the portion of the web space dedicated to the
 relevant Working Group or activity.</p>
 
@@ -426,25 +549,26 @@ errata).</li>
 <li>Where to find the latest version of the source document.</li>
 </ul>
 
-<p>For example (shown here without links):</p>
+<aside class="example" title="Front matter of an errata page">
+  <p>Shown here without links:</p>
+  <dl style="margin-left: 10%">
+  <dt>This document:</dt>
 
-<dl style="margin-left: 10%">
-<dt>This document:</dt>
+  <dd>https://www.w3.org/Style/css2-updates/REC-CSS2-19980512-errata</dd>
 
-<dd>https://www.w3.org/Style/css2-updates/REC-CSS2-19980512-errata</dd>
+  <dt>Last revised:</dt>
 
-<dt>Last revised:</dt>
+  <dd>$Date: 2016/07/10 16:55:10 $</dd>
 
-<dd>$Date: 2016/07/10 16:55:10 $</dd>
+  <dt>This document records known errors in the document:</dt>
 
-<dt>This document records known errors in the document:</dt>
+  <dd>https://www.w3.org/TR/1998/REC-CSS2-19980512</dd>
 
-<dd>https://www.w3.org/TR/1998/REC-CSS2-19980512</dd>
+  <dt>The latest version of the CSS 2 Recommendation:</dt>
 
-<dt>The latest version of the CSS 2 Recommendation:</dt>
-
-<dd>https://www.w3.org/TR/REC-CSS2</dd>
-</dl>
+  <dd>https://www.w3.org/TR/REC-CSS2</dd>
+  </dl>
+</aside>
 
 <p>On the errata page, list the newest entries nearer to the top.</p>
 
@@ -468,10 +592,9 @@ Recommendation is affected.</li>
 <li>Any proposed corrections and whether those corrections would affect
 conformance of documents or software</li>
 
-<li>Any normative corrections; see the section on <a href=
-"https://www.w3.org/policies/process/20231103/#errata">Errata
-Management</a> in the <cite>W3C Process Document</cite>
-([<cite><a href="#ref-PROCESS">PROCESS</a></cite>] section 6.2.4) for
+<li>Any normative corrections; see the section on
+<a data-cite="W3C-PROCESS#errata">Errata Management in the W3C Process Document</a>
+([[W3C-PROCESS]], section 6.2.4) for
 more information about normative corrections</li>
 </ol>
 
@@ -488,12 +611,6 @@ to be incorrect, just add another entry (with a cross reference).</p>
 <p>The <a href="https://www.specref.org/">SpecRef</a> tool, an open-source, community-maintained database of
 web standards &amp; related references, contains an exhaustive list of references.</p>
 
-<p>The <cite><a href=
-"http://www.w3.org/2002/01/tr-automation/tr-biblio-ui">W3C Bibliography
-Extractor</a></cite> [<cite><a href=
-"#ref-BIB-EXTRACT">BIB-EXTRACT</a></cite>] will automatically generate
-a list of references in W3C style.</p>
-
 </section>
 <section id="citation">
   <h3>Citation</h3>
@@ -502,7 +619,8 @@ a list of references in W3C style.</p>
 "Extensible Markup Language">XML</abbr>]") link at least the first mention of a source to the References
 section and take the form:</p>
 <pre>
-&lt;cite&gt;&lt;a href="http://www.example.org/example"&gt;Full Name&lt;/a&gt;&lt;/cite&gt; [&lt;cite&gt;&lt;a href="#ref-REFNAME"&gt;REFNAME&lt;/a&gt;&lt;/cite&gt;]
+&lt;cite&gt;&lt;a href="http://www.example.org/example"&gt;Full Name&lt;/a&gt;&lt;/cite&gt;
+[&lt;cite&gt;&lt;a href="#ref-REFNAME"&gt;REFNAME&lt;/a&gt;&lt;/cite&gt;]
 </pre>
 
 <p>Parentheses around square brackets can be omitted unless the
@@ -510,7 +628,9 @@ parentheses would contain a section number.</p>
 
 <p>References links occur at minimum at the first mention of the
 source. Spell out what the reference link refers to at least in the
-first occurrence, <span class="not-en">e.g.</span>,:</p>
+first occurrence:</p>
+
+<aside class="example" title="Spelling out what the reference links refers to">
 <pre>
 This is discussed in <cite>Namespaces in XML</cite> [XMLName].
 </pre>
@@ -524,6 +644,7 @@ This is discussed in the XML namespaces specification [XMLName].
 <pre>
 This is discussed in [XMLName].
 </pre>
+</aside>
 </section>
 <section id="linking-within">
   <h3>Citing a Reference From Within a Document</h3>
@@ -540,14 +661,11 @@ and indicate section, page, or whatever is useful for those when the
 link is unavailable (<span class="not-en">e.g.</span>, when printed).</li>
 </ol>
 
-<p>Thus, for example:</p>
-<pre>
-...as is done for the <a href=
-"https://www.w3.org/TR/css-ui-3/#outline"
-title=
-"Section 4.1 of ">'outline' property of CSS Basic User Interface Module Level 3</a> ([<cite><a href=
-"#ref-CSS3UI">CSS3UI</a></cite>], section 4.1).
-</pre>
+<aside class="example" title="Citing a section from an external document">
+  ...as is done for the
+  <a data-cite="css-ui-3#outline">'outline' property of CSS
+  Basic User Interface Module Level 3</a> ([[css-ui-3]], section 4.1).
+</aside>
 </section>
 <section id="ref-section">
   <h3>References Section</h3>
@@ -569,9 +687,9 @@ specific identifier. For example, usually you would link the title to
 <kbd>https://www.w3.org/TR/1999/REC-html401-19991224</kbd> rather than
 to <kbd>https://www.w3.org/TR/html4/</kbd>. For more information on
 using versioned and unversioned identifiers, refer to the
-<cite><a href="https://www.w3.org/TR/charmod/#sec-RefUnicode">Character
-Model for the World Wide Web 1.0: Fundamentals</a></cite>
-([[CHARMOD]] section 8).</li>
+<a data-cite="CHARMOD#sec-RefUnicode">Character
+Model for the World Wide Web 1.0: Fundamentals</a>
+([[CHARMOD]], section 8).</li>
 
 <li>An entry in a references section takes this form:
 
@@ -594,8 +712,7 @@ YYYY</li>
 <abbr title="Uniform Resource Identifier">URI</abbr></li>
 </ul>
 
-<p>Example:</p>
-
+<aside class="example" title="Reference entry">
 <dl>
 <dt>[XML1]</dt>
 
@@ -616,11 +733,12 @@ https://www.w3.org/TR/2006/REC-xml-20060816/. The &lt;a
 href="https://www.w3.org/TR/xml/"&gt;latest edition of XML 1.0&lt;/a&gt;
 is available at https://www.w3.org/TR/xml/.&lt;/dd&gt;
 </pre>
+</aside>
 </li>
 
 <li>Reference titles are recommended, not the "<abbr title=
 "Uniform Resource Identifier">URI</abbr>-in-your-face" idiom, as link
-text; see [<cite><a href="#ref-REF-TITLES">REF-TITLES</a></cite>]. For
+text; see [[TITLES]]. For
 example, <strong>Do use</strong>: <kbd>&lt;cite&gt;&lt;a
 href="https://www.w3.org/TR/2016/REC-html51-20161101/"&gt;HTML 5.1
 Specification&lt;/a&gt;&lt;/cite&gt;</kbd>. Do not use:
@@ -640,15 +758,13 @@ References</h3>
 <section id="Revisions">
   <h2>Revisions</h2>
 
-<p>See the <cite><a href=
-"https://www.w3.org/policies/process/20231103/#rec-modify">W3C Process
-Document</a></cite> ([<cite><a href="#ref-PROCESS">PROCESS</a></cite>]
-section 6.3.11) for instructions on modifying a W3C Recommendation.</p>
+<p>See the [[[W3C-PROCESS]]] ([[W3C-PROCESS]], section 6.3.10)
+for instructions on modifying a W3C Recommendation.</p>
 
-<p><strong>Note:</strong> When a document is revised, the original
+<p class="note">When a document is revised, the original
 publication date remains the same (and on the W3C standards and drafts index
-[<cite><a href="#ref-TR">TR</a></cite>] as well); see pubrules
-[<cite><a href="#ref-PUBRULES">PUBRULES</a></cite>] for more
+[[TR]] as well); see pubrules
+[[PUBRULES]] for more
 detail.</p>
 
 <p>Be careful not to break links in revisions. If your document uses
@@ -666,8 +782,7 @@ of your specification is always the definitive one, many editors find the use of
 to work with.</p>
 <p>The most popular editing tools are <a href='https://speced.github.io/bikeshed/'>Bikeshed</a> and <a href='https://github.com/speced/respec/wiki'>respec</a>.</p>
 <p>For help with this process, you can ask
-the experts on the public mailing list spec-prod@w3.org [<cite><a href=
-"#ref-SPEC-PROD">SPEC-PROD</a></cite>].</p>
+the experts on the public mailing list <code>spec-prod@w3.org</code> [[SPEC-PROD]].</p>
 
 </section>
 <section id="Normative">
@@ -689,7 +804,7 @@ the experts on the public mailing list spec-prod@w3.org [<cite><a href=
         To avoid repetition, each figure, example or note does not say this.
         <span id="consistent-expectations">Thus,
           to avoid breaking user expectations,
-          document editors <em class="rfc2119">MUST NOT</em> make any
+          document editors must not make any
           figure, example or note normative.</span>
       </li>
     </ul>
@@ -699,18 +814,16 @@ the experts on the public mailing list spec-prod@w3.org [<cite><a href=
   <h3><abbr title=
 "Request for Comments">RFC</abbr> 2119 Key Words</h3>
 
-<p>Adhere to and credit <cite><abbr title=
-"Request for Comments">RFC</abbr> 2119 Key words for use in
-<abbr title="Request for Comments">RFC</abbr>s to Indicate Requirement
-Levels</cite> [<cite><a href="#ref-KEYWORDS">KEYWORDS</a></cite>]
-(<span class="not-en">e.g.</span>, "<em class="rfc2119">MUST</em>", "<em class="rfc2119">MUST NOT</em>", "<em class="rfc2119">REQUIRED</em>").</p>
+<p>Adhere to and credit [[[RFC2119]]] [[RFC2119]]
+(<span class="not-en">e.g.</span>, "<em class="rfc2119">M<!--informative-->UST</em>", "<em class="rfc2119">M<!--informative-->UST NOT</em>", "<em class="rfc2119">R<!--informative-->EQUIRED</em>").</p>
 
 <p>When these key words are used in the <abbr title=
 "Request for Comments">RFC</abbr> sense, make them UPPERCASE, enclose
 them in the <code>em</code> element, and style them with <abbr title=
-"Cascading Style Sheets">CSS</abbr> class of rfc2119 to make the <em class=
+"Cascading Style Sheets">CSS</abbr> class of <code>rfc2119</code> to make the <em class=
 "RFC2119">UPPERCASE</em> readable.</p>
-<pre>
+
+<pre class="example" title="Using RFC 2119 key words">
 &lt;em title="MUST in RFC 2119 context"
        class="rfc2119"&gt;MUST&lt;/em&gt;
 
@@ -761,17 +874,10 @@ markup.</p>
 W3C <abbr title="Uniform Resource Identifier">URI</abbr> to invoke
 W3C's spell checker.</li>
 
-<li>Free dictionaries are also available on the <a title=
-"Ispell home page" href=
-"https://www.cs.hmc.edu/~geoff/ispell.html">Ispell home
-page</a> [<cite><a href="#ref-ISPELL">ISPELL</a></cite>] for UNIX and
-the <a title="Excalibur home page at Bucknell" href=
-"http://www.eg.bucknell.edu/~excalibr/excalibur.html">Excalibur home
-page</a> [<cite><a href="#ref-EXCAL">EXCAL</a></cite>] for Mac OS.</li>
+<li>Free dictionaries are also available on the [[[ISPELL]]] home page
+[[ISPELL]] for UNIX and Mac OS.</li>
 
-<li>W3C uses <cite>Merriam-Webster's
-Collegiate<sup><small>®</small></sup> Dictionary</cite>, 10th Edition
-[<cite><a href="#ref-M-W">M-W</a></cite>], on the web as the spelling
+<li>W3C uses [[[M-W]]] [[M-W]] on the web as the spelling
 arbiter because it is free, online, and available to every technical
 report author and editor. </li>
 
@@ -784,18 +890,15 @@ an apostrophe (<span class="not-en">e.g.</span>, the plural of
 <abbr title="Uniform Resource Identifier">URI</abbr> is <abbr title=
 "Uniform Resource Identifiers">URIs</abbr> not <abbr title=
 "Uniform Resource Identifiers">URI's</abbr>). See the FAQ
-<cite>"Infrequently Asked Questions Concerning the Proper Spelling of
-'DTD' in its Plural Form"</cite> [<cite><a href=
-"#ref-PLURAL">PLURAL</a></cite>].</li>
+[[[PLURAL]]] [[PLURAL]].</li>
 </ul>
 </section>
 <section id="Punctuation">
   <h3>Punctuation</h3>
 
 <ul>
-<li>Use correct punctuation. A hard copy of <cite>The Chicago Manual of
-Style</cite> or <cite>The Gregg Reference Manual</cite> may be of some
-help.</li>
+<li>Use correct punctuation. A hard copy of [[[CHICAGO]]] [[CHICAGO]] or
+  [[[GREGG]]] [[GREGG]] may be of some help.</li>
 
 <li>Remember you are typing <abbr title=
 "HyperText Markup Language">HTML</abbr> or <abbr title=
@@ -809,8 +912,7 @@ rather than grave accents and apostrophes to quote text (<span class=
   <h3>Case, Combining Words, and Hyphenation</h3>
 
 <ul>
-<li>Capitalize W3C entities to match the <cite>W3C Process
-Document</cite> [<cite><a href="#ref-PROCESS">PROCESS</a></cite>]
+<li>Capitalize W3C entities to match the [[[W3C-PROCESS]]] [[W3C-PROCESS]]
 (<span class="not-en">e.g.</span>, Working Group, Recommendation).</li>
 
 <li>Make the case, number of words, and hyphenation in terms match
@@ -863,9 +965,7 @@ content negotiation).</li>
 
 <ul>
 <li>Domains in examples adhere to section 3, "Reserved Example Second
-Level Domain Names," in <cite><abbr title=
-"Request for Comments">RFC</abbr> 2606</cite> [<cite><a href=
-"#ref-DOMAINS">DOMAINS</a></cite>]. Use the domains
+Level Domain Names," in [[[RFC2606]]] [[RFC2606]]. Use the domains
 <kbd>example.com</kbd>, <kbd>example.org</kbd>, and
 <kbd>example.net</kbd> for all examples. The Internet Assigned Numbers
 Authority (IANA) reserves them for this purpose. If you need an
@@ -875,8 +975,7 @@ class="not-en">e.g.</span>, <kbd>https://cats.example.org</kbd>).</li>
 <li>When not addressed by second level example domains, top level
 domains (<abbr title="top level domain">TLD</abbr>s) adhere to section
 2, "TLDs for Testing, &amp; Documentation Examples," in
-<cite><abbr title="Request for Comments">RFC</abbr> 2606</cite>
-[<cite><a href="#ref-DOMAINS">DOMAINS</a></cite>]. Use
+[[[RFC2606]]] [[RFC2606]]. Use
 <kbd>.test</kbd>, <kbd>.example</kbd>, <kbd>.invalid</kbd> or
 <kbd>.localhost</kbd>.</li>
 
@@ -884,18 +983,18 @@ domains (<abbr title="top level domain">TLD</abbr>s) adhere to section
 through routine validation.</li>
 
 <li>W3C publications are copyrighted by W3C, and W3C liability,
-trademark and document use rules apply. Note that in general, one
+trademark and document use rules apply.
+<p class="note">In general, one
 should not use material (text, photo, audio) in examples when the
 copyright is not held by W3C. If the group wishes to publish
-copyrighted materials, it should contact the Team legal staff (team-legal@w3.org).</li>
+copyrighted materials, it should contact the Team legal staff (team-legal@w3.org).</p></li>
 
 <li>
 <p>Use <abbr title="Cascading Style Sheets">CSS</abbr> with
 <code>div</code> elements to mark up examples, as is done in the
-<a href="https://html.spec.whatwg.org/multipage/semantics.html#document-metadata"
+<a data-cite="HTML/semantics.html#document-metadata"
 title="Section 4.2. Document metadata">HTML Living Standard</a>
-([<cite><a href="#ref-HTML">HTML</a></cite>], section
-4.2):</p>
+([[HTML]], section 4.2):</p>
 </li>
 </ul>
 
@@ -963,9 +1062,7 @@ difference.</li>
 
 <li>Links with the anchor text "Click here" provide no context. The
 visitor may become lost not knowing where "here" is. See also
-<cite><a href="https://www.w3.org/QA/Tips/noClickHere">Don't use "click
-here" as link text</a></cite> [<cite><a href=
-"#ref-CLICK-HERE">CLICK-HERE</a></cite>].</li>
+[[[CLICK-HERE]]] [[CLICK-HERE]].</li>
 
 <li>Mark up data <code>table</code> headers with <code>th</code> not by
 bolding a <code>td</code>.</li>
@@ -1025,11 +1122,9 @@ warning about:</p>
   <h2>Internet Media Types</h2>
 
 <ul>
-<li>For information about defining a new Internet media type (formerly known as <abbr title="Multipurpose Internet Mail Extensions">MIME</abbr> type) in your specification, see <cite><a href=
-"https://www.w3.org/guide/editor/mediatypes">Register an Internet Media Type for a W3C Specification</a></cite> [<cite><a href="#ref-REGISTER-1">REGISTER-1</a></cite>].</li>
+<li>For information about defining a new Internet media type (formerly known as <abbr title="Multipurpose Internet Mail Extensions">MIME</abbr> type) in your specification, see [[[REGISTER-1]]] [[REGISTER-1]].</li>
 
-<li>For information about referring to existing Internet media types (registered or not), see the email message <cite><a href=
-"https://lists.w3.org/Archives/Public/www-tag/2006Aug/0012">TAG Position on Use of Unregistered Media Types in W3C Recommendations</a></cite> [<cite><a href="#ref-REGISTER-2">REGISTER-2</a></cite>].</li>
+<li>For information about referring to existing Internet media types (registered or not), see the email message [[[REGISTER-2]]] [[REGISTER-2]].</li>
 </ul>
 
 </section>
@@ -1073,8 +1168,7 @@ verb</dd>
 
 <dt><abbr title="document type definition">DTDs</abbr></dt>
 
-<dd>no apostrophe (see [<cite><a href=
-"#ref-PLURAL">PLURAL</a></cite>])</dd>
+<dd>no apostrophe [[PLURAL]]</dd>
 
 <dt>dingbat</dt>
 
@@ -1149,7 +1243,7 @@ headers.</dd>
 
 <dt>namespace</dt>
 
-<dd>lowercase unless referring to the <cite>Namespaces in XML</cite>
+<dd>lowercase unless referring to the [[[xml-names]]] [[xml-names]]
 specification by name</dd>
 
 <dt><span class="UnicodeName">number sign</span> (#)</dt>
@@ -1221,8 +1315,7 @@ Reference or <abbr title=
 
 <dt><abbr title="Uniform Resource Identifiers">URIs</abbr></dt>
 
-<dd>no apostrophe (see [<cite><a href=
-"#ref-PLURAL">PLURAL</a></cite>])</dd>
+<dd>no apostrophe [[PLURAL]]</dd>
 
 <dt>user agent</dt>
 
@@ -1310,247 +1403,6 @@ and François Yergeau (Alis Technologies)
 all contributed valuable comments.</li>
 </ul>
 </section>
-<section id="REF">
-  <h2>References</h2>
-
-<dl class="ref">
-
-<dt id="ref-BIB-EXTRACT">[BIB-EXTRACT]</dt>
-
-<dd><a href="https://www.w3.org/2002/01/tr-automation/tr-biblio-ui">W3C
-Bibliography Extractor</a>, Dominique Hazaël-Massieux, 2003. This tool
-is online at
-https://www.w3.org/2002/01/tr-automation/tr-biblio-ui.</dd>
-
-<dt id="ref-CHARNAMES">[CHARNAMES]</dt>
-
-<dd><a href=
-"https://lists.w3.org/Archives/Public/www-international/2001JulSep/0133.html">
-Unicode character names</a>, M. Davis, M. Dürst, et al., 25-27 August
-2001. This email thread is online at
-https://lists.w3.org/Archives/Public/www-international/2001JulSep/thread.html#133.</dd>
-
-<dt id="ref-CHARTS">[CHARTS]</dt>
-
-<dd><a href="http://www.unicode.org/charts/About.html">About the Online
-Code Charts</a>, <cite>The Unicode Standard</cite>, Version 1.1 or
-later. The Unicode Consortium, 2001. Unicode code charts are online at
-http://www.unicode.org/charts/About.html.</dd>
-
-<dt id="ref-CHECKLINK">[CHECKLINK]</dt>
-
-<dd><a href="https://validator.w3.org/checklink">W3C Link Checker</a>,
-W3C. This service is online at
-https://validator.w3.org/checklink.</dd>
-
-<dt id="ref-CLICK-HERE">[CLICK-HERE]</dt>
-
-<dd><a href="https://www.w3.org/QA/Tips/noClickHere">Don't use "click
-here" as link text</a>, Aaron Swartz. W3C Quality Assurance Activity, 2001. This QA tip is
-online at https://www.w3.org/QA/Tips/noClickHere.</dd>
-
-<dt id="ref-CSSVALIDATE">[CSSVALIDATE]</dt>
-
-<dd><a href="https://jigsaw.w3.org/css-validator/">W3C CSS Validation
-Service</a>, W3C. This service is online at
-https://jigsaw.w3.org/css-validator.</dd>
-
-<dt id="ref-DOMAINS">[DOMAINS]</dt>
-
-<dd><cite><a href="https://www.ietf.org/rfc/rfc2606.txt">Reserved Top
-Level DNS Names</a></cite>, D. Eastlake, and A. Panitz. The Internet
-Society, June 1999. This <abbr title="Request for Comments">RFC</abbr>
-is available at https://www.ietf.org/rfc/rfc2606.txt.</dd>
-
-<dt id="ref-EDITORS">[EDITORS]</dt>
-
-<dd><a href="https://www.w3.org/guide/editor/">W3C Editors Home
-Page</a>, 2024. This list of resources for editors is online at
-https://www.w3.org/guide/editor/.</dd>
-
-<dt id="ref-GRM">[GRM]</dt>
-
-<dd><a href="http://www.glencoe.com/ps/grm/faqs/">Frequently Asked
-Questions</a>, <cite>The Gregg Reference Manual Instructor Site</cite>,
-Glencoe/McGraw-Hill, 2000. This FAQ is online at
-http://www.glencoe.com/ps/grm/faqs.</dd>
-
-<dt id="ref-IPRFAQ">[IPRFAQ]</dt>
-
-<dd><a href=
-"https://www.w3.org/copyright/intellectual-rights/">Intellectual
-Property FAQ</a>, W3C, 2024. The latest version of this
-document is https://www.w3.org/copyright/intellectual-rights/.</dd>
-
-<dt id="ref-KEYWORDS">[KEYWORDS]</dt>
-
-<dd><cite><a href="https://www.ietf.org/rfc/rfc2119.txt">Key words for
-use in RFCs to Indicate Requirement Levels</a></cite>, S. Bradner. The
-Internet Society, March 1997. This <abbr title=
-"Request for Comments">RFC</abbr> is available at
-https://www.ietf.org/rfc/rfc2119.txt.</dd>
-
-<dt id="ref-M-W">[M-W]</dt>
-
-<dd><cite><a href="https://www.merriam-webster.com/">Merriam-Webster OnLine:
-Collegiate Dictionary</a></cite>, 10th Edition. Merriam-Webster,
-Incorporated, 2000. This book is online at https://www.merriam-webster.com/.</dd>
-
-<dt id="ref-MANAGE">[MANAGE]</dt>
-
-<dd><cite><a href="https://www.w3.org/MarkUp/SGML/spec-mgmt">Document
-Management for Web Specs</a></cite>, D. Connolly. W3C, 1995-1999. This
-guide is online at http://www.w3.org/MarkUp/SGML/spec-mgmt.</dd>
-
-<dt id="ref-PERSISTENCE">[PERSISTENCE]</dt>
-
-<dd><cite><a href=
-"https://www.w3.org/policies/uri-persistence/">Persistence
-Policy</a></cite>, T. Berners-Lee, 1999. This policy is online at
-https://www.w3.org/policies/uri-persistence/.</dd>
-
-<dt id="ref-PLURAL">[PLURAL]</dt>
-
-<dd><a href=
-"http://xml.coverpages.org/properSpellingForPluralOfDTD.html">Infrequently
-Asked Questions Concerning the Proper Spelling of 'DTD' in its Plural
-Form</a>, R. Cover, updated 4 January 2001 or later. This document is
-online at
-http://xml.coverpages.org/properSpellingForPluralOfDTD.html.</dd>
-
-<dt id="ref-PROCESS">[PROCESS]</dt>
-
-<dd><cite><a href="https://www.w3.org/policies/process/20231103/">World
-Wide Web Consortium Process Document</a></cite>, Elika J. Etemad / fantasai,
-Florian Rivoal, Editors.
-W3C, 3 November 2023. The latest version of this document is
-https://www.w3.org/policies/process/.</dd>
-
-<dt id="ref-PRONOUNS">[PRONOUNS]</dt>
-
-<dd><a href=
-"https://lists.w3.org/Archives/Public/www-international/2000AprJun/0058">
-Personal pronouns in specifications</a>, M. Dürst, 13 May 2000. This
-email message is online at
-https://lists.w3.org/Archives/Public/www-international/2000AprJun/0058.</dd>
-
-<dt id="ref-PUBRULES">[PUBRULES]</dt>
-
-<dd><cite><a href="https://www.w3.org/pubrules/doc">Technical Report
-Publication Policy</a></cite>, the W3C Team. W3C,
-2000-2025. This document is online at
-https://www.w3.org/pubrules/doc.</dd>
-
-<dt id="ref-REF-TITLES">[REF-TITLES]</dt>
-
-<dd><a href=
-"https://lists.w3.org/Archives/Public/www-html-editor/2000JanMar/0103">please
-use titles, not addresses, as link text</a>, D. Connolly, 10 February
-2000. This email message is online at
-https://lists.w3.org/Archives/Public/www-html-editor/2000JanMar/0103.</dd>
-
-<dt id="ref-REGISTER-1">[REGISTER-1]</dt>
-
-<dd><a href=
-"https://www.w3.org/guide/editor/mediatypes">Register an Internet Media Type for a W3C Specification</a>, Philippe Le Hégaret, 2019. This Web page is online at
-"https://www.w3.org/guide/editor/mediatypes.</dd>
-
-<dt id="ref-REGISTER-2">[REGISTER-2]</dt>
-
-<dd><a href=
-"https://lists.w3.org/Archives/Public/www-tag/2006Aug/0012">TAG Position on Use of Unregistered Media Types in W3C Recommendations</a>, N. Mendelsohn, 4 August 2006. This email message is online at
-https://lists.w3.org/Archives/Public/www-tag/2006Aug/0012.</dd>
-
-<dt id="ref-SPEC-PROD">[SPEC-PROD]</dt>
-
-<dd>spec-prod@w3.org. W3C, 1998-2001. <a href=
-"https://lists.w3.org/Archives/Public/">Subscribe</a> to this public mailing
-list at https://lists.w3.org/Archives/Public/ and view its <a href=
-"https://lists.w3.org/Archives/Public/spec-prod/">archive</a> at
-https://lists.w3.org/Archives/Public/spec-prod/.</dd>
-
-<dt id="ref-STYLE-GUIDE">[STYLE-GUIDE]</dt>
-
-<dd><cite><a href="https://www.w3.org/Provider/Style/">Style Guide for
-Online Hypertext</a></cite>, T. Berners-Lee. 1992-1998. This guide is
-online at https://www.w3.org/Provider/Style.</dd>
-
-<dt id="ref-TR">[TR]</dt>
-
-<dd><a href="https://www.w3.org/TR/">W3C standards and drafts</a>, W3C, 1995-2024. This web page is online at
-https://www.w3.org/TR.</dd>
-
-<dt id="ref-TRANSLATE">[TRANSLATE]</dt>
-
-<dd><a href="https://www.w3.org/Consortium/Translation/">Translations at
-W3C</a>, W3C, 1997-2003. This Web page is online at
-https://www.w3.org/Consortium/Translation.</dd>
-
-<dt id="ref-VALIDATE">[VALIDATE]</dt>
-
-<dd><a href="https://validator.w3.org/">W3C Markup Validation
-Service</a>, 1994-2013. This service is online at
-https://validator.w3.org.</dd>
-
-</dl>
-</section>
-<section id="External">
-  <h3>External Links</h3>
-
-<p>The prose links to the following references as illustrations. They
-are informative, listed here for print use.</p>
-
-<dl>
-<dt id="ref-CSS3UI">[CSS3UI]</dt>
-
-<dd><cite><a href=
-"https://www.w3.org/TR/css-ui-3/#outline">CSS Basic User Interface Module Level 3 (CSS3 UI) section 4.1</a></cite>, Tantek Çelik,
-Florian Rivoal, Editors. W3C, 2018. This example is online at
-https://www.w3.org/TR/css-ui-3/#outline.</dd>
-
-<dt id="ref-EXCAL">[EXCAL]</dt>
-
-<dd><a href=
-"http://www.eg.bucknell.edu/~excalibr/excalibur.html">Excalibur</a>, R.
-Zaccone, 2001. The Excalibur home page is
-http://www.eg.bucknell.edu/~excalibr/excalibur.html.</dd>
-
-<dt id="ref-HTML">[HTML]</dt>
-
-<dd><cite><a href="https://www.w3.org/TR/2016/REC-html51-20161101/">HTML 5.1</a></cite>.
-Steve Faulkner, et al., Editors, W3C, 2016. The <a href="https://www.w3.org/TR/html/">latest version of the HTML</a> is available at https://www.w3.org/TR/html/.</dd>
-
-<dt id="ref-ISPELL">[ISPELL]</dt>
-
-<dd><a href=
-"https://www.cs.hmc.edu/~geoff/ispell.html">International
-Ispell</a>, G. Kuenning et al. 1971-2001. The Ispell home page is
-https://www.cs.hmc.edu/~geoff/ispell.html.</dd>
-
-<dt id="ref-SCHEMA-DATATYPES">[SCHEMA-DATATYPES]</dt>
-
-<dd><cite><a href=
-"https://www.w3.org/TR/2001/REC-xmlschema-2-20010502/#date">XML Schema
-Part 2: Datatypes sections 3.2.9 through 3.2.14.1</a></cite>, P. V.
-Biron, and A. Malhotra, Editors. W3C, 2001. The <a href=
-"https://www.w3.org/TR/xmlschema-2/">latest version of XML Schema:
-Datatypes</a> is available at https://www.w3.org/TR/xmlschema-2.</dd>
-
-
-<dt id="ref-XML">[XML]</dt>
-
-<dd><cite><a href=
-"https://www.w3.org/TR/2006/REC-xml-20060816/#sec-comments">Extensible
-Markup Language (XML) 1.0 (Fourth Edition) section 2.5</a></cite>, T. Bray, J. Paoli, E. Maler, C. M. Sperberg-McQueen, F. Yergeau, Editors. W3C,
-2006. This example is online at
-https://www.w3.org/TR/2006/REC-xml-20060816/#sec-comments.</dd>
-
-<dt id="ref-XML1">[XML1]</dt>
-
-<dd><cite><a href="https://www.w3.org/TR/2006/REC-xml-20060816/">Extensible Markup Language (XML) 1.0 (Fourth Edition)</a></cite>, T. Bray, J. Paoli, E. Maler, C. M. Sperberg-McQueen, F. Yergeau, Editors. World Wide Web Consortium, 16 August 2006, edited in place 29 September 2006. This edition of the XML 1.0 Recommendation is https://www.w3.org/TR/2006/REC-xml-20060816/. The <a href="https://www.w3.org/TR/xml/">latest edition of XML 1.0</a> is available at https://www.w3.org/TR/xml/.</dd>
-</dl>
-</section>
-
 <script>
 // get list of bad terms
 fetch("https://www.w3.org/pubrules/badterms.json").then(res => res.json()).then(terms => {
