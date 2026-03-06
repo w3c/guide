@@ -29,7 +29,7 @@ A [Selection Process](https://www.w3.org/2010/07/potential-pas.html) for handlin
 
 * [PAS on Web Services](https://www.w3.org/2010/08/ws-pas.html) (SOAP 1.2, MTOM, WS Addr and WS Policy)  -- Sent 21 Jan 2011, approved 25 July 2011.
 
-* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/tr/WCAG20/) -- [announced as approved](https://www.w3.org/news/2012/web-content-accessibility-guidelines-wcag-20-approved-as-isoiec-international-standard/)15 October 2012.
+* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) -- [announced as approved](https://www.w3.org/news/2012/web-content-accessibility-guidelines-wcag-20-approved-as-isoiec-international-standard/)15 October 2012.
 
 * [MathML 3.0](https://www.w3.org/TR/MathML3/) -- [approved early 2015](https://www.w3.org/news/2015/mathml-3-0-becomes-isoiec-international-standard/).
 
