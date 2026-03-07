@@ -81,15 +81,15 @@ The following is a quick overview of what happens and who is in charge, as well 
 
   For more details about a submission package, W3C Staff can review [`2025/12/ISO-submission-package-wcag-22-20241212/`](https://cvsweb.w3.org/Team/WWW/2025/12/ISO-submission-package-wcag-22-20241212/).
 
-* W3C sends the submission package to the JTC1 Secretariat (Lisa Rajchel) as expressed by our PAS Mentor
+* W3C sends the submission package to the JTC1 Secretariat (Lisa Rajchel) as expressed by our PAS Mentor.
 
-* ISO/JTC1 initiates the translation phase for all national bodies to make the proposed specification available in their language (8-week period)
+* ISO/JTC1 initiates the translation phase for all national bodies to make the proposed specification available in their language (8-week period).
 
-* ISO/JTC1 initiates the DIS ballot (12-week period)
+* ISO/JTC1 initiates the DIS ballot (12-week period).
 
-* ISO/JTC1 distributes the balloting comments to W3C
+* ISO/JTC1 distributes the balloting comments to W3C.
 
-* W3C addresses these comments, ideally with no changes to the specification, and sends them back to ISO/JTC1 Secretariat (Lisaa Rajchel)
+* W3C addresses these comments, ideally with no changes to the specification, and sends them back to ISO/JTC1 Secretariat (Lisa Rajchel).
 
 * W3C and ISO/JTC1 coordinate on publication and announcements, including:
 
