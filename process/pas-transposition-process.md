@@ -39,7 +39,7 @@ A [Selection Process](https://www.w3.org/2010/07/potential-pas.html) for handlin
 
 ## W3C Royalty-Free patent policy and ISO/IEC patent policy
 
-W3C Recommendations benefit from Royalty-Free licensing commitments, while JTC 1 has a RAND patent policy. Since RF is a special case of RAND where the only applicable Reasonable fee is zero, we do not foresee any issue here. W3C specifications will continue to be subject to the [W3C Patent Policy](https://www.w3.org/policies/patent-policy/).
+W3C Recommendations benefit from Royalty-Free (RF) licensing commitments, while JTC 1 has a Reasonable and Non-Discriminatory (RAND) patent policy. Since RF is a special case of RAND, where the only applicable reasonable fee is zero, we do not foresee any conflict here. W3C specifications will continue to be subject to the [W3C Patent Policy](https://www.w3.org/policies/patent-policy/).
 
 Beyond patents, W3C's [PAS submitter application](https://www.w3.org/2010/03/w3c-pas-submission.html) also addresses how we expect to manage copyright, maintenance, dissemination, testing, translations, co-branding, and so on.
 
