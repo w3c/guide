@@ -43,13 +43,13 @@ W3C Recommendations benefit from Royalty-Free (RF) licensing commitments, while 
 
 Beyond patents, W3C's [PAS submitter application](https://www.w3.org/2010/03/w3c-pas-submission.html) also addresses how we expect to manage copyright, maintenance, dissemination, testing, translations, co-branding, and so on.
 
-## To-dos before submitting a W3C spec to ISO
+## Preparation to submit a W3C spec to ISO
 
-* **Determine committee** -- specifications can be submitted directly to ISO/JTC1 or to any of their sub committees, mainly depending on scope.
+* **Determine committee** — Specifications can be submitted directly to ISO/JTC1 or to any of their sub-committees, mainly depending on scope.
 
-* **Spec maintainer** -- W3C would likely want to retain maintainer rights for all the specification we submit, so we need to make it clear  in the explanatory report.
+* **Spec maintainer** — W3C would likely want to retain maintainer rights for all the specifications we submit, which we would need to make clear in the explanatory report.
 
-* **Ensure wide review** -- IF the ISO/JTC1 national balloting ends up with comments that lead to changes to our specification (even if they are editorial) we may be forced to start the whole process again. This is why ensuring appropriate wide review and support for our specifications to become ISO standards is crucial before submitting.
+* **Ensure wide review** — If the ISO/JTC1 national balloting produces comments that lead to changes in W3C specifications (even if they are editorial), the whole process may need to be restarted. This is why it is crucial to ensure appropriately wide review and support for W3C specifications to become ISO standards before submission.
 
 ## PAS transposition process steps
 
