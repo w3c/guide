@@ -17,25 +17,25 @@ A [Selection Process](https://www.w3.org/2010/07/potential-pas.html) for handlin
 
 ## Benefits for the W3C community
 
-* **Enhanced reputation** -- As an internationally recognized standards organization, having our specifications become part of the ISO catalog may help them be more recognized.
+* **Enhanced reputation** — As an internationally recognized standards organization, having W3C specifications become part of the ISO catalog may help them be more recognized.
 
-* **Increased adoption** -- Incorporating W3C specifications that become ISO standards is the only method for some regions to refer to W3C specifications in their policies and regulations.
+* **Increased adoption** — Incorporating W3C specifications into ISO standards is the only method for some regions to refer to W3C specifications in their policies and regulations.
 
-* **Improved coordination** -- Sometimes it's difficult to include all relevant stakeholders in W3C's review processes.  The PAS gives us the opportunity to get review from other experts in ISO/JTC1 sub committees.
+* **Improved coordination** — Sometimes it's difficult to include all relevant stakeholders in W3C review processes.  The PAS gives the W3C the opportunity to get reviews from other experts in ISO/JTC1 sub committees.
 
-* **Robustness and interoperability** -- Having W3C specifications go through thorough review by national bodies and other experts contributes to more global interoperability.
+* **Robustness and interoperability** — Having W3C specifications go through thorough review by international bodies and other experts contributes to more global interoperability.
 
 ## Submitted specifications
 
-* [PAS on Web Services](https://www.w3.org/2010/08/ws-pas.html) (SOAP 1.2, MTOM, WS Addr and WS Policy)  -- Sent 21 Jan 2011, approved 25 July 2011.
+* [PAS on Web Services](https://www.w3.org/2010/08/ws-pas.html) (SOAP 1.2, MTOM, WS Addr and WS Policy) — Sent 21 Jan 2011, approved 25 July 2011.
 
-* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) -- [announced as approved](https://www.w3.org/news/2012/web-content-accessibility-guidelines-wcag-20-approved-as-isoiec-international-standard/)15 October 2012.
+* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) — [announced as approved](https://www.w3.org/news/2012/web-content-accessibility-guidelines-wcag-20-approved-as-isoiec-international-standard/) 15 October 2012.
 
-* [MathML 3.0](https://www.w3.org/TR/MathML3/) -- [approved early 2015](https://www.w3.org/news/2015/mathml-3-0-becomes-isoiec-international-standard/).
+* [MathML 3.0](https://www.w3.org/TR/MathML3/) — [approved early 2015](https://www.w3.org/news/2015/mathml-3-0-becomes-isoiec-international-standard/).
 
-* [EPUB](https://www.w3.org/TR/epub/) --  [updated in 2025](https://www.iso.org/standard/53255.html).
+* [EPUB](https://www.w3.org/TR/epub/) — [updated in 2025](https://www.iso.org/standard/53255.html).
 
-* [WCAG 2.2](https://www.w3.org/TR/WCAG22/)--  was [Updated in 2025](https://www.iso.org/standard/91029.html).
+* [WCAG 2.2](https://www.w3.org/TR/WCAG22/) — [updated in 2025](https://www.iso.org/standard/91029.html).
 
 ## W3C Royalty-Free patent policy and ISO/IEC patent policy
 
