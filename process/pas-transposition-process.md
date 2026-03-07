@@ -99,8 +99,8 @@ The following is a quick overview of what happens and who is in charge, as well 
 
 ## What can be done to make the ISO/W3C collaboration even more productive ?
 
-There may be ways to make it even easier for a W3C Specification to move to the PAS process. For instance, both W3C and ISO have specific timelines for review as part of their respective processes, often done by overlapping sets of experts, e.g. W3C members being active in their national ISO organization. We may wish to synchronize those reviews (which, under current processes, take place at different times). This sort of optimization might require some changes to the W3C process, but more experience and discussion would be required before any changes are proposed.
+There may be ways to make it even easier for a W3C Specification to move to the PAS process. For instance, both W3C and ISO have specific timelines for review as part of their respective processes, often performed by overlapping sets of experts, e.g., W3C members who are also active in their national ISO organization. We may wish to synchronize those reviews (which take place at different times, under current processes). This sort of optimization might require some changes to the W3C process, but more experience and discussion would be required before any changes are proposed.
 
-On a practical side, W3C already engages in lots of [liaisons](../../liaisons/) between ISO committees and W3C Working Groups.
+On a practical side, W3C already engages in a number of [liaisons](../../liaisons/) between ISO committees and W3C Working Groups.
 
-Automating the conversion process so that we can go directly from our HTML format to the PDF ISO wants would be desirable to facilitate the editorial work around manual conversion. There is conversation about offering more automation on the ISO part, but there's no definitive conclusions as to how this would look like or when this would be available.
+It would be desirable automate the conversion process from our HTML format to the PDF ISO wants, to ease the editorial work around manual conversion. We are in conversation about adding more automation to the ISO part, but we've reached no conclusion as to what this would look like nor when this would be available.
