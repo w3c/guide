@@ -93,9 +93,9 @@ The following is a quick overview of what happens and who is in charge, as well 
 
 * W3C and ISO/JTC1 coordinate on publication and announcements, including:
 
-  * Proposed wording from W3C to strengthen alignment between the newly adopted ISO standard and W3C mission, principles and values
+  * Proposed wording from W3C to strengthen alignment between the newly adopted ISO standard and W3C mission, principles and values.
 
-  * Availability of the specification -- Free from W3C TR space and likely free From ISO catalog as per [ISO/IEC 40500:2025](https://www.iso.org/standard/91029.html)
+  * Availability of the specification -- Free from W3C TR space and likely free from ISO catalog as per [ISO/IEC 40500:2025](https://www.iso.org/standard/91029.html).
 
 ## What can be done to make the ISO/W3C collaboration even more productive ?
 
