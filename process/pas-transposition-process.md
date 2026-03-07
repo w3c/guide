@@ -65,21 +65,21 @@ The following is a quick overview of what happens and who is in charge, as well 
 
   * [Alignment of W3C Editorial guidelines with ISO Directives (part 2) expressed in SD9](https://lists.w3.org/Archives/Team/team-liaisons/2025Jun/0003.html)
 
-* W3C prepares the submission package according to instructions of SD9 and other considerations discussed with the PAS Mentor. The submission package includes:
+* W3C prepares the submission package according to the instructions of SD9 and other considerations discussed with the PAS Mentor. The submission package includes:
 
-  * An A4 Microsoft Word copy of our HTML-based, with:
+  * An A4 Microsoft Word copy of our HTML-based document, with:
 
     * Consistent formatting,
 
-    * Internal links pointing to the Word document itself instead of the W3C spec (including ToC, definitions, URI fragments, etc) 
+    * Internal links pointing to the Word document itself instead of the online W3C specification (including ToC, definitions, URI fragments, etc.).
 
-  * An explanatory report
+  * An explanatory report.
 
-  * An A4 PDF copy of the specification that was previously converted to Microsoft Word
+  * An A4 PDF copy of the specification that was previously converted to Microsoft Word.
 
-  * If the specification contains any graphics, each of them should be provided as a separate asset
+  * If the specification contains any graphics, each of them should be provided as a separate asset.
 
-  For more details about a submission package, W3C Staff can review [2025/12/ISO-submission-package-wcag-22-20241212/](https://cvsweb.w3.org/Team/WWW/2025/12/ISO-submission-package-wcag-22-20241212/).
+  For more details about a submission package, W3C Staff can review [`2025/12/ISO-submission-package-wcag-22-20241212/`](https://cvsweb.w3.org/Team/WWW/2025/12/ISO-submission-package-wcag-22-20241212/).
 
 * W3C sends the submission package to the JTC1 Secretariat (Lisa Rajchel) as expressed by our PAS Mentor
 
