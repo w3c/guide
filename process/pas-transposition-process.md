@@ -59,11 +59,11 @@ The following is a quick overview of what happens and who is in charge, as well 
 
 * W3C agrees to submit a specification to ISO.
 
-* W3C lets our PAS Mentor (currently Norbert Bensalem) know about the intent to submit the specification. He may ask us to provide rationale for the following:
+* W3C lets our PAS Mentor (currently Norbert Bensalem) know about our intent to submit the specification. He may ask us to provide rationale for the following:
 
-  * [Pointing to W3C Overview pages/ explainers](https://lists.w3.org/Archives/Team/team-liaisons/2024Oct/0020.html)  from other ISO/JTC1 materials
+  * [Pointers to W3C Overview pages/explainers](https://lists.w3.org/Archives/Team/team-liaisons/2024Oct/0020.html) from other ISO/JTC1 materials.
 
-  * [How W3C Editorial guidelines align with ISO Directives (part 2) expressed in SD9](https://lists.w3.org/Archives/Team/team-liaisons/2025Jun/0003.html)
+  * [Alignment of W3C Editorial guidelines with ISO Directives (part 2) expressed in SD9](https://lists.w3.org/Archives/Team/team-liaisons/2025Jun/0003.html)
 
 * W3C prepares the submission package according to instructions of SD9 and other considerations discussed with the PAS Mentor. The submission package includes:
 
