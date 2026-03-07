@@ -53,11 +53,11 @@ Beyond patents, W3C's [PAS submitter application](https://www.w3.org/2010/03/w3c
 
 ## PAS transposition process steps
 
-The complete guide for this process is in the [ISO/JTC1 Standing Document (PDF)](https://jtc1info.org/wp-content/uploads/2022/01/SD-9-Guide-to-the-Transposition-of-PAS-2021.pdf)
+The complete guide for this process is in the [ISO/JTC1 Standing Document (PDF)](https://jtc1info.org/wp-content/uploads/2022/01/SD-9-Guide-to-the-Transposition-of-PAS-2021.pdf).
 
-The below is a quick overview of what happens and who is in charge, as well as rough time estimates that we know of. This is based on the experience submitting [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/WAI/news/2025-10-21/wcag22-iso/)
+The following is a quick overview of what happens and who is in charge, as well as known rough time estimates. This is based on our experience in submitting [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/WAI/news/2025-10-21/wcag22-iso/).
 
-* W3C agrees on submitting a specification to ISO
+* W3C agrees to submit a specification to ISO.
 
 * W3C lets our PAS Mentor (currently Norbert Bensalem) know about the intent to submit the specification. He may ask us to provide rationale for the following:
 
