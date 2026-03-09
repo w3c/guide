@@ -97,6 +97,8 @@ The following is a quick overview of what happens and who is in charge, as well 
 
   * Availability of the specification -- Free from W3C TR space and likely free from ISO catalog as per [ISO/IEC 40500:2025](https://www.iso.org/standard/91029.html).
 
+* ISO/JTC1 initiates systematic review, five years after the publication of the standard.
+
 ## What can be done to make the ISO/W3C collaboration even more productive ?
 
 There may be ways to make it even easier for a W3C Specification to move to the PAS process. For instance, both W3C and ISO have specific timelines for review as part of their respective processes, often performed by overlapping sets of experts, e.g., W3C members who are also active in their national ISO organization. We may wish to synchronize those reviews (which take place at different times, under current processes). This sort of optimization might require some changes to the W3C process, but more experience and discussion would be required before any changes are proposed.
