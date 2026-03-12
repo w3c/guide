@@ -13,7 +13,7 @@ W3C was approved as a JTC 1 [Recognized PAS Submitter](https://www.w3.org/2010/0
 
 The scope of our application is "**Core Web Technologies**", defined in our proposal as "any stable core Web technologies produced by W3C that are also in scope of ISO/IEC JTC 1". That establishes the baseline of what we may submit. Tutorials, tests, primers, and other Recommendations of similar types would be out of scope.
 
-A [Selection Process](https://www.w3.org/2010/07/potential-pas.html) for handling PAS was developed and reviewed within W3C. W3C's goal is to submit specifications that help avoid market fragmentation, improve deployment, and facilitate government procurement, and at the same time are stable and widely accepted.
+A [Selection Process](https://www.w3.org/2010/07/potential-pas.html) (member-only link) for handling PAS was developed and reviewed within W3C. W3C's goal is to submit specifications that help avoid market fragmentation, improve deployment, and facilitate government procurement, and at the same time are stable and widely accepted.
 
 ## Benefits for the W3C community
 
@@ -55,11 +55,11 @@ Beyond patents, W3C's [PAS submitter application](https://www.w3.org/2010/03/w3c
 
 The complete guide for this process is in the [ISO/JTC1 Standing Document (PDF)](https://jtc1info.org/wp-content/uploads/2022/01/SD-9-Guide-to-the-Transposition-of-PAS-2021.pdf).
 
-The following is a quick overview of what happens and who is in charge, as well as known rough time estimates. This is based on our experience in submitting [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/WAI/news/2025-10-21/wcag22-iso/).
+The following is a quick overview of what happens and who is in charge, as well as known rough time estimates. This is based on experience in submitting [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/WAI/news/2025-10-21/wcag22-iso/).
 
-* W3C agrees to submit a specification to ISO.
+* W3C agrees to submit a specification to ISO (see the [Selection Process](https://www.w3.org/2010/07/potential-pas.html), member-only link)
 
-* W3C lets our PAS Mentor (currently Norbert Bensalem) know about our intent to submit the specification. He may ask us to provide rationale for the following:
+* W3C Staff lets our PAS Mentor (currently Norbert Bensalem) know about our intent to submit the specification. He may ask us to provide rationale for the following (team-only links):
 
   * [Pointers to W3C Overview pages/explainers](https://lists.w3.org/Archives/Team/team-liaisons/2024Oct/0020.html) from other ISO/JTC1 materials.
 
@@ -105,4 +105,4 @@ There may be ways to make it even easier for a W3C Specification to move to the 
 
 On a practical side, W3C already engages in a number of [liaisons](../../liaisons/) between ISO committees and W3C Working Groups.
 
-It would be desirable automate the conversion process from our HTML format to the PDF ISO wants, to ease the editorial work around manual conversion. We are in conversation about adding more automation to the ISO part, but we've reached no conclusion as to what this would look like nor when this would be available.
+It would be desirable to automate the conversion process from our HTML format to the PDF ISO wants, to ease the editorial work around manual conversion. W3C Staff is in conversation about adding more automation to the ISO part, but no conclusion has been reached as to what this would look like nor when this would be available.
