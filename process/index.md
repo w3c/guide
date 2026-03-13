@@ -34,6 +34,7 @@ See also the [W3C Process for Busy People](https://github.com/w3c/wg-effectivene
   - [Obsoleting and Rescinding W3C Specifications](obsolete-rescinded-supserseded.md)
   - [Joint deliverables](joint-deliverables.md)
   - [How to license definitions and bindings](binding-license.md)
+  - Submitting a W3C Recommendation to ISO: the [PAS transposition process](pas-transposition-process.html)
 - [Non participant commitment](non-participant-commitment.md)
 - [Patent Advisory Group procedures](pag.md)
 - Participants
