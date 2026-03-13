@@ -85,6 +85,7 @@ A list of [group procedures related to the W3C Process](process/#groups) is avai
 - Addressing formal objections: [best practices to resolve and decide Formal Objections](council/council.md) (aka council guide)
 - [Tips for getting to Recommendation faster](standards-track/rec-tips.md)
 - [Considerations on the final maturity stage of group deliverables](process/living-cr-rec.md)
+- Submitting a W3C Recommendation to ISO: the [PAS transposition process](process/pas-transposition-process.html)
 
 ### Test Suites {#testsuites}
 
