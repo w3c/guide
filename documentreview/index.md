@@ -72,6 +72,10 @@ When you have published a First Public Working Draft, you should work through av
 
 The meaning of "Long enough" depends on how many changes there are, how clearly you have explained them, and how much discussion is needed to resolve issues. Pointing to 14 concise points for a small spec means a short time if they are simple fixes, pointing to 900 diffs from commits and hoping people understand them in a 300 page spec means it will take a **long** time to get review, and potentially a long time to also discuss and agree on how to solve the issues. If you have effectively identified issues for review during development and received feedback on them, the review time will probably be shorter. Horizontal review groups sometimes get bogged down; planning in advance is useful.
 
+*Never ever* exclude some horizontal groups from your review requests because you concluded it was irrelevant for them or they haven’t responded to your last request. Let them make the decision that something is irrelevant to their field of expertise instead. You’re welcome to time out if you don’t hear back, and request to move forward anyway.
+
+In any case, it is good practice to point horizontal groups at a specific Working Draft or Candidate Recommendation Draft, rather than at a continuously evolving editor's draft. It is better for a group to miss the fact that you fixed an issue in your editor's draft than the Team missing the fact that you made an unreviewed substantive change in your editor's draft.
+
 <dl>
 <dt data-type='a11y'>Accessibility</dt>
 <dd>
@@ -198,6 +202,29 @@ The horizontal groups maintain repositories containing issues that track those r
 
 Horizontal groups participants can find [detailed process information here](https://w3c.github.io/horizontal-issue-tracker/HOWTO).
 
+<span id="common-mistakes-when-making-a-transition-request"><!-- legacy fragment id --></span>
+## Common mistakes with wide review
+
+1. Trying to proceed with substantive changes that did not receive wide review.
+
+   If you make substantive changes, you'll need to do a wide review for those before you move forward to the next maturity stage.
+   See [When should wide review be requested](#when-should-wide-review-be-requested).
+1. Excluding some [horizontal groups](../process/horizontal-groups.md) from your review requests because you concluded it was irrelevant for them or they haven't responded to your last request.
+
+   Let them make the decision that something is irrelevant to their field of expertise.
+   See [How to get horizontal review](#how-to-get-horizontal-review).
+1. Pointing reviewers at a nightly version of your document.
+
+   Publish a Working Draft or a Candidate Recommendation Draft when asking for reviews.
+   See [How to get horizontal review](#how-to-get-horizontal-review).
+1. Flagging your issues with one of those <span class="tag">\*-needs-resolution</span> labels, and/or removing one which has been applied (you *can* close the issue though, if it is resolved).
+
+   Those are intended solely to be used by [horizontal groups](../process/horizontal-groups.md) to [bring special attention](#what-happens-to-unresolved-issues-marked--needs-resolution).
+1. Assuming that the horizontal group will be able to schedule and complete a review within 2 weeks so that you can proceed to Candidate Recommendation.
+
+   They may not even be able to find someone with availability to do the review in that time, and then they need a week or two to discuss their response after the review, and then they'll send you comments that may require you to make substantive changes.
+   See [How to get horizontal review](#how-to-get-horizontal-review).
+
 ## FAQ
 
 Is *security* and/or *privacy* review mandatory before a *First Public Working Draft* is published?
@@ -220,21 +247,6 @@ Is it possible to make too many requests for review?
   This is also the reason that the Process clearly suggests there should be [<abbr title="Technical report">TR</abbr>](https://www.w3.org/TR/) Working Drafts published when there are "significant changes that would benefit from review beyond the Working Group", rather than every day or only twice in the life of a spec…
 
   TR Working Drafts are also useful for reviews since they provide a dated snapshot which can be recovered when the review comments are being discussed. Trying to discuss review comments against a document which has changed out of all recognition can be a frustrating and inefficient experience.
-
-## Common mistakes when making a transition request
-
-1. If you make substantive changes, you'll need to do a wide review for those  before you move forward to the [next maturity stage](../documentreview/#who-to-ask-for-wide-review).
-1. Never ever exclude some [horizontal groups](../process/horizontal-groups.md) from your review requests because you concluded it was irrelevant for them or they haven't responded to your last request.
-   
-   Let them make the decision that something is irrelevant to their field of expertise instead. You're welcome to time out if you don't hear back, and request to move forward anyway.
-1. Publish a Working Draft or a Candidate Recommendation Draft when asking for reviews.
-   It's better for a Group to miss the fact that you fixed an issue in your editor's draft than the Team missing the fact you made an unreviewed substantive change in your editor's draft.
-1. Don't flag your issues with one of those <span class="tag">\*-needs-resolution</span> labels, and don't remove one which has been applied (you *can* close the issue though, if it is resolved).
-
-   Those are intended solely to be used by [horizontal groups](../process/horizontal-groups.md) to [bring special attention](../documentreview/#what-happens-to-unresolved-issues-marked--needs-resolution).
-1. Don't assume that the horizontal group will be able to schedule and complete a review within 2 weeks so that you can proceed to CR.
-   
-   They may not even be able to find someone with availability to do the review in that time, and then they need a week or two to discuss their response after the review, and then they'll send you comments that may require you to make substantive changes.
 
 ## Enhancement Requests
 
