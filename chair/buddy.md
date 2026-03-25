@@ -48,3 +48,4 @@ Self-declared Buddy-Mentees:
 
 - Karen Coyle (now associated with Léonie Watson)
 - Wendy Reid
+- [Adam Page](https://github.com/adampage)
