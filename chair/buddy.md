@@ -3,15 +3,14 @@ title: W3C Chair Buddy System
 toc: true
 ---
 
-The [Working Group effectiveness Task Force](https://github.com/w3c/wg-effectiveness) helped establish a Chair Buddy System by which experienced Chairs can volunteer as buddy-mentors to help buddy-mentees Chairs.
+The Chair Buddy System allows experienced Chairs to volunteer as buddy-mentors to help buddy-mentees Chairs.
 
-Interested parties should subscribe to [chairbuddies@w3.org](mailto:chairbuddies@w3.org) ([Member-only archive](https://lists.w3.org/Archives/Member/member-chairbuddies/)). Chairs have access to their contact information via the [W3C groups listing](https://www.w3.org/groups/).
+Chairs have access to their contact information via the [W3C groups listing](https://www.w3.org/groups/).
 
 ## Principles
 
 - This program is under the responsibility of the [W3C Project Lead](https://www.w3.org/staff/project/).
-- W3C Chairs self-declare as Mentors or Mentees by writing to [chairbuddies@w3.org](mailto:chairbuddies@w3.org).
-  - Ideally, they add their names to this page by [editing it on GitHub](https://github.com/w3c/guide/edit/main/chair/buddy.md).
+- W3C Chairs self-declare as Mentors or Mentees by writing to the W3C Project Lead (François Daoust <[fd@w3.org](mailto:fd@w3.org)>).
 - The W3C Project Lead proceeds to pair those who request a buddy with those who volunteer to be a buddy.
 
 ## Buddy-Mentors
@@ -43,8 +42,3 @@ Thank-you for joining the W3C Chair Buddy system! As a buddy-mentee, you should 
   - You should also prepare a list of your own questions. Here are some examples: "how do you manage consensus when one or few people are blocking?", "how do you manage meetings when participants are so distributed?", "how can I help my editors get to work?", etc.
 - Try to speak to your buddy-mentor roughly every quarter. You may speak to them more infrequently or frequently depending on what works for you and your buddy-mentor. In your initial meeting, try to discuss a schedule for meetings (even if you decide to do ad-hoc meetings); then arrange the meetings by sending calendar invites (or another method of your choosing).
 - _It's up to you_ to arrange these meetings. (Buddy-mentors may have a few mentees, so it's best for buddy-mentees to arrange meetings.)
-
-Self-declared Buddy-Mentees:
-
-- Karen Coyle (now associated with Léonie Watson)
-- Wendy Reid
