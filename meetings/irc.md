@@ -76,15 +76,15 @@ You're welcome to always use [our web client](https://webirc.w3.org/), if you li
 
 Windows
 
-: [HexChat](https://hexchat.github.io/), [mIRC](https://www.mirc.co.uk/), [Quassel](https://quassel-irc.org/)
+: [HexChat](https://hexchat.github.io/), [mIRC](https://www.mirc.co.uk/), [Quassel](https://quassel-irc.org/), [Halloy](https://halloy.chat/)
 
 MacOS; iOS
 
-: [Colloquy](https://colloquy.app/), [Textual](https://www.codeux.com/textual/), [irssi](https://irssi.org/), [Quassel](https://quassel-irc.org/), [Adium](https://adium.im/)
+: [Colloquy](https://colloquy.app/), [Textual](https://www.codeux.com/textual/), [irssi](https://irssi.org/), [Quassel](https://quassel-irc.org/), [Adium](https://adium.im/), [Halloy](https://halloy.chat/)
 
 GNU/Linux
 
-: [HexChat](https://hexchat.github.io/), [X-Chat](http://xchat.org/), [irssi](https://irssi.org/), [Quassel](https://quassel-irc.org/), [Konversation (KDE)](https://konversation.kde.org/), [Pidgin](https://pidgin.im/)
+: [HexChat](https://hexchat.github.io/), [X-Chat](http://xchat.org/), [irssi](https://irssi.org/), [Quassel](https://quassel-irc.org/), [Konversation (KDE)](https://konversation.kde.org/), [Pidgin](https://pidgin.im/), [Halloy](https://halloy.chat/)
 
 Android
 
