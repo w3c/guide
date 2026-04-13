@@ -11,6 +11,16 @@ toc: true
 
 You can set it up here: [`github.com/settings/security`](https://github.com/settings/security).
 
+### Set your company name in your user profile {#company}
+
+Many people create issues and pull requests on GitHub. It is sometimes useful to have an easy way to link the author of a comment, question or pull request back to a company name. Please consider adding the name of your company in the "Company" field of your GitHub user profile (or through the "Bio" field), especially if you participate in discussions across repositories.
+
+**Note:** This information is declarative. You shouldn't *rely* on this information to be correct when you look at a user profile on GitHub.
+
+### Connect your W3C &amp; GitHub accounts {#connect}
+
+Pull requests in Working Group repositories are checked automatically by a bot to assess whether they are OK IPR-wise, or not (see [Contributor Management](repo-management.md)). For the bot to run smoothly, please connect your [W3C &amp; GitHub accounts](https://www.w3.org/users/myprofile/connectedaccounts/). This association also helps with the organization of community events that leverage GitHub to collect proposals, such as breakouts days.
+
 ### Own your code {#own}
 
 The repositories you contribute to should ideally have a file [`.github/CODEOWNERS`](https://help.github.com/articles/about-codeowners/). If that is so, suggest to the maintainer edits to that file so that you will be automatically assigned PR reviews for those PR's that will affect the areas or files that you “own” (ie, that you are usually responsible for).
