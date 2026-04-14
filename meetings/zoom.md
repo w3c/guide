@@ -5,7 +5,7 @@ toc: true
 
 W3C has a Zoom account and W3C Groups may use those with assistance from the W3C Team (for Community Groups, see the separate [Tools and Infrastructure](https://www.w3.org/community/about/tool/)). We are aware of questions about Zoom's security and privacy practices and recommend [mitigations](#settings) and usage guidelines.
 
-## Scheduling a Zoom Conference {#scheduling}
+## Scheduling a Zoom conference {#scheduling}
 
 W3C's groups typically meet weekly and therefore schedule recurring meetings for the duration of their charters. The Zoom scheduler limits how far into the future a recurring meeting may be scheduled. However, you can extend the end date after some time has passed.
 
@@ -13,7 +13,16 @@ We have found that recurring meetings can be used at any time and are not limite
 
 To avoid interference from non-invitees, meeting coordinates should not be posted publicly. The meeting information, including password, should be posted to a Member-only mailing list and only the URI of the list archive message used in public meeting agendas or other public group pages.
 
-## Suggested Settings {#settings}
+## W3C custom background images
+
+If you wish to use a videoconferencing background image, you are welcome to use these W3C custom images:
+
+*   Blue world map in Peters projection with the round W3C logo in the upper left corner. Available in [SVG](https://www.w3.org/2025/new-logos/zoom-background-map.svg), [WebP](https://www.w3.org/2025/new-logos/zoom-background-map.webp), [AVIF](https://www.w3.org/2025/new-logos/zoom-background-map.avif) and [JPEG](https://www.w3.org/2025/new-logos/zoom-background-map.jpg).  
+     ![](https://www.w3.org/2025/new-logos/zoom-background-map.svg)
+*   Tiled version with the blue world map and the round W3C logo. Available in [SVG](https://www.w3.org/2025/new-logos/zoom-background-tiled.svg), [WebP](https://www.w3.org/2025/new-logos/zoom-background-tiled.webp), [AVIF](https://www.w3.org/2025/new-logos/zoom-background-tiled.avif) and [JPEG](https://www.w3.org/2025/new-logos/zoom-background-tiled.jpg).  
+     ![](https://www.w3.org/2025/new-logos/zoom-background-tiled.svg)
+
+## Suggested settings {#settings}
 
 W3C Team account owners should set [account default settings](https://w3c.zoom.us/profile/setting) as follows:
 
@@ -29,7 +38,7 @@ W3C Team account owners should set [account default settings](https://w3c.zoom.u
 
 These settings will allow the group to meet even if the Team Host is not present. If an actual Host is required, the Team Host can join the call momentarily and assign co-Host privileges to one or more of the other attendees.
 
-## Testing Your Connection {#testing}
+## Testing your connection {#testing}
 
 Zoom offers a [test meeting service](https://zoom.us/test) for anyone to use to test their connection. You should use it to hear how your own audio is working. This service may only work for Internet (not phone) connections. See also [Zoom's article on Joining a Zoom test meeting](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063307).
 
@@ -39,13 +48,13 @@ Zoom provides the ability to make recordings. If this feature is used, it must b
 
 Check also the special guidance on [automated meeting transcripts](transcripts.md).
 
-## Ending a Meeting {#ending}
+## Ending a meeting {#ending}
 
 Participants sometimes wander off and forget to disconnect at the end of a meeting. To avoid later embarrassment it is recommended that someone with Host privileges explicitly end each Zoom meeting once it has adjourned.
 
 ## Considerations {#considerations}
 
-### Security and Privacy {#sec_privacy}
+### Security and privacy {#sec_privacy}
 
 The standard precautions apply for meeting participants to mute your audio except when you mean to talk to the meeting to avoid interference and accidentally sharing private communications (e.g. yelling at your pets), and also to pay attention to what is visible in your video feed.
 
