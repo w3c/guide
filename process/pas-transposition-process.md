@@ -13,7 +13,7 @@ W3C was approved as a JTC 1 [Recognized PAS Submitter](https://www.w3.org/2010/0
 
 The scope of our application is "**Core Web Technologies**", defined in our proposal as "any stable core Web technologies produced by W3C that are also in scope of ISO/IEC JTC 1". That establishes the baseline of what we may submit. Tutorials, tests, primers, and other Recommendations of similar types would be out of scope.
 
-A [Selection Process](https://www.w3.org/2010/07/potential-pas.html) (member-only link) for handling PAS was developed and reviewed within W3C. W3C's goal is to submit specifications that help avoid market fragmentation, improve deployment, and facilitate government procurement, and at the same time are stable and widely accepted.
+A [Selection Process](./selection-process.html) for handling PAS was developed and reviewed within W3C. W3C's goal is to submit specifications that help avoid market fragmentation, improve deployment, and facilitate government procurement, and at the same time are stable and widely accepted.
 
 ## Benefits for the W3C community
 
