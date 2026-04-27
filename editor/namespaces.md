@@ -56,7 +56,7 @@ In all Member and Team Submissions:
 
 When a Submission is designed to seed work on the Recommendation Track:
 
-1. Namespace URIs **SHOULD** follow the conventions containe in this document in order to ease the later transition to the Rec Track. If it does not, the URI publisher **MUST** have clear persistence policy (similar to W3C's, i.e., that the URI publisher will make every effort to service requests for the [Namespace Document](#nsdoc)).
+1. Namespace URIs **SHOULD** follow the conventions contained in this document in order to ease the later transition to the Rec Track. If it does not, the URI publisher **MUST** have clear persistence policy (similar to W3C's, i.e., that the URI publisher will make every effort to service requests for the [Namespace Document](#nsdoc)).
 
 ## Namespace Document  {#nsdoc}
 
