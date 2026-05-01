@@ -31,7 +31,7 @@ What is the stability of the referenced document as a whole?
 
 1. What stability claims do the organization and group who published the referenced document make about that document?
    
-   **For example**, *in the case of a reference to a W3C document, is that document not yet a Proposed Recommendation?*
+   **For example**, *in the case of a reference to a W3C document, is that document not yet a Recommendation?*
    
    **For example**, *does the document have an explicit and clear stability statement readily apparent to its readers and near to the start of the document?*
 
