@@ -68,4 +68,5 @@ For echidna updates:
 ## History
 
 The transition requirements document is originally based on
-https://services.w3.org/xslt?xmlfile=https://www.w3.org/2005/08/01-transitions2017.html&xslfile=https://www.w3.org/2005/08/transitions2017.xsl
+https://www.w3.org/2005/08/01-transitions2017.html and https://www.w3.org/2005/08/transitions2017.xsl
+
