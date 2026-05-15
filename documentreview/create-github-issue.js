@@ -23,20 +23,20 @@ See [How to do wide review](https://www.w3.org/guide/documentreview/#who-to-ask-
 An important part of wide review is horizontal review from W3C's [key horizontal groups](https://www.w3.org/guide/documentreview/#how-to-get-horizontal-review) listed below.
 
 {{HORIZONTAL_GROUPS_LIST}}
-## Group Dependencies
+## Group dependencies
 
-The [charter](https://www.w3.org/groups/YOURGROUP) contains a list of dependency groups. If you skip one of those, simply provide a rational.
+The [charter](https://www.w3.org/groups/YOURGROUP) contains a list of dependency groups. If you skip one of those, simply provide a rationale.
 
-### ?? Group: 
+### ?? Group:
 
 - [ ] feedback requested
 - [ ] feedback received
-- [ ] Review closed as completed
+- [ ] review closed as completed
 
 ## Other stakeholders
 
-From [who to ask for review](https://www.w3.org/Guide/documentreview/#who_to_ask_for_review):
->Horizontal reviews [...] are only a subset of a full wide review, which must also include other stakeholders including Web developers, technology providers and implementers not active in the Working Group, external groups and standards organizations working on related areas, etc.
+From [who to ask for review](https://www.w3.org/guide/documentreview/#who-to-ask-for-wide-review):
+> Horizontal reviews [...] are only a subset of a full wide review, which must also include other stakeholders including Web developers, technology providers and implementers not active in the Working Group, external groups and standards organizations working on related areas, etc.
 
 `;
 
@@ -62,7 +62,7 @@ async function createGitHubIssue(event) {
   }
   const repo = { owner: match[1], name: match[2] };
   console.log(`Creating GitHub issue for repository: ${repo.owner}/${repo.name}`);
-  
+
   const title = encodeURIComponent('Seek wide review');
   try {
     const body = encodeURIComponent(await generateGitHubIssueBody(repo));
@@ -70,7 +70,7 @@ async function createGitHubIssue(event) {
   } catch (error) {
     console.error('Error creating GitHub issue:', error);
     window.alert('Failed to create GitHub issue. Please try again later.');
-  } 
+  }
 }
 
 async function generateGitHubIssueBody(repo) {
@@ -83,8 +83,8 @@ async function generateGitHubIssueBody(repo) {
   const bullets = [...dl.querySelectorAll('dt')].map(dt => {
     const horizontal = dt.dataset.type || 'unknown';
     const dd = dt.nextElementSibling;
-    if (dd.tagName !== 'DD') {
-throw new Error('Could not find a DD tag after DT in one of the horizontal sections');
+    if (!dd || dd.tagName !== 'DD') {
+      throw new Error('Could not find a DD tag after DT in one of the horizontal sections');
     }
 
     const subContents = [...dd.querySelectorAll('*[data-step]')].map(el => `- [ ] ${html2Markdown(el)}`);
@@ -96,7 +96,7 @@ throw new Error('Could not find a DD tag after DT in one of the horizontal secti
 
     return `### **${dt.textContent}**\n\n${subContents.join('\n')}\n${after}\n`;
   });
-  
+
   const group = await findGroup(repo);
 
   return template
@@ -108,6 +108,7 @@ function html2Markdown(element) {
   let markdown = element.innerHTML;
   markdown = markdown.replace(/<strong>(.*?)<\/strong>/g, '**$1**');
   markdown = markdown.replace(/<em>(.*?)<\/em>/g, '*$1*');
+  markdown = markdown.replace(/<code>(.*?)<\/code>/g, '`$1`');
   markdown = markdown.replace(/ rel="[^"]+"/g, '');
   markdown = markdown.replace(/ class="[^"]+"/g, '');
   markdown = markdown.replace(/<a href="(.*?)">(.*?)<\/a>/g, '[$2]($1)');

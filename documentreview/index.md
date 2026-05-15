@@ -13,6 +13,7 @@ See also the [Wide Review](https://www.w3.org/policies/process/#wide-review) sec
 A document is available for review from the moment it is first [published](https://www.w3.org/policies/process/#publishing). Working Groups should [formally address](https://www.w3.org/policies/process/#formally-addressed) any substantive review comment about a technical report in a timely manner.
 
 Wide review should or must be requested:
+
 * After a [First Public Working Draft](https://www.w3.org/policies/process/#first-wd) is published (for most documents).
   
   Working Groups are often reluctant to make substantive changes to a mature
@@ -46,7 +47,7 @@ dependencies.
 <details id="githubissue" hidden>
   <summary>Generate a meta-issue to track wide review steps in a GitHub repository</summary>
   <p>You may find it useful to create an issue in the GitHub repository of your spec to track your progress. Add the name of your GitHub repository to the field below and hit the "Create GitHub issue" button. This opens the "new issue" form in your repository, and pre-fills the body with review steps as a list of checkboxes.</p>
-  <p>
+  <div>
     <form>
     <div class="field">
       <label for="repository">
@@ -57,7 +58,7 @@ dependencies.
     </div>
     <div><button>Create GitHub issue</button></div>
     </form>
-  </p>
+  </div>
   <p><em>Note: You will be able to edit the issue's title and body before it gets created.</em></p>
 </details>
 
@@ -70,7 +71,7 @@ When you have published a First Public Working Draft, you should work through av
 
 *Long enough* before you request a transition to CR, you should do the same again, identifying substantive specification changes since the first review. During the [Last Call for Review of Proposed Amendment](https://www.w3.org/policies/process/#change-review), you should also do the same.
 
-The meaning of "Long enough" depends on how many changes there are, how clearly you have explained them, and how much discussion is needed to resolve issues. Pointing to 14 concise points for a small spec means a short time if they are simple fixes, pointing to 900 diffs from commits and hoping people understand them in a 300 page spec means it will take a **long** time to get review, and potentially a long time to also discuss and agree on how to solve the issues. If you have effectively identified issues for review during development and received feedback on them, the review time will probably be shorter. Horizontal review groups sometimes get bogged down; planning in advance is useful.
+The meaning of "Long enough" depends on how many changes there are, how clearly you have explained them, and how much discussion is needed to resolve issues. Pointing to 14 concise points for a small spec may mean a short review time if they are simple fixes. Pointing to 900 diffs from commits and hoping people understand them in a 300 page spec means it will take a **long** time to get review, and potentially a long time to discuss and agree on how to solve the issues. If you have effectively identified issues for review during development and received feedback on them, the review time will probably be shorter. Horizontal review groups sometimes get bogged down; planning in advance is useful.
 
 *Never ever* exclude some horizontal groups from your review requests because you concluded it was irrelevant for them or they haven’t responded to your last request. Let them make the decision that something is irrelevant to their field of expertise instead. You’re welcome to time out if you don’t hear back, and request to move forward anyway.
 
@@ -110,19 +111,21 @@ In any case, it is good practice to point horizontal groups at a specific Workin
 
 <dt data-type='i18n'>Internationalization</dt>
 <dd>
-  <span data-step>Read the <a href="https://www.w3.org/International/review-request">Request a review</a> page</span>, then
+  <span data-step>Read the <a href="https://www.w3.org/International/i18n-drafts/pages/review-request.en">Request a review</a> page</span>, then
   <span data-step>work through the <a href="https://www.w3.org/International/i18n-drafts/techniques/shortchecklist">Short Checklist</a></span>, then
-  <span data-step><a href="https://github.com/w3c/i18n-request/issues/new/choose">request a review via GitHub</a></span>.
+  <span data-step>raise the self-review in your own repository and add the <code>i18n-tracker</code> label so the Internationalization Working Group is notified</span>, then
+  <span data-step><a href="https://github.com/w3c/i18n-request/issues/new/choose">request a review via GitHub</a>, allowing at least 2-3 months before CR for review</span>.
 <details>
 <summary>Show useful links</summary>
 <ul><li>groups
-<ul><li><a href="https://www.w3.org/International/">Internationalization Working Group</a>; <a href="https://lists.w3.org/Archives/Public/www-international/">www-international</a> Reviews by Internationalization generally also involve the <a href="https://www.w3.org/International/i18n-activity/i18n-ig/">Interest Group</a>, but are arranged through the WG.</li></ul></li>
+<ul><li><a href="https://www.w3.org/International/">Internationalization Working Group</a>; <a href="https://lists.w3.org/Archives/Public/www-international/">www-international</a>. Reviews by Internationalization generally also involve the <a href="https://www.w3.org/International/i18n-activity/i18n-ig/">Interest Group</a>, but are arranged through the WG.</li></ul></li>
 <li>links
-<ul><li><a href="https://www.w3.org/International/review-request">Request a review</a></li>
-<li><a href="https://www.w3.org/International/i18n-drafts/techniques/shortchecklist">Self-Review Questionnaire</a>.</li>
+<ul><li><a href="https://www.w3.org/International/i18n-drafts/pages/review-request.en">Request a review</a></li>
+<li><a href="https://www.w3.org/International/i18n-drafts/techniques/shortchecklist">Short i18n review checklist</a></li>
 <li><a href="https://www.w3.org/TR/international-specs/">Internationalization Best Practices for Spec Developers</a></li>
 <li><a href="https://www.w3.org/International/reviews/projReview.html">A brief overview of the review process</a> (with pictures)</li>
-<li>The <a href="https://github.com/orgs/w3c/projects/91">I18N Horizontal Review Radar</a> shows the status of open reviews.</li></ul></li></ul>
+<li>The <a href="https://github.com/orgs/w3c/projects/91">I18N Horizontal Review Radar</a> shows the status of open reviews.</li>
+<li>Do not send review requests directly to the Chair or Staff Contact; use the i18n request repository so that the request enters the review pipeline.</li></ul></li></ul>
 </details>
 </dd>
 
@@ -167,13 +170,13 @@ Recognize that horizontal review groups may be resource limited and may only be 
 
 ## Working with Horizontal Review labels
 
-Groups use [github labels](../github/issue-metadata.html#horizontal-reviews) to track horizontal issues.
+Groups use [GitHub labels](../github/issue-metadata.html#horizontal-reviews) to track horizontal issues.
 
 Applying these labels doesn't replace the need to schedule a review of your spec at an appropriate time. (See [How to Get Horizontal Review](#how-to-get-horizontal-review) above.) Horizontal groups participants can find [detailed process information here](https://w3c.github.io/horizontal-issue-tracker/HOWTO).
 
 ### Day-to-day use of labels
 
-Apply the <span class="tag">[\*-tracker](../github/issue-metadata.html#horizontal-reviews)</span> label in your own repository to draw a horizontal review group’s attention to an issue in one of your own repositories. Horizontal review groups may also apply the label if they are interested in tracking a particular issue.  Tooling will automatically notify the horizontal group that you attached the label.
+Apply the <span class="tag">[\*-tracker](../github/issue-metadata.html#horizontal-reviews)</span> label in your own repository to draw a horizontal review group’s attention to an issue in one of your own repositories. Horizontal review groups may also apply the label if they are interested in tracking a particular issue. Tooling will automatically notify the horizontal group that you attached the label.
 
 If you want some specific advice from the horizontal group, describe that request in the issue thread.
 
@@ -190,11 +193,11 @@ Note that the label may be applied by setting it directly on the issue if you ha
 <a id='what-happens-to-unresolved-issues-marked--needs-resolution'></a> <!-- old id -->
 ### What happens with `*-needs-resolution` issues at transition?
 
-An [horizontal group](../process/horizontal-groups.md) may label an horizontal issue as <span class="tag">[\*-needs-resolution](../github/issue-metadata.html#horizontal-reviews)</span>. The open <span class="tag">\*-needs-resolution</span> issue are listed on the [tracker boards](/PM/horizontal/). Note that the tracker monitors the horizontal group's **copy** of the issue. Before requesting a new Maturity level, the Working Group is advised to review the tracker and contact the horizontal group to close any lingering issues.
+A [horizontal group](../process/horizontal-groups.md) may label a horizontal issue as <span class="tag">[\*-needs-resolution](../github/issue-metadata.html#horizontal-reviews)</span>. The open <span class="tag">\*-needs-resolution</span> issue are listed on the [tracker boards](/PM/horizontal/). Note that the tracker monitors the horizontal group's **copy** of the issue. Before requesting a new Maturity level, the Working Group is advised to review the tracker and contact the horizontal group to close any lingering issues.
 
 If a Group chooses to [request a new Maturity level](../transitions/) despite the lack of consensus with the horizontal group, it is the task of the W3C Team to assess the issue and the outcome of the request. A horizontal group MAY choose to [register a formal objection](/policies/process/#registering-objections) to appeal the Working Group decision. As lead technical architect, the W3C Council is tasked (among many things) to assess consensus within W3C for architectural issues and to decide on the [outcome of Formal Objections](../council/council.html).
 
-In the case where an horizontal issue hasn’t been addressed and the document was allowed to move forward, it is recommended that the issue remains open in the horizontal group repository (it MAY get closed in the specification repository unless the W3C Team requests otherwise). Some issues may take years to get resolved, but that doesn’t mean those should be forgotten.
+In the case where a horizontal issue hasn’t been addressed and the document was allowed to move forward, it is recommended that the issue remains open in the horizontal group repository (it MAY get closed in the specification repository unless the W3C Team requests otherwise). Some issues may take years to get resolved, but that doesn’t mean those should be forgotten.
 
 ## Issue trackers
 
