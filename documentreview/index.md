@@ -114,7 +114,7 @@ In any case, it is good practice to point horizontal groups at a specific Workin
   <span data-step>Read the <a href="https://www.w3.org/International/i18n-drafts/pages/review-request.en">Request a review</a> page</span>, then
   <span data-step>work through the <a href="https://www.w3.org/International/i18n-drafts/techniques/shortchecklist">Short Checklist</a></span>, then
   <span data-step>raise the self-review in your own repository and add the <code>i18n-tracker</code> label so the Internationalization Working Group is notified</span>, then
-  <span data-step><a href="https://github.com/w3c/i18n-request/issues/new/choose">request a review via GitHub</a>, allowing at least 2-3 months before CR for review</span>.
+  <span data-step><a href="https://github.com/w3c/i18n-request/issues/new/choose">request a review via GitHub</a>.
 <details>
 <summary>Show useful links</summary>
 <ul><li>groups
