@@ -22,7 +22,7 @@ As leaders within the W3C community, the opinions of members of elected bodies c
 As a member of an elected body:
 
 - It is assumed you are speaking as an individual unless you state otherwise.
-- If you want to express the opinion of your organisation or a group you are affiliated with, make it clear before you state their view.
+- If you want to express the opinion of your organization or a group you are affiliated with, make it clear before you state their view.
 - If you have multiple roles within the W3C community, for example you are a member of the AB and also a member of the Advisory Committee (AC), but your position as AB member is not the same as your position as AC representative, inform the other members of the group as a courtesy.
 - Do not use phrases like "on behalf of the AB" or "the TAG thinks that" unless the group has asked you to do so.
 - When you represent the elected body you are a member of, be clear that is what you are doing.
