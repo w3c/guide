@@ -117,7 +117,11 @@ This rejection is a [Team Decision](https://www.w3.org/policies/process/#team-de
 
 ### 3.3 Activities during refinement {#during-refinement}
 
-The Chartering Facilitator ​is responsible for seeking community consensus among those participating in the refinement process and making decisions reflecting that consensus. The Chartering Facilitator follows these steps during refinement:
+The Chartering Facilitator ​is responsible for seeking community consensus among those participating in the refinement process and making decisions reflecting that consensus.
+
+The Team must announce an extension of charter refinement period by updating the [respective issue](https://github.com/w3c/strategy/issues/?q=is%3Aissue%20state%3Aopen%20label%3A%22In%20Charter%20Refinement%22%20label%3A%22AC%20review%22).
+
+The Chartering Facilitator follows these steps during refinement:
 
 #### 3.3.1 Request horizontal review {#horizontal-review}
 
