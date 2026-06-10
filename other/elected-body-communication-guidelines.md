@@ -3,11 +3,11 @@ title: Guidelines for communicating as a member of a W3C elected body
 toc: true
 ---
 
-This document provides guidance for members of the W3C elected bodies: the Advisory Board (AB) and Technical Architecture Group (TAG).
+This document provides guidance for members of the W3C elected bodies: the Advisory Board (AB) and Technical Architecture Group (TAG), as well as the Board of Directors (BoD).
 
 ## W3C elected bodies {#intro}
 
-The [AB](https://www.w3.org/policies/process/#AB) and the [TAG](https://www.w3.org/policies/process/#TAG) are defined in the W3C Process, as are the [rules of participation](https://www.w3.org/policies/process/#AB-TAG-participation) for both groups.
+The [AB](https://www.w3.org/policies/process/#AB) and the [TAG](https://www.w3.org/policies/process/#TAG) are defined in the W3C Process, as are the [rules of participation](https://www.w3.org/policies/process/#AB-TAG-participation) for both groups. The [Board of Directors](https://www.w3.org/groups/other/board/) is defined in the Bylaws ([documents of the Corporation](https://www.w3.org/about/corporation/#documents)). 
 
 ## W3C values and behaviours {#values}
 
@@ -51,7 +51,15 @@ When discussing a matter that has not reached a conclusion:
 - Make it clear when feedback and comments are wanted, and let people know how to do so.
 - Share the intended message with the rest of the elected body you are a member of before you send it.
 
+## Guidance for the Board of Directors 
+
+The Board of Directors adopted on 2022-12-01 a [Board Transparency and Communications Policy](https://www.w3.org/Member/bod/policies/transparency-policy.html). This document outlines in particular:
+
+- [Communications from the Board](https://www.w3.org/Member/bod/policies/transparency-policy.html#communications-from-the-board)
+- [Representing the Board](https://www.w3.org/Member/bod/policies/transparency-policy.html#representing-the-board)
+
 ## Revision History
 
+- 2026-06-10: Added information pertaining to the W3C Board of Directors (per [AB](https://github.com/w3c/AB-public/issues/287#issuecomment-3859115503))
 - 2020-09-03: Document becomes operational.
 - 2020-09-02: Document created.
