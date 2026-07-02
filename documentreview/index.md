@@ -172,20 +172,20 @@ Recognize that horizontal review groups may be resource limited and may only be 
 
 Groups use [GitHub labels](../github/issue-metadata.html#horizontal-reviews) to track horizontal issues.
 
-Applying these labels doesn't replace the need to schedule a review of your spec at an appropriate time. (See [How to Get Horizontal Review](#how-to-get-horizontal-review) above.) Horizontal groups participants can find [detailed process information here](https://w3c.github.io/horizontal-issue-tracker/HOWTO).
+Applying these labels doesn't replace the need to schedule a review of your spec at an appropriate time. (See [How to Get Horizontal Review](#how-to-get-horizontal-review) above.) Horizontal groups participants, Chairs, and Staff Contacts can find [detailed process and tooling information here](https://w3c.github.io/horizontal-issue-tracker/HOWTO).
 
 ### Day-to-day use of labels
 
 Apply the <span class="tag">[\*-tracker](../github/issue-metadata.html#horizontal-reviews)</span> label in your own repository to draw a horizontal review group’s attention to an issue in one of your own repositories. Horizontal review groups may also apply the label if they are interested in tracking a particular issue. Tooling will automatically notify the horizontal group that you attached the label.
 
-If you want some specific advice from the horizontal group, describe that request in the issue thread.
+If you want some specific advice from the horizontal group, describe that request in your issue thread.
 
-Horizontal review groups may apply the <span class="tag">[\*-needs-resolution](../github/issue-metadata.html#horizontal-reviews)</span> label to issues they expect to be resolved before the specification moves to a new maturity level. Working Groups must not remove or add this label (not even when you close your issue).
+Horizontal review groups may apply the <span class="tag">[\*-needs-resolution](../github/issue-metadata.html#horizontal-reviews)</span> label to issues they expect to be resolved before the specification moves to a new maturity level. Working Groups must not remove or add this label (not even when you close your issue). HR label handling depends on the HR tracking issue status.
 
 If the [horizontal group](../process/horizontal-groups.md) believes that an issue with a <span class="tag">\*-tracker</span> label needs to be resolved before a transition, they may apply a <span class="tag">\*-needs-resolution</span> label to the issue. Automatic tooling will later remove the <span class="tag">\*-tracker</span> label.
  
-If you close an issue with a <span class="tag">\*-tracker</span> or <span class="tag">\*-needs-resolution</span> label attached, do not remove the label.  Keeping the label maintains the tracking if the issue is reopened, but also provides potentially useful information about what was tracked. (Closed issues in your repository have no effect on tools that check for unresolved issues.)
- 
+If you close an issue with a <span class="tag">\*-tracker</span> or <span class="tag">\*-needs-resolution</span> label attached, do not remove the label. HR label handling is done by automation and depends on the status of the original HR tracking issue. Keeping the label maintains the tracking if the issue is reopened, but also provides potentially useful information about what was tracked.
+
 At the end of a review, and before attempting to transition the spec, you should clarify that a resolution is described for all of the issues with a <span class="tag">\*-needs-resolution</span> label, and check that the horizontal group is aware of those resolutions. You don't have to do this for issues with the <span class="tag">\*-tracker</span> label. (The horizontal group was only tracking those issues, not expecting a particular resolution.)
  
 Note that the label may be applied by setting it directly on the issue if you have proper rights, or by appending it preceded with a PLUS sign (`+`) in the issue description, `+*-tracker` or `+*-needs-resolution`.
