@@ -35,7 +35,7 @@ Starting a new, topic-specific Community Group is a little more effort than prop
 
 There is a [list of existing CGs](https://www.w3.org/community/groups/). Check whether a suitable one already exists before creating a new one.
 
-An emerging pattern is, when chartering a Working Group, to use a CG to handle incubation for topics related tothe Working Group. Regular joint meetings between WG and the associated CG provide opportunities for progress reports demonstrations, and discussions on moving particular items to the WG. *Note:* depending on the chartered scope of the WG, adding a new Standards-track work item may require rechartering the WG.
+An emerging pattern is, when chartering a Working Group, to use a CG to handle incubation for topics related to the Working Group. Regular joint meetings between WG and the associated CG provide opportunities for progress reports demonstrations, and discussions on moving particular items to the WG. *Note:* depending on the chartered scope of the WG, adding a new Standards-track work item may require rechartering the WG.
 
 [Propose a new CG](https://www.w3.org/community/groups/propose_cg/)
 
