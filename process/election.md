@@ -129,6 +129,7 @@ During AB and TAG elections, it is appropriate for candidates to campaign and fo
 - Per resolution from the AB ([2019-11-20](https://www.w3.org/2019/11/20-ab-minutes.html#item07)), **past members of the AB are given read and write access to w3c-ac-forum at the discretion of the CEO**.
   
   - The Comm Team adds departing participants to the [AB alumni group in the DB](https://www.w3.org/admin/othergroups/145687/show), which is subscribed to w3c-ac-forum
+  - At the start of the new term the Comm Team or AB Team Contact removes departing participants from the [group that controls access](https://www.w3.org/admin/tf/147348/show) to the ab-private email archive and adds the new participants to this same group
   - ... and informs the CEO that this has been done.
   - (Then, if the CEO has not already concluded that the AB alum wants and expects this to have been done, the CEO can ex-post-facto confirm with said alum that this has been done and (thereby) give them the opportunity to decline.)
 - The Comm Team prepares certificates to recognize departing participants.
