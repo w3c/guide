@@ -1323,7 +1323,208 @@ The staff have handed in their separate reports.
 Exception 2: The following collective noun always takes a plural verb:
   - people: The people are waiting.
 
-## W3C word list
+## W3C Word List
 
-@@
+<dl>
+  <dt>accessible</dt>
+  <dd>Use <b>accessible</b> only when referring to accessibility for people with disabilities, or to places that disabled people can easily reach or enter. Do not use it to mean <em>convenient</em>, <em>available</em>, or <em>easy to use</em>. Example: Avoid: “The gardens are accessible to the public.” Use: “The gardens are open to the public.”</dd>
+  <dt>abort</dt>
+  <dd>Avoid. Use <b>cancel</b>.</dd>
+  <dt>anti-alias</dt>
+  <dd>Hyphenate.</dd>
+  <dt>ASCII</dt>
+  <dd>Use all caps.</dd>
+  <dt>back end, back-end</dt>
+  <dd>Use <b>back end</b> as a noun: “Data is processed by the back end.” Use <b>back-end</b> as an adjective: “We rely on a back-end server.” See <a href="#hyphens">Hyphens</a>.</dd>
+  <dt>base64</dt>
+  <dd>Lowercase and write as one word.</dd>
+  <dt>Bézier</dt>
+  <dd>Always capitalize and include the accent on the first <i>e</i>.</dd>
+  <dt>blacklist</dt>
+  <dd>Avoid. Use <b>denylist</b>. See <a href="#race-inclusive-language">Race-inclusive language</a>.</dd>
+  <dt>braille</dt>
+  <dd>Lowercase unless referring to Louis Braille. See <a href="#disability-language">Disability language</a>.</dd>
+  <dt>built-in</dt>
+  <dd>Hyphenate when used as an adjective or noun. Do not hyphenate when "built" is a verb. See <a href="#hyphens">Hyphens</a>.</dd>
+  <dt>checkbox</dt>
+  <dd>Write as one word.</dd>
+  <dt>click (versus select)</dt>
+  <dd>Use <b>click</b> when instructing a user to activate an interactive element, such as a button or link. For example, avoid “Select the Submit button.” Instead use: “Click the Submit button.”</dd>
+  <dt>color blind</dt>
+  <dd>Avoid when referring to people. Use “people who cannot distinguish between certain colors (often called ‘color blindness’).” When referring to the medical condition, use <b>color vision deficiency</b>. See <a href="#disability-language">Disability language</a>.</dd>
+  <dt>color space</dt>
+  <dd>Write as two words.</dd>
+  <dt>data</dt>
+  <dd>Treat as singular. Write “The data is transferred,” not “The data are transferred.” See <a href="#verb-agreement">Verb agreement</a>.</dd>
+  <dt>dingbat</dt>
+  <dd>Write as one word.</dd>
+  <dt>DTDs</dt>
+  <dd>Do not use an apostrophe. See <a href="#plural-acronyms">Plural acronyms</a>.</dd>
+  <dt>ECMAScript</dt>
+  <dd>Write as one word and capitalize the "S".</dd>
+  <dt>email</dt>
+  <dd>Write as one word. Do not hyphenate.</dd>
+  <dt>end user</dt>
+  <dd>Write as two words.</dd>
+  <dt>et al.</dt>
+  <dd>Do not place a full stop after "et".</dd>
+  <dt>filename</dt>
+  <dd>Write as one word.</dd>
+  <dt>for instance</dt>
+  <dd>Avoid. Use <b>for example</b>. See <a href="#plain-language">Plain language</a>.</dd>
+  <dt>front end, front-end</dt>
+  <dd>Use <b>front end</b> as a noun. Use <b>front-end</b> as an adjective. See <a href="#hyphens">Hyphens</a>.</dd>
+  <dt>full stop (.)</dt>
+  <dd>Use <b>full stop</b> as the formal name.</dd>
+  <dt>grandfather</dt>
+  <dd>Avoid. Use <b>legacy</b>. See <a href="#gender-inclusive-language">Gender-inclusive language</a>.</dd>
+  <dt>hand-eye coordination</dt>
+  <dd>Use <b>hand-eye coordination</b>, not "eye-hand coordination".</dd>
+  <dt>hard-coded</dt>
+  <dd>Hyphenate.</dd>
+  <dt>hash (#)</dt>
+  <dd>Also called a <b>number sign</b>. Usually avoid "pound sign", "crosshatch", and "octothorpe".</dd>
+  <dt>header</dt>
+  <dd>Use <b>header</b> for table headers and HTTP headers.</dd>
+  <dt>heading</dt>
+  <dd>Use <b>heading</b> for headings marked up with <code>h1</code> through <code>h6</code>.</dd>
+  <dt>hearing-impaired, hearing impairment</dt>
+  <dd>Avoid. Use <b>deaf</b> with a lowercase "d", unless a person or community prefers another term. See <a href="#disability-language">Disability language</a>.</dd>
+  <dt>home page</dt>
+  <dd>Write as two words.</dd>
+  <dt>hostname</dt>
+  <dd>Write as one word.</dd>
+  <dt>HTTP/1.0, HTTP/3</dt>
+  <dd>Use the slash when referring to the protocol name. Omit it only where established usage in running text requires a different form.</dd>
+  <dt>internet</dt>
+  <dd>Lowercase.</dd>
+  <dt>italics</dt>
+  <dd>Use the plural form.</dd>
+  <dt>its, it’s</dt>
+  <dd>Use <b>its</b> as the possessive form. Use <b>it’s</b> as the contraction of "it is" or "it has". Example: “It’s a dog wagging its tail. It’s been its best year.”</dd>
+  <dt>Java</dt>
+  <dd>Capitalize the "J".</dd>
+  <dt>JavaScript</dt>
+  <dd>Capitalize the "J" and the "S".</dd>
+  <dt>Level 1, Level 2, Level 3</dt>
+  <dd>Capitalize <b>Level</b> when referring to a level in a W3C technical report.</dd>
+  <dt>line feed</dt>
+  <dd>Write as two words.</dd>
+  <dt>log in, login</dt>
+  <dd>Use <b>log in</b> as a verb. Use <b>login</b> as a noun or adjective.</dd>
+  <dt>loss</dt>
+  <dd>Avoid as a general description that includes congenital conditions. Use it when describing a change, such as “As we age, we may experience hearing loss.” See <a href="#disability-language">Disability language</a>.</dd>
+  <dt>lowercase</dt>
+  <dd>Write as one word.</dd>
+  <dt>markup</dt>
+  <dd>Write as one word. Do not hyphenate.</dd>
+  <dt>master</dt>
+  <dd>Avoid. Use <b>main</b>. See <a href="#race-inclusive-language">Race-inclusive language</a>.</dd>
+  <dt>metadata</dt>
+  <dd>Write as one word. Do not hyphenate.</dd>
+  <dt>million</dt>
+  <dd>Do not abbreviate within a sentence. Use <b>M</b> for "mega" only with care and where the meaning is clear.</dd>
+  <dt>MIME type</dt>
+  <dd>Prefer <b>Internet media type</b>. If using <b>MIME type</b>, write it as two words and use all caps for <b>MIME</b>.</dd>
+  <dt>mouse click</dt>
+  <dd>Write as two words. Check whether you mean a mouse click specifically or any form of activation, including a finger tap or key press.</dd>
+  <dt>mouse pad</dt>
+  <dd>Write as two words.</dd>
+  <dt>namespace</dt>
+  <dd>Lowercase unless referring to the <cite>Namespaces in XML</cite> specification by name.</dd>
+  <dt>number sign (#)</dt>
+  <dd>Also called a <b>hash</b>. Usually avoid "pound sign", "crosshatch", and "octothorpe".</dd>
+  <dt>nobody</dt>
+  <dd>Write as one word.</dd>
+  <dt>no one</dt>
+  <dd>Write as two words.</dd>
+  <dt>offline</dt>
+  <dd>Write as one word. Do not hyphenate.</dd>
+  <dt>online</dt>
+  <dd>Write as one word. Do not hyphenate.</dd>
+  <dt>onscreen</dt>
+  <dd>Write as one word when used as an adjective.</dd>
+  <dt>pathname</dt>
+  <dd>Write as one word.</dd>
+  <dt>PDF</dt>
+  <dd>Use all caps. It does not need to be expanded on first use. See <a href="#abbreviations">Abbreviations</a>.</dd>
+  <dt>persons</dt>
+  <dd>Avoid. Use <b>people</b>.</dd>
+  <dt>please</dt>
+  <dd>Usually omit in informational content and instructions when it adds no meaning. See <a href="#omit-unnecessary-words">Omit unnecessary words</a>.</dd>
+  <dt>plug-in</dt>
+  <dd>Hyphenate.</dd>
+  <dt>read-only</dt>
+  <dd>Hyphenate.</dd>
+  <dt>real-time communication</dt>
+  <dd>Lowercase, including when used with the acronym: <b>real-time communication (RTC)</b>. Capitalize only when part of a proper name.</dd>
+  <dt>refer to</dt>
+  <dd>Avoid where <b>see</b> is clearer. See <a href="#plain-language">Plain language</a>.</dd>
+  <dt>ruby</dt>
+  <dd>Lowercase for the typographic convention. Capitalize for the Ruby programming language.</dd>
+  <dt>sanity</dt>
+  <dd>Avoid in phrases such as "sanity check". Use a more precise term, such as <b>coherence</b>, <b>confidence check</b>, or <b>validation</b>. See <a href="#disability-language">Disability language</a>.</dd>
+  <dt>schema</dt>
+  <dd>Lowercase unless part of a proper name.</dd>
+  <dt>schemas</dt>
+  <dd>Prefer <b>schemas</b> to "schemata".</dd>
+  <dt>select (versus click)</dt>
+  <dd>Use <b>select</b> when choosing from a set of options. Example: “Select an option from the dropdown menu.”</dd>
+  <dt>semicolon</dt>
+  <dd>Write as one word.</dd>
+  <dt>slave</dt>
+  <dd>Avoid. Use a context-specific alternative, such as <b>replica</b>. See <a href="#race-inclusive-language">Race-inclusive language</a>.</dd>
+  <dt>speech recognition</dt>
+  <dd>Use for technology that converts spoken words into text for speech-to-text transcription, virtual assistants, and other speech user interfaces.</dd>
+  <dt>stand-alone</dt>
+  <dd>Hyphenate.</dd>
+  <dt>style sheet</dt>
+  <dd>Write as two words, except in the official name <cite>Extensible Stylesheet Language</cite>.</dd>
+  <dt>subset</dt>
+  <dd>Write as one word. Do not hyphenate.</dd>
+  <dt>superset</dt>
+  <dd>Write as one word. Do not hyphenate.</dd>
+  <dt>timestamp</dt>
+  <dd>Write as one word.</dd>
+  <dt>timezone</dt>
+  <dd>Write as one word.</dd>
+  <dt>touchscreen</dt>
+  <dd>Write as one word.</dd>
+  <dt>uppercase</dt>
+  <dd>Write as one word.</dd>
+  <dt>URI reference</dt>
+  <dd>Usually write <b>URI reference</b>, not "URI Reference" or "URI-Reference".</dd>
+  <dt>URIs</dt>
+  <dd>Do not use an apostrophe. See <a href="#plural-acronyms">Plural acronyms</a>.</dd>
+  <dt>usable</dt>
+  <dd>Use <b>usable</b>, not "useable".</dd>
+  <dt>user agent</dt>
+  <dd>Lowercase unless part of a proper name.</dd>
+  <dt>user interface</dt>
+  <dd>Lowercase unless part of a proper name.</dd>
+  <dt>visually impaired</dt>
+  <dd>Avoid. Use <b>blind</b> or a more specific term that reflects the person or group being described. See <a href="#disability-language">Disability language</a>.</dd>
+  <dt>voice recognition</dt>
+  <dd>Use for technology that identifies who is speaking by analyzing vocal characteristics, such as voice biometrics used for authentication.</dd>
+  <dt>W3C Note</dt>
+  <dd>Use <b>W3C Note</b>, not "W3C NOTE".</dd>
+  <dt>web</dt>
+  <dd>Lowercase except when referring to the invention, as in “Sir Tim Berners-Lee invented the Web,” or when it is part of a proper name, such as <cite>World Wide Web Consortium</cite> or a job title such as “Senior Web Developer.”</dd>
+  <dt>web page</dt>
+  <dd>Write as two words.</dd>
+  <dt>webmaster</dt>
+  <dd>Write as one word.</dd>
+  <dt>website</dt>
+  <dd>Write as one word.</dd>
+  <dt>white space</dt>
+  <dd>Write as two words when used as a noun.</dd>
+  <dt>whitelist</dt>
+  <dd>Avoid. Use <b>allowlist</b>. See <a href="#race-inclusive-language">Race-inclusive language</a>.</dd>
+  <dt>World Wide Web</dt>
+  <dd>Write as three words. Do not hyphenate.</dd>
+  <dt>worldwide</dt>
+  <dd>Write as one word.</dd>
+  <dt>zeros</dt>
+  <dd>Use <b>zeros</b>, not "zeroes".</dd>
+</dl>
 
