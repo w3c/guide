@@ -54,23 +54,13 @@ The results from Advance Notice may indicate broad consensus on the proposed dir
 : If feedback indicates disagreement on scope, consider proposing both a fast initial version *and* a requirements gathering and drafting item for a full-featured second version. This can help avoid delays due to disagreements on scope.
 {:.tip}
 
-Once broad agreement is reached, a draft charter is created (or updated, if one was sent with the Advance Notice) and reviewed by W3M before being sent to the AC.
+Once broad agreement is reached, a draft charter is created (or updated, if one was sent with the Advance Notice) and reviewed by [TiLT](tilt/index.md) before being sent to the AC.
 
-> Time: W3M review
-: There is no set period for W3M review, but two reviewers are needed and two weeks is a typical minimum period.
+> Time: TiLT review
+: One week is a typical minimum period for [TiLT](tilt/index.md).
 {:.time}
 
-> Tips: W3M review
-: One of the reviewers can be the Domain leader, who should already be familiar with the proposed work from Team discussions. This can lead to faster and more thorough review.
->
-  The draft charter must indicate a proposed chair. Save time by identifying likely chairs during the Advance Notice period.
->
-  If one or two likely implementors have been identified during Advance Notice, communicate this to W3M so that they can see that the proposed work has developer backing.
->
-  Clearly distinguish in the charter between Groups with a formal dependency, and other related groups. This distinction will be important during Candidate Recommendation.
-{:.tip}
-
-Once review comments from W3M have been incorporated into the charter, it is [sent to the AC for review](https://www.w3.org/policies/process/#CharterReview).
+Once review comments from TiLT have been incorporated into the charter, it is [sent to the AC for review](https://www.w3.org/policies/process/#CharterReview).
 
 > Time: AC review
 : There is no set period for AC review, but four weeks is a typical minimum period followed by two to four weeks to incorporate feedback and to make the decision to charter the proposed Working Group.

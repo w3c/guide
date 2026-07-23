@@ -90,8 +90,8 @@ community is interested in transposing into IS at this point in time.
     prepare the next steps or abandon the idea.
 3.  **LiaisonTF** (and technical staff in charge of the technology)
     prepares a [PAS note](#note) (analysis of [criteria](#criteria),
-    outline, timeline, etc) to be sent to **W3M** for
-    discussion/approval. A first draft of the JTC 1 [PAS Explanatory
+    outline, timeline, etc) to be sent to **team-liaisons** for
+    discussion. A first draft of the JTC 1 [PAS Explanatory
     Report](http://www.w3.org/2010/03/pas-er.html) [is
     created.](http://www.w3.org/2010/03/pas-er.html)
 4.  **LiaisonTF** notifies **AB** when the ER is ready, and if there is
@@ -161,5 +161,5 @@ of the PAS being considered needs to be created, it should talk about:
   gov staff in our WG)
 - What other ISO standards are related (in competition or work in
   complement with the PAS)
-- Timing (AB pres, W3M approval, AC notification, proposal ready,
+- Timing (AB pres, AC notification, proposal ready,
   proposal sent + ballot 5 months)

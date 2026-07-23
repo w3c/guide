@@ -30,7 +30,7 @@ _This is the Team documentation detailing the various steps when [closing a grou
 - Relevant Contact works with Comm Team by writing a draft closure announcement to w3t-comm (you may use the [template](https://www.w3.org/new-doc-from-template?location=%2FTeam%2F&template=%2Fafs%2Fw3.org%2Fpub%2FWWW%2FTeam%2FTemplates%2Fgroup-closed.html&submit=Continue...)).
 - Comm Team sends announcement to w3c-ac-members, cc: chairs@w3.org and the Working Group's mailing-list(s) \[so there is a breadcrumb in the group's archive(s)]; and then [implements closure on the Web site](#after)
 
-**Note:** In the case of a controversial closure, W3M MAY opt to give the Advisory Committee the opportunity to respond to a *proposal to closure*.
+**Note:** In the case of a controversial closure, the CEO MAY opt to give the Advisory Committee the opportunity to respond to a *proposal to closure*.
 
 ## Implementing the Closure  {#after}
 

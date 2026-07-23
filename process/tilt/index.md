@@ -76,7 +76,7 @@ Other requests for approvals MUST be sent as an [open issue](https://github.com/
 
 For sensitive announcement, a draft of the message going to the AC may be needed. If so, use the "Anything else we should think before ..." to include or link to those information.
 
-For requests also requiring W3M approval (such as workshop budget), the label [“w3m”](https://github.com/w3c/tilt-private/labels/w3m) label is also added.
+For requests also requiring CEO approval (such as workshop budget), the label [“ceo”](https://github.com/w3c/tilt-private/labels/ceo) label is also added.
 
 The [list of pending](https://github.com/w3c/tilt-private/labels/agenda) requests is available.
 
