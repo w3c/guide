@@ -102,6 +102,7 @@ A list of [group procedures related to the W3C Process](process/#groups) is avai
 - [Copyrights for documents, software, tests](https://www.w3.org/copyright/)
 - Considerations for [joint deliverables](process/joint-deliverables.md)
 - [W3C Documents and license related to API definitions, code samples, or examples](process/binding-license.md)
+- [W3C Standards Vulnerability Disclosure & Handling Process and Policy](https://www.w3.org/TR/security-disclosure/)
 - Discussion about specifications tooling and versioning on [spec-prod@w3.org](https://lists.w3.org/Archives/Public/spec-prod/)
 
 ## Speaking about your work {#speaking}
