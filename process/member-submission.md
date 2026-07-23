@@ -62,7 +62,7 @@ Prior to acknowledgment, the Submitter(s) **must not, under any circumstances**,
 
 Prior to a decision to acknowledge or reject the request, the request is [Team-only](https://www.w3.org/policies/process/#Team-only), and the Team will hold it in the strictest confidentiality. In particular, the Team will not comment to the media about the Submission request.
 
-The Webmaster **must not** publish the document until the W3C Director of Marketing & Communications approves publication.
+The Webmaster **must not** publish the document until [TiLT](tilt/index.md) and the W3C Director of Marketing & Communications approve publication.
 
 ## Withdrawing a Submission request  {#widthdrawing}
 
