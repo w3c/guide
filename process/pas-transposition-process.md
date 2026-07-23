@@ -57,7 +57,7 @@ The complete guide for this process is in the [ISO/JTC1 Standing Document (PDF)]
 
 The following is a quick overview of what happens and who is in charge, as well as known rough time estimates. This is based on experience in submitting [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/WAI/news/2025-10-21/wcag22-iso/).
 
-* W3C agrees to submit a specification to ISO (see the [Selection Process](https://www.w3.org/2010/07/potential-pas.html), member-only link)
+* W3C agrees to submit a specification to ISO (see the [Selection Process](selection-process.md))
 
 * W3C Staff lets our PAS Mentor (currently Norbert Bensalem) know about our intent to submit the specification. He may ask us to provide rationale for the following (team-only links):
 
