@@ -88,12 +88,9 @@ community is interested in transposing into IS at this point in time.
 2.  **Discussions** happen between the various parties involved (WG
     chairs, WG, staff, PAS Mentor, JTC1 staff, SC chairs, AB, etc) to
     prepare the next steps or abandon the idea.
-3.  **LiaisonTF** (and technical staff in charge of the technology)
-    prepares a [PAS note](#note) (analysis of [criteria](#criteria),
-    outline, timeline, etc) to be sent to **team-liaisons** for
-    discussion. A first draft of the JTC 1 [PAS Explanatory
-    Report](http://www.w3.org/2010/03/pas-er.html) [is
-    created.](http://www.w3.org/2010/03/pas-er.html)
+3.  A [PAS note](#note) (analysis of [criteria](#criteria)
+    and a first draft of the JTC 1 [PAS Explanatory
+    Report](http://www.w3.org/2010/03/pas-er.html) are created.
 4.  **LiaisonTF** notifies **AB** when the ER is ready, and if there is
     agreement to move forward, announce the intention to submit to
     **ISO** (through JTC 1 PAS mentor) and **AC** (through **Comm**).
