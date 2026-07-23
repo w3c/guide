@@ -33,9 +33,9 @@ The following steps must be completed prior to and at the launch of the PAG (lin
 
 1. Development of PAG Charter ([REX PAG, Dec 2006](https://www.w3.org/2006/12/w3c-rex-pag-charter)).
    
-   - Domain Lead and Staff Contact are responsible for drafting.
+   - Project & Process Director and Staff Contact are responsible for drafting.
    - Seek feedback from the WG, the [Patent and Standards Interest Group](https://www.w3.org/2004/pp/psig/), and others as needed.
-   - Secure W3M approval.
+   - Secure Team legal approval.
 1. Creation of Supporting Systems
    
    - Archived Mailing Lists (where the primary work of the PAG is conducted must be consistent with the associated WG).

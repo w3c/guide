@@ -5,7 +5,7 @@ toc: false
 
 *Note:* W3C designates a Staff Contact to monitor the progress of every [Submission request](https://www.w3.org/Project/Submission) and to write a Team Comment which is published as part of the Submission. This document, however, discusses the Staff Contact of a Working Group, rather than the Staff Contact for a Submission.
 
-W3C designates a Staff Contact (also known as Team Contact) for every W3C Working Group and Interest Group ("Group"). The Contact helps set the strategic direction of the Group in the chartering phase. Many of the Contact's tasks involve helping the Chair complete his or her [roles](../chair/role.md), such as ensuring that the group runs smoothly, actively aiding consensus building, ensuring wide review of specifications, tracking feedback from implementors, and so forth. The Staff Contact reports to the Project Lead.
+W3C designates a Staff Contact (also known as Team Contact) for every W3C Working Group and Interest Group ("Group"). The Contact helps set the strategic direction of the Group in the chartering phase. Many of the Contact's tasks involve helping the Chair complete his or her [roles](../chair/role.md), such as ensuring that the group runs smoothly, actively aiding consensus building, ensuring wide review of specifications, tracking feedback from implementors, and so forth. The Staff Contact reports to the Project & Process Director.
 
 ## Technical coordination
 
@@ -45,7 +45,7 @@ The Staff Contact is also charged with representing the views of the Team to the
 
 - \[*Active Role*] Monitor levels of active participation and address as needed.
 - *Ensure* that attendance and minutes are kept.
-- *Ensure* that Chair is aware of any problems and report these problems to W3M when they persist.
+- *Ensure* that Chair is aware of any problems and report these problems to the Project & Process Director when they persist.
 - *Assist* Chair in moderating disputes between participants.
 - *Ensure* that Group page is up-to-date
 - *Assist* in reservations for phone bridge as needed
@@ -55,7 +55,7 @@ The Staff Contact is also charged with representing the views of the Team to the
 
 ## Serve as Contact with W3C Team
 
-- \[*Active Role*] Keep the Communications Team and Project lead informed of group events, face-to-face meetings, anticipated publication dates, etc.
+- \[*Active Role*] Keep the Communications Team and Project & Process Director informed of group events, face-to-face meetings, anticipated publication dates, etc.
 - \[*Active Role*] Identify host and coordinate with host to organize logistics for face-to-face meetings, events, etc.
 - *Assist* the Communications Team and Chair in soliciting testimonials for press releases.
 - \[*Active Role*] Work with Communications Team to draft press releases and/or review for accuracy.
