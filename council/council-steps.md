@@ -12,6 +12,7 @@ Note that at any step, the whole process might end by the originator by withdraw
 1. Formal Objection received
 1. The Staff Contact tries to resolve the Formal Objection before starting the process.
 1. The FO stands: The Team assigns a "FO Assignee" to handle the Formal Objection. Note that is is not always the Staff Contact, but someone having knowledge of the issue raised in the FO.
+1. A record of each Formal Objection against a decision regarding a publicly-available document must be made publicly available, using [public-review-comments](https://lists.w3.org/Archives/Public/public-review-comments/); See the considerations in [publishing the formal objections](council.md#publishing-fos)
 1. The FO Assignee produces a Team Report:
    * The Team Report is circulated to the Team for review (one week review time)
    * The Team Report is circulated (at the same time or after Team review) to both parties.
