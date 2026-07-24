@@ -106,7 +106,7 @@ What are the licensing terms of the referenced documents?
 
 ## 5. Availability {#availability}
 
-When a W3C specification depends normatively on a specification that is not freely readable, that dependency can make the resulting W3C work harder to review, harder to implement, and less "accessible to all."
+When a W3C specification depends normatively on a specification that is not freely available, that dependency can make the resulting W3C work harder to review, harder to implement, and less "accessible to all."
 Specifications which are only available to members of some organization, only available by signing a legal agreement, only available by paying a fee, or only available from a specific set of physical locations, are considered **not freely available**.
 
 ### 5.1 Requirements
