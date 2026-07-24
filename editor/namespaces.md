@@ -8,13 +8,17 @@ toc: true
 
 This document describes the W3C policy for namespaces allocation, including [XML namespace](https://www.w3.org/TR/xml-names11/), in W3C Technical Reports. This document is part a series of documents that describe W3C Technical Report Publication Policies.
 
-Exceptions to this policy **MAY** be authorized by the [Technical Strategy Lead](https://www.w3.org/staff/strat/).
+Exceptions to this policy **MAY** be authorized by [@w3c/transitions](https://github.com/orgs/w3c/teams/transitions).
 
-## Namespace URIs in Recommendation Track Documents, Group Notes, and other Working Drafts  {#allocation}
+## Requesting approval for a W3C namespace {#approval}
+
+[@w3c/transitions](https://github.com/orgs/w3c/teams/transitions) allocates and authorizes namespace URIs having the forms listed above, as part of the [pull requests in w3c/ns](https://github.com/w3c/ns/pulls). As convenience, it is also possible to get approval when the namespace is in a document with a [transition request](https://github.com/w3c/transitions/issues).
+
+## Namespace URIs in Recommendation Track Documents, Group Notes, and other Group Drafts  {#allocation}
 
 Groups **SHOULD** use namespace URIs that have the characteristics of uniqueness.
 
-Technical Strategy Lead approval is **NOT REQUIRED** when a namespace URI in a Technical Report has any of the following forms:
+Approval is **NOT REQUIRED** when a namespace URI in a Technical Report has any of the following forms:
 
 - `http://www.w3.org/ns/ssss`
 - `http://www.w3.org/YYYY/MM/ssss`
@@ -26,13 +30,13 @@ where:
 - `YYYY` and `MM` are decimal digits corresponding to the year and month of URI allocation
 - `ssss` is a short string not causing confusion, alarm, or embarrassment. For instance, the short string should not cause confusion when used in both `http://www.w3.org/TR/ssss` and `http://www.w3.org/ns/ssss` URIs.
 
-A trailing "`/`" **MAY** be used and does not require Technical Strategy Lead approval.
+A trailing "`/`" **MAY** be used and does not require approval.
 
-The [transition team](https://github.com/orgs/w3c/teams/transitions) allocates and authorizes namespace URIs having the forms listed above, as part of the [transition requests](https://github.com/w3c/transitions/issues) and/or as [pull requests in w3c/ns](https://github.com/w3c/ns/pulls). W3C provides the service of allocating and maintaining persistent URIs so that those URIs remain stable during discussions. Allocation does **not** imply any endorsement by W3C of the related specifications. The [W3C URI persistence policy](https://www.w3.org/policies/uri-persistence/) only applies to URIs of the above forms, and does not apply to other URIs within w3.org (e.g., those for lists.w3.org).
+W3C provides the service of allocating and maintaining persistent URIs so that those URIs remain stable during discussions. Allocation does **not** imply any endorsement by W3C of the related specifications. The [W3C URI persistence policy](https://www.w3.org/policies/uri-persistence/) only applies to URIs of the above forms, and does not apply to other URIs within w3.org (e.g., those for lists.w3.org).
 
-[Technical Strategy Lead](https://www.w3.org/staff/strat/) approval is **REQUIRED** for all other namespace URIs. In particular:
+Approval is **REQUIRED** for all other namespace URIs. In particular:
 
-- The Technical Strategy Lead **MAY** authorize a group to use a namespace URI that does not begin with `http://www.w3.org/`. The Technical Strategy Lead expects the organization that allocates the URI to have a clear persistence policy associated with the URI, to make a commitment to longevity of service, and to provide information about how the URI will be maintained in the event of the demise of the host organization.
+- [@w3c/transitions](https://github.com/orgs/w3c/teams/transitions) **MAY** authorize a group to use a namespace URI that does not begin with `http://www.w3.org/`. [@w3c/transitions](https://github.com/orgs/w3c/teams/transitions) expects the organization that allocates the URI to have a clear persistence policy associated with the URI, to make a commitment to longevity of service, and to provide information about how the URI will be maintained in the event of the demise of the host organization.
 
 ### Rationale for the http://www.w3.org/YYYY/MM/ssss syntax  {#syntax-rationale}
 
@@ -87,6 +91,7 @@ Example 5 \[Before CR]
 
 Discussion of this policy is appropriate in the [uri mailing list](https://lists.w3.org/Archives/Public/uri/) , [www-tag](https://lists.w3.org/Archives/Public/www-tag/), and various other lists.
 
+- 20260724: Replace Technical Strategy Lead with [@w3c/transitions](https://github.com/orgs/w3c/teams/transitions)
 - 20250814: Replace Director with [Technical Strategy Lead](https://www.w3.org/staff/strat/)
 - 20060906: After [discussion on www-tag](https://lists.w3.org/Archives/Public/www-tag/2006Aug/0081.html) and with support from Director, announced http://www.w3.org/ns/. See [announcement to www-tag on 6 Sep](https://lists.w3.org/Archives/Public/www-tag/2006Sep/0039.html).
 - 20050131: Revision announced to Chairs.
