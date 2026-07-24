@@ -151,7 +151,7 @@ For DOM Recommendations produced jointly by WHATWG and W3C, the HTML Living Stan
 
 ## Change History
 
-- **2026-07-24**: Add free availability as a requirement for normative references.
+- **2026-07-24**: Add free availability as a requirement for normative references, with exceptions, following [W3C Council Report on the Formal Objection to the use of Normative References to ISO/IEC 18013-7 Annex C in the Digital Credentials API specification](https://www.w3.org/2026/06/council-digital-credentials-report.html#recommendations).
 - **2023-10-23**: Move document to GitHub. Update to current, 2023 Process.
 - **2020-10-30**: Update W3C Recommendation track citation to the current W3C Process. Update Patent Policy reference to the current version and correct a fragment id. Clarify the intent regarding backwards compatibility in the Stability section introduction.
 - **2019-06-14**: Correct a mailto: reference. Update W3C Recommendation track citation to the 2019 version. Add Appendix I.
