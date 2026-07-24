@@ -117,7 +117,7 @@ If a specification is not freely available, but another specification is technic
 .
 ### 5.2 Exceptions
 
-In exceptional circumstances, which must be clearly documented on a case-by-case basis, W3C _may_ allow a specification to normatively reference a specification that is not freely available if the cost of excluding it is considered to outweigh the cost of referencing it.
+In exceptional circumstances, which must be clearly documented on a case-by-case basis, W3C _may_ allow a specification to normatively reference a specification that is **not freely available** if the cost of excluding it is considered to outweigh the cost of referencing it.
 
 Any exception must be justified on a case-by-case basis and should be limited to situations where the referenced specification contributes critical functionality to the W3C specification that cannot reasonably be achieved by referencing a freely accessible alternative.
 
