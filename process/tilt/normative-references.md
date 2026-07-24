@@ -113,7 +113,7 @@ Specifications which are only available to members of some organization, only av
 
 In general, and consistent with the Modern Paradigm for Standards ([OpenStand principles](https://open-stand.org/about-us/principles/)), W3C does not allow standards-track specifications to make normative references to specifications which are not **freely available**.
 
-If a specification is not freely available, but another specification is technically aligned with it (such that implementing one is equivalent to implementing the other) then the freely available specification should be the normative reference. The non-freely available specification should be added as an informative reference, and the specification should note that they are technically equivalent.
+If a specification is not freely available, but another specification is technically aligned with it (such that implementing one is equivalent to implementing the other) then the freely available specification should be the normative reference. The not freely available specification should be added as an informative reference, and the specification should note that they are technically equivalent.
 .
 ### 5.2 Exceptions
 
