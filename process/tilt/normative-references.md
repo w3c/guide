@@ -9,7 +9,7 @@ Normative references between specifications are typically references to establis
 
 This document explains considerations the Team take into account when evaluating normative references from W3C documents at transitions on the [W3C Recommendation track](https://www.w3.org/policies/process/#Reports). These considerations may be used by the Working Group while evaluating the risk associated with specific design choices during the group’s deliberations. The Team may refer to this document when a transition request is being decided.
 
-At a high level, when a W3C specification has normative references to other documents the Team considers 3 factors: stability, schedule and licensing. Any of the factors described in this document are fodder for Team consideration. No single factor is decisive. Different cases will involve different combinations of these factors. The Team may consider other factors not listed in this document as well; e.g. the likelihood that W3C may wish to submit the Recommendation to ISO and the PAS criteria for normative references.
+At a high level, when a W3C specification has normative references to other documents the Team considers 4 factors: stability, schedule, licensing and availability. Any of the factors described in this document are fodder for Team consideration. No single factor is decisive. Different cases will involve different combinations of these factors. The Team may consider other factors not listed in this document as well; e.g. the likelihood that W3C may wish to submit the Recommendation to ISO and the PAS criteria for normative references.
 
 ## 2. Stability {#stability}
 
@@ -104,6 +104,40 @@ What are the licensing terms of the referenced documents?
 
 **Note:** The experimental [normative references checker](https://labs.w3.org/normative-references/) can be used to identify which references are or should be normative in your document.
 
+## 5. Availability {#availability}
+
+When a W3C specification depends normatively on a specification that is not freely available, that dependency can make the resulting W3C work harder to review, harder to implement, and less "accessible to all."
+Specifications which are only available to members of some organization, only available by signing a legal agreement, only available by paying a fee, or only available from a specific set of physical locations, are considered **not freely available**.
+
+### 5.1 Requirements
+
+In general, and consistent with the Modern Paradigm for Standards ([OpenStand principles](https://open-stand.org/about-us/principles/)), W3C does not allow standards-track specifications to make normative references to specifications which are **not freely available**.
+
+If a specification is not freely available, but another specification is technically aligned with it (such that implementing one is equivalent to implementing the other) then the freely available specification should be the normative reference. The not freely available specification should be added as an informative reference, and the specification should note that they are technically equivalent.
+.
+### 5.2 Exceptions
+
+In exceptional circumstances, which must be clearly documented on a case-by-case basis, W3C _may_ allow a specification to normatively reference a specification that is **not freely available** if the cost of excluding it is considered to outweigh the cost of referencing it.
+
+Any exception must be justified on a case-by-case basis and should be limited to situations where the referenced specification contributes critical functionality to the W3C specification that cannot reasonably be achieved by referencing a freely accessible alternative.
+
+   **For example**, if an external specification is already central to existing deployment, or broad interoperability requirements
+
+For each axceptional normative reference, the group producing the specification must document (for example, in the transition request)
+
+1. why the referenced specification is necessary;
+
+2. whether a freely accessible alternative exists;
+
+3. what functionality would be lost if the reference were removed;
+
+4. who would be unable to review or implement the W3C specification because of the reference;
+
+5. what mitigation steps are available, including informative summaries, liaison work, requests for public availability, or narrower references to only the required portions of the external specification.
+
+   **For example**, liaison requests from W3C to some other standards organization, asking that a specific specification be made freely available so that it may be normatively referenced by W3C, have several times resulted in the specification becoming freely available.
+
+
 ## Appendix I : Stability Evaluation of HTML and DOM Living Standards {#AppendixI}
 
 The guidelines in [section 2](#stability) are evaluated for references from W3C specifications to the WHATWG HTML and DOM Living Standards as follows:
@@ -117,6 +151,7 @@ For DOM Recommendations produced jointly by WHATWG and W3C, the HTML Living Stan
 
 ## Change History
 
+- **2026-07-24**: Add free availability as a requirement for normative references, with exceptions, following [W3C Council Report on the Formal Objection to the use of Normative References to ISO/IEC 18013-7 Annex C in the Digital Credentials API specification](https://www.w3.org/2026/06/council-digital-credentials-report.html#recommendations).
 - **2023-10-23**: Move document to GitHub. Update to current, 2023 Process.
 - **2020-10-30**: Update W3C Recommendation track citation to the current W3C Process. Update Patent Policy reference to the current version and correct a fragment id. Clarify the intent regarding backwards compatibility in the Stability section introduction.
 - **2019-06-14**: Correct a mailto: reference. Update W3C Recommendation track citation to the 2019 version. Add Appendix I.
