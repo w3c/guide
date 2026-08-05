@@ -9,7 +9,7 @@ Normative references between specifications are typically references to establis
 
 This document explains considerations the Team take into account when evaluating normative references from W3C documents at transitions on the [W3C Recommendation track](https://www.w3.org/policies/process/#Reports). These considerations may be used by the Working Group while evaluating the risk associated with specific design choices during the group’s deliberations. The Team may refer to this document when a transition request is being decided.
 
-At a high level, when a W3C specification has normative references to other documents the Team considers four factors: stability, schedule, licensing, and availability. Any of the factors described in this document are fodder for Team consideration. No single factor is decisive. Different cases will involve different combinations of these factors. The Team may consider other factors not listed in this document as well; e.g. the likelihood that W3C may wish to submit the Recommendation to ISO and the PAS criteria for normative references.
+At a high level, when a W3C specification has normative references to other documents the Team considers four factors: stability, schedule, licensing, and availability. Any of the factors described in this document are fodder for Team consideration. No single factor is decisive. Different cases will involve different combinations of these factors. The Team may consider other factors not listed in this document as well, e.g., the likelihood that W3C may wish to submit the Recommendation to ISO and the PAS criteria for normative references.
 
 ## 2. Stability {#stability}
 
