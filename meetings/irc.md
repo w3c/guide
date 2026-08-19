@@ -60,7 +60,7 @@ In addition to all of the other benefits of using IRC, there are also a number o
 
 : teleconference management
 
-[RRSAgent](rrsagent.md)
+[RRSAgent](https://github.com/w3c/rrsagent)
 
 : minute taking
 
@@ -113,7 +113,7 @@ Get a room!
 
 Out of band or off the record comments
 
-: W3C house style is to use "action" messages to denote out-of-band or off-the-record comments. Most IRC clients have a command called `/me` that generates this type of message. Clients generally display these messages in a different style from normal messages. For example, the irc command "/me waves" might result in the discussion window showing the text "* Ralph waves". The [RRSAgent](rrsagent.md) logging tool excludes these messages from the web log.
+: W3C house style is to use "action" messages to denote out-of-band or off-the-record comments. Most IRC clients have a command called `/me` that generates this type of message. Clients generally display these messages in a different style from normal messages. For example, the irc command "/me waves" might result in the discussion window showing the text "* Ralph waves". The [RRSAgent](https://github.com/w3c/rrsagent) logging tool excludes these messages from the web log.
 
 : When IRC is used to keep meeting minutes it is important to distinguish what was actually said in the meeting from side conversations that were not heard by all (i.e., on a teleconference). [Ralph](/staff/#rswick) encourages the use of square brackets around messages that are intended to be side comments for the log; e.g. "\[Ralph agrees]".
 

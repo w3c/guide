@@ -26,7 +26,7 @@ will bring Zakim on to your IRC channel.
 
 Some irc clients let you omit the channel name and will fill in the name of current channel. This is a feature of the irc client, not of Zakim.
 
-You might also want [RRSAgent](rrsagent.md) in your meeting channel to keep a record of the meeting in W3C Web space. To start logging the channel, invite the RRSAgent bot as follows:
+You might also want [RRSAgent](https://github.com/w3c/rrsagent) in your meeting channel to keep a record of the meeting in W3C Web space. To start logging the channel, invite the RRSAgent bot as follows:
 
 `/invite rrsagent <channel>`
 
@@ -42,7 +42,7 @@ Once Zakim is on your IRC channel, all commands to Zakim begin with
 
 Zakim's commands are not case sensitive, but, in general, must be grammatically correct.
 
-Zakim will respond to normal irc lines and to `ACTION` lines (typically entered with the '`/me`' command in many irc clients). The '`/me`' form is especially recommended for avoiding clutter in [RRSAgent](rrsagent.md) logs; interactions that serve no useful purpose in the permanent irc record can be prefixed with '`/me`'. This typically includes '`q+`' and '`ack`' commands; e.g., '`q+`' will be logged by RRSAgent whereas '`/me q+`' will not (see [RRSAgent log recording](rrsagent.md#logoff)). Zakim will generally mimic the same usage in the reply. For the commands such as '`agenda?`' to which Zakim will respond without being directly addressed, Zakim responds directly if he is addressed and in third-person ('`/me`') form if he was not addressed.
+Zakim will respond to normal irc lines and to `ACTION` lines (typically entered with the '`/me`' command in many irc clients). The '`/me`' form is especially recommended for avoiding clutter in [RRSAgent](https://github.com/w3c/rrsagent) logs; interactions that serve no useful purpose in the permanent irc record can be prefixed with '`/me`'. This typically includes '`q+`' and '`ack`' commands; e.g., '`q+`' will be logged by RRSAgent whereas '`/me q+`' will not (see [RRSAgent log recording](https://github.com/w3c/rrsagent)). Zakim will generally mimic the same usage in the reply. For the commands such as '`agenda?`' to which Zakim will respond without being directly addressed, Zakim responds directly if he is addressed and in third-person ('`/me`') form if he was not addressed.
 
 ## Identifying your particular teleconference {#info}
 
@@ -51,7 +51,7 @@ Zakim will respond to normal irc lines and to `ACTION` lines (typically entered 
 - `start [the | this] meeting`
 - `prepare [the | this] meeting`
 
-Invite [RRSAgent](rrsagent.md) to the current channel, provide the expected access control (visibility) of RRSAgent's records and a title for the meeting. Additional instructions may be pre-stored and entered into the irc log.
+Invite [RRSAgent](https://github.com/w3c/rrsagent) to the current channel, provide the expected access control (visibility) of RRSAgent's records and a title for the meeting. Additional instructions may be pre-stored and entered into the irc log.
 
 The two forms of this command do the same thing; some people set things up in the channel well before the meeting is scheduled to start and the '`prepare`' synonym reduces confusion for others who are already on the channel.
 
@@ -59,7 +59,7 @@ The two forms of this command do the same thing; some people set things up in th
 
 - `end [the | this] meeting`
 
-Displays a final list of those who were recognized as being present during the meeting, requests [RRSAgent](rrsagent.md) to create the formatted meeting record, and then departs (see '`bye`').
+Displays a final list of those who were recognized as being present during the meeting, requests [RRSAgent](https://github.com/w3c/rrsagent) to create the formatted meeting record, and then departs (see '`bye`').
 
 ### Provide a description for the teleconference on the current IRC channel {#description}
 

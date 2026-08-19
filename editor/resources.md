@@ -45,7 +45,7 @@ toc: true
 * Minutes taking by IRC:
   * [IRC HOWTO](../meetings/irc.md)
   * [Zakim HOWTO](../meetings/zakim.md)
-  * [RRSAgent HOWTO](../meetings/rrsagent.md)
+  * [RRSAgent HOWTO](https://github.com/w3c/rrsagent)
 
 ### Meetings
 
