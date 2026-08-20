@@ -89,7 +89,7 @@ In practice, this "Canonical URL" returns the document provided in [Latest URLs]
 
 ### Alternative canonical URLs
 
-The "Canonical URL" and the version numbers dp not address all of the needs that go into the choice of a link for a technology. Consequently, several URLs are created automatically based on the "Canonical URL".
+The "Canonical URL" and the version numbers do not address all of the needs that go into the choice of a link for a technology. Consequently, several URLs are created automatically based on the "Canonical URL".
 
 #### Latest URLs  {#latest}
 
