@@ -9,7 +9,7 @@ The following resources are included in this Guide:
   - [Scribe 101](https://w3c.github.io/scribe2/scribedoc.html): Taking meeting minutes using W3C IRC tools
   - [Quick start guide](https://w3c.github.io/scribe2/scribedoc.html) more details on setting up tools for managing an agenda, generating minutes, and updating issues lists
   - Individual IRC tools ("bots"):
-    - [Zakim](zakim.md) for queue management, start and end meeting
+    - [Zakim](https://github.com/w3c/zakim) for queue management, start and end meeting
     - [RRSAgent](https://github.com/w3c/rrsagent) for minutes management
 - [Dealing with timezones](organize.md)
 - [Holidays wiki](https://www.w3.org/wiki/Holidays) to help planning WG work around recurring holidays

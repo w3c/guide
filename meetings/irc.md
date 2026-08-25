@@ -56,7 +56,7 @@ At W3C there is often a channel running during meetings. A working group should 
 
 In addition to all of the other benefits of using IRC, there are also a number of ['bots'](https://en.wikipedia.org/wiki/Internet_Relay_Chat_bot). These bots appear as people in the channel, but are actually automated tools. There are two important bots:
 
-[Zakim](zakim)
+[Zakim](https://github.com/w3c/zakim)
 
 : teleconference management
 
