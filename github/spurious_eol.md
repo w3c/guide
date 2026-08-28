@@ -39,8 +39,9 @@ It seems that the bug appears when the following conditions are met:
 
   + on the command line, using the `--ignore-all-space` option of `git diff`
 
-> [!Note]
-> Note that this does not *fix* anything; it only changes what is displayed as "changed lines". Further, it conceals changes in indentation which may increase or decrease the number of space characters used for indents, as well as changing indent characters between tabs and spaces. These remain to be manually fixed after resolving the EOL issue.
+  > [!Note]
+  > Note that this does not *fix* anything; it only changes what is displayed as "changed lines". Further, it conceals changes in indentation which may increase or decrease the number of space characters used for indents, as well as changing indent characters between tabs and spaces. These remain to be manually fixed after resolving the EOL issue.
+
 * Advanced users may "fix" the PR by
 
   + checkout the branch of the PR locally
@@ -66,6 +67,6 @@ A workaround consists in:
   with EOLs normalized to LF,
   regardless of the EOLs in the local copies.
 
-* running `git add . --renormalize`
+* optionally running `git add . --renormalize` followed by `git commit -m "normalize all EOL"`
   to ask GIT to remove all mixed EOL in text files already present in the repository.
   (Again, this will *not* change the local copies.)
