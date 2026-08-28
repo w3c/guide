@@ -39,6 +39,8 @@ It seems that the bug appears when the following conditions are met:
 
   + on the command line, using the `--ignore-all-space` option of `git diff`
 
+> [!Note]
+> Note that this does not *fix* anything; it only changes what is displayed as "changed lines". Further, it conceals changes in indentation which may increase or decrease the number of space characters used for indents, as well as changing indent characters between tabs and spaces. These remain to be manually fixed after resolving the EOL issue.
 * Advanced users may "fix" the PR by
 
   + checkout the branch of the PR locally
