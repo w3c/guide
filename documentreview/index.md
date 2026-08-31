@@ -69,7 +69,7 @@ The reviews provided by the [horizontal groups](../process/horizontal-groups.md)
 
 When you have published a First Public Working Draft, you should work through available "self-review" materials and request review of your results in at least the following areas.
 
-*Long enough* before you request a transition to CR, you should do the same again, identifying substantive specification changes since the first review. During the [Last Call for Review of Proposed Amendment](https://www.w3.org/policies/process/#change-review), you should also do the same.
+*Long enough* before you request a transition to CR, you should do the same again, identifying substantive specification changes since the first review. During the [Last Call for Review of Proposed Amendments](https://www.w3.org/policies/process/#change-review), you should also do the same.
 
 The meaning of "Long enough" depends on how many changes there are, how clearly you have explained them, and how much discussion is needed to resolve issues. Pointing to 14 concise points for a small spec may mean a short review time if they are simple fixes. Pointing to 900 diffs from commits and hoping people understand them in a 300 page spec means it will take a **long** time to get review, and potentially a long time to discuss and agree on how to solve the issues. If you have effectively identified issues for review during development and received feedback on them, the review time will probably be shorter. Horizontal review groups sometimes get bogged down; planning in advance is useful.
 
