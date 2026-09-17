@@ -6,7 +6,6 @@ toc: no
 How [TiLT](./) manages AC review results depends on
 the results themselves. The first three cases below require TilT
 discussion; the fourth only requires notification to TiLT.
-{:#TiLT-report}
 
 ## Case 1: There are Unresolved Formal Objections
 
