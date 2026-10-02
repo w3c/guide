@@ -63,6 +63,9 @@ The fields that are understood at this point are:
    `tool`
    : Development of tools
 
+   `ai-skill`
+   : For modular, reusable capabilities that define how an AI agent performs specific tasks
+
    `project`
    : Group-independent projects
 
