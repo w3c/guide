@@ -10,6 +10,7 @@ The following resources are included in this Guide:
   - [Quick start guide](https://w3c.github.io/scribe2/scribedoc.html) more details on setting up tools for managing an agenda, generating minutes, and updating issues lists
   - Individual IRC tools ("bots"):
     - [Zakim](https://github.com/w3c/zakim) for queue management, start and end meeting
+    - [AgendaBot](https://w3c.github.io/AgendaBot/manual.html) can find an agenda in the mail archives or group calendar and put it on IRC in Zakim's format
     - [RRSAgent](https://github.com/w3c/rrsagent) for minutes management
 - [Dealing with timezones](organize.md)
 - [Holidays wiki](https://www.w3.org/wiki/Holidays) to help planning WG work around recurring holidays
