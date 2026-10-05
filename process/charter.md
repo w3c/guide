@@ -129,7 +129,7 @@ All issues filed against the charter draft during refinement must be formally ad
 
 ### 3.4 Requesting a TiLT decision
 
-Before the end of the announced duration for the charter refinement phase, The Technical Strategy Team (represented by the Technical Leadership Team, or TiLT and informed by the work of the Chartering Facilitator) must decide which of the following to do:
+Before the end of the announced duration for the charter refinement phase, the Technical Strategy Team (represented by the Technical Leadership Team, or TiLT and informed by the work of the Chartering Facilitator) must decide which of the following to do:
 
 * Complete charter refinement by initiating AC Review of the charter draft.
 * Abandon the proposal.
@@ -213,6 +213,7 @@ Request extension notice
 
 Let the group know
 : The W3C Communications Team inform the group that its charter has been extended.
+: The W3C Communications Team proceeds with task #4 of [announce extension](https://www.w3.org/policies/process/#announce-extension).
 
 ### 4.2 Request for rechartering  {#recharter-request}
 
@@ -425,10 +426,10 @@ When requesting that the W3C Communications Team announce a charter extension, u
 
 The W3C Communications Team then:
 
-- Sends extension announcements to w3c-ac-members@w3.org
-- ... and later forwards the announcements as FYI to chairs@w3.org
-- It is a good practice to forward the extension announcement to the public list of the group, and to follow-up on public-new-work.
-- updates the [list of groups](https://www.w3.org/groups/) accordingly.
+1. Sends extension announcements to w3c-ac-members@w3.org
+2. ... and later forwards the announcements as FYI to chairs@w3.org
+3. It is a good practice to forward the extension announcement to the public list of the group, and to follow-up on public-new-work.
+4. Adds the charter extension via the [Groups DB](https://www.w3.org/admin/dashboard) interface.
 
 The Communications Team modifies (or asks the Staff Contact) the Charter in place as follows:
 
@@ -445,6 +446,7 @@ When a group **Chair** is (re)appointed or resigns, shortly before/after the ann
 
 ## 6. Revision history  {#revision-history}
 
+- **2026-10**: Editorial: added missing step after short extension of charter is granted; updated links to groups DB interface.
 - **2025-08**: Overhauled to integrate charter refinement introduced in the 2025 Process Document.
 - **2024-01**: Public comments and Formal Objections (including from Members) are now to be sent to public-review-comments@w3.org; various editorial changes.
 - **2023-10**: Updated following Process 2023 and reorganized to separate high-level processes from implementation.
