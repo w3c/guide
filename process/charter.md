@@ -213,7 +213,7 @@ Request extension notice
 
 Let the group know
 : The W3C Communications Team inform the group that its charter has been extended.
-: The W3C Communications Team proceeds with task #4 of [announce extension](https://www.w3.org/policies/process/#announce-extension).
+: The W3C Communications Team proceeds with task #4 of [announce extension](#announce-extension).
 
 ### 4.2 Request for rechartering  {#recharter-request}
 
