@@ -20,15 +20,15 @@ Groups **SHOULD** use namespace URIs that have the characteristics of uniqueness
 
 Approval is **NOT REQUIRED** when a namespace URI in a Technical Report has any of the following forms:
 
-- `http://www.w3.org/ns/ssss`
-- `http://www.w3.org/YYYY/MM/ssss`
-- `http://www.w3.org/YYYY/ssss`
+- `https://www.w3.org/ns/ssss`
+- `https://www.w3.org/YYYY/MM/ssss`
+- `https://www.w3.org/YYYY/ssss`
 
 where:
 
 - `ns` is the literal string "`ns`"
 - `YYYY` and `MM` are decimal digits corresponding to the year and month of URI allocation
-- `ssss` is a short string not causing confusion, alarm, or embarrassment. For instance, the short string should not cause confusion when used in both `http://www.w3.org/TR/ssss` and `http://www.w3.org/ns/ssss` URIs.
+- `ssss` is a short string not causing confusion, alarm, or embarrassment. For instance, the short string should not cause confusion when used in both `https://www.w3.org/TR/ssss` and `https://www.w3.org/ns/ssss` URIs.
 
 A trailing "`/`" **MAY** be used and does not require approval.
 
@@ -36,9 +36,9 @@ W3C provides the service of allocating and maintaining persistent URIs so that t
 
 Approval is **REQUIRED** for all other namespace URIs. In particular:
 
-- [@w3c/transitions](https://github.com/orgs/w3c/teams/transitions) **MAY** authorize a group to use a namespace URI that does not begin with `http://www.w3.org/`. [@w3c/transitions](https://github.com/orgs/w3c/teams/transitions) expects the organization that allocates the URI to have a clear persistence policy associated with the URI, to make a commitment to longevity of service, and to provide information about how the URI will be maintained in the event of the demise of the host organization.
+- [@w3c/transitions](https://github.com/orgs/w3c/teams/transitions) **MAY** authorize a group to use a namespace URI that does not begin with `https://www.w3.org/`. [@w3c/transitions](https://github.com/orgs/w3c/teams/transitions) expects the organization that allocates the URI to have a clear persistence policy associated with the URI, to make a commitment to longevity of service, and to provide information about how the URI will be maintained in the event of the demise of the host organization.
 
-### Rationale for the http://www.w3.org/YYYY/MM/ssss syntax  {#syntax-rationale}
+### Rationale for the https://www.w3.org/YYYY/MM/ssss syntax  {#syntax-rationale}
 
 This syntax enables the W3C support staff to ensure very high level of persistence for namespace URIs, in terms of the non-reuse and the availability of any online materials (schemata etc).
 
@@ -47,7 +47,7 @@ The "`www.w3.org`" is used instead of "`w3.org`" (an internal decision made for 
 - `www.w3.org` is in very common use and cannot be abandoned;
 - to duplicate the site at both addresses would trash the efficiency of caches, indexes and archives all over the world.
 
-The form "`http://www.w3.org/activity/date/foo`" cannot be readily implemented due to the diversity of policies governing each subtree of the W3C site. These policies vary in order to support the diversity of work styles and tools used across the Consortium. Therefore no consistent commitment to persistence can be made in such a sweeping way. Group participants should bear in mind that the W3C Team will be maintaining this Web space long after the groups have become more interested in other topics or have been closed.
+The form "`https://www.w3.org/activity/date/foo`" cannot be readily implemented due to the diversity of policies governing each subtree of the W3C site. These policies vary in order to support the diversity of work styles and tools used across the Consortium. Therefore no consistent commitment to persistence can be made in such a sweeping way. Group participants should bear in mind that the W3C Team will be maintaining this Web space long after the groups have become more interested in other topics or have been closed.
 
 ## Namespace URIs in Member and Team Submissions  {#submissions}
 
@@ -91,6 +91,7 @@ Example 5 \[Before CR]
 
 Discussion of this policy is appropriate in the [uri mailing list](https://lists.w3.org/Archives/Public/uri/) , [www-tag](https://lists.w3.org/Archives/Public/www-tag/), and various other lists.
 
+- 20260724: Make it clrear that groups are expected to use https://www.w3.org/ instead of http://www.w3.org/
 - 20260724: Replace Technical Strategy Lead with [@w3c/transitions](https://github.com/orgs/w3c/teams/transitions)
 - 20250814: Replace Director with [Technical Strategy Lead](https://www.w3.org/staff/strat/)
 - 20060906: After [discussion on www-tag](https://lists.w3.org/Archives/Public/www-tag/2006Aug/0081.html) and with support from Director, announced http://www.w3.org/ns/. See [announcement to www-tag on 6 Sep](https://lists.w3.org/Archives/Public/www-tag/2006Sep/0039.html).
