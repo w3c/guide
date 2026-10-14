@@ -22,6 +22,9 @@ Wide review should or must be requested:
 * Before a document gets advanced to [Candidate Recommendation](https://www.w3.org/policies/process/#transition-cr), gets updated as a [Candidate Recommendation Snapshot](https://www.w3.org/policies/process/#update-requests) or gets updated as a [Recommendation](https://www.w3.org/policies/process/#change-review).
   
   For those, the [W3C Process](https://www.w3.org/policies/process/) requires a Group to show that the specification has received wide review.
+* Before a registry gets advanced to [Candidate Registry Snapshot](https://www.w3.org/policies/process/#reg-pub) or gets updated as a Registry.
+  
+  The rules for publication and advancement on the [Registry Track](https://www.w3.org/policies/process/#reg-pub) are identical to those of the Recommendation Track, except where the Process says otherwise. As it does not make an exception for wide review, registries also need to show that they have received wide review.
 * When a document is both reasonably stable and still flexible enough to allow changes where issues are identified.
 * When new features are added after a document has already received wide review (perhaps requesting a review limited to the new features).
 
