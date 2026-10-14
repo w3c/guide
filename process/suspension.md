@@ -9,12 +9,12 @@ The [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/) takes pr
 
 Warnings are given by W3C group chairs and/or Staff Contacts.
 
-For the purpose of this document, a [W3C Council](https://www.w3.org/policies/process/#council) is treated like a W3C group: its chair(s) have the same abilities and responsibilities as the chairs of other groups. Removal of a participant from another group (e.g., the TAG or the AB) does not by itself imply removal from an in-flight Council; that is a separate decision, made following the guidelines below.
+For the purpose of this document, a [W3C Council](https://www.w3.org/policies/process/#council) is treated like a W3C group: its chair(s) have the same abilities and responsibilities as the chairs of other groups.
 
 1. Consistent with the practices below, the W3C CEO delegates authority to suspend or remove participants:
 
    - from a single group, to the CEO;
-   - from a single group (including a Council) that the individual has not formally joined, to the chair(s) of the group or Council; and
+   - from a single group that the individual has not formally joined, to the chair(s) of the group or Council; and
    - from all W3C groups, to the CEO and COO jointly.
 
    If the Chair, Staff contact, CEO, or COO is the one accused of unacceptable behavior, they should not be involved in the decision to ban.
