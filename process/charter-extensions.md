@@ -1,5 +1,6 @@
 ---
 title: Policy on W3C Group Charter End Dates
+published_at: https://www.w3.org/guide/process/charter-extensions
 toc: no
 ---
 

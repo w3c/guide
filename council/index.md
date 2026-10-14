@@ -1,5 +1,6 @@
 ---
 title: W3C Councils
+published_at: https://www.w3.org/guide/council/
 toc: false
 ---
 

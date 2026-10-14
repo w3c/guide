@@ -1,5 +1,6 @@
 ---
 title: Joint deliverables
+published_at: https://www.w3.org/guide/process/joint-deliverables
 toc: no
 ---
 

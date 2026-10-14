@@ -1,5 +1,6 @@
 ---
 title: Style for Group-internal Drafts
+published_at: https://www.w3.org/guide/editor/editors-draft
 submenu: [publication-policies]
 toc: no
 ---

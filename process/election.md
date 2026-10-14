@@ -1,5 +1,6 @@
 ---
 title: How to organize an Advisory Board or Technical Architecture Group election
+published_at: https://www.w3.org/guide/process/election
 toc: true
 ---
 

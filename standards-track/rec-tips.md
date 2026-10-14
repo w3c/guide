@@ -1,5 +1,6 @@
 ---
 title: Tips for Getting to Recommendation Faster
+published_at: https://www.w3.org/guide/standards-track/rec-tips
 toc: true
 ---
 

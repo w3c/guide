@@ -1,5 +1,6 @@
 ---
 title: Code of Conduct Incident Resolution and Ombuds
+published_at: https://www.w3.org/guide/process/coc-incident-resolution-ombuds
 toc: false
 ---
 

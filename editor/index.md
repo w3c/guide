@@ -1,5 +1,6 @@
 ---
 title: W3C Editors' Home Page
+published_at: https://www.w3.org/guide/editor/
 toc: true
 ---
 

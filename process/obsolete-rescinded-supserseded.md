@@ -1,5 +1,6 @@
 ---
 title: Obsoleting and Rescinding W3C Specifications
+published_at: https://www.w3.org/guide/process/obsolete-rescinded-supserseded
 toc: yes
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Workflow for editors and other contributors
+published_at: https://www.w3.org/guide/github/workflow
 toc: false
 ---
 

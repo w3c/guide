@@ -1,5 +1,6 @@
 ---
 title: W3C Chair Buddy System
+published_at: https://www.w3.org/guide/chair/buddy
 toc: true
 ---
 

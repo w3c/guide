@@ -1,5 +1,6 @@
 ---
 title: The Art of Consensus (Guidebook)
+published_at: https://www.w3.org/guide/
 toc: true
 ---
 
