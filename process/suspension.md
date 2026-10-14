@@ -14,7 +14,7 @@ For the purpose of this document, a [W3C Council](https://www.w3.org/policies/pr
 1. Consistent with the practices below, the W3C CEO delegates authority to suspend or remove participants:
 
    - from a single group, to the CEO;
-   - from a single group that the individual has not formally joined, to the chair(s) of the group or Council; and
+   - from a single group that the individual has not formally joined, to the chair(s) of the group; and
    - from all W3C groups, to the CEO and COO jointly.
 
    If the Chair, Staff contact, CEO, or COO is the one accused of unacceptable behavior, they should not be involved in the decision to ban.
