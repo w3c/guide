@@ -12,7 +12,7 @@ Exceptions to this policy **MAY** be authorized by [@w3c/transitions](https://gi
 
 ## Requesting approval for a W3C namespace {#approval}
 
-[@w3c/transitions](https://github.com/orgs/w3c/teams/transitions) allocates and authorizes namespace URIs having the forms listed above, as part of the [pull requests in w3c/ns](https://github.com/w3c/ns/pulls). As convenience, it is also possible to get approval when the namespace is in a document with a [transition request](https://github.com/w3c/transitions/issues).
+[@w3c/transitions](https://github.com/orgs/w3c/teams/transitions) allocates and authorizes namespace URIs having the forms listed above, as part of the [pull requests in w3c/ns](https://github.com/w3c/ns/pulls). The `https://www.w3.org/ns/` space is [maintained on GitHub](https://github.com/w3c/ns): Namespace Documents, schemas and vocabularies for `https://www.w3.org/ns/ssss` URIs are added or updated by pull request to [w3c/ns](https://github.com/w3c/ns), rather than through a request to the Webmaster. As convenience, it is also possible to get approval when the namespace is in a document with a [transition request](https://github.com/w3c/transitions/issues).
 
 ## Namespace URIs in Recommendation Track Documents, Group Notes, and other Group Drafts  {#allocation}
 
@@ -91,6 +91,7 @@ Example 5 \[Before CR]
 
 Discussion of this policy is appropriate in the [uri mailing list](https://lists.w3.org/Archives/Public/uri/) , [www-tag](https://lists.w3.org/Archives/Public/www-tag/), and various other lists.
 
+- 20261014: Note that /ns/ is maintained on GitHub in [w3c/ns](https://github.com/w3c/ns)
 - 20260724: Make it clrear that groups are expected to use https://www.w3.org/ instead of http://www.w3.org/
 - 20260724: Replace Technical Strategy Lead with [@w3c/transitions](https://github.com/orgs/w3c/teams/transitions)
 - 20250814: Replace Director with [Technical Strategy Lead](https://www.w3.org/staff/strat/)
