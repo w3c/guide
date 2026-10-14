@@ -9,10 +9,12 @@ The [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/) takes pr
 
 Warnings are given by W3C group chairs and/or Staff Contacts.
 
+For the purpose of this document, a [W3C Council](https://www.w3.org/policies/process/#council) is treated like a W3C group: its chair(s) have the same abilities and responsibilities as the chairs of other groups. Removal of a participant from another group (e.g., the TAG or the AB) does not by itself imply removal from an in-flight Council; that is a separate decision, made following the guidelines below.
+
 1. Consistent with the practices below, the W3C CEO delegates authority to suspend or remove participants:
 
    - from a single group, to the CEO;
-   - from a single group that the individual has not formally joined, to the chair(s) of the group; and
+   - from a single group (including a Council) that the individual has not formally joined, to the chair(s) of the group or Council; and
    - from all W3C groups, to the CEO and COO jointly.
 
    If the Chair, Staff contact, CEO, or COO is the one accused of unacceptable behavior, they should not be involved in the decision to ban.
@@ -37,6 +39,7 @@ Warnings are given by W3C group chairs and/or Staff Contacts.
 
 ### Revision History
 
+- 2026-10-14: Clarified that Councils are covered and that Council chairs have the same abilities as other group chairs ([#367](https://github.com/w3c/guide/issues/367)).
 - 2024-10-01: Replaced "Director" with "W3C CEO", consistent with the [Director-free](https://www.w3.org/2023/Process-20230612/#dirfree-changes) changes in the W3C Process.
 - 2024-03-24: Updated [Code of Conduct (Code)](https://www.w3.org/news/2024/w3c-adopts-updated-code-of-conduct-code/) is adopted (W3C Chairs may read the [W3C decision](https://lists.w3.org/Archives/Member/chairs/2024JanMar/0059.html).)
 - 2022-09-21: CEPC takes precedence. Warnings need to be sent by Chairs/TCs before suspension.
