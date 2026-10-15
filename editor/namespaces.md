@@ -87,6 +87,20 @@ Example 4 \[Before CR]
 Example 5 \[Before CR]
 : Until the specification reaches W3C Candidate Recommendation (CR) status, this namespace URI may be reused in such a way as to affect the operation of existing software written to process documents written according to this specification.
 
+## Requesting approval for a W3C namespace for a Community Group {#cg-approval}
+
+To request a W3C namespace URL, a Community Group chair:
+
+* Sends a request to team-community-process@w3.org that includes a proposed shortname (for <code>https://www.w3.org/ns/shortname</code>) and namespace document.
+* The namespace document **must** make clear that this namespace URL is part of a Community Group incubation and **must not** suggest that the related technology is a W3C standard or on the W3C standards track.
+
+The Community Development Lead may reject a request for a namespace URL when the shortname or namespace document are likely to cause offense or confusion (e.g., claims that work is a standard) or appear primarily intended for commercial purposes.
+
+The Community Development Lead is responsible for updating the namespace document to reflect changes in the status of the related technology, such as:
+
+* The related technology has advanced from incubation to standardization.
+* The technology appears to no longer be maintained.
+
 ## About this document  {#about}
 
 Discussion of this policy is appropriate in the [uri mailing list](https://lists.w3.org/Archives/Public/uri/) , [www-tag](https://lists.w3.org/Archives/Public/www-tag/), and various other lists.
