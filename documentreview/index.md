@@ -97,8 +97,8 @@ In any case, it is good practice to point horizontal groups at a specific Workin
 
 <dt data-type='tag'>Architecture</dt>
 <dd>
-  <span data-step>Work through <a href="https://tag.w3.org/workmode/">Specification Design Reviews</a></span> then
-  <span data-step><a href="https://github.com/w3ctag/design-reviews/issues/new/choose">request a review via GitHub</a> from the <a href="https://www.w3.org/2001/tag/">TAG</a></span>
+  <span data-step>Write an <a href="https://tag.w3.org/explainers/">explainer</a> for your specification and work through the <a href="https://w3ctag.github.io/design-principles/">Web Platform Design Principles</a> and the <a href="https://www.w3.org/TR/security-privacy-questionnaire/">Security and Privacy self-review questionnaire</a></span> then
+  <span data-step>open a review request in the <a href="https://github.com/w3ctag/design-reviews">TAG design-reviews repository</a>: use the <a href="https://github.com/w3ctag/design-reviews/issues/new?template=005-wg-new-spec-review.yaml">new specification review</a> form for a new spec, or the <a href="https://github.com/w3ctag/design-reviews/issues/new?template=010-wg-revision-review.yaml">revision review</a> form for substantive changes to a spec already reviewed (<a href="https://github.com/w3ctag/design-reviews/issues/new/choose">all review types</a>); see <a href="https://tag.w3.org/workmode/">how the TAG conducts Specification Design Reviews</a></span>
   <span data-step>If you are developing javascript APIs you may also want to ask <a href="mailto:public-script-coord@w3.org">public-script-coord@w3.org</a>, a technical discussion list shared by W3C and ECMA's TC 39</span>.
 <details>
 <summary>Show useful links</summary>
