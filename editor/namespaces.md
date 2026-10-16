@@ -91,7 +91,7 @@ Example 5 \[Before CR]
 
 To request a W3C namespace URL, a Community Group chair:
 
-* Sends a request to team-community-process@w3.org that includes a proposed shortname (for <code>https://www.w3.org/ns/shortname</code>) and namespace document.
+* Sends a request to team-community-process@w3.org that includes a proposed shortname (for <code>https://www.w3.org/ns/shortname</code>) and namespace document (or a link to a pull request with that information).
 * The namespace document **must** make clear that this namespace URL is part of a Community Group incubation and **must not** suggest that the related technology is a W3C standard or on the W3C standards track.
 
 The Community Development Lead may reject a request for a namespace URL when the shortname or namespace document are likely to cause offense or confusion (e.g., claims that work is a standard) or appear primarily intended for commercial purposes.
