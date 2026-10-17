@@ -1,5 +1,6 @@
 ---
 title: Using GitHub for Spec Work
+published_at: https://www.w3.org/guide/github/specs
 toc: false
 ---
 

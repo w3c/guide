@@ -1,5 +1,6 @@
 ---
 title: How to close a work Group - Implementation
+published_at: https://www.w3.org/guide/process/closing-wg-implementation
 toc: true
 ---
 

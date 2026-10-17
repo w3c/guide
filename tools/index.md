@@ -1,5 +1,6 @@
 ---
 title: Tools
+published_at: https://www.w3.org/guide/tools/
 toc: false
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Resources for Staff Contact
+published_at: https://www.w3.org/guide/teamcontact/
 toc: false
 ---
 

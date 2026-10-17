@@ -1,5 +1,6 @@
 ---
 title: Automated Transcripts
+published_at: https://www.w3.org/guide/meetings/transcripts
 toc: true
 ---
 

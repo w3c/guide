@@ -1,5 +1,6 @@
 ---
 title: URIs for W3C Namespaces
+published_at: https://www.w3.org/guide/editor/namespaces
 submenu: [publication-policies]
 toc: true
 ---

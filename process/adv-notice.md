@@ -1,5 +1,6 @@
 ---
 title: Announcing the start of Charter Refinement
+published_at: https://www.w3.org/guide/process/adv-notice
 toc: yes
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Normative References
+published_at: https://www.w3.org/guide/process/tilt/normative-references
 toc: true
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: W3C Working/Interest Group Chair
+published_at: https://www.w3.org/guide/chair/role
 toc: true
 ---
 

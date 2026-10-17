@@ -1,5 +1,6 @@
 ---
 title: TPAC group and joint-group meetings
+published_at: https://www.w3.org/guide/meetings/tpac
 toc: true
 ---
 

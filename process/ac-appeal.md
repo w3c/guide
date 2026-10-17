@@ -1,5 +1,6 @@
 ---
 title: Appealing a W3C Decision
+published_at: https://www.w3.org/guide/process/ac-appeal
 toc: no
 ---
 
