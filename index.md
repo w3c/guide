@@ -81,7 +81,7 @@ A list of [group procedures related to the W3C Process](process/#groups) is avai
   
 - Check the [transition requirements](transitions/) for all W3C maturity levels (First Public Draft, CR, REC, etc.)
   - [next step finder](transitions/nextstep.html), if you're not sure what the next state should be
-  - [milestones calculator](./transitions/milestones/),  to help with dates.
+  - [milestones calculator](./transitions/milestones.html),  to help with dates.
   - [Predicting milestones](process/predicting-milestones.html).
 - [Request Wide Review](documentreview/) at least *2-3 months before CR*, to allow time for discussion and rework. This includes requesting [horizontal reviews](documentreview/#how-to-get-horizontal-review).
 - Addressing formal objections: [best practices to resolve and decide Formal Objections](council/council.md) (aka council guide)
