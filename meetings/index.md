@@ -26,6 +26,7 @@ The following resources are included in this Guide:
 - [Standard Venue Arrangements for W3C Events: Conferences, Workshops, and Meetings](https://www.w3.org/2011/06/WorkshopHost.html)
 - [W3C Wiki](https://www.w3.org/wiki/) patterns: [MidwestWeeklyAgenda](https://www.w3.org/wiki/MidwestWeeklyAgenda), [MeetingRecords](https://www.w3.org/wiki/MeetingRecords)
 - [The Seven Sins of Deadly Meetings](https://www.fastcompany.com/26726/seven-sins-deadly-meetings)
+- [TPAC group and joint-group meetings](tpac.md)
 
 ## Policies {#policies}
 
