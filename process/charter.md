@@ -1,5 +1,6 @@
 ---
 title: How to create a Working Group or Interest Group Charter
+published_at: https://www.w3.org/guide/process/charter
 submenu: [charter]
 toc: yes
 ---

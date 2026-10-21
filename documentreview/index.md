@@ -1,5 +1,6 @@
 ---
 title: Document Review
+published_at: https://www.w3.org/guide/documentreview/
 toc: true
 ---
 ## How to do Wide Review

@@ -1,5 +1,6 @@
 ---
 title: Role of the Staff Contact
+published_at: https://www.w3.org/guide/teamcontact/role
 toc: false
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Git recipes & tricks
+published_at: https://www.w3.org/guide/github/git
 toc: true
 ---
 

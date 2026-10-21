@@ -1,5 +1,6 @@
 ---
 title: Transfer a repository to the W3C GitHub organization
+published_at: https://www.w3.org/guide/github/repo-transfer
 toc: false
 ---
 

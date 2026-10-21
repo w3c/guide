@@ -1,5 +1,6 @@
 ---
 title: Selection Process
+published_at: https://www.w3.org/guide/process/selection-process
 toc: true
 ---
 

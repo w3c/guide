@@ -1,5 +1,6 @@
 ---
 title: GitHub organizations backups
+published_at: https://www.w3.org/guide/github/backup
 toc: false
 ---
 W3C relies on [Rewind](https://rewind.com/) to backup the different GitHub organizations the groups depend on.

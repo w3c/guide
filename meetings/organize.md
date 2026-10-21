@@ -1,5 +1,6 @@
 ---
 title: Organizing a distributed meeting
+published_at: https://www.w3.org/guide/meetings/organize
 toc: true
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Alternate Advisory Committee Representatives
+published_at: https://www.w3.org/guide/process/alternate-ac
 toc: no
 ---
 

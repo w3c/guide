@@ -1,5 +1,6 @@
 ---
 title: Onboarding Information for Editors
+published_at: https://www.w3.org/guide/editor/resources
 toc: true
 ---
 

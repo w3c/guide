@@ -1,5 +1,6 @@
 ---
 title: Resources about W3C Meetings
+published_at: https://www.w3.org/guide/meetings/
 toc: no
 ---
  
