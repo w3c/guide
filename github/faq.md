@@ -83,6 +83,10 @@ In general, in the same way as for any other contribution intake mechanism. GitH
 
 See [Contributor Management](repo-management.md) for a tool that is available to automate that process.
 
+### How do I request a GitHub App be installed?
+
+Requests for [GitHub Apps](https://docs.github.com/en/apps/using-github-apps) must be made by W3C Staff, and discussed with the W3C Systems Team in advance. To request a given app to be installed within the @w3c organization, please send details to your [staff contact](/teamcontact/). Requests not discussed and cleared in advance will be rejected. This policy applies to the @w3c, @w3c-cg, and @w3c-oss organizations.
+
 ### What shall I do about trolls and spam on GitHub? {#trolls}
 
 GitHub staff are usually quick to respond to spam or uncivic behaviour on their platform. When a particular GitHub account is repeatedly causing trouble in a W3C repository, a good first step is to **report the account** to GitHub. To do so, go to that user's profile page (eg, `https://github.com/supertroll`), click “Block or report user”, and then “Report abuse”. If after a while the account is not suspended by GitHub and spam persists, it is possible to **block the account** to prevent all interaction with the repository in the future. ([Write W3C's sysreq](mailto:sysreq@w3.org) if you don't have permissions to block the account yourself.)
