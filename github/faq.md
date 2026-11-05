@@ -85,7 +85,7 @@ See [Contributor Management](repo-management.md) for a tool that is available to
 
 ### How do I request a GitHub App be installed?
 
-Requests for [GitHub Apps](https://docs.github.com/en/apps/using-github-apps) must be made by W3C Staff, and discussed with the W3C Systems Team in advance. To request a given app to be installed within the @w3c organization, please send details to your [staff contact](/teamcontact/). Requests not discussed and cleared in advance will be rejected. This policy applies to the @w3c, @w3c-cg, and @w3c-oss organizations.
+Requests for [GitHub Apps](https://docs.github.com/en/apps/using-github-apps) must be made by W3C Staff, and discussed with the W3C Systems Team in advance. To request a given app to be installed within the @w3c organization, please send details to your [staff contact](../teamcontact/). Requests not discussed and cleared in advance will be rejected. This policy applies to the @w3c, @w3c-cg, and @w3c-oss organizations.
 
 ### What shall I do about trolls and spam on GitHub? {#trolls}
 
