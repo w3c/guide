@@ -322,6 +322,7 @@ If there are substantive changes, before any announcement, the Staff Contact:
       <p class='todo>This charter has been replaced by <a href="@@@">a newer version</a>.</p>
       
   ```
+Note: It is good practice for Staff Contacts to respond to all comments received during AC Review — both editorial and substantive — indicating whether and how those comments were addressed. 
 
 ### 5.5 Announcement of W3C Decision, Call for Participation  {#announce-decision}
 
