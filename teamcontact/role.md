@@ -18,7 +18,7 @@ The Staff Contact is also charged with representing the views of the Team to the
 ## Assist Group organizers in creating charter and convening Group
 
 - *Assist* in creating the group charter. When rechartering, discuss the proposed charter with the existing Working group and with the Team. See also the [charter template](https://w3c.github.io/charter-drafts/charter-template.html) and [ongoing charters](https://github.com/w3c/strategy/issues?q=label%3Acharter).
-- Act as the [charter shepherd](../process/charter.md#charter-shepherd). If approved, the Team will announce the creation of the group and ensures a call for participation is announced.
+- Act as the [charter facilitator](../process/charter.md#chartering-facilitator). If approved, the Team will announce the creation of the group and ensures a call for participation is announced.
 - *Assist* the organizers in understanding dependencies on other groups, and act as coordinator when necessary.
 - *Ensure* that the Chair is familiar with key documents, including:
   
@@ -47,11 +47,22 @@ The Staff Contact is also charged with representing the views of the Team to the
 - *Ensure* that attendance and minutes are kept.
 - *Ensure* that Chair is aware of any problems and report these problems to the Project & Process Director when they persist.
 - *Assist* Chair in moderating disputes between participants.
-- *Ensure* that Group page is up-to-date
-- *Assist* in reservations for phone bridge as needed
-- *Ensure* sufficient advance notice of meetings by proper channels
-- *Ensure* agendas posted in timely fashion
-- *Ensure* minutes posted in timely fashion
+- *Ensure* that Group pages are up-to-date, including calendar and tool pages.
+- *Assist* with teleconference reservations as needed.
+- *Ensure* sufficient advance notice of meetings by proper channels.
+- *Ensure* agendas are posted in timely fashion.
+- *Ensure* minutes are posted in timely fashion.
+- *Ensure* that Group editors understand how to use [GitHub at W3C](../github/).
+- *Encourage* the adoption of automated processes where applicable, and *assist* the group with their deployment.
+- *Ensure*, before publishing any Group document in W3C/TR space, that it is:
+
+  1. Being published properly (see [Pubrules](https://www.w3.org/pubrules/)).
+  2. Spell-checked
+  3. HTML validated (see, for example, the [HTML validator service](https://validator.w3.org/)).
+  4. CSS validated (see, for example, the [CSS validator](https://jigsaw.w3.org/css-validator/)).
+  5. Accessible (see [Accessibility evaluation resources](https://www.w3.org/WAI/test-evaluate/))
+  6. Published in the appropriate places, using Team conventions for document status information, naming schemes, etc.
+
 
 ## Serve as Contact with W3C Team
 
@@ -64,12 +75,3 @@ The Staff Contact is also charged with representing the views of the Team to the
 - *Assist* Chair in coordinating with other W3C groups as needed.
 - *Ensure* liaisons between Group and other W3C groups are assigned as needed.
 - \[*Active Role*] Coordinate with the Systems Team to ensure that Chair and group Editors have appropriate access to the W3C site, and that their access works, e.g. GitHub.
-- *Ensure* that Group editors understand how to use [GitHub at W3C](../github/).
-- *Ensure*, before publishing any Group document in W3C/TR space, that it is:
-  
-  1. Being published properly (see [Pubrules](https://www.w3.org/pubrules/)).
-  2. Spell-checked
-  3. HTML validated (see, for example, the [HTML validator service](https://validator.w3.org/)).
-  4. CSS validated (see, for example, the [CSS validator](https://jigsaw.w3.org/css-validator/)).
-  5. Accessible (see [Accessibility evaluation resources](https://www.w3.org/WAI/test-evaluate/))
-  6. Published in the appropriate places, using Team conventions for document status information, naming schemes, etc.
