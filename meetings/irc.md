@@ -1,5 +1,6 @@
 ---
 title: Internet Relay Chat (IRC)
+published_at: https://www.w3.org/guide/meetings/irc
 toc: true
 ---
 

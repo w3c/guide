@@ -1,5 +1,6 @@
 ---
 title: Guidelines to suspend or remove participants from groups
+published_at: https://www.w3.org/guide/process/suspension
 toc: no
 ---
 

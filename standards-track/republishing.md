@@ -1,5 +1,6 @@
 ---
 title: In-place modification of W3C Technical Reports
+published_at: https://www.w3.org/guide/standards-track/republishing
 toc: true
 ---
 

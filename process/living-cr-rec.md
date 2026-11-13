@@ -1,5 +1,6 @@
 ---
 title: Considerations on the final maturity stage of group deliverables
+published_at: https://www.w3.org/guide/process/living-cr-rec
 toc: yes
 ---
 

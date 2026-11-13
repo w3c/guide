@@ -1,5 +1,6 @@
 ---
 title: Register an Internet Media Type for a W3C Specification
+published_at: https://www.w3.org/guide/editor/mediatypes
 submenu: [publication-policies]
 toc: true
 ---

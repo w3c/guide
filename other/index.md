@@ -1,5 +1,6 @@
 ---
 title: Other guidelines
+published_at: https://www.w3.org/guide/other/
 toc: false
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Workshops
+published_at: https://www.w3.org/guide/meetings/workshops
 toc: true
 ---
 

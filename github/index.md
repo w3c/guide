@@ -1,5 +1,6 @@
 ---
 title: W3C on GitHub
+published_at: https://www.w3.org/guide/github/
 toc: false
 ---
 Many W3C work groups conduct their work in Github, but not all. Please, explore our repos, watch, star, contribute.

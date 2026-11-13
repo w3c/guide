@@ -1,5 +1,6 @@
 ---
 title: W3C Recommendation Track Readiness Best Practices
+published_at: https://www.w3.org/guide/standards-track/
 toc: true
 ---
 

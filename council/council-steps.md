@@ -1,5 +1,6 @@
 ---
 title: "Formal Objections: From Objection to W3C Council"
+published_at: https://www.w3.org/guide/council/council-steps
 toc: false
 ---
 

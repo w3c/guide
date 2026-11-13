@@ -1,5 +1,6 @@
 ---
 title: Organize a Recommendation Track Transition (Details)
+published_at: https://www.w3.org/guide/transitions/details
 submenu: [publication-policies]
 toc: false
 ---

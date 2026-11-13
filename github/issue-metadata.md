@@ -1,5 +1,6 @@
 ---
 title: Labels and Other Metadata for Issues and Pull Requests
+published_at: https://www.w3.org/guide/github/issue-metadata
 toc: true
 ---
 

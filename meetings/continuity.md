@@ -1,5 +1,6 @@
 ---
 title: Continuity of Operations under Travel Restrictions
+published_at: https://www.w3.org/guide/meetings/continuity
 toc: true
 ---
 

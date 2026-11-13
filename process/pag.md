@@ -1,5 +1,6 @@
 ---
 title: Patent Advisory Group procedures
+published_at: https://www.w3.org/guide/process/pag
 toc: true
 ---
 

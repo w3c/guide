@@ -1,5 +1,6 @@
 ---
 title: Best practices and recommended tools
+published_at: https://www.w3.org/guide/github/best-practices
 toc: true
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: How to transition work from a Community Group to a Working Group
+published_at: https://www.w3.org/guide/process/cg-transition
 toc: yes
 ---
 

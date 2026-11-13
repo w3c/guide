@@ -1,5 +1,6 @@
 ---
 title: Incubation
+published_at: https://www.w3.org/guide/incubation
 toc: yes
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: FAQ
+published_at: https://www.w3.org/guide/github/faq
 toc: true
 ---
 

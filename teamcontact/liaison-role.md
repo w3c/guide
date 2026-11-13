@@ -1,5 +1,6 @@
 ---
 title: Role of Liaison
+published_at: https://www.w3.org/guide/teamcontact/liaison-role
 toc: false
 ---
 

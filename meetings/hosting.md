@@ -1,5 +1,6 @@
 ---
 title: Host Guidelines for W3C face to face
+published_at: https://www.w3.org/guide/meetings/hosting
 toc: true
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: How to license definitions and bindings
+published_at: https://www.w3.org/guide/process/binding-license
 toc: no
 ---
 

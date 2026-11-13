@@ -1,5 +1,6 @@
 ---
 title: Resources for Group Chairs
+published_at: https://www.w3.org/guide/chair/
 toc: true
 ---
 

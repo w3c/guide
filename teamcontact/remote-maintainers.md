@@ -1,5 +1,6 @@
 ---
 title: Mailing list maintenance
+published_at: https://www.w3.org/guide/teamcontact/remote-maintainers
 toc: true
 ---
 
