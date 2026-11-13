@@ -45,3 +45,6 @@ Repositories under the W3C organization may represent the work of Working Groups
 
 [Backup of GitHub organizations](backup.md)
 : How W3C keeps a backup of the different GitHub organizations.
+
+[The "spurious EOL normalization" bug](spurious_eol.md)
+: What to do when a PR suddenly changes all lines in a file?
