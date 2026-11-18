@@ -26,7 +26,7 @@ If you are a newly appointed editor in your Working Group, here is some advice t
 
 ## Guidelines on W3C specifications editing {#quality}
 
-W3C has developed a set of resources giving advices and guidelines on editing W3C specifications in varous domains:
+W3C has developed a set of resources giving advices and guidelines on editing W3C specifications in various domains:
 
 - [The Web Platform Design Principles](https://www.w3.org/TR/design-principles/) is guidance on how to design web 
   platform technologies.
