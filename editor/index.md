@@ -28,6 +28,12 @@ If you are a newly appointed editor in your Working Group, here is some advice t
 
 W3C has developed a set of resources giving advices and guidelines on editing W3C specifications in varous domains:
 
+- [The Web Platform Design Principles](https://www.w3.org/TR/design-principles/) is guidance on how to design web 
+  platform technologies.
+- Before writing a specification, authors and editors are encouraged to 
+  write an explainer, this is helpful for horizontal review groups and is a 
+  TAG review requirement. The [Writing Effective Explainers](https://www.w3.org/TR/explainer-explainer/) document 
+  details how to write a good explainer.
 - The [W3C Manual of Style](../manual-of-style/) is a collection of rules you're invited to follow to make your document clearer and adapted to the common style at W3C.
 - Begun in 1992 and only a little out of date, the [Style Guide for online hypertext](https://www.w3.org/Provider/Style/) by Tim Berners-Lee is a good start on writing for the Web; see also Jakob Nielsen's [How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/)
 - The [QA Framework: Specification Guidelines](https://www.w3.org/TR/qaframe-spec/) from the W3C Quality Assurance Activity are a work in progress that became a Candidate Recommendation in November 2003.
