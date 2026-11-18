@@ -1,5 +1,6 @@
 ---
 title: Hybrid Group Meetings
+published_at: https://www.w3.org/guide/meetings/hybrid-meeting
 toc: yes
 ---
 

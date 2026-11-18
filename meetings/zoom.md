@@ -1,5 +1,6 @@
 ---
 title: Zoom
+published_at: https://www.w3.org/guide/meetings/zoom
 toc: true
 ---
 

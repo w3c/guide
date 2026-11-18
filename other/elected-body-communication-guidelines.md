@@ -1,5 +1,6 @@
 ---
 title: Guidelines for communicating as a member of a W3C elected body
+published_at: https://www.w3.org/guide/other/elected-body-communication-guidelines
 toc: true
 ---
 

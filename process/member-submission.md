@@ -1,5 +1,6 @@
 ---
 title: Member Submissions
+published_at: https://www.w3.org/guide/process/member-submission
 submenu: [member-submission]
 toc: false
 ---

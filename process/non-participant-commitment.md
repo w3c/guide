@@ -1,5 +1,6 @@
 ---
 title: Non participant commitment
+published_at: https://www.w3.org/guide/process/non-participant-commitment
 toc: no
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Technical issues Lead Team
+published_at: https://www.w3.org/guide/process/tilt/
 toc: yes
 ---
 The mission of the TiLT is to make technical team decisions described in the W3C Process.
