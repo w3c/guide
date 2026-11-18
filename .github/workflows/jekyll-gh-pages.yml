@@ -21,7 +21,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@086ffb1a2090c870a3f881cc91ea83aa4243d408 # v1.195.0
         with:
-          ruby-version: '3.2.3' # Not needed with a .ruby-version file
+          ruby-version: '3.2' # Use whatever 3.2.x is available on the runner
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
