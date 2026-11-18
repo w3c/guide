@@ -36,7 +36,7 @@ All group repositories will appear on the 'Tools' page.
 
 ## 4. GitHub Teams {#github}
 
-The W3C system can generate and maintain 2 GitHub teams: Chairs/Staff Contacts (***`group-[id]-chairs`***), and all participants (***`group-[id]-members`***). You may give admin access to chairs for the group repositories, and write access for all participants.
+The W3C system can generate and maintain 2 GitHub teams by request from the group: Chairs/Staff Contacts (***`group-[id]-chairs`***), and all participants (***`group-[id]-members`***). You may give admin access to chairs for the group repositories, and write access for all participants.
 
 ## 5. Calendar {#calendar}
 
