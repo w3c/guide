@@ -63,7 +63,7 @@ Here are tools that can prove to be useful when developing your specification.
 - The [W3C Glossary](https://www.w3.org/2003/glossary/) is a repository of all the terms defined in W3C specifications (and more); a good source to find which terms have already been defined and where.
 - The [on-line Spell Checker](https://www.w3.org/2002/01/spellchecker) helps spot misspellings and typos.
 - [different tools](https://www.w3.org/wiki/HtmlDiff) are available to produce a `diff` between 2 HTML versions of a document; W3C offers an [on-line HTMLDiff service](https://services.w3.org/htmldiff).
-- The [i18n checker](https://validator.w3.org/i18n-checker/) helps assess   internationalization-friendliness level, and provides key internationalization information such as character encoding or language declarations.
+- The [i18n checker](https://validator.w3.org/i18n-checker/) checks a web page for internationalization issues, and provides key information such as local and HTTP character encodings, language declarations, text direction, etc.
 - The [MarkUp Validator](https://validator.w3.org/) can help you assess whether your documents are valid HTML, MathML or SVG.
 - The [CSS Validator](https://jigsaw.w3.org/css-validator/) tells you if your use of CSS is correct.
 - The [Link Checker](https://validator.w3.org/checklink) catches all the broken links that may have popped up in your document.
