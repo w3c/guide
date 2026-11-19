@@ -58,11 +58,12 @@ W3C editors have developed several types of HTML and XML based grammars to make 
 
 Here are tools that can prove to be useful when developing your specification.
 
-- The [Pubrules Checker](https://www.w3.org/pubrules/) provides a convenient interface to check the conformance of a document to pubrules (see [pubrules issues and tracking](https://github.com/w3c/specberus/issues))
+- The [Pubrules Checker](https://www.w3.org/pubrules/) provides a convenient interface to check the conformance of a document to pubrules (see [pubrules issues and tracking](https://github.com/w3c/specberus/issues)).
 - The [TR references checker](https://www.w3.org/2004/07/references-checker-ui) may help maintain your references list up to date. See also the [IETF references checker](https://www.w3.org/2007/05/ietf-references-checker).
-- The [W3C Glossary](https://www.w3.org/2003/glossary/) is a repository of all the terms defined in W3C specifications (and more); a good source to find which terms have already been defined and where
-- The [on-line Spell Checker](https://www.w3.org/2002/01/spellchecker) helps spot misspellings and typos
-- [different tools](https://www.w3.org/wiki/HtmlDiff) are available to produce a `diff` between 2 HTML versions of a document; W3C offers an [on-line HTMLDiff service](https://services.w3.org/htmldiff)
+- The [W3C Glossary](https://www.w3.org/2003/glossary/) is a repository of all the terms defined in W3C specifications (and more); a good source to find which terms have already been defined and where.
+- The [on-line Spell Checker](https://www.w3.org/2002/01/spellchecker) helps spot misspellings and typos.
+- [different tools](https://www.w3.org/wiki/HtmlDiff) are available to produce a `diff` between 2 HTML versions of a document; W3C offers an [on-line HTMLDiff service](https://services.w3.org/htmldiff).
+- The [i18n checker](https://validator.w3.org/i18n-checker/) helps assess   internationalization-friendliness level, and provides key internationalization information such as character encoding or language declarations.
 - The [MarkUp Validator](https://validator.w3.org/) can help you assess whether your documents are valid HTML, MathML or SVG.
 - The [CSS Validator](https://jigsaw.w3.org/css-validator/) tells you if your use of CSS is correct.
 - The [Link Checker](https://validator.w3.org/checklink) catches all the broken links that may have popped up in your document.
