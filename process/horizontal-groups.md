@@ -1,5 +1,6 @@
 ---
 title: Horizontal Groups
+published_at: https://www.w3.org/guide/process/horizontal-groups
 toc: true
 ---
 

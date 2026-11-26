@@ -1,5 +1,6 @@
 ---
 title: PAS transposition process
+published_at: https://www.w3.org/guide/process/pas-transposition-process
 toc: yes
 ---
 

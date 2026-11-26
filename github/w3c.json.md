@@ -1,5 +1,6 @@
 ---
 title: The w3c.json file
+published_at: https://www.w3.org/guide/github/w3c.json
 toc: false
 ---
 

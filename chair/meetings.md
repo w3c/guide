@@ -1,5 +1,6 @@
 ---
 title: Chairs Meetings
+published_at: https://www.w3.org/guide/chair/meetings
 toc: false
 ---
 

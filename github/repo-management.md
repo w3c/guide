@@ -1,5 +1,6 @@
 ---
 title: Contributor Management
+published_at: https://www.w3.org/guide/github/repo-management
 toc: true
 ---
 

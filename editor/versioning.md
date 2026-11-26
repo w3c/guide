@@ -1,5 +1,6 @@
 ---
 title: Version Management in W3C Technical Reports
+published_at: https://www.w3.org/guide/editor/versioning
 submenu: [publication-policies]
 toc: true
 ---

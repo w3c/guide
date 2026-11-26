@@ -1,5 +1,6 @@
 ---
 title: Procedures related to the W3C Process
+published_at: https://www.w3.org/guide/process/
 toc: false
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: How to setup a new Working Group or Interest Group
+published_at: https://www.w3.org/guide/tools/new-group
 toc: true
 ---
 

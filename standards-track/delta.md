@@ -1,5 +1,6 @@
 ---
 title: Delta specification
+published_at: https://www.w3.org/guide/standards-track/delta
 toc: true
 ---
 

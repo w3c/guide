@@ -1,5 +1,6 @@
 ---
 title: W3C Specification Editor
+published_at: https://www.w3.org/guide/editor/role
 toc: false
 ---
 
