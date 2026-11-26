@@ -50,7 +50,7 @@ The TiLT is staffed as follows:
 
 Eligibility:
 
-- By default, all Staff Contacts are eligible for either co-chair or regular seats. Individuals from this group are expected to participate but may opt-out. Other W3C Team may opt-in.
+- By default, all Staff Contacts (except those with emeritus status) are eligible for either co-chair or regular seats. Individuals from this group are expected to participate but may opt-out. Other W3C Team may opt-in.
 - To fill an open seat, assemble the [randomized list of individuals](https://www.w3.org/2023/08/noncom-random-selection.html) interested in the position, with the outgoing TiLT member at the bottom of the list, go down the list until you fill the seat.
 
 ### Current members {#current}
