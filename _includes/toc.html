@@ -1,0 +1,32 @@
+## Table of contents
+
+<div class="toc">
+  <ul id="toc-list"></ul>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const tocList = document.getElementById("toc-list");
+    const headings = document.querySelectorAll("main h2, article h2, .content h2");
+    
+    headings.forEach((heading, index) => {
+      // Get the text, clean up spaces, and convert to lowercase
+      const headingText = heading.textContent.trim().toLowerCase();
+
+      // ⚠️ THIS LINE NOW EXCLUDES BOTH UNWANTED HEADINGS FROM THE LINKS
+      if (headingText === "table of contents" || headingText === "related content") return;
+
+      if (!heading.id) {
+        heading.id = "heading-" + index;
+      }
+      
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.href = "#" + heading.id;
+      a.textContent = heading.textContent;
+      
+      li.appendChild(a);
+      tocList.appendChild(li);
+    });
+  });
+</script>
